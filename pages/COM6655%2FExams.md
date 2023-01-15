@@ -1,0 +1,24 @@
+- 2 hours
+- 4 选 3
+- 考试前一天读背景
+-
+- 回答需要结合背景
+- discuss case law?
+- 如果你记得相关案例,并且和这个题目有关,可以适当提起.
+- 假设每 5 分有一个 correct point
+-
+- 2- ((638f50e1-3ddc-42a6-9f97-588c6ba4674c))
+	- advice 1:
+		- benefites1:
+		- benefites2:
+		- challenges1:
+		- challenges2:
+- 2- ((638f5191-8bbc-4259-ac12-5d3754602fd6))
+	- 合同法
+		- lease arragnement .
+		- 公司
+		- 员工的合同
+		- is not liable for personal injury resulting from use of their robots under any circumstances
+	- negligence  -   reasonable care and skill.
+		- items are small and intricate. need by hand, but the robots can not work close with the workers.
+	- consumer protect act
