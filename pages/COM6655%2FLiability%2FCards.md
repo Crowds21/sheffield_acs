@@ -27,6 +27,7 @@
 - ((635e6725-b37d-4a10-a456-705ab495e4be)) [[card]]
   collapsed:: true
 	- ((63cfff3c-3f0e-4b0a-aee9-104d0b4bda7c))
+		- 对受害方承担的照顾责任
 	- ((63cfff45-f8d9-4bb1-8759-f47779f1cafc))
 	- ((63cfff4b-cbd1-4d51-8576-0c934f7bcf9a))
 	  ((635e842f-a147-46b4-8618-331738f24ebe))
