@@ -1,3 +1,4 @@
+-
 - ### Contract Law
 	- 背景一 : 学校 SCH 找 Microsoft 开发软件检测学生作弊, Microsoft自己写不了找三哥写软件,最后好多学生没分.
 	  id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
@@ -16,11 +17,6 @@
 		- ~~Repair and Replace~~
 		  collapsed:: true
 			- ((63d52842-c4e5-4ba7-83ff-9e10bba6b7fb))
-	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  collapsed:: true
-	  ((635e96c3-4ac9-4867-89e9-f0a153125524))
-		- The software company is vicariously liable to the school for any damages suffered by the student.
-		- 阿三 is vicariously liable to the software company
 - ### Liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
@@ -41,5 +37,10 @@
 		- Reduced liability
 			- little control over the way the system is used or interpreted
 		-
+	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  collapsed:: true
+	  ((635e96c3-4ac9-4867-89e9-f0a153125524))
+		- The software company is vicariously liable to the school for any damages suffered by the student.
+		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
 -
