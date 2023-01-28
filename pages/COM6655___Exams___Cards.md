@@ -12,6 +12,6 @@
 			- warranties
 			- conditions
 		- Computer aided mistake.  As a result of using this system, many students' grades are 0
-		-
+		- Repair and Replace
 - ### Liability
 - ### Computer Misuse
