@@ -69,7 +69,7 @@
   :END:
 - 版权保护的是 {{cloze 表达expression}},而不是 idea. 英国法律认为 ((63d56920-3aee-4cff-bb7a-a4bd4b563073)) , 因此可能[[card]]
 - 基于 版权保护的 Expression 而不是 idea, 计算机程序可能侵权的原因是
-	- robably infringement, since copyright extends beyond literal similarity to the structure of
+	- probably infringement, since copyright extends beyond literal similarity to the structure of
 	  the program
 - CDPA 中,如何处理中间产物 [[card]]
 	- 编写软件的人对(用软件的人最终)输出的内容没有控制权
