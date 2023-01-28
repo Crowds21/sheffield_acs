@@ -37,7 +37,8 @@
 		-
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  ((635e96c3-4ac9-4867-89e9-f0a153125524))
-		-
+		- The software company is vicariously liable to the school for any damages suffered by the student.
+		  alice is vicariously liable to the software company
 - ### Liability
 - ### Computer Misuse
 -
