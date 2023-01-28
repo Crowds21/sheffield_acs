@@ -46,6 +46,12 @@
   card-last-reviewed:: 2023-01-28T15:01:05.630Z
   card-last-score:: 1
 - [[Copyright, Designs and Patents Act]] 中规定的, 计算机生成的作品属于两种类型,具体是? [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:33:56.757Z
+  card-last-score:: 1
   collapsed:: true
 	- 由==人类作者==创造的计算机程序作为 "文学作品 "的形式受到保护
 		- 文学作品（包括计算机程序）的版权在作者去世后的70年内失效
