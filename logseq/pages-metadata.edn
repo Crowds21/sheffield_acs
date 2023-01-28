@@ -33,7 +33,7 @@
   :block/updated-at 1673803786267}
  {:block/name "com6655",
   :block/created-at 1673803784581,
-  :block/updated-at 1674930066855}
+  :block/updated-at 1674939604758}
  {:block/name "com6655/ intellectual property",
   :block/created-at 1673803809810,
   :block/updated-at 1673803809810}
@@ -64,6 +64,9 @@
  {:block/name "com6655/exams",
   :block/created-at 1673803809833,
   :block/updated-at 1673803809833}
+ {:block/name "com6655/exams/cards",
+  :block/created-at 1674939604757,
+  :block/updated-at 1674939928019}
  {:block/name "com6655/introduction to ethics",
   :block/created-at 1673803809829,
   :block/updated-at 1673803809829}
