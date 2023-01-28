@@ -5,7 +5,6 @@
   card-next-schedule:: 2023-01-12T00:00:00.000Z
   card-last-reviewed:: 2023-01-11T15:45:36.454Z
   card-last-score:: 1
-  collapsed:: true
 	- 对于所有法院都是通用的法律
 	- 使用"先例 precedent" 作为指南, 先例也被叫做 case law
 - 民法依靠 {{cloze  书面立法 Legislation}} 和其他法律规范来确保立法程序和惩罚措施 [[card]]
@@ -86,12 +85,15 @@
 	- ((63adec3b-fe72-4baf-9a01-c8e8bf6b687a))
 	- ((63adec3c-c8d6-442d-b70c-efb07773fd58))
 -
-- 什么是犯罪crime?
+- 什么是犯罪crime? [[card]]
   collapsed:: true
 	- ((6d06f987-7536-4adf-8020-abd320084eb9))
-- ((63bc5c91-329b-42a3-ad44-823788c3741f)) ?
+- ((63bc5c91-329b-42a3-ad44-823788c3741f)) ? [[card]]
   collapsed:: true
 	- the mind is guilty
 	- ((63aded27-648a-4114-9d1b-f39631f0098c)) + ((63aded10-4fbb-4bdd-bdca-21b58393c1f7))
-- 疏忽 Negligence 涉及到  {{cloze duty of care}} ,以及因为此而在造成的损害. 如果损害是可以 {{cloze 被合理预见的}},那么被告就应该负责.
+- 疏忽 Negligence 涉及到  {{cloze duty of care}} ,以及因为此而在造成的损害. 如果损害是可以 {{cloze 被合理预见的}},那么被告就应该负责. [[card]]
 -
+- [[Theft Act]] 中关于 Theft 的定义 [[card]]
+  collapsed:: true
+	- ((63cff0e9-b686-4632-9ee5-fe1214e3e18c))

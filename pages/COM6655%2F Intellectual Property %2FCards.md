@@ -58,5 +58,17 @@
 	- ((e7eee613-9e72-4da4-8e9d-729a451466df))
 	- ((f1004708-80fa-4682-be56-7ffd1f00ae50)): ((63b44c85-ab2a-44f2-b92d-ecd6ea417445))
 	- ((1dc4a170-ec58-466a-bf66-abf2c977af87)): ((63b44ca3-fd04-4232-b07a-7218e3038631))
-- 对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的,
+- 对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的 [[card]]
 - 程序的 substantial part
+- 什么是 [[The law of confidence]] [[card]]
+	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
+- [[The law of confidence]] 想要生效必须满足一定的条件
+  collapsed:: true
+	- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
+	- ((63cff620-1b4c-44c8-8a99-56392efd9cd8))
+- 对于已经泄露的信息,依据 [[The law of confidence]] 可以采取哪些行动 [[card]]
+  collapsed:: true
+	- ((63cff6d8-e57e-4e81-9296-3f8b036a6310))
+	- ((63cff6f6-2fd2-45db-aabb-34c59bd60ba9))
+	- ((63cff700-72d2-4d9c-a2de-b6111db9ebf1))
+-

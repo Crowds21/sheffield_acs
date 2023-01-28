@@ -221,7 +221,6 @@
 	- 示例 Ownership vs. possession
 		- Example: sale of goods
 - 刑法 Criminal law
-  collapsed:: true
 	- 什么是犯罪 crime
 	  collapsed:: true
 		- 上议院采用的犯罪定义
@@ -272,7 +271,6 @@
 		- 有些罪行可以 "任选其一"，即根据被告的选择进行简易审判或公诉审判 ( summarily or on indictment)
 		- 如果CPS拒绝采取行动，仍有可能提起自诉(private prosecution)
 	- 盗窃 Theft
-	  collapsed:: true
 		- 如果一个人不诚实地侵占属于他人的财产，意图永久剥夺他人的财产，则犯有盗窃罪......"（1968年 [[Theft Act]] ）
 	- 欺诈 Fraud
 	  collapsed:: true

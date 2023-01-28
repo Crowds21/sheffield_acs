@@ -63,6 +63,7 @@
 	- 伦理理论 ((63ac9bd7-bc9f-421d-a148-ddab07af9bfa))
 	  collapsed:: true
 		- 伦理理论与科学理论一样
+		  collapsed:: true
 			- 界定术语 Define terms
 			- 组织思想 Organize ideas
 			- 促进问题的解决 Facilitate problem solving
@@ -70,7 +71,6 @@
 		- 不同的理论给了我们对道德困境的不同看法
 		- 为了说明这一点，我们将考虑五种不同的伦理学理论
 	- 五种伦理理论
-	  collapsed:: true
 		- 功利主义 Utilitarianism
 		- 直觉主义 Intuitionism
 		- 义务主义 Duty ethics
@@ -95,23 +95,20 @@
 	- 功利主义 Utilitarianism
 	  collapsed:: true
 		- 简介
-		  collapsed:: true
 			- 寻求产生最大的效用
 			- 功利主义是风险-效益和成本-效益分析的基础
+			  collapsed:: true
 			  Utilitarianism is fundamental to risk-benefit and cost-benefit analysis
 		- 功利主义与法律
-		  collapsed:: true
 			- 利他主义
-			  collapsed:: true
 				- "最大多数人的最大幸福 "意味着利他主义（对他人的关心）
+				  collapsed:: true
 				  “greatest happiness of greatest number” implies altruism (concern for others)
 			- 功利主义的法律观
-			  collapsed:: true
 				- 法律解决了自我利益和更广泛的幸福之间的冲突
 				- 法律的存在是为了促进社会的幸福
 			- 基于功利主义的推理
 			  background-color:: green
-			  collapsed:: true
 				- 为什么偷窃是错误的？
 				- 偷窃可能会增加偷窃者的幸福感，但如果产权没有意义，对整个社会来说是不利的
 				- 偷窃对一个人有利，但对很多人造成不便
@@ -186,23 +183,18 @@
 	- 康德
 	  collapsed:: true
 		- 康德：绝对命令 
-		  collapsed:: true
 		  Kant: categorical imperatives
 			- 命令是做某事的指令（=你需要做什么）
 		- 康德确定了两种类型的命令
-		  collapsed:: true
 			- 假设性（审慎性）要件
-			  collapsed:: true
 			  Hypothetical (prudential) imperatives
 				- 行动 X 导致结果 Y. Y 即为目的
 				- "Do exercise if you want to be healthy"
 			- 绝对的（道德的）命令
-			  collapsed:: true
 			  Categorical (moral) imperatives
 				- 所涉及的行动不是达到目的的手段，而是目的本身
 				- “Be kind to others”
 		- 康德对绝对命令的三种构想
-		  collapsed:: true
 			- 就像你在为所有人立法
 			  collapsed:: true
 				- 换句话说，当你考虑一个行为在道德上是对还是错时，你应该问自己是否希望每个人都以这种方式行事
@@ -260,7 +252,6 @@
 				- 没有解释为什么对朋友和家人的义务比对其他人的义务更强（所有的人都应该被当作目的）
 				- 一个国家被入侵的年轻人：他应该加入抵抗运动，还是留下来照顾他的寡母？
 	- 美德主义
-	  collapsed:: true
 		- ((63aca8d3-40e9-4380-83ad-8a1b51ce8bd9))
 		- 认为道德基础是发展良好的性格特征，或美德
 		  collapsed:: true
