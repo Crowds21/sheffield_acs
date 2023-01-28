@@ -15,9 +15,15 @@ Exams:: ((63cfdfad-129d-4f21-8775-cad438f9e125))
 	- Kanta 伦理
 - ((63cfe09f-be67-47ca-964d-49fcd6f01543)) 的含义 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:42:58.567Z
+  card-last-score:: 1
 	- ((63cfe09a-7901-43c3-b3db-1d191a048119))
 	- the action is right that promotes the greatest good
-	- produce more happ
+	- produce more happiness
 	- ((63cfe0cf-cb96-4968-abd7-797fdb89340c))
 - ((63cfe12c-382d-4402-905e-0dd6db3e75b4)) 的含义 [[card]]
   collapsed:: true
