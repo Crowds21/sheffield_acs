@@ -24,13 +24,13 @@
 	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,认为 Word 侵犯了 Math 的版权 [[card]]
 		- Relevant Legislation is [[Copyright, Designs and Patents Act]]
 		- Screen design and icons are be protected by copyright
+		- ((63d52842-66ec-4cd0-94ed-5b757a9d33e2))
+			- but it does not protect "look and feel".
 		- Case Law
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
 			- ((63b45e03-86ff-4afa-b93f-50509f07a49a))
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
-		- ((63d52842-66ec-4cd0-94ed-5b757a9d33e2))
-			- but it does not protect "look and feel".
-			-
+		-
 - ### Contract Law
   collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
