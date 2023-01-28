@@ -78,7 +78,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- 案例: R v Sunderland (unreported) 1983
 	  background-color:: green
 		- 背景
-		  collapsed:: true
 			- 巴克莱银行的一名雇员利用银行的计算机找到一个休眠账户，伪造持有人的签名，提取2100英镑。
 			- 被判处2年监禁，但说明了这种系统的脆弱性，特别是来自组织内部的脆弱性。
 	- 计算机欺诈的类型 Types of computer fraud
