@@ -10,7 +10,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- 计算机滥用也可能导致民法上的责任 
 	  Computer misuse could also give rise to liabilities under civil law.
 	- [[English Criminal Law]] 的回顾
-	  collapsed:: true
 		- 大多数刑事犯罪在 [[Acts Of Parliament]]   中都有规定
 			- [[Theft Act]] 1968
 			- [[Fraud Act]] 2006
