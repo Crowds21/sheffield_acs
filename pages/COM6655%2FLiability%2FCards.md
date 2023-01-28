@@ -99,6 +99,12 @@
 	- employers is reasonable for the  health and safety precautions in the workplace
 - What is ((635e96c3-4ac9-4867-89e9-f0a153125524)) [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:05:09.052Z
+  card-last-score:: 1
 	- ((63d5479d-7cc5-49c2-b454-7e6d82f79d5e))
 	-
 -
