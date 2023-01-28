@@ -51,6 +51,7 @@
 	- ((f1004708-80fa-4682-be56-7ffd1f00ae50)): ((63b44c85-ab2a-44f2-b92d-ecd6ea417445))
 	- ((1dc4a170-ec58-466a-bf66-abf2c977af87)): ((63b44ca3-fd04-4232-b07a-7218e3038631))
 - (Restricted acts)对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的 [[card]]
+  collapsed:: true
 	- 复制是指以任何物质形式复制作品，包括电子存储 ( reproducing the work in any material form)
 - TODO 程序的 substantial part [[card]]
 - 知识产权中关于 ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
