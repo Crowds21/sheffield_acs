@@ -1,6 +1,8 @@
 - 背景一 : 学校 SCH 找 Microsoft 开发软件检测学生作弊, Microsoft自己写不了找三哥写软件,最后好多学生没分.
   id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
-- 背景三
+- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
+  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
+- 背景三:
 - ### Intelligence Law
 -
 - ### Contract Law
@@ -44,8 +46,6 @@
 	  ((635e96c3-4ac9-4867-89e9-f0a153125524)) [[card]]
 		- The software company is vicariously liable to the school for any damages suffered by the student.
 		- 阿三 is vicariously liable to the software company
-- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
-  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
 - ### Computer Misuse
 	-
 -
