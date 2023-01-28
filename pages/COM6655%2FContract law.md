@@ -87,7 +87,6 @@ title:: COM6655/Contract law
 			- 无轻微缺陷 free of minor defects(defective)
 			- 如果不满足上述要求消费者有权利要求修复或替换该数字产品
 		- 软件中的 satisfactory quality
-		  collapsed:: true
 			- it's norm to encounter some bugs in a complex piece of software on release.
 			- a reasonable person 不会期望数字产品是没有缺陷的
 			- 数字内容有没有小缺陷取决于对质量的期望.
