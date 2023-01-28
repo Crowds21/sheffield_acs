@@ -98,6 +98,12 @@
 	- the mind is guilty
 	- ((63aded27-648a-4114-9d1b-f39631f0098c)) + ((63aded10-4fbb-4bdd-bdca-21b58393c1f7))
 - 疏忽 Negligence 涉及到  {{cloze duty of care}} ,以及因为此而在造成的损害. 如果损害是可以 {{cloze 被合理预见的}},那么被告就应该负责. [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:31:10.444Z
+  card-last-score:: 1
 -
 - [[Theft Act]] 中关于 Theft 的定义 [[card]]
   collapsed:: true
