@@ -2,7 +2,7 @@
   id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
 - 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
   id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
-- 背景三: 公司 Math 生产电子表格 SHEET, WordSoft 希望生产一种新的文字处理程序 Wrod.
+- 背景三: 公司 Math 生产电子表格 SHEET, WordSoft 希望生产一种新的文字处理程序 Wrod.  WordSfot 希望自己的 WOrd 软件能够和
 - ### Intelligence Law
 -
 - ### Contract Law
