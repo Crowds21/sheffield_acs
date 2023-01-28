@@ -67,7 +67,6 @@
 - 什么是 [[The law of confidence]] [[card]]
 	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
 - [[The law of confidence]] 想要生效必须满足一定的条件
-  collapsed:: true
 	- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
 	- ((63cff620-1b4c-44c8-8a99-56392efd9cd8))
 - 对于已经泄露的信息,依据 [[The law of confidence]] 可以采取哪些行动 [[card]]
