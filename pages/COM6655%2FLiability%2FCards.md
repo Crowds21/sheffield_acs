@@ -10,8 +10,10 @@
 	- [[Consumer Rights Act]]
 	- [[Consumer Protection Act]]
 	-
-- Accountable vs. responsible 的区别[[card]]
+- Accountable vs. responsible 的区别[[card]]\
   collapsed:: true
+	- Accountability
+		-
 	- ((63cfff9d-7248-4409-9222-b34923bdab81))
 	- ((63cfffa3-4d02-4ec7-a6a3-d56886d7eb4b))
 - TODO 什么是 Liability [[card]]
