@@ -48,7 +48,7 @@
 	-
 -
 - ### Data Protection
-	- 背景: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
+	- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
 	  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
 		- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
 		  collapsed:: true
