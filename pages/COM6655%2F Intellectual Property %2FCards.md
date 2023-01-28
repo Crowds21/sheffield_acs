@@ -42,6 +42,7 @@
   card-last-reviewed:: 2023-01-11T15:53:53.992Z
   card-last-score:: 1
 - 满足什么条件才能够申请专利 [[card]]
+  collapsed:: true
 	- ((b8afae07-2b83-4d8b-bdce-b2c19654966d))
 	- ((cf843d25-54ac-448e-ad14-d462b1b9f5d2))
 	- ((a44acd55-5c1e-4940-b4e0-d3b6e80a1965))
@@ -66,6 +67,7 @@
 - 对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的 [[card]]
 - 程序的 substantial part
 - 什么是 [[The law of confidence]] [[card]]
+  collapsed:: true
 	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
 - [[The law of confidence]] 想要生效必须满足一定的条件
 	- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
