@@ -34,6 +34,12 @@
 	- computer-generated work 是 "在没有人类作者的情况下由计算机生成的作品"
 		- 计算机生成的作品的版权在作品创作完成后50年内失效
 - TODO 计算机生成的作品如何确定作者? [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:00:14.049Z
+  card-last-score:: 1
   :LOGBOOK:
   CLOCK: [2023-01-28 Sat 14:27:54]
   :END:
