@@ -42,13 +42,13 @@
   :block/updated-at 1673803785836}
  {:block/name "com6655/ intellectual property /cards",
   :block/created-at 1673803809812,
-  :block/updated-at 1674930612733}
+  :block/updated-at 1674930664479}
  {:block/name "com6655/computer misuse",
   :block/created-at 1673803809823,
   :block/updated-at 1673803809823}
  {:block/name "com6655/computer misuse/cards",
   :block/created-at 1674913857484,
-  :block/updated-at 1674924027044}
+  :block/updated-at 1674930781281}
  {:block/name "com6655/contract law",
   :block/created-at 1673803809819,
   :block/updated-at 1673803809819}
@@ -69,7 +69,7 @@
   :block/updated-at 1673803809829}
  {:block/name "com6655/introduction to ethics/cards",
   :block/created-at 1674913857696,
-  :block/updated-at 1674924178576}
+  :block/updated-at 1674930765859}
  {:block/name "com6655/legal concepts",
   :block/created-at 1673803797270,
   :block/updated-at 1673803797270}
@@ -81,7 +81,7 @@
   :block/updated-at 1673803809821}
  {:block/name "com6655/liability/cards",
   :block/created-at 1674913857738,
-  :block/updated-at 1674923782534}
+  :block/updated-at 1674930693153}
  {:block/name "com6655/professional ethics",
   :block/created-at 1673803809831,
   :block/updated-at 1674923947881}
