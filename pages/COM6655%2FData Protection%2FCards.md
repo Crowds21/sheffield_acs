@@ -105,7 +105,7 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 - ((63cfbc93-d0a8-4795-91da-22302a5b1e84)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
 	- ((63cfdf08-d6a5-4b8e-8e19-4b3bae4edef0))
-	-
+	- 个人数据的收集应该是为了特定的、明确的和合法的目的，并且不得以与这些目的不相符的方式进一步处理
 - [[UK General Data Protection Regulation]] 中规定,对于自动化决策需要满足以下条件 [[card]]
   collapsed:: true
   card-last-interval:: -1
