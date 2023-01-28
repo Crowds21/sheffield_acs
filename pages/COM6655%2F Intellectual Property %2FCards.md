@@ -39,16 +39,6 @@
   :END:
 -
 - ### CDPA 与 计算机程序
-- 知识产权中关于 ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
-	- 进行改编包括反编译，侵犯了版权，除非新的反编译权允许
-	- 合法用户可以在必要时进行反编译, 不包括开发竞争品
-- 知识产权中关于 ((63d52842-daf7-4e56-9275-dea58e56dea6))
-	- a lawful user making a copy of a program for backup purposes 是可以的
-- 知识产权中关于计算机程序的 ((63d52842-3c1c-45cb-8e64-4351e857f421))
-	- CCPR允许合法用户改编程序，前提是
-		- 为合法使用而必须这样做
-		- 任何规范用户合法使用的协议都不禁止改编
-- 程序的 substantial part
 - 申请计算机程序版权必须保证 [[card]]
   card-last-interval:: -1
   card-repeats:: 1
@@ -59,6 +49,16 @@
 	- ((e7eee613-9e72-4da4-8e9d-729a451466df))
 	- ((f1004708-80fa-4682-be56-7ffd1f00ae50)): ((63b44c85-ab2a-44f2-b92d-ecd6ea417445))
 	- ((1dc4a170-ec58-466a-bf66-abf2c977af87)): ((63b44ca3-fd04-4232-b07a-7218e3038631))
+- 知识产权中关于 ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
+	- 进行改编包括反编译，侵犯了版权，除非新的反编译权允许
+	- 合法用户可以在必要时进行反编译, 不包括开发竞争品
+- 知识产权中关于 ((63d52842-daf7-4e56-9275-dea58e56dea6))
+	- a lawful user making a copy of a program for backup purposes 是可以的
+- 知识产权中关于计算机程序的 ((63d52842-3c1c-45cb-8e64-4351e857f421))
+	- CCPR允许合法用户改编程序，前提是
+		- 为合法使用而必须这样做
+		- 任何规范用户合法使用的协议都不禁止改编
+- 程序的 substantial part
 - (Restricted acts)对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的 [[card]]
 -
 - law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
