@@ -69,7 +69,7 @@
   card-last-reviewed:: 2023-01-28T16:30:41.088Z
   card-last-score:: 1
 	- ((63594afa-249f-47c2-8ab9-ab7e2cceb95a))
-- Contracts For bespoke software (定制软件) 需要注意的点有 [[card]]
+- Contracts For bespoke software (定制软件)的合同都包括哪些内容需要注意的点有 [[card]]
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
