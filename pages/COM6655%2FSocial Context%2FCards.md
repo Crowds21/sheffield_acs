@@ -18,7 +18,7 @@
   card-next-schedule:: 2023-01-29T00:00:00.000Z
   card-last-reviewed:: 2023-01-28T15:23:03.226Z
   card-last-score:: 1
-	- 降技 Deskilling
+	- 裁员 Deskilling
 		- 概念性任务被纳入计算机算法，或转移到少数专家手中
 		- Conceptual tasks built into computer algorithms, or transferred to a few specialists
 	- 升级 Upgrading
