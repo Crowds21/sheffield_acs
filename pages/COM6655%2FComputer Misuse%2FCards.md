@@ -131,6 +131,6 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
   card-last-score:: 1
 	- A concern is the meaning of unauthorised access.
 	- What if access is authorised but the function performed is no
-- ((63bee7c3-2b5d-436a-a407-a0e20e25da75)) 在计算机方面的作用
+- ((63bee7c3-2b5d-436a-a407-a0e20e25da75)) 在计算机方面的作用 [[card]]
 	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
 	-
