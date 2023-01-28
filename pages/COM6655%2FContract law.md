@@ -304,7 +304,6 @@ title:: COM6655/Contract law
 		- 顾问(**consultant**) 费用可能由客户支付
 		- 这些顾问可能是具有专业资质的个人,比如 Chartered Member of the BCS(BCS特许会员)
 - 其他形式的软件合同 Other forms of software contract
-  collapsed:: true
 	- Shrink-wrap licensing (or rip-seal license) 包装许可证
 	  id:: 635a5457-b9d3-4c1b-97a0-24c7270fef9a
 	  ref:: ((635a572c-6e90-46ca-bcfd-95971362b211))
@@ -362,7 +361,6 @@ title:: COM6655/Contract law
 		- 通常情况下,==许可证是具有排他性的==,给予单一出版社处理软件的唯一权. 然后出版社根据版权法享有与其版权相同的权利.
 		- ((6361292a-473b-403d-abc7-8f6d0c41568f))
 	- 费用 Payment
-	  collapsed:: true
 		- 出版商将向作者支付一笔版税(royalty)，可以是每卖出一个单位的固定金额，也可以是软件价格的一个百分比
 		- 作者也可以因独家许可而得到一笔钱(a lump sum for an exclusive license)
 		- 量化版税费用时的注意点
@@ -375,7 +373,6 @@ title:: COM6655/Contract law
 			- 大概意思, Guy Brown 收到的钱是按照发行商卖给零售店的价格(比如1-2 英镑)来算的,而不是通过零售店出售的价格(4-5 英镑)来算的.
 			- 因此他没有赚到很多钱
 - Summary(Lecture7)
-  collapsed:: true
 	- 定制软件的合同很复杂,必须谨慎起草.标准合同可以提供帮助
 	- 新类型的合同已经发展起来，以适应软件的独特性质.（收缩包装、网络点击）
 	- 软件有时是独立编写的,通过出版社进行销售;出版社通常向作者支付版税
