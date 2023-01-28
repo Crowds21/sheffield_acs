@@ -135,6 +135,7 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 		- 案例 R v Ghosh (1982) Ghosh Test
 		  background-color:: green
 		  ref:: ((63d5abea-594f-47f0-89e2-5f1a7e881ca5))
+		  id:: 63d52842-7bbf-4067-8f05-da302d682a4a
 			- 需要确定被告本人是否意识到他所做的事情（按照合理和诚实的人的普通标准）是不诚实的
 		- 未遂 Attempts
 			- 要被指控为未遂罪(To be charged with an attempt) ，一个人必须做了一个不仅仅是为犯罪做准备的行为
