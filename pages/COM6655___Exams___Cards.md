@@ -1,4 +1,4 @@
 - ### Contract Law
-	- 背景: 学校 SCH 找 Mic
+	- 背景: 学校 SCH 找 Microsoft 开发软件检测学生作弊,
 - ### Liability
 - ### Computer Misuse
