@@ -31,6 +31,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
   card-last-score:: 1
 - ~~Types of computer fraud  in [[Fraud Act]]~~[[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:03:06.006Z
+  card-last-score:: 1
 	- ((636246a4-d236-444d-b20f-c01caaec462f))
 	- ((63624745-b95f-44fc-9c16-db3e2d800ded))
 	- ((63624779-41bc-40e3-b77f-b65985c67d56))
