@@ -153,6 +153,12 @@
 - ### 软件和专利
 - 满足什么条件才能够申请专利 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:22:29.811Z
+  card-last-score:: 1
 	- ((b8afae07-2b83-4d8b-bdce-b2c19654966d))
 	- ((cf843d25-54ac-448e-ad14-d462b1b9f5d2))
 	- ((a44acd55-5c1e-4940-b4e0-d3b6e80a1965))
