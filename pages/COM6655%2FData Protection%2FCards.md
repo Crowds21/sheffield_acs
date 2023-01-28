@@ -184,6 +184,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 - 调查权  Investigatory powers包含哪两种权利 [[card]]
   ref:: ((63a88ea0-7446-40b9-b4c4-bf67ed3b05f4))
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:42:19.868Z
+  card-last-score:: 1
 	- ((63cfbe66-bb1f-4a33-b513-c888cbddae4a))
 	- ((63cfbe6f-ae19-473a-b00d-1b82b2c0f440))
 	- [[The Regulation of Investigatory Powers Act]]规定了拦截通信内容的权力
