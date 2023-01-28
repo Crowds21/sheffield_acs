@@ -32,15 +32,15 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:48:46.893Z
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:44:27.709Z
   card-last-score:: 1
 - {{cloze 法庭 (Tribunals)}}关注的是解决特定领域的争端；它们涉及法律专家和相关领域的专家 (例如，数据保护) [[card]]
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:46:56.263Z
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:44:36.359Z
   card-last-score:: 1
 - {{cloze 仲裁(Arbitration )}}用于许多民事案件（特别是在商业领域），涉及任命一名独立的仲裁员来解决争端 [[card]]
   card-last-interval:: 5.63
