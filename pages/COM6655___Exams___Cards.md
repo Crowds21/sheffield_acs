@@ -14,6 +14,7 @@
 			- There is a competitive relationship between these two software
 			- Decompiling is not allowed when creating competing products
 		- ((63d52842-b13a-4e84-9893-648f2307f5a9))
+		  collapsed:: true
 			- decompilation and rewrite are both effectively translation, which is a restricted right
 		-
 - ### Contract Law
