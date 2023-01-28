@@ -20,7 +20,7 @@
   card-last-reviewed:: 2023-01-11T15:50:37.106Z
   card-last-score:: 1
 - 版权的所有人: 就文学、戏剧、音乐或艺术作品而言， {{cloze 作品的作者或创作者}} 通常是其任何版权的第一所有人. 政府部门制作的材料的版权属于 {{cloze 政府}} [[card]]
--
+- 计算机生成的做平如何确定作者?
 - law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
   card-last-interval:: -1
   card-repeats:: 1
