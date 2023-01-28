@@ -58,6 +58,12 @@
 	- ((63594afa-249f-47c2-8ab9-ab7e2cceb95a))
 - Contracts For bespoke software (定制软件) 需要注意的点有 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:20:52.282Z
+  card-last-score:: 1
 	- ((6359559d-a96f-4138-a56d-780a69f3c4a0))
 	  collapsed:: true
 		- 使用权?还是拥有权?
