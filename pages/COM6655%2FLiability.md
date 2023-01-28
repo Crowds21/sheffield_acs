@@ -126,7 +126,7 @@ title:: COM6655/Liability
 				- 一台做工很差的电脑可能会有电气危险,但如果买房对其进行了操作,比如试图修复他,则可以根据他们对事故贡献的比例而减少损失.
 	- 疏忽误报 [[Negligent misstatement]]
 		- 就对软件提供建议而言,疏忽的责任是很严重的.
-		  background-color:: #793e3e
+		  background-color:: red
 		- 因疏忽的建议而造成的侵权行为被称作 [[Negligent misstatement]]
 		- 如果决策支持系统给出的建议是错误的,那么系统的开发者可能要对接收方承担Negligent misstatement 的责任
 		- 这些需要承担责任的人可能包括
