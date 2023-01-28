@@ -177,6 +177,12 @@
   collapsed:: true
 	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
 - [[The law of confidence]] 想要生效必须满足一定的条件 [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:53:23.113Z
+  card-last-score:: 1
 	- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
 	- ((63cff620-1b4c-44c8-8a99-56392efd9cd8))
 	- 信息的发布会损害信息所有者的利益或有利于其他人
