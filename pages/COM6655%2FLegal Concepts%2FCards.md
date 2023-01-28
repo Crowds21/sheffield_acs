@@ -89,7 +89,6 @@
   collapsed:: true
 	- ((6d06f987-7536-4adf-8020-abd320084eb9))
 - ((63bc5c91-329b-42a3-ad44-823788c3741f)) ? [[card]]
-  collapsed:: true
 	- the mind is guilty
 	- ((63aded27-648a-4114-9d1b-f39631f0098c)) + ((63aded10-4fbb-4bdd-bdca-21b58393c1f7))
 - 疏忽 Negligence 涉及到  {{cloze duty of care}} ,以及因为此而在造成的损害. 如果损害是可以 {{cloze 被合理预见的}},那么被告就应该负责. [[card]]
