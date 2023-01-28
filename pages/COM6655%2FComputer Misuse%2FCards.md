@@ -19,6 +19,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((639df08f-2211-4671-bf0f-a39226ffdff9))
 - [[Theft Act]] 用于处理计算机相关问题存在的缺陷 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:05:23.695Z
+  card-last-score:: 1
 	- ((63cff0e9-b686-4632-9ee5-fe1214e3e18c))
 	- Stealing another person's information is not a ==permanent deprivation== of the other person's property
 - 犯罪需要从  {{cloze mental element}} 和  {{cloze actual behaviour}} 两个方面考虑,然而部分犯罪即使只涉及到其中一个方面也会构成犯罪,这叫做  {{cloze strict liability offences "严格责任罪" 不涉及犯罪意图}} [[card]]
