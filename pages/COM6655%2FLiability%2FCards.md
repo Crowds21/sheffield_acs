@@ -26,7 +26,7 @@
   card-next-schedule:: 2023-01-29T00:00:00.000Z
   card-last-reviewed:: 2023-01-28T16:24:16.249Z
   card-last-score:: 1
-- 为了保护消费者,[[Contract law]]也会受到  {{cloze Consumer Rights Act}} 的限制, ((635e63e8-5d6a-4ec2-b2df-f0a10015e881)) [[改编包括反编译，侵犯了版权]]
+- 为了保护消费者,[[Contract law]]也会受到  {{cloze Consumer Rights Act}} 的限制, ((635e63e8-5d6a-4ec2-b2df-f0a10015e881)) [[card]]
 - 承担 ((635e612e-1446-4b8f-8f68-fe830a0c2f21)) 的因素 [[card]]
   collapsed:: true
   card-last-interval:: -1
