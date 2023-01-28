@@ -45,7 +45,6 @@
 		- law of confidence 是对版权法和专利法的有益补充，因为它在思想充分发展到能够获得版权或专利之前就对它们进行保护。
 		- 由于 law of confidence 普通法为基础，它很灵活，能够跟上技术发展的步伐
 	- [[The law of confidence]]
-	  collapsed:: true
 		- 保密法保护信息（商业秘密、商业数据、不以实物表达的想法）。
 		- 版权和专利法是由法规(statute)规定的，但保密法是由common law规定的。
 		- 保密法的限制是，信息必须是保密的，不属于公共领域。
