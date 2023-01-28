@@ -114,6 +114,12 @@
 -
 - [[Theft Act]] 中关于 Theft 的定义 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:44:48.023Z
+  card-last-score:: 1
 	- ((63cff0e9-b686-4632-9ee5-fe1214e3e18c))
 	- ......如果一个人不诚实地侵占属于他人的财产，意图永久剥夺他人的财产，则犯有盗窃罪......"（1968年盗窃法）
 	- permanently depriving
