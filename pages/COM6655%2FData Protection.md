@@ -58,7 +58,6 @@
 		- 理想情况下，TDF应该受到强有力的监管
 		- 然而，许多国家的经济是由信息交易支持的
 - [[Data Protection Act]]  and [[UK General Data Protection Regulation]]
-  collapsed:: true
 	- 英国数据保护相关的定义
 	  ref:: ((63a4fe6a-4783-487e-8961-8c601abc5fce))
 	  id:: 63a4fe21-2370-465a-98bd-328b39cdc27c
