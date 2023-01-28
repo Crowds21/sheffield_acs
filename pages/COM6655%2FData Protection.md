@@ -28,7 +28,6 @@
 			- 完全的政治权利, 即国家不承认其权利有任何限制,并努力规范公共和私人生活的各个方面
 		- 需要权衡利弊 Trade-offs
 - 隐私的三个方面
-  collapsed:: true
   Three aspects of privacy
 	- 你拥有的信息
 	  collapsed:: true
