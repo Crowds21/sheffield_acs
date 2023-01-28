@@ -72,7 +72,7 @@
 	- 编写软件的人对(用软件的人最终)输出的内容没有控制权
 	- 因为它是使用软件的人的努力的结果
 - CDPR,关于"Translation"的定义存在什么问题
-	- CDPR 对于
+	- 在 CDPR中它是 restricted right 的
 	- 含义可能过于宽泛，因为它似乎包括将一个程序从一种语言手动转换为另一种语言
 	- decompilation and manual rewriting are both effectively translation, which is a restricted right
 - ### CDPA 与 计算机程序
