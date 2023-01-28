@@ -116,4 +116,4 @@
   collapsed:: true
 	- ((63cff0e9-b686-4632-9ee5-fe1214e3e18c))
 	- ......如果一个人不诚实地侵占属于他人的财产，意图永久剥夺他人的财产，则犯有盗窃罪......"（1968年盗窃法）
-	- permanently depriving the
+	- permanently depriving
