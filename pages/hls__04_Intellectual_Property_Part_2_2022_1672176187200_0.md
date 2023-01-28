@@ -116,3 +116,8 @@ file-path:: ../assets/04_Intellectual_Property_Part_2_2022_1672176187200_0.pdf
   hl-page:: 8
   hl-color:: green
   id:: 63b45e0d-7ae2-404a-86f1-53ec0c1a8f6b
+- expression can extend beyond a literal form.
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 63d56920-3aee-4cff-bb7a-a4bd4b563073
