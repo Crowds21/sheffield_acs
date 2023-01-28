@@ -187,6 +187,7 @@
 	- 该信息必须具有必要的 ((63b465f1-8a3c-4b15-b868-69f45b8af3cd))
 	- 信息必须是在具有保密性质的情况下被传授的;  ((63b46611-7e69-47b7-bcb8-ff484f55e10c))
 	- ((63d52841-37e0-4f6c-a486-aa439669b6d2))
+	- Information leakage
 - TODO Obligation of confidence 是如何产生的 [[card]]
 - 计算机黑客入侵他人计算机时,可以参考的法律是  {{cloze The Law of Confidence}} [[card]]
 -
