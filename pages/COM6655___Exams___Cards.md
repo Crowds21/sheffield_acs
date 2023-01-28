@@ -65,4 +65,5 @@
 				- ((63d52842-e610-45cf-8c47-9de7513388ce))
 					- The school may not have recorded and reported unsolicited emails sent by Rain
 				- ((63d52842-1341-4712-a569-c2013f5cd8d8))
-					- The school collected the emotional features of students through microsoft, information that was redundant for their purposes
+					- The school collected the emotional features of students through Microsoft, information that was redundant for their purposes
+				-
