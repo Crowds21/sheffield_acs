@@ -14,6 +14,7 @@
 - ### Legal Concept
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law
 	  id:: 63d5aa63-d7f3-4140-b43a-c3d9d3baf1c7
+	-
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
 	  collapsed:: true
@@ -94,7 +95,6 @@
 - ### Computer Misuse
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析
 		- Guilty Action
-		  collapsed:: true
 			- Accessed someone else's computer and copied material
 		- Guilty Mind
 			- Want to use these materials for further legal action
