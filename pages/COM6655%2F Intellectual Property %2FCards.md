@@ -109,6 +109,11 @@
 - 自由软件并不意味着非商业性 [[card]]
 -
 - ### 软件和专利
+- 满足什么条件才能够申请专利 [[card]]
+  collapsed:: true
+	- ((b8afae07-2b83-4d8b-bdce-b2c19654966d))
+	- ((cf843d25-54ac-448e-ad14-d462b1b9f5d2))
+	- ((a44acd55-5c1e-4940-b4e0-d3b6e80a1965))
 -
 - law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
   card-last-interval:: -1
@@ -131,11 +136,6 @@
   card-next-schedule:: 2023-01-12T00:00:00.000Z
   card-last-reviewed:: 2023-01-11T15:53:53.992Z
   card-last-score:: 1
-- 满足什么条件才能够申请专利 [[card]]
-  collapsed:: true
-	- ((b8afae07-2b83-4d8b-bdce-b2c19654966d))
-	- ((cf843d25-54ac-448e-ad14-d462b1b9f5d2))
-	- ((a44acd55-5c1e-4940-b4e0-d3b6e80a1965))
 - 计算机软件的版权相关法规应该参考 {{cloze Copyright, Designs and Patents Act}} [[card]]
   card-last-interval:: 5.63
   card-repeats:: 1
