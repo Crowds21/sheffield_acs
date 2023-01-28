@@ -13,6 +13,12 @@
 	- 早期的工作表明，有伴侣的员工更有可能在家工作，但有孩子的员工更不可能在家工作
 	- "欧洲和北美一致认为，远程办公是留住妇女的一个好办法。它提供了较少的压力，因为减少了通勤，并提供了更好的工作和生活平衡"
 - ((63ab58e9-ea68-460d-a15a-921bb34f82bf)) [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:08:53.977Z
+  card-last-score:: 1
 	- ((63ab5904-29ff-41ee-a1e1-adece4ae9269))
 		- 将任务拆分为不同的行动；
 		- 对每个行动进行计时；
