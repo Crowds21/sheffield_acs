@@ -184,10 +184,16 @@
 	- ((63cff6f6-2fd2-45db-aabb-34c59bd60ba9))
 	- ((63cff700-72d2-4d9c-a2de-b6111db9ebf1))
 - 违反 [[The Law of Confidence]] 的三个要素 [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:38:24.225Z
+  card-last-score:: 1
 	- 该信息必须具有必要的 ((63b465f1-8a3c-4b15-b868-69f45b8af3cd))
 	- 信息必须是在具有保密性质的情况下被传授的;  ((63b46611-7e69-47b7-bcb8-ff484f55e10c))
 	- ((63d52841-37e0-4f6c-a486-aa439669b6d2))
-	- Information leakage
+	- Information leakage 信息泄露
 - TODO Obligation of confidence 是如何产生的 [[card]]
 - 计算机黑客入侵他人计算机时,可以参考的法律是  {{cloze The Law of Confidence}} [[card]]
 -
