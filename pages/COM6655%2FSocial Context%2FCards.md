@@ -39,6 +39,12 @@
 - ((63ab59ca-61e0-48e8-b48d-f5ac11e2c9d9))
 - ((63ab5a02-fef7-483b-a74d-01aba03d5caa))
 - ((63ab5a95-1ff4-42a0-984a-5ed11339f256)) [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:21:05.729Z
+  card-last-score:: 1
 	- 实验者效应
 		- 工人们把做出改变解释为管理层关心的标志，更普遍的是，这只是提供了一些精神刺激，对士气和生产力有好处。
 	- 社会效应
