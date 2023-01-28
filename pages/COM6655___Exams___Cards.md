@@ -30,11 +30,11 @@
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
 			- ((63d52841-303f-4a0c-b4b0-6327b0ed1846))
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
-	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任
+	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任 [[card]]
+	  collapsed:: true
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
 		- 程序的 substantial part
-		  collapsed:: true
 			- ((63d52842-cea3-444a-ad14-35a17223f1cb))
 			- Even if a very small part of the program is copied, it is an infringement if that part is material in terms of the function of the program
 			- So the code for this function may have been copied
