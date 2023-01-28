@@ -204,7 +204,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 		- software key system 软件钥匙系统
 	- 适用于盗版软件的立法
 	  background-color:: red
-	  collapsed:: true
 	  ((639b2392-e042-4919-95a4-990e4924e361))
 		- [[Copyright, Designs and Patents Act]]  版权外观和专利法
 			- 最严重的是用于分销和进口
