@@ -63,4 +63,4 @@
 				- Purpose Limitation
 					- Rain sent unsolicited emails
 				- ((63d52842-e610-45cf-8c47-9de7513388ce))
-					-
+					- The school should have proper records to justify all their actions
