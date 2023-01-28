@@ -176,6 +176,7 @@
 - 什么是 [[The law of confidence]] [[card]]
   collapsed:: true
 	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
+	- 这涉及到对商业秘密、个人性质的秘密和有关国家政府的秘密的保护
 - [[The law of confidence]] 想要生效必须满足一定的条件 [[card]]
   card-last-interval:: -1
   card-repeats:: 1
