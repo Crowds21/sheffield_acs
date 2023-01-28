@@ -7,9 +7,10 @@
   card-last-reviewed:: 2023-01-11T15:53:42.830Z
   card-last-score:: 3
 - 知识产权主要涉及的相关法律是? [[card]]
+  collapsed:: true
 	- [[Copyright, Designs and Patents Act]]
 	- [[The Law of Confidence]]
-	-
+	- [[Copyright (Computer Programs) Regulations]]
 - 英国现代版权法所依据的法律是  {{cloze Copyright, Designs and Patents Act}} [[card]]
   card-last-interval:: -1
   card-repeats:: 1
