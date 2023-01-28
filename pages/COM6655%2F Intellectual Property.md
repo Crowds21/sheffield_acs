@@ -50,7 +50,6 @@
 		- 版权和专利法是由法规(statute)规定的，但保密法是由common law规定的。
 		- 保密法的限制是，信息必须是保密的，不属于公共领域。
 	- 与外观设计有关的法律
-	  collapsed:: true
 		- 设计权是由法规授予的
 		- 它们可能适用于保护诸如符合人体工程学的鼠标等物品的设计。
 		- 硅芯片受 [[Design Right (Semiconductor Topographies) Regulations ]] 1989 的保护。
