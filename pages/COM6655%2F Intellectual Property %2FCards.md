@@ -12,12 +12,12 @@
 	- [[The Law of Confidence]]
 	- [[Copyright (Computer Programs) Regulations]]
 - Intellectual Property 包括  {{cloze 版权 copyright}},  {{cloze 专利 patents}},  {{cloze 商标 trade marks}} , 保密法  law of confidence , 冒名顶替 passing off, 设计权 design rights , 半导体法规 semiconductor regulations [[card]]
-  card-last-interval:: 5.63
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-17T06:53:42.830Z
-  card-last-reviewed:: 2023-01-11T15:53:42.830Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:52:24.459Z
+  card-last-score:: 1
 - 当版权被侵犯时,有哪些补救措施Remedies [[card]]
   card-last-interval:: -1
   card-repeats:: 1
