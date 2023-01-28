@@ -174,6 +174,12 @@
   card-last-reviewed:: 2023-01-11T15:53:06.679Z
   card-last-score:: 3
 - 什么是 [[The law of confidence]] [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:06:47.207Z
+  card-last-score:: 1
   collapsed:: true
 	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
 	- 这涉及到对商业秘密、个人性质的秘密和有关国家政府的秘密的保护
