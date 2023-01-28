@@ -6,6 +6,12 @@
 		- ((6359451e-72c3-4b30-8c92-1d8e5f1eab3f))
 - ((6358eea4-96fd-4bab-b5cc-689c35317b54)) [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:00:57.074Z
+  card-last-score:: 1
 	- ((6358eefc-f1c6-4547-a56c-5a805973690a))
 - DONE 软件合同有哪些形式
   collapsed:: true

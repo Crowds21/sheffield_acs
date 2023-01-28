@@ -66,6 +66,12 @@
   collapsed:: true
 	- 复制是指以任何物质形式复制作品，包括电子存储 ( reproducing the work in any material form)
 - TODO 程序的 substantial part [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:00:53.653Z
+  card-last-score:: 1
 - 知识产权中关于 ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
   collapsed:: true
 	- 进行改编包括反编译，侵犯了版权，除非新的反编译权允许
