@@ -19,7 +19,7 @@
 	  案例中Negligence 相关内容
 		- The school own a duty of call to the student. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
-		- 阿三 did not find possible problems with the results of the algorithm run, a competent professional should be able to find these problems
+		- 阿三 did not find possible problems with the results of the algorithm, a competent professional should be able to find these problems
 		-
 		- ((635e8778-ea88-4539-b14d-952b2931ea1a))
 			- This may be due to problems with the training data provided by the school, the school also contributed to the negligence
