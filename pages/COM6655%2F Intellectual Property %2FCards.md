@@ -1,6 +1,12 @@
 -
 - ### 简介
 - 知识产权主要涉及的相关法律是? [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:32:44.770Z
+  card-last-score:: 1
   collapsed:: true
 	- [[Copyright, Designs and Patents Act]]
 	- [[The Law of Confidence]]
