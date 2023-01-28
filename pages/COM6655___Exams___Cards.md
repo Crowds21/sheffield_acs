@@ -40,6 +40,7 @@
 			- So the code for this function may have been copied
 		- The other two parts are standard algorithms, so no expressions are copied
 		- ((63d52842-b3fe-416f-bb71-2ed79c499a35))
+			- Math needs to determine if the code is a copy
 			- If the algorithm for part1 "input sheet file" is rewritten by WORD,  they may not be infringing under the law of the case.
 - ### Contract Law
   collapsed:: true
