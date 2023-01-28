@@ -152,7 +152,8 @@
 		  Integrity and confidentiality (security)
 		- 责任性  
 		  Accountability
--
+- UKGDPR 的七个准则
+  id:: 63d59cd6-f605-46c9-b558-61d69c808b61
 	- 合法性、公平性和透明度
 	  collapsed:: true
 	  Lawfulness, fairness and transparency

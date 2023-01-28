@@ -57,7 +57,7 @@
   :block/updated-at 1674930352396}
  {:block/name "com6655/data protection",
   :block/created-at 1673803809824,
-  :block/updated-at 1673803809824}
+  :block/updated-at 1674943710131}
  {:block/name "com6655/data protection/cards",
   :block/created-at 1674913857637,
   :block/updated-at 1674924139880}
@@ -66,7 +66,7 @@
   :block/updated-at 1673803809833}
  {:block/name "com6655/exams/cards",
   :block/created-at 1674939604757,
-  :block/updated-at 1674941684296}
+  :block/updated-at 1674943648860}
  {:block/name "com6655/introduction to ethics",
   :block/created-at 1673803809829,
   :block/updated-at 1673803809829}
@@ -81,7 +81,7 @@
   :block/updated-at 1674924585266}
  {:block/name "com6655/liability",
   :block/created-at 1673803809821,
-  :block/updated-at 1674941678495}
+  :block/updated-at 1674942669770}
  {:block/name "com6655/liability/cards",
   :block/created-at 1674913857738,
   :block/updated-at 1674930693153}
