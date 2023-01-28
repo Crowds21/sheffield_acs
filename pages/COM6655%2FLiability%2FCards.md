@@ -20,6 +20,12 @@
   collapsed:: true
 	- ((63d53e4b-9c0b-4e56-bfe3-4a9c373b1ca3))
 - TODO 什么是 Liability [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:24:16.249Z
+  card-last-score:: 1
 - 为了保护消费者,[[Contract law]]也会受到  {{cloze Consumer Rights Act}} 的限制, ((635e63e8-5d6a-4ec2-b2df-f0a10015e881))
 - 承担 ((635e612e-1446-4b8f-8f68-fe830a0c2f21)) 的因素 [[card]]
   collapsed:: true
