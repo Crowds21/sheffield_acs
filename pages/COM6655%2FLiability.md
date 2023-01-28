@@ -120,7 +120,6 @@ title:: COM6655/Liability
 		  The claimant must show that the defendant was negligent
 		- 共同过失Contributory negligence
 		  id:: 635e8778-ea88-4539-b14d-952b2931ea1a
-		  collapsed:: true
 			- 如果索赔人也是促成过失的因素之一,则被告人可以减少赔偿.
 			- TODO 举个例子
 				- 一台做工很差的电脑可能会有电气危险,但如果买房对其进行了操作,比如试图修复他,则可以根据他们对事故贡献的比例而减少损失.
