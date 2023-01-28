@@ -11,6 +11,6 @@
 		  collapsed:: true
 			- warranties
 			- conditions
-		- Computer aided mistake
+		- Computer aided mistake.
 - ### Liability
 - ### Computer Misuse
