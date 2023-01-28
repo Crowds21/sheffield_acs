@@ -153,4 +153,5 @@
 	- ((63cff6d8-e57e-4e81-9296-3f8b036a6310))
 	- ((63cff6f6-2fd2-45db-aabb-34c59bd60ba9))
 	- ((63cff700-72d2-4d9c-a2de-b6111db9ebf1))
+- 违反 [[The Law of Confidence]] 的三个要素
 -
