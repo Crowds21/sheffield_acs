@@ -12,7 +12,7 @@
 	- 背景六: A 在未经授权的情况下在B 的电脑上查找了一些文件并复制到 USB 中,以便牟利
 	  id:: 63d5a9d6-b303-4f67-9677-b67fb4860022
 - ### Legal Concept
-	- TODO ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law
+	- TODO ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law [[card]]
 	  id:: 63d5aa63-d7f3-4140-b43a-c3d9d3baf1c7
 		-
 - ### Intelligence Law
@@ -93,7 +93,7 @@
 		- The software company is vicariously liable to the school for any damages suffered by the student.
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
-	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析
+	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析 [[card]]
 		- Guilty Action
 			- Accessed someone else's computer and copied material
 		- Guilty Mind
