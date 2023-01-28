@@ -158,7 +158,6 @@
 		- 问：是否所有程序都符合这一要求？
 		  background-color:: purple
 	- 计算机程序的限制性行为 Restricted acts
-	  collapsed:: true
 		- 对计算机程序的限制性行为是
 			- 复制 copying
 			- 向公众发放拷贝，包括出租  rental
