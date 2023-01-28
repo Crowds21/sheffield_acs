@@ -50,6 +50,7 @@
 	- 背景: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
 	  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
 		- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
+		  collapsed:: true
 		  结合 [[Data Protection Act]] 分析该案例 [[card]]
 			- 相关定义
 				- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
@@ -65,5 +66,5 @@
 				- ((63d52842-e610-45cf-8c47-9de7513388ce))
 					- The school may not have recorded and reported unsolicited emails sent by Rain
 				- ((63d52842-1341-4712-a569-c2013f5cd8d8))
-					- The school collected the emotional features of students through Microsoft, information that was redundant for their purposes
-				-
+					- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
+		-
