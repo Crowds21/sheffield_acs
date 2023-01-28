@@ -12,8 +12,15 @@
 		- 对每个行动进行计时；
 		- 重新设计行动以减少时间要求
 - 信息自动化造成的两种影响 [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:23:03.226Z
+  card-last-score:: 1
 	- 降技 Deskilling
 		- 概念性任务被纳入计算机算法，或转移到少数专家手中
+		- Conceptual tasks built into computer algorithms, or transferred to a few specialists
 	- 升级 Upgrading
 		- 常规和重复性任务的自动化
 		- 白领工作的增长，以及最低层文员的再培训
