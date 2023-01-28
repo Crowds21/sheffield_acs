@@ -25,6 +25,7 @@
 		- Screen design and icons are be protected by copyright
 		- Case Law
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
+			- Patent law protects screen design and icons.
 			-
 - ### Contract Law
   collapsed:: true
