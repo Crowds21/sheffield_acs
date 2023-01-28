@@ -304,15 +304,11 @@
 	- 案例 ((63b45c46-b2df-4b5f-bedd-cd39df19993f))
 	  background-color:: green
 		- 上诉法院批评Whelan诉Jaslow案过于接近思想版权，并建议对非文字性版权侵权进行三步检验
-		  collapsed:: true
 			- Abstraction
-			  collapsed:: true
 				- 识别非文字性的元素。这涉及到追踪设计者从代码回到原始程序功能的步骤。
 			- Filtration
-			  collapsed:: true
 				- 程序中的一些元素（想法、由效率决定的代码、公共领域的代码）在版权法下是不可保护的。这些元素被过滤掉，以确定可保护材料的核心（golden nugge）
 			- Comparison
-			  collapsed:: true
 				- 确定被告是否复制了受保护表达的大部分内容
 		- 这项测试减少了对程序结构、菜单和界面的版权保护。可能在过滤后没有留下金块
 	- 案例 ((63b45ce5-cdd1-444e-b775-0de101c18551))
