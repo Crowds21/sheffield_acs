@@ -198,7 +198,6 @@
 	  collapsed:: true
 		- 如果侵权行为只能通过复制整个作品来发生，那么版权保护将毫无用处. 因为CDPA规定， exclusive rights 适用于作品的全部或大部分
 		- 质量而非数量 ((63b44e38-7353-49be-830f-e4acc1a15993))
-		  collapsed:: true
 			- [[Case law]] 对计算机程序的 "substantial part"作了如下规定
 			  collapsed:: true
 				- 检验infringement 的标准是质量而不是数量
@@ -206,17 +205,13 @@
 				  if that part is significant in terms of the program’s function
 		- 案例 ((63b44eab-e80e-462a-9931-ae95e35db53a))
 		  background-color:: green
-		  collapsed:: true
 			- software collections 软甲合计是否受到版权保护
-			  collapsed:: true
 				- IBCOS的程序员在一个账户软件包上工作
 				- 后来，为巴克莱银行制作了一个竞争性的软件包
 			- 版权被认为是存在的 (Copyright was held to subsist)
-			  collapsed:: true
 				- 在程序和程序的结构/连接方式中都有版权
 				- 取决于创作过程中涉及多少技能和判断力
 		- 改编 Making an adaptation
-		  collapsed:: true
 			- 对作品进行改编包括翻译( translating )作品
 			  collapsed:: true
 				- "就计算机程序而言，'翻译'包括该程序的一个版本，在该版本中，它被转换成或脱离了一种计算机语言或代码，或被转换成不同的计算机语言或代码，而不是在运行该程序的过程中偶然进行的。"
