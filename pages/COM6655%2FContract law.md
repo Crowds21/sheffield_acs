@@ -32,7 +32,6 @@ title:: COM6655/Contract law
 		  id:: 6358eefc-f1c6-4547-a56c-5a805973690a
 - Software Contracts
 	- 制定软件合同时应该考虑的问题
-	  collapsed:: true
 		- Both parties should know precisely what is expected in terms of performance and the standards required.
 		  在性能方面的预期和所要求的标准
 		- A comprehensive specification must be drawn up
