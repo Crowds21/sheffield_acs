@@ -1,10 +1,10 @@
--
-- 背景一 : 学校 SCH 找 Microsoft 开发软件检测学生作弊, Microsoft自己写不了找三哥写软件,最后好多学生没分.
-  id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
-- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
-  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
-- 背景三: 公司 Math 生产电子表格 SHEET, WordSoft 希望生产一种新的文字处理程序 Word.  WordSoft 希望 Word 能和 SHEET 兼容. WordSoft 反编译了 SHEET.
-  id:: 63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff
+- 背景
+	- 背景一 : 学校 SCH 找 Microsoft 开发软件检测学生作弊, Microsoft自己写不了找三哥写软件,最后好多学生没分.
+	  id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
+	- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
+	  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
+	- 背景三: 公司 Math 生产电子表格 SHEET, WordSoft 希望生产一种新的文字处理程序 Word.  WordSoft 希望 Word 能和 SHEET 兼容. WordSoft 反编译了 SHEET.
+	  id:: 63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff))
 		-
