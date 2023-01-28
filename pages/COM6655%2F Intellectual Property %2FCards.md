@@ -25,6 +25,19 @@
   CLOCK: [2023-01-28 Sat 14:27:54]
   :END:
 -
+- ### CDPA 与 计算机程序
+- 知识产权中关于 ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
+	- 进行改编包括反编译，侵犯了版权，除非新的反编译权允许
+	- 合法用户可以在必要时进行反编译, 不包括开发竞争品
+- 知识产权中关于 ((63d52842-daf7-4e56-9275-dea58e56dea6))
+	- a lawful user making a copy of a program for backup purposes 是可以的
+- 知识产权中关于计算机程序的 ((63d52842-3c1c-45cb-8e64-4351e857f421))
+	- CCPR允许合法用户改编程序，前提是
+		- 为合法使用而必须这样做
+		- 任何规范用户合法使用的协议都不禁止改编
+-
+- ###
+-
 - law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
   card-last-interval:: -1
   card-repeats:: 1
