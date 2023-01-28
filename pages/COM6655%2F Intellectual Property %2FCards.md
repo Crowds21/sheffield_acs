@@ -66,7 +66,6 @@
 		- 为合法使用而必须这样做
 		- 任何规范用户合法使用的协议都不禁止改编
 - [[Copyright, Designs and Patents Act]] 存在的问题
-  collapsed:: true
 	- 版权法中的"翻译"
 	  collapsed:: true
 		- CDPA中 "翻译 "的含义可能过于宽泛，因为它似乎包括将一个程序从一种语言手动转换为另一种语言
