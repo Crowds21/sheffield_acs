@@ -11,7 +11,7 @@
 		- Related Laws [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
 			- There is a competitive relationship between these two software
-		-
+			-
 - ### Contract Law
   collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
