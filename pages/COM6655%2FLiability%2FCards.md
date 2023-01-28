@@ -1,5 +1,5 @@
 -
-- ~~相关法案~~ [[card]]
+- ~~Liability相关法案~~ [[card]]
 	- [[Health and Safety Act]]
 	- [[Consumer Rights Act]]
 	- [[Consumer Protection Act]]
