@@ -188,7 +188,6 @@ title:: COM6655/Contract law
 			- 术语"软件"和"硬件"会被定义为特定的被使用的系统
 	- 许可协议证明 License agreement
 	  id:: 6359559d-a96f-4138-a56d-780a69f3c4a0
-	  collapsed:: true
 		- 大多数情况下, 客户将被赋予软件的使用权,而不是拥有权.
 		- 大多数情况下编写软件的合同就是编写许可协议
 		- 如果客户要求他所使用的软件不出售给别人,他应该签署独家许可(exclusive licence),或者版权转让(assignment of copyright).
