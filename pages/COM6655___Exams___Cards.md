@@ -22,7 +22,8 @@
 		- ((635e8778-ea88-4539-b14d-952b2931ea1a))
 			- This may be due to problems with the training data provided by the school, the school also contributed to the negligence
 		- ((63d52843-ed39-4327-a1da-b453587d78ee))
-			-
+			- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
+		-
 - ### Liability
 - ### Computer Misuse
 -
