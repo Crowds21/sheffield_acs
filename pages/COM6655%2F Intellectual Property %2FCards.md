@@ -109,7 +109,6 @@
 	- CCPR允许合法用户改编程序，前提是
 		- 为合法使用而必须这样做
 		- 任何规范用户合法使用的协议都不禁止改编
--
 - [[Copyright, Designs and Patents Act]] 存在的问题 [[card]]
   collapsed:: true
 	- 版权法中的"翻译"
