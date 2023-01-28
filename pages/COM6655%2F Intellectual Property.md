@@ -246,7 +246,6 @@
 		  a lawful user making a copy of a program for backup purposes
 		- "协议中是否存在任何旨在禁止或限制该行为的条款或条件是不相关的"
 	- 错误纠正和其他例外情况 ((63b457ff-c82b-410e-8e34-e34211b997c0))
-	  collapsed:: true
 	  id:: 63d52842-3c1c-45cb-8e64-4351e857f421
 		- CCPR允许合法用户改编程序，前提是
 		  collapsed:: true
