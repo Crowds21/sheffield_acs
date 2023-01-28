@@ -7,8 +7,15 @@
   card-next-schedule:: 2023-01-17T06:53:42.830Z
   card-last-reviewed:: 2023-01-11T15:53:42.830Z
   card-last-score:: 3
-- 当版权被侵犯时,有哪些补救措施Remedies
-	-
+- 当版权被侵犯时,有哪些补救措施Remedies [[card]]
+	- Injunction 禁令
+		- 法院命令，要求被告做某事或不做某事，例如，停止销售未经授权的计算机程序副本。
+	- Damages 损害赔偿
+		- 版权损害赔偿被评估为由侵权行为造成的估计损失。
+	- Additional damages 额外损害赔偿
+		- 当版权人遭受名誉或感情的损害以及纯粹的经济损失时。
+	- Criminal penalties for ‘secondary infringements’ 对 "二次侵权 "的刑事处罚
+		- 例如，盗版软件的商业交易。
 - 知识产权主要涉及的相关法律是? [[card]]
   collapsed:: true
 	- [[Copyright, Designs and Patents Act]]
