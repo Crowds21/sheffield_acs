@@ -155,7 +155,6 @@
 - UKGDPR 的七个准则
   id:: 63d59cd6-f605-46c9-b558-61d69c808b61
 	- 合法性、公平性和透明度
-	  collapsed:: true
 	  Lawfulness, fairness and transparency
 		- 个人资料应以合法、公平和透明的方式对资料主体进行处理 ((63a74ffc-f068-4c93-8a62-695ee590fd93))
 			- 根据英国 GDPR 确定收集和使用个人数据的有效理由（称为 "合法依据"）
