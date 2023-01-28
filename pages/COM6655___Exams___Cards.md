@@ -1,4 +1,4 @@
 - ### Contract Law
-	- 背景: 学校 SCH 找 Microsoft 开发软件检测学生作弊,
+	- 背景: 学校 SCH 找 Microsoft 开发软件检测学生作弊, Microsoft 找 三哥写软件
 - ### Liability
 - ### Computer Misuse
