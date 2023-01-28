@@ -1,4 +1,4 @@
 - ### Contract Law
-	- 背景: 学校
+	- 背景: 学校 SCH 找 MIS
 - ### Liability
 - ### Computer Misuse
