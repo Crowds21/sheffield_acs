@@ -166,6 +166,7 @@
 		- 问：是否所有程序都符合这一要求？
 		  background-color:: purple
 	- 计算机程序的限制性行为 Restricted acts
+	  collapsed:: true
 		- 对计算机程序的限制性行为是
 			- 复制 copying
 			- 向公众发放拷贝，包括出租  rental
@@ -173,10 +174,12 @@
 		- 限制性行为是指未经版权持有人许可而不能做的事情
 		- 但也有一些例外情况
 	- 复印 ((63b44dbe-0f72-4c78-b721-9974c96965b7))
+	  collapsed:: true
 		- 复制是指以任何物质形式复制作品，包括电子存储 ( reproducing the work in any material form)
 		- 复制还包括对作品的其他用途进行短暂的或附带的复制
 		- 问：这是否对计算机程序的使用有任何限制？
 	- 程序的 "实质性部分"(substantial part)？
+	  collapsed:: true
 		- 如果侵权行为只能通过复制整个作品来发生，那么版权保护将毫无用处. 因为CDPA规定， exclusive rights 适用于作品的全部或大部分
 		- 质量而非数量 ((63b44e38-7353-49be-830f-e4acc1a15993))
 			- [[Case law]] 对计算机程序的 "substantial part"作了如下规定
@@ -199,6 +202,7 @@
 			- 然而 [[Copyright (Computer Programs) Regulations ]] 1992 允许在某些情况下进行反编译
 - 反编译和反汇编 ((63b45647-2284-4a75-85d9-ecae1bf29285))
   id:: 63d52842-0a56-4399-be8f-3b1dcb4a0280
+  collapsed:: true
 	- 侵犯版权的例外情况 ((63b4569a-9fc3-4c64-966b-1615e8950e44))
 	  collapsed:: true
 		- [[The Copyright (Computer Programs) Regulations]] 是由欧共体关于计算机程序法律保护的指令促成的. 他们授予了几项的权利
