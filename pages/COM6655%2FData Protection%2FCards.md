@@ -104,6 +104,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- limited
 - ((63cfbc93-d0a8-4795-91da-22302a5b1e84)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:15:12.069Z
+  card-last-score:: 1
 	- ((63cfdf08-d6a5-4b8e-8e19-4b3bae4edef0))
 	- 个人数据的收集应该是为了特定的、明确的和合法的目的，并且不得以与这些目的不相符的方式进一步处理
 - [[UK General Data Protection Regulation]] 中规定,对于自动化决策需要满足以下条件 [[card]]
