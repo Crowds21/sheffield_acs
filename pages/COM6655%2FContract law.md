@@ -134,7 +134,6 @@ title:: COM6655/Contract law
 				- 法官判决SA 的要求是合理的
 				- 该判决基于 Supply of Good and Services Act,而没有基于 Unfair Contract terms Act (1977) 中的 **exclusion clause**.
 	- 豁免条款 [[Exemption clauses]]
-	  collapsed:: true
 		- 豁免条款能够限制或免除一方的责任.有两种类型
 		- 免责条款 Exclusion clauses
 		  id:: 63594967-c83a-476c-a84c-bcca371f327c
