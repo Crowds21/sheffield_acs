@@ -41,7 +41,6 @@
   card-last-reviewed:: 2023-01-11T15:53:53.992Z
   card-last-score:: 1
 - 满足什么条件才能够申请专利 [[card]]
-  collapsed:: true
 	- ((b8afae07-2b83-4d8b-bdce-b2c19654966d))
 	- ((cf843d25-54ac-448e-ad14-d462b1b9f5d2))
 	- ((a44acd55-5c1e-4940-b4e0-d3b6e80a1965))
