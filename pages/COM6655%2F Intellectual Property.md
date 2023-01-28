@@ -93,6 +93,7 @@
 	- ((63adfb99-fa58-41cf-be1f-a8cea1e6387e))
 - 计算机软件的版权 Copyright of computer software
 	- 简介
+	  collapsed:: true
 		- 计算机软件的版权--直到1985年，在英国，计算机程序是否受版权保护还不确定。
 		- 法院的观点是，计算机程序的源代码列表受版权保护，因为它们类似于书面英语。
 		- 问：但目标代码、计算机文件和数据库呢？
@@ -103,6 +104,7 @@
 		- 软件版权现在由1988年 [[Copyright, Designs and Patents Act]] （CDPA）涵盖。
 		- CDPA本身已被有关计算机程序的备份、反编译和纠错的法规所修正。
 	- [[Copyright, Designs and Patents Act]]
+	  collapsed:: true
 		- CDPA规定了以下的版权
 		  collapsed:: true
 			- 原创文学、戏剧、音乐或艺术作品。
@@ -110,6 +112,7 @@
 			- 出版版本的排版
 			- +后来的补充内容，如对公众的交流。
 			- 版权作品的所有者被赋予专有权。
+			  collapsed:: true
 				- 复制该作品
 				- 向公众发放作品的副本（包括向公众出租录音、电影和计算机程序的副本）
 				- 公开表演、展示或播放该作品
@@ -132,26 +135,33 @@
 		  collapsed:: true
 			- 当版权人遭受名誉或感情的损害以及纯粹的经济损失时。
 		- Criminal penalties for ‘secondary infringements’ 对 "二次侵权 "的刑事处罚
+		  collapsed:: true
 			- 例如，盗版软件的商业交易。
 	- 作者身份和所有权 Authorship and ownership
+	  collapsed:: true
 		- 作品版权的最初所有者是作品的作者，除非作品是由雇员在工作期间制作的，在这种情况下，除非另有约定，否则雇主将是所有者
 		- 由于版权可以出售，其他人随后可以成为版权所有者
 		- CDPA区分了两类使用计算机制作的作品--由人类作者生成的作品和计算机生成的作品。
 		- 问：[[Copyright, Designs and Patents Act]]中没有对 "计算机 "这一术语进行定义。是否应该如此？
 	- CDPA下的产出类型
+	  collapsed:: true
 		- 第一类
+		  collapsed:: true
 			- 由==人类作者==创造的计算机程序作为 "文学作品 "的形式受到保护。
 			- 文学作品（包括计算机程序）的版权在作者去世后的70年内失效。
 		- 第二类
+		  collapsed:: true
 			- computer-generated work 是 "在没有人类作者的情况下由计算机生成的作品"。
 			- 计算机的输出，如印刷报告，作为文学或艺术作品受到版权保护。
 			- 计算机生成的作品的版权在作品创作完成后50年内失效。
 	- 如何确定作者
+	  collapsed:: true
 		- 计算机生成的作品的作者是为该作品的创作作出必要安排的人。
 		- 问：如果一家企业有一个计算机系统，在没有任何人工干预的情况下自动生成财务报告，谁是作者？
 		-
 - CDPA 与计算机程序
 	- 计算机程序的版权
+	  collapsed:: true
 		- CDPA规定，计算机程序的版权必须是原创的，并有记录 (original and recorded)
 		  id:: e7eee613-9e72-4da4-8e9d-729a451466df
 		- 原创性(Original)
@@ -169,13 +179,16 @@
 		- 问：是否所有程序都符合这一要求？
 		  background-color:: purple
 	- 计算机程序的限制性行为 Restricted acts
+	  collapsed:: true
 		- 对计算机程序的限制性行为是
+		  collapsed:: true
 			- 复制 copying
 			- 向公众发放拷贝，包括出租  rental
 			- 改编  making an adaptation
 		- 限制性行为是指未经版权持有人许可而不能做的事情
 		- 但也有一些例外情况
 	- 复印 ((63b44dbe-0f72-4c78-b721-9974c96965b7))
+	  collapsed:: true
 		- 复制是指以任何物质形式复制作品，包括电子存储 ( reproducing the work in any material form)
 		- 复制还包括对作品的其他用途进行短暂的或附带的复制
 		- 问：这是否对计算机程序的使用有任何限制？
@@ -183,7 +196,9 @@
 	  collapsed:: true
 		- 如果侵权行为只能通过复制整个作品来发生，那么版权保护将毫无用处. 因为CDPA规定， exclusive rights 适用于作品的全部或大部分
 		- 质量而非数量 ((63b44e38-7353-49be-830f-e4acc1a15993))
+		  collapsed:: true
 			- [[Case law]] 对计算机程序的 "substantial part"作了如下规定
+			  collapsed:: true
 				- 检验infringement 的标准是质量而不是数量
 				- 即使是复制程序的很小一部分，如果该部分在程序的功能方面是重要的，也是一种侵权行为
 				  if that part is significant in terms of the program’s function
@@ -191,13 +206,17 @@
 		  background-color:: green
 		  collapsed:: true
 			- software collections 软甲合计是否受到版权保护
+			  collapsed:: true
 				- IBCOS的程序员在一个账户软件包上工作
 				- 后来，为巴克莱银行制作了一个竞争性的软件包
 			- 版权被认为是存在的 (Copyright was held to subsist)
+			  collapsed:: true
 				- 在程序和程序的结构/连接方式中都有版权
 				- 取决于创作过程中涉及多少技能和判断力
 		- 改编 Making an adaptation
+		  collapsed:: true
 			- 对作品进行改编包括翻译( translating )作品
+			  collapsed:: true
 				- "就计算机程序而言，'翻译'包括该程序的一个版本，在该版本中，它被转换成或脱离了一种计算机语言或代码，或被转换成不同的计算机语言或代码，而不是在运行该程序的过程中偶然进行的。"
 			- 这项规定旨在控制计算机程序的反编译和反汇编(decompilation and disassembly)
 			- 然而 [[Copyright (Computer Programs) Regulations ]] 1992 允许在某些情况下进行反编译
