@@ -45,6 +45,7 @@
 - 什么是 ((635e8778-ea88-4539-b14d-952b2931ea1a)) [[card]]
   collapsed:: true
 	- ((63d000d2-aee8-4f82-86ef-bc0870437b41))
+	-
 - What is [[Negligent misstatement]] [[card]]
   collapsed:: true
 	- If advice given by decision support system is incorrect,  developers of the system may be liable in negligent misstatement to the recipient.
