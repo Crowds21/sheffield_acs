@@ -1,4 +1,5 @@
 -
+- ### 简介
 - Intellectual Property 包括  {{cloze 版权 copyright}},  {{cloze 专利 patents}},  {{cloze 商标 trade marks}} , 保密法  law of confidence , 冒名顶替 passing off, 设计权 design rights , 半导体法规 semiconductor regulations [[card]]
   card-last-interval:: 5.63
   card-repeats:: 1
