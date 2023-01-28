@@ -58,6 +58,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- 不诚实地获得服务 ((6398e25e-74f4-45c8-b2db-9c8532fcee8a))
 - ~~Types of computer misus  (基本都都被CMA涉及到了)~~ [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:05:51.970Z
+  card-last-score:: 1
 	- ((63623a80-6077-4949-aa1c-ce8ed72fc7a6))
 	- ((63623b75-9c19-4b4a-97fb-e86d4ca93557))
 	- ((63623c8a-4778-4247-8d7d-2f9ab47a4fcc))
