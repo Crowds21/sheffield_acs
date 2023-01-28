@@ -6,7 +6,6 @@
   card-next-schedule:: 2023-01-17T06:53:42.830Z
   card-last-reviewed:: 2023-01-11T15:53:42.830Z
   card-last-score:: 3
--
 - 英国现代版权法所依据的法律是  {{cloze Copyright, Designs and Patents Act}} [[card]]
   card-last-interval:: -1
   card-repeats:: 1

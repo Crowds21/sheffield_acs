@@ -87,7 +87,6 @@
 		- 专利法是由1977年[[Patents Act]]实施的。2004年[[Patents Act ]]对其进行了修订（但没有取代）
 	- ((63adfb99-fa58-41cf-be1f-a8cea1e6387e))
 - 计算机软件的版权 Copyright of computer software
-  collapsed:: true
 	- 简介
 	  collapsed:: true
 		- 计算机软件的版权--直到1985年，在英国，计算机程序是否受版权保护还不确定。
