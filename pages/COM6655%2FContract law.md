@@ -244,7 +244,6 @@ title:: COM6655/Contract law
 		- 违约金可以量化为每周一定的金额,最后对于违约的时长计算总和.
 		- 违约金应该是对客户损失的一种计算,而不是对延误方的一种惩罚(penalty).
 		- 实质性竣工 substantial completion
-		  collapsed:: true
 			- 达成一致的费用. 在项目完成一大部分时,先支付一大部分,剩余的部分随着剩余部分的完成再支付.
 			- Substantial  的程度应该在合同中予以定义
 	- 维护和改进 Maintenance and enhancements
@@ -266,7 +265,6 @@ title:: COM6655/Contract law
 			- 软件公司向一个独立的人存放材料保管系统代码,以及设计文件
 			- 如果软件公司倒闭了就会把源码和文档全部提交(be released to)给客户
 	- 知识产权 Intellectual property rights
-	  collapsed:: true
 		- 合同可以规定双方在知识产权方面的责任
 		- TODO Q:What rights will the client want
 		- TODO Q:What rights will the software house want
