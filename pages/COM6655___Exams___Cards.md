@@ -44,28 +44,28 @@
 	  ((635e96c3-4ac9-4867-89e9-f0a153125524)) [[card]]
 		- The software company is vicariously liable to the school for any damages suffered by the student.
 		- 阿三 is vicariously liable to the software company
+- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
+  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
 - ### Computer Misuse
 	-
 -
 - ### Data Protection
-	- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
-	  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
-		- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
-		  collapsed:: true
-		  结合 [[Data Protection Act]] 分析该案例 [[card]]
-			- 相关定义
-				- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
-				- Controller - School
-				  collapsed:: true
-					- The school has the student's email information and can decide how to use it.(purpose and manner)
-				- Processor - Rain
-				  collapsed:: true
-					- Rain Company sends advertising emails to students on behalf of the school
-			- ((63d59cd6-f605-46c9-b558-61d69c808b61))
-				- Purpose Limitation
-					- Rain sent unsolicited emails
-				- ((63d52842-e610-45cf-8c47-9de7513388ce))
-					- The school may not have recorded and reported unsolicited emails sent by Rain
-				- ((63d52842-1341-4712-a569-c2013f5cd8d8))
-					- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
+	- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
+	  collapsed:: true
+	  结合 [[Data Protection Act]] 分析该案例 [[card]]
+		- 相关定义
+			- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
+			- Controller - School
+			  collapsed:: true
+				- The school has the student's email information and can decide how to use it.(purpose and manner)
+			- Processor - Rain
+			  collapsed:: true
+				- Rain Company sends advertising emails to students on behalf of the school
+		- ((63d59cd6-f605-46c9-b558-61d69c808b61))
+			- Purpose Limitation
+				- Rain sent unsolicited emails
+			- ((63d52842-e610-45cf-8c47-9de7513388ce))
+				- The school may not have recorded and reported unsolicited emails sent by Rain
+			- ((63d52842-1341-4712-a569-c2013f5cd8d8))
+				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 -
