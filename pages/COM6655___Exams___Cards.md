@@ -11,6 +11,7 @@
 		  collapsed:: true
 			- warranties
 			- conditions
-		- Computer aided mistake.
+		- Computer aided mistake.  As a result of using this system, many students' grades are 0
+		-
 - ### Liability
 - ### Computer Misuse
