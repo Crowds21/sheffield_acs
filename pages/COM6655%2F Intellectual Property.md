@@ -199,7 +199,6 @@
 		- 如果侵权行为只能通过复制整个作品来发生，那么版权保护将毫无用处. 因为CDPA规定， exclusive rights 适用于作品的全部或大部分
 		- 质量而非数量 ((63b44e38-7353-49be-830f-e4acc1a15993))
 			- [[Case law]] 对计算机程序的 "substantial part"作了如下规定
-			  collapsed:: true
 				- 检验infringement 的标准是质量而不是数量
 				- 即使是复制程序的很小一部分，如果该部分在程序的功能方面是重要的，也是一种侵权行为
 				  if that part is significant in terms of the program’s function
@@ -213,7 +212,6 @@
 				- 取决于创作过程中涉及多少技能和判断力
 		- 改编 Making an adaptation
 			- 对作品进行改编包括翻译( translating )作品
-			  collapsed:: true
 				- "就计算机程序而言，'翻译'包括该程序的一个版本，在该版本中，它被转换成或脱离了一种计算机语言或代码，或被转换成不同的计算机语言或代码，而不是在运行该程序的过程中偶然进行的。"
 			- 这项规定旨在控制计算机程序的反编译和反汇编(decompilation and disassembly)
 			- 然而 [[Copyright (Computer Programs) Regulations ]] 1992 允许在某些情况下进行反编译
