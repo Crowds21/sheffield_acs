@@ -16,6 +16,7 @@
 		  collapsed:: true
 			- ((63d52842-c4e5-4ba7-83ff-9e10bba6b7fb))
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  collapsed:: true
 	  案例中Negligence 相关内容
 		- The school own a duty of call to the student. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
