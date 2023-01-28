@@ -28,7 +28,7 @@
 			- but it does not protect "look and feel".
 		- Case Law
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
-			- ((63b45e03-86ff-4afa-b93f-50509f07a49a))
+			- ((63d52841-303f-4a0c-b4b0-6327b0ed1846))
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
 		-
 - ### Contract Law
