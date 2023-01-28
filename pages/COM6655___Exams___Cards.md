@@ -52,5 +52,5 @@
 		- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
 		  结合 [[Data Protection Act]] 分析该案例 [[card]]
 			- 相关定义
-				- ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
+				- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
 				-
