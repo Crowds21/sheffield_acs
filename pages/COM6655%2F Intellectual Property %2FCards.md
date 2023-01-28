@@ -69,7 +69,7 @@
   :END:
 - 版权保护的是 {{cloze 表达expression}},而不是 idea. 英国法律认为 ((63d56920-3aee-4cff-bb7a-a4bd4b563073)) [[card]]
 - CDPA 中,如何处理中间产物
-	- 编写软件的人对其输出的内容
+	- 编写软件的人对其输出的内容没有控制权
 - ### CDPA 与 计算机程序
 - 申请计算机程序版权必须保证 [[card]]
   card-last-interval:: -1
