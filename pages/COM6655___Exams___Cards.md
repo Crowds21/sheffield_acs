@@ -5,7 +5,7 @@
 	  id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
-	  案例中和 Contract Law 相关的内容
+	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
 		- [[Consumer Rights Act]]
 		- Software is digital product, the software should have satisfactory quality.
@@ -21,7 +21,7 @@
 - ### Liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
-	  案例中Negligence 相关内容
+	  案例中Negligence 相关内容 [[card]]
 		- The school own a duty of call to the student. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
 		- 阿三 did not find possible problems with the results of the algorithm, a competent professional should be able to find these problems
@@ -33,7 +33,7 @@
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
 	  案例中Negligence 相关内容
-	  ((63d52843-ed39-4327-a1da-b453587d78ee))
+	  ((63d52843-ed39-4327-a1da-b453587d78ee)) [[card]]
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
 		- Reduced liability
 			- little control over the way the system is used or interpreted
