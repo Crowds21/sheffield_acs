@@ -10,14 +10,18 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- 计算机滥用也可能导致民法上的责任 
 	  Computer misuse could also give rise to liabilities under civil law.
 	- [[English Criminal Law]] 的回顾
+	  collapsed:: true
 		- 大多数刑事犯罪在 [[Acts Of Parliament]]   中都有规定
+		  collapsed:: true
 			- [[Theft Act]] 1968
 			- [[Fraud Act]] 2006
 			- [[Computer Misuse Act]] 1990
 		- 罪行的要素可以从以下方面进行分析
+		  collapsed:: true
 			- Mens rea  心理因素，意图
 			- Actus reus 实际行为
 		- 一些犯罪即便没有犯罪意图,也构成犯罪
+		  collapsed:: true
 			- strict liability offences "严格责任罪" 不涉及犯罪意图
 			- 例如，夜间驾驶时后灯有问题，即使司机不知道该灯有问题，也是犯罪
 	- 计算机滥用的类型  Types of computer misuse (Scottish Law Commission)
@@ -80,10 +84,13 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- 案例: R v Sunderland (unreported) 1983
 	  background-color:: green
 	  id:: 63d52842-3b88-4960-9668-ba5fec654b7d
+	  collapsed:: true
 		- 背景
+		  collapsed:: true
 			- 巴克莱银行的一名雇员利用银行的计算机找到一个休眠账户，伪造持有人的签名，提取2100英镑。
 			- 被判处2年监禁，但说明了这种系统的脆弱性，特别是来自组织内部的脆弱性。
 	- 计算机欺诈的类型 Types of computer fraud
+	  collapsed:: true
 		- 输入未经授权的指令(input fraud)
 		  id:: 636246a4-d236-444d-b20f-c01caaec462f
 		  collapsed:: true
@@ -105,6 +112,7 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 			- 篡改计算机程序, 很复杂,因此有时候难以发现
 			- salami fraud
 	- 欺诈罪 Fraud offences
+	  collapsed:: true
 		- 欺诈是一系列类似的罪行，其中一些在1968年和1978年的 [[Theft Acts]] 1968 and 1978 中有所涉及
 		- 以欺骗手段获得财产  Obtaining property by deception
 		  id:: 6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907
@@ -130,14 +138,17 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 		- Conspiracy to defraud (common law)  可能适用于计算机欺诈，因为不需要证明欺骗
 	- 访问计算机系统 Accessing computer systems
 	- [[Theft Act]]
+	  collapsed:: true
 		- 由于未经授权使用计算机会消耗一些电力, 这将会被视为盗窃.
 		- 但同时也必须证明,此人意识到他们的行为是 dishonest(犯罪意图)
 		- 案例 R v Ghosh (1982) Ghosh Test
 		  background-color:: green
 		  ref:: ((63d5abea-594f-47f0-89e2-5f1a7e881ca5))
 		  id:: 63d52842-7bbf-4067-8f05-da302d682a4a
+		  collapsed:: true
 			- 需要确定被告本人是否意识到他所做的事情（按照合理和诚实的人的普通标准）是不诚实的
 		- 未遂 Attempts
+		  collapsed:: true
 			- 要被指控为未遂罪(To be charged with an attempt) ，一个人必须做了一个不仅仅是为犯罪做准备的行为
 			- 没有完成的计算机欺诈仍然可能是偷钱的企图
 			- 对这一论点的困惑是1990年 [[Computer Misuse Act]] 第二节颁布的原因之一（下一讲）
