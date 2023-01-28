@@ -1,4 +1,10 @@
 - TODO ((63acbb6a-fc89-46ee-af62-10dbf712e288)) [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:07:57.997Z
+  card-last-score:: 1
 	- Friedman和Nissenbaum (1996) 计算机系统中的偏见
 	- 偏见可以有不同的形式
 	  collapsed:: true
