@@ -33,8 +33,9 @@
 - 豁免条款 [[Exemption clauses]] 具体有哪些类型 [[card]]
   collapsed:: true
 	- ((63594967-c83a-476c-a84c-bcca371f327c))
+		- 例如:延期交货是因为超出其控制的条件造成的,供应商可以免除其责任.
 	- ((6359497e-fb6b-473e-ab08-1e5dcdef7ded))
-		-
+		- 软件供应商可以将他们需要承担的责任限制在软件的许可费用中.(很便宜的软件不承担很重要的任务造成的损失)
 - [[Unfair Contract Terms Act]] 主要负责内容 [[card]]
 	- ((63594afa-249f-47c2-8ab9-ab7e2cceb95a))
 - Contracts For bespoke software (定制软件) 需要注意的点有 [[card]]
