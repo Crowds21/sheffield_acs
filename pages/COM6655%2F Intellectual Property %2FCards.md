@@ -75,4 +75,5 @@
 	- 进行改编包括反编译，侵犯了版权，除非新的反编译权允许
 	- 合法用户可以在必要时进行反编译, 不包括开发竞争品
 - 知识产权中关于 ((63d52842-daf7-4e56-9275-dea58e56dea6))
-	- a lawful user making a copy of a program for backup purposes 时
+	- a lawful user making a copy of a program for backup purposes 是可以的
+-
