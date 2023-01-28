@@ -5,8 +5,9 @@
 - 背景三: 公司 Math 生产电子表格 SHEET, WordSoft 希望生产一种新的文字处理程序 Word.  WordSoft 希望自己的 Word 软件能够和 SHEET 兼容
   id:: 63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff
 - ### Intelligence Law
-	-
+	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff))
 - ### Contract Law
+  collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
 	  案例中和 Contract Law 相关的内容 [[card]]
