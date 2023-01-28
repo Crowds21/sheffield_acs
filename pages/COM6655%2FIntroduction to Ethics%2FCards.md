@@ -13,7 +13,7 @@ Exams:: ((63cfdfad-129d-4f21-8775-cad438f9e125))
 	- ((63cfe0cf-cb96-4968-abd7-797fdb89340c))
 - ((63cfe12c-382d-4402-905e-0dd6db3e75b4)) 的含义 [[card]]
   collapsed:: true
-	- the categorical imperative,== treating people as ends (respecting their rights) and not merely as means==
+	- the categorical imperative, ==treating people as ends (respecting their rights) and not merely as means==
 	- ((63cfe4f3-2ef6-4d76-8034-42f600e90ec5))
 - ((63cfe529-a447-4a19-b036-cb0c06b0af90)) 的含义
 	- ((63cfe548-3b98-4f85-9392-f38186145836))
