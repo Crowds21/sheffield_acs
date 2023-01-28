@@ -29,7 +29,6 @@
 			- ((63b45e03-86ff-4afa-b93f-50509f07a49a))
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
 		- ((63d52842-66ec-4cd0-94ed-5b757a9d33e2))
-			- Patent law protects screen design and icons.
 			- but it does not protect "look and feel".
 			-
 - ### Contract Law
