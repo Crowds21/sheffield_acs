@@ -83,7 +83,6 @@
 -
 - ### Part2
 - [[Data Protection Act]] 
-  collapsed:: true
   ((63a4ffaf-4914-41ae-b87d-41ff910db600))
 	- 简介
 	  collapsed:: true
@@ -137,7 +136,6 @@
 - [[UK General Data Protection Regulation]]
   ref:: ((63a4ffdd-4cbb-4f3e-8685-e6cf52b7eb1c))
   id:: 63a4ffb9-b4ca-454d-9279-381814e87087
-  collapsed:: true
 	- 七个主要准则
 	  collapsed:: true
 		- 合法性、公平性和透明度

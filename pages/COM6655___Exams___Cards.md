@@ -57,5 +57,6 @@
 				  collapsed:: true
 					- The school has the student's email information and can decide how to use it.(purpose and manner)
 				- Processor - Rain
+				  collapsed:: true
 					- Rain Company sends advertising emails to students on behalf of the school
 			-
