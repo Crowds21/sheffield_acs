@@ -1,6 +1,12 @@
 Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 
 - ((63a4fe21-2370-465a-98bd-328b39cdc27c)), {{cloze Personal Data}},  {{cloze Processing}}, {{cloze  Controller}},  {{cloze Processor}} [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:36:00.699Z
+  card-last-score:: 1
 - 如何判断 Personal Data , Controller 和  Processor
   collapsed:: true
 	- ((63cfc7e9-4bb0-42e7-8d2a-380cf67eabe6))
