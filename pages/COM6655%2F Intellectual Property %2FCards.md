@@ -1,5 +1,10 @@
 -
 - ### 简介
+- 知识产权主要涉及的相关法律是? [[card]]
+  collapsed:: true
+	- [[Copyright, Designs and Patents Act]]
+	- [[The Law of Confidence]]
+	- [[Copyright (Computer Programs) Regulations]]
 - Intellectual Property 包括  {{cloze 版权 copyright}},  {{cloze 专利 patents}},  {{cloze 商标 trade marks}} , 保密法  law of confidence , 冒名顶替 passing off, 设计权 design rights , 半导体法规 semiconductor regulations [[card]]
   card-last-interval:: 5.63
   card-repeats:: 1
@@ -21,18 +26,6 @@
 	- Criminal penalties for ‘secondary infringements’ 对 "二次侵权 "的刑事处罚
 	  collapsed:: true
 		- 例如，盗版软件的商业交易。
-- 知识产权主要涉及的相关法律是? [[card]]
-  collapsed:: true
-	- [[Copyright, Designs and Patents Act]]
-	- [[The Law of Confidence]]
-	- [[Copyright (Computer Programs) Regulations]]
-- 英国现代版权法所依据的法律是  {{cloze Copyright, Designs and Patents Act}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:50:37.106Z
-  card-last-score:: 1
 - 版权的所有人: 就文学、戏剧、音乐或艺术作品而言， {{cloze 作品的作者或创作者}} 通常是其任何版权的第一所有人. 政府部门制作的材料的版权属于 {{cloze 政府}} [[card]]
 - TODO 计算机生成的作品如何确定作者? [[card]]
   :LOGBOOK:
