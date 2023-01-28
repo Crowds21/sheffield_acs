@@ -207,6 +207,12 @@
 	- 信息的发布会损害信息所有者的利益或有利于其他人
 	- 信息所有者必须认为该信息是秘密的，并且尚未进入公共领域
 - 对于已经泄露的信息,依据 [[The law of confidence]] 可以采取哪些行动(补救) [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:19:14.303Z
+  card-last-score:: 1
 	- ((63cff6d8-e57e-4e81-9296-3f8b036a6310))
 	- ((63cff6f6-2fd2-45db-aabb-34c59bd60ba9))
 	- ((63cff700-72d2-4d9c-a2de-b6111db9ebf1))
