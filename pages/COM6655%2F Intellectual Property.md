@@ -1,8 +1,10 @@
 -
 - 知识产权简介
 	- 什么是 知识产权 Intellectual Property(IP)
+	  collapsed:: true
 		- 知识产权（IP）是对保护创造性作品、发明和商业商誉（企业的无形资产）的法律权利的称呼。
 		- 知识产权（IPR）包括以下内容。
+		  collapsed:: true
 			- 版权 copyright
 			- 专利 patents
 			- 商标 trade marks
@@ -19,6 +21,7 @@
 		- 它建立了一个登记制度，保护作者免受未经授权的书籍复制。
 		- 注册作者拥有复制其书籍的专属权利。
 	- 现代版权法
+	  collapsed:: true
 		- 版权法现在延伸到了文学、戏剧、艺术和音乐作品。
 		- 目前由 [[Copyright, Designs and Patents Act]] 1988（CDPA）管辖。
 		- 版权为所有者提供了以下专属权利
@@ -32,6 +35,7 @@
 	- 版权期限 Copyright term(duration)
 	  collapsed:: true
 		- 在英国，版权存在的时间（取决于作品和作品产生的时间）为
+		  collapsed:: true
 			- 作者去世后70年，或
 			- 作品创作后50年
 		- 版权是免费的，在作品创作时自动生效（不再需要注册）。
@@ -42,17 +46,21 @@
 		- "录音制品的作者和第一版权人是唱片制作人。广播的作者和版权的第一拥有者是广播公司。出版版本的作者和第一版权人是出版商
 		- 政府部门制作的材料的版权属于政府
 	- 对创意的保护
+	  collapsed:: true
 		- law of confidence 是对版权法和专利法的有益补充，因为它在思想充分发展到能够获得版权或专利之前就对它们进行保护。
 		- 由于 law of confidence 普通法为基础，它很灵活，能够跟上技术发展的步伐
 	- [[The law of confidence]]
+	  collapsed:: true
 		- 保密法保护信息（商业秘密、商业数据、不以实物表达的想法）。
 		- 版权和专利法是由法规(statute)规定的，但保密法是由common law规定的。
 		- 保密法的限制是，信息必须是保密的，不属于公共领域。
 	- 与外观设计有关的法律
+	  collapsed:: true
 		- 设计权是由法规授予的
 		- 它们可能适用于保护诸如符合人体工程学的鼠标等物品的设计。
 		- 硅芯片受 [[Design Right (Semiconductor Topographies) Regulations ]] 1989 的保护。
 	- 商标
+	  collapsed:: true
 		- 计算机行业的许多商标，例如，"Microsoft Word "和苹果公司的标志。
 		- 可以根据1994年[[Trade Marks Act ]] 注册。经[[Trade Marks Regulations ]]2018修订，商标是一种标志,能够:
 		  collapsed:: true
@@ -62,13 +70,16 @@
 	- ((63adfae1-d38b-44d1-87ca-92518ab71e01))
 	  background-color:: green
 	- Patent law专利法
+	  collapsed:: true
 		- 专利权给予发明（如新型计算机硬件）的所有者独家权利。
 		- 被视为一种有用的知识产权形式，因为所有者对一项发明有数年的垄断权。
 	- 获得专利
+	  collapsed:: true
 		- 申请是由知识产权局处理的
 		- The European Patent Convention  和其他条约规定了国际专利保护
 		- 如果一项专利被授予，其持有时间可长达20年
 	- 什么可以申请专利 ((63bedbc3-e89f-482a-90cc-8e05ca3963fb))
+	  collapsed:: true
 		- 发明必须是新的，涉及创造性的步骤，并且必须能在工业上应用
 		  id:: b8afae07-2b83-4d8b-bdce-b2c19654966d
 		  ((63bedbfe-4847-4bb7-973b-fe9c139bc842))
