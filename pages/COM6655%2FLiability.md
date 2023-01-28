@@ -109,7 +109,6 @@ title:: COM6655/Liability
 		  id:: 635e846f-f25f-4b90-ac67-6b7181211b6a
 		- 回忆Donoghue v. Stevenson (1932)案
 	- 疏忽的影响 Negligence: implications
-	  collapsed:: true
 		- negligence 诉讼(action)==并不取决于合同==,这一事实具有重要影响
 			- 如果一个程序是由出版商许可的,那么即使程序作者不是许可协议的一方,它也可能要承担过失责任.
 			- 由于硬件制造商的疏忽而遭受损失的人,即使与经销商签订了销售合同,也可以对制造商提出疏忽索赔(have a claim in negligence against ).
