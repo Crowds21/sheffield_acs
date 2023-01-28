@@ -91,7 +91,6 @@
 - [[Data Protection Act]] 
   ((63a4ffaf-4914-41ae-b87d-41ff910db600))
 	- 简介
-	  collapsed:: true
 		- 规定了英国的数据保护法的框架,于2021年1月1日修订，以反映英国在欧盟之外的地位
 		- 三个数据保护制度(regimes)
 			- 一般处理制度（英国GDPR） General processing regime
