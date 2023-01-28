@@ -61,3 +61,4 @@
 					- Rain Company sends advertising emails to students on behalf of the school
 			- ((63d59cd6-f605-46c9-b558-61d69c808b61))
 				- Purpose Limitation
+					- Rain sent unsolicited emails that violated the purpose limitaed guideline
