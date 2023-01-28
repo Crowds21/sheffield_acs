@@ -68,8 +68,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:41:56.875Z
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:46:42.227Z
   card-last-score:: 1
   collapsed:: true
 	- ((63adec19-a810-4ad9-b935-3e45c27cce52))
