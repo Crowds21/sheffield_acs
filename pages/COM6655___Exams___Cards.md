@@ -8,6 +8,7 @@
 	- 背景四: WordSoft完成程序. Math 拿到了 WordSoft 的复制品, 认为 UI很相似
 	  id:: 63d5a0fd-8986-4a9d-8bc1-da1b0256380c
 	- 背景五: Math 怀疑 Word 抄袭,对他们的代码进行了反编译.
+	  id:: 63d5a5bb-6f95-4066-aed1-44ad7891c364
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
 	  collapsed:: true
@@ -29,7 +30,7 @@
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
 			- ((63d52841-303f-4a0c-b4b0-6327b0ed1846))
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
-		-
+	-
 - ### Contract Law
   collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
