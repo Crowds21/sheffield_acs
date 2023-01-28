@@ -77,7 +77,7 @@
 	- Concerns responsibility for health and safety precautions in the workplace – most responsibility falls on employers.
 	  id:: 63d52841-f0f7-4654-9feb-bf97df753739
 	- 涉及到工作场所的健康和安全预防措施的责任--大部分责任由雇主承担
-	- employers is reason
+	- employers is reasonable for the  health and safety precautions in the workplace
 - What is ((635e96c3-4ac9-4867-89e9-f0a153125524)) [[card]]
   collapsed:: true
 	- ((63d00375-8de5-4431-ac99-a6c3bd786346))
