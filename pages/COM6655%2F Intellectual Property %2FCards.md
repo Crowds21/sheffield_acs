@@ -194,8 +194,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:53:53.992Z
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:48:33.677Z
   card-last-score:: 1
 - 计算机软件的版权相关法规应该参考 {{cloze Copyright, Designs and Patents Act}} [[card]]
   card-last-interval:: 5.63
