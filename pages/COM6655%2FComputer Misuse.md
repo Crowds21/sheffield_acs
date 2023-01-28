@@ -225,7 +225,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- 案例: R v Gold & Schifreen (the Crown against)
 	  background-color:: green
 	- 适用于黑客和病毒的立法 ((639df061-d9b2-4b4d-97b9-eb59968dddd3))
-	  collapsed:: true
 		- [[Computer Misuse Act]] 1990
 		  id:: 639df05c-ed9e-4746-8298-8b09170a1937
 			- 引入了针对病毒和黑客行为的新罪行
@@ -237,6 +236,7 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 			- 违法行为可能与网络犯罪同时发生。这些罪行包括==故意或鲁莽地获取或披露个人数据，以及出售未经同意披露的个人数据==
 - [[Computer Misuse Act]] 1990
 	- CMA 1990引入的新罪行(offences)
+	  collapsed:: true
 		- ((639df302-929c-4f2d-b21d-56ecd1d3a8ef))
 		  id:: 639df376-8804-4e7d-a2a8-a324052718a7
 		  未经授权访问计算机材料
@@ -272,6 +272,7 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 				- 某一特定的修改
 		- More about unauthorised modification
 		  id:: 63a1baf8-21dd-4015-b36a-9b1602a8c8d1
+		  collapsed:: true
 		  更多关于未经授权的修改
 			- 未经授权==删除==计算机内存或存储介质中的==程序或数据==。
 			- 传播受==病毒感染的程序==，目的是造成==修改，损害==接收者的==计算机的运行==。
