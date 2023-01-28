@@ -11,7 +11,8 @@
 	  id:: 63d5a5bb-6f95-4066-aed1-44ad7891c364
 	- 背景六: A 在未经授权的情况下在B 的电脑上查找了一些文件并复制到 USB 中.
 	  id:: 63d5a9d6-b303-4f67-9677-b67fb4860022
-- ###
+- ### Legal Concept
+	- ((63d5a9d6-b303-4f67-9677-b67fb4860022))
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
 	  collapsed:: true
