@@ -22,7 +22,6 @@ title:: COM6655/Contract law
 		- 如果 one party should fail to comply with their promise (当事人有一方不遵守协议)  there is legal action available(可采取法律行动)
 		  id:: 6358ed12-0471-4825-84e7-7a68cd694100
 	- 责任(Liability )的限制
-	  collapsed:: true
 		- 责任必须是被公平限制的(fairly limited), 不可对 death or personal injury  做出限制
 		- usual remedy (通常的补救措施)is money compensation
 	- 合同的私权 Privity of contract
