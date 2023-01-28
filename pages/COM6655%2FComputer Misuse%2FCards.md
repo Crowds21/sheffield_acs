@@ -14,6 +14,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((639b239c-a6dd-47e0-954d-a359d5c57be9))
 - 关于黑客和病毒的法案 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:09:11.560Z
+  card-last-score:: 1
 	- ((639df05c-ed9e-4746-8298-8b09170a1937))
 	- ((639df086-519a-4f14-b244-2cd99dc1ae0c))
 	- ((639df08f-2211-4671-bf0f-a39226ffdff9))
