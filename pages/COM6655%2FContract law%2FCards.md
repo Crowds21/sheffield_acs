@@ -18,7 +18,6 @@
 	- ((635a5457-b9d3-4c1b-97a0-24c7270fef9a))
 	- ((635a571f-b7a6-46a6-8b11-b474346b7fc8))
 - 与软件开发相关的法律 [[card]]
-  collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
@@ -98,3 +97,4 @@
 	- ((63cffb6f-ee6f-4c63-b937-14398ed0d9d9))
 	- ((63cffb74-6df1-4b4d-a47f-5d5bbb2c1f82))
 	-
+-
