@@ -15,7 +15,9 @@
 	- Accountability
 		- ((63cfff9d-7248-4409-9222-b34923bdab81))
 	- Responsible
-		-
+		- ((63d53e26-6278-42ff-9932-d7295b0f0272)),
+			- ((63d53e2f-edab-4f13-b29d-bb64ceac8637))
+			-
 - TODO 什么是 Liability [[card]]
 - 为了保护消费者,[[Contract law]]也会受到  {{cloze Consumer Rights Act}} 的限制, ((635e63e8-5d6a-4ec2-b2df-f0a10015e881))
 - 承担 ((635e612e-1446-4b8f-8f68-fe830a0c2f21)) 的因素 [[card]]
