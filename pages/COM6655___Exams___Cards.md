@@ -93,7 +93,8 @@
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析
-		-
+		- [[Computer Misuse Act]]
+			-
 	-
 -
 - ### Data Protection
