@@ -108,8 +108,7 @@
 	-
 - 自由软件并不意味着非商业性 [[card]]
 -
--
--
+- ### 软件和专利
 -
 - law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
   card-last-interval:: -1
