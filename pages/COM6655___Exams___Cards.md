@@ -33,7 +33,7 @@
 	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
-			-
+		-
 		- [[The Law of Confidence]]
 - ### Contract Law
   collapsed:: true

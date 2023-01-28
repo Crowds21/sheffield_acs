@@ -204,6 +204,7 @@
 				  if that part is significant in terms of the program’s function
 		- 案例 ((63b44eab-e80e-462a-9931-ae95e35db53a))
 		  background-color:: green
+		  id:: 63d52842-cea3-444a-ad14-35a17223f1cb
 			- software collections 软甲合计是否受到版权保护
 				- IBCOS的程序员在一个账户软件包上工作
 				- 后来，为巴克莱银行制作了一个竞争性的软件包
