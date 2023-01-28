@@ -21,6 +21,8 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 			- strict liability offences "严格责任罪" 不涉及犯罪意图
 			- 例如，夜间驾驶时后灯有问题，即使司机不知道该灯有问题，也是犯罪
 	- 计算机滥用的类型  Types of computer misuse (Scottish Law Commission)
+	  collapsed:: true
+	  id:: 63d52842-4392-49b9-9c4a-7e88531a13b2
 		- Erasure or falsification of data or programs
 		  id:: 63623a80-6077-4949-aa1c-ce8ed72fc7a6
 		  collapsed:: true
