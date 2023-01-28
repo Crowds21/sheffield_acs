@@ -60,7 +60,9 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- ((63cfc6d9-946b-4c5b-ac69-d19c60b0bd2c))
 	- ((63cfc71f-72a5-4459-8e57-3f18569e1586))
 	- ((63cfc70b-2748-45d0-b8fc-b46172425827))
-	-
+	- 你必须有适当的措施和记录，以便能够证明你的合规性
+	- 文件在所有层面都是必不可少的，包括记录和跟踪同意书、合同
+	- 需要检测、报告、调查和记录数据违规行为
 - ((63a8858f-fdc8-49fb-a7de-e9d61efe6344)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
 	- ((63cfc864-6565-457d-9b7d-bf64b347eb72))
