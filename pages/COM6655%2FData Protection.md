@@ -1,7 +1,6 @@
 -
 - ### Part1
 - Privacy
-  collapsed:: true
 	- 计算机时代的隐私
 	  collapsed:: true
 		- 信息技术使得个人、政府和企业能够侵犯他人的隐私
