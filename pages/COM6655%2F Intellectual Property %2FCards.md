@@ -27,6 +27,12 @@
 	  collapsed:: true
 		- 例如，盗版软件的商业交易。
 - 版权的所有人: 就文学、戏剧、音乐或艺术作品而言， {{cloze 作品的作者或创作者}} 通常是其任何版权的第一所有人. 政府部门制作的材料的版权属于 {{cloze 政府}} [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:01:05.630Z
+  card-last-score:: 1
 - [[Copyright, Designs and Patents Act]] 中规定的, 计算机生成的作品属于两种类型,具体是? [[card]]
   collapsed:: true
 	- 由==人类作者==创造的计算机程序作为 "文学作品 "的形式受到保护
