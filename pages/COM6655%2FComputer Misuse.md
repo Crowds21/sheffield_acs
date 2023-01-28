@@ -62,7 +62,7 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 		- Unauthorised use of computer time/facilities
 		  id:: 63cfe926-31d3-4509-95fa-6cf76b9693d3
 		  未经授权使用计算机的 时间/ 设施
-			- 计算机授权用户可以将其用于未经授权的目的
+			- 计算机授权用户可能将其用于未经授权的目的
 			- 与其雇主竞争的私人研究和开发
 			  private research and development which is competitive with their employer
 		- Malicious or reckless corruption or erasure of data or programs
