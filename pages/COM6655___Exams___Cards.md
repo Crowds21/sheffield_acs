@@ -40,7 +40,7 @@
 			- So the code for this function may have been copied
 		- The other two parts are standard algorithms, so no expressions are copied
 		- ((63d52842-b3fe-416f-bb71-2ed79c499a35))
-			- If the algorithm for reading part of the sheet file is rewritten by word, they may not be infringing under the law of the case.
+			- If the algorithm for part1 "input sheet file is rewritten by word, they may not be infringing under the law of the case.
 - ### Contract Law
   collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
