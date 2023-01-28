@@ -23,6 +23,7 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- 计算机滥用的类型  Types of computer misuse (Scottish Law Commission)
 		- Erasure or falsification of data or programs
 		  id:: 63623a80-6077-4949-aa1c-ce8ed72fc7a6
+		  collapsed:: true
 		  擦除或伪造数据或程序以获得经济或其他利益
 			- 属于欺诈或盗窃This category deals with fraud or theft
 		- Obtaining unauthorised access to a computer
@@ -138,6 +139,7 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 - 欺诈法案 [[Fraud Act]] 2006
 	- 处理1968年和1978年[[Theft Acts]]的缺陷,尤其是 ICT (信息和通信技术)方面的欺诈
 	- 主要方面
+	  collapsed:: true
 		- 通过虚假陈述进行诈骗 Fraud by false representation
 		  id:: 6398df4d-6a84-4dda-be87-a34257013103
 		- 滥用职权的欺诈行为 Fraud by abuse of position
