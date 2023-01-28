@@ -23,6 +23,12 @@
 - 为了保护消费者,[[Contract law]]也会受到  {{cloze Consumer Rights Act}} 的限制, ((635e63e8-5d6a-4ec2-b2df-f0a10015e881))
 - 承担 ((635e612e-1446-4b8f-8f68-fe830a0c2f21)) 的因素 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:36:00.665Z
+  card-last-score:: 1
 	- ((63d0000d-2b57-4cba-bb86-e267420d756c))
 	- ((63d00011-4882-4b1a-8329-4c8e48db8192))
 	- ((63d00016-7610-43e0-bb34-ab020411ee3e))
