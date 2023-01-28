@@ -19,6 +19,12 @@
 	- ((635a571f-b7a6-46a6-8b11-b474346b7fc8))
 - 与软件开发相关的法律 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:04:05.353Z
+  card-last-score:: 1
 	- [[COM6655/Contract law]]
 	- [[Copyright law]]  [[Copyright, Designs and Patents Act]]
 	- [[The law of confidence]]
