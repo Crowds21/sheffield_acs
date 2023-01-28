@@ -18,7 +18,7 @@
 		- ((63d52842-b13a-4e84-9893-648f2307f5a9))
 		  collapsed:: true
 			- decompilation and rewrite are both effectively translation, which is a restricted right
-	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,
+	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,认为 Word 侵犯了
 - ### Contract Law
   collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
