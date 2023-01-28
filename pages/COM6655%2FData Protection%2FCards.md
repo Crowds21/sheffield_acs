@@ -89,6 +89,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 		- ((63a88adc-e30a-4203-856d-e4938d551db1))
 - ((63a88ae9-a9f7-4503-9913-52b94d8650e8)) 的主要作用是? [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:01:25.076Z
+  card-last-score:: 1
 	- ((63cfbebd-bc0e-42a1-9fed-ecc56af17db7))
 	- Give people access to information held by public atuhorities
 - 调查权  Investigatory powers包含哪两种权利 [[card]]
