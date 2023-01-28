@@ -1,0 +1,62 @@
+-
+- Intellectual Property 包括  {{cloze 版权 copyright}},  {{cloze 专利 patents}},  {{cloze 商标 trade marks}} , 保密法  law of confidence , 冒名顶替 passing off, 设计权 design rights , 半导体法规 semiconductor regulations [[card]]
+  card-last-interval:: 5.63
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2023-01-17T06:53:42.830Z
+  card-last-reviewed:: 2023-01-11T15:53:42.830Z
+  card-last-score:: 3
+- 英国现代版权法所依据的法律是  {{cloze Copyright, Designs and Patents Act}} [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-12T00:00:00.000Z
+  card-last-reviewed:: 2023-01-11T15:50:37.106Z
+  card-last-score:: 1
+- 版权的所有人: 就文学、戏剧、音乐或艺术作品而言， {{cloze 作品的作者或创作者}} 通常是其任何版权的第一所有人. 政府部门制作的材料的版权属于 {{cloze 政府}} [[card]]
+- law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-12T00:00:00.000Z
+  card-last-reviewed:: 2023-01-11T15:52:38.905Z
+  card-last-score:: 1
+- 对商标的保护可以参考  {{cloze Trade Marks Act}}   和   {{cloze Trade Marks Regulations}} 这两部法律 [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-12T00:00:00.000Z
+  card-last-reviewed:: 2023-01-11T15:49:47.966Z
+  card-last-score:: 1
+- 对专利的保护可以参考 {{cloze  Patent Act}} [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-12T00:00:00.000Z
+  card-last-reviewed:: 2023-01-11T15:53:53.992Z
+  card-last-score:: 1
+- 满足什么条件才能够申请专利 [[card]]
+  collapsed:: true
+	- ((b8afae07-2b83-4d8b-bdce-b2c19654966d))
+	- ((cf843d25-54ac-448e-ad14-d462b1b9f5d2))
+	- ((a44acd55-5c1e-4940-b4e0-d3b6e80a1965))
+- 计算机软件的版权相关法规应该参考 {{cloze Copyright, Designs and Patents Act}} [[card]]
+  card-last-interval:: 5.63
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2023-01-17T06:53:06.679Z
+  card-last-reviewed:: 2023-01-11T15:53:06.679Z
+  card-last-score:: 3
+- 申请计算机程序版权必须保证 [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-12T00:00:00.000Z
+  card-last-reviewed:: 2023-01-11T15:51:54.368Z
+  card-last-score:: 1
+  collapsed:: true
+	- ((e7eee613-9e72-4da4-8e9d-729a451466df))
+	- ((f1004708-80fa-4682-be56-7ffd1f00ae50)): ((63b44c85-ab2a-44f2-b92d-ecd6ea417445))
+	- ((1dc4a170-ec58-466a-bf66-abf2c977af87)): ((63b44ca3-fd04-4232-b07a-7218e3038631))
+- 对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的,
+- 程序的 substantial part
