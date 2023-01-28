@@ -1,9 +1,15 @@
 -
 - ~~Liability相关法案~~ [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:21:30.681Z
+  card-last-score:: 1
 	- [[Health and Safety Act]]
 	- [[Consumer Rights Act]]
 	- [[Consumer Protection Act]]
-	- TODO [[Consumer Protection Act]]
+	-
 - Accountable vs. responsible 的区别[[card]]
   collapsed:: true
 	- ((63cfff9d-7248-4409-9222-b34923bdab81))
