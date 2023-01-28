@@ -118,16 +118,19 @@
 		- 1992年的[[Copyright (Computer Programs) Regulations]]对与计算机程序有关的侵权行为提出了例外情况
 		-
 	- 侵犯版权的补救措施 Remedies for copyright infringement
+	  collapsed:: true
 		- Injunction 禁令
+		  collapsed:: true
 			- 法院命令，要求被告做某事或不做某事，例如，停止销售未经授权的计算机程序副本。
 		- Damages 损害赔偿
+		  collapsed:: true
 			- 版权损害赔偿被评估为由侵权行为造成的估计损失。
 		- Additional damages 额外损害赔偿
+		  collapsed:: true
 			- 当版权人遭受名誉或感情的损害以及纯粹的经济损失时。
 		- Criminal penalties for ‘secondary infringements’ 对 "二次侵权 "的刑事处罚
 			- 例如，盗版软件的商业交易。
 	- 作者身份和所有权 Authorship and ownership
-	  collapsed:: true
 		- 作品版权的最初所有者是作品的作者，除非作品是由雇员在工作期间制作的，在这种情况下，除非另有约定，否则雇主将是所有者
 		- 由于版权可以出售，其他人随后可以成为版权所有者
 		- CDPA区分了两类使用计算机制作的作品--由人类作者生成的作品和计算机生成的作品。
