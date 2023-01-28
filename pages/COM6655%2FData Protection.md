@@ -354,8 +354,10 @@
 		- 该法受到记者的欢迎，但有许多豁免条款，特别是关于政府的信息--在某些情况下，这些请求可能有一些相关的费用(例如支付通信费用)
 - 调查权  Investigatory powers
 	- 简介
+	  collapsed:: true
 		- 2000年[[The Regulation of Investigatory Powers Act ]]（RIPA）于2000年10月生效
 		- 调查权力是授权组织为调查或情报目的秘密收集信息的权力，包括以下方面：
+		  collapsed:: true
 			- 第一部分：截取通信数据
 			- 第二部分：监视
 			- 第三部分：加密
@@ -363,17 +365,22 @@
 		- RIPA 2000 and IPA 201都有很大争议
 	- 两套与通信有关的不同权力
 	  id:: 63a88ea0-7446-40b9-b4c4-bf67ed3b05f4
+	  collapsed:: true
 		- 由[[The Regulation of Investigatory Powers Act]]
 		- 拦截通信内容
+		  collapsed:: true
 			- 例如，通过监听电话交谈或语音邮件信息（该法第一部分第一章）。
 			  该法第1部分的第1章）
 			- 手令由内政大臣、外交大臣、北爱尔兰大臣或苏格兰大臣签署，并由拦截通信专员进行监督( Interception of Communications Commissioner )
 		- 获取通信数据
+		  collapsed:: true
 			- 例如,谁与谁联系、何时联系、从何处联系以及联系多长时间的记录（该法第一部分第2章）
 			- 获取和披露通信数据的授权由寻求数据的组织中的 "指定人员 "签发，例如警察部队的警司
+			  collapsed:: true
 				- designated persons
 				- a Superintendent in a police force
 	- 基于 RIPA, 某些公共机构可以对一个人的电子通信进行监视和批量访问
+	  collapsed:: true
 		- 要求互联网服务提供商(ISP)提供对客户通信的秘密访问
 		- 要求互联网服务提供商（ISP）秘密提供客户的通信
 		- 对传输中的通信进行大规模监控
@@ -382,10 +389,12 @@
 		- 监控人们的互联网活动
 		- 防止拦截令的存在以及用拦截令收集的任何数据在法庭上被披露
 	- 额外说明 ( 反对者 )
+	  collapsed:: true
 		- 该立法首次明确规定了情报部门和警察可利用的监视权力
 		- 它使安全机构对电脑和手机的黑客攻击合法化，并允许他们访问大量存储的个人数据，即使被审查的人没有任何不法行为的嫌疑
 		- 窥探者的宪章: 很多人认为该法案容易被过度使用,对公名自由造成威胁
 	- 一些人认为该法案不符合欧洲人权公约 European Convention on Human Rights
+	  collapsed:: true
 		- 他们失败了
 		- 第六条。每一个被指控犯有刑事罪的人，在被依法证明有罪之前，应被推定为无罪。
 		- 第八条：每个人都有权尊重他的私人和家庭生活，他的家和他的信件。
