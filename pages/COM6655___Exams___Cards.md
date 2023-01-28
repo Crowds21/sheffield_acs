@@ -16,7 +16,7 @@
 		- ((63d52842-b13a-4e84-9893-648f2307f5a9))
 		  collapsed:: true
 			- decompilation and rewrite are both effectively translation, which is a restricted right
-		-
+	-
 - ### Contract Law
   collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
