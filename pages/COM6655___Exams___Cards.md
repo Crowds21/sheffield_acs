@@ -47,10 +47,11 @@
 	-
 -
 - ### Data Protection
-	- 背景: 某公司和某学校有合作关系,该公司未经申请向学生发送广告邮件
+	- 背景: 某公司和某学校有合作关系,该公司和学校合作向学生发送广告邮件
 	  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
 		- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
 		  结合 [[Data Protection Act]] 分析该案例 [[card]]
 			- 相关定义
 				- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
 				- Controller
+					-
