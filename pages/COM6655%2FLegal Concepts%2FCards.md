@@ -43,12 +43,12 @@
   card-last-reviewed:: 2023-01-28T16:44:36.359Z
   card-last-score:: 1
 - {{cloze 仲裁(Arbitration )}}用于许多民事案件（特别是在商业领域），涉及任命一名独立的仲裁员来解决争端 [[card]]
-  card-last-interval:: 5.63
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-17T06:41:23.079Z
-  card-last-reviewed:: 2023-01-11T15:41:23.083Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:49:45.251Z
+  card-last-score:: 1
 -
 - 法人 英文为: {{cloze An artificial person}} , 指的是在法律意义上,具有独立的法律地位和责任能力的 {{cloze 组织或个人}} [[card]]
   card-last-interval:: -1
