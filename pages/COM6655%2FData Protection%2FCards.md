@@ -101,6 +101,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 只要个人数据仅用于公共利益的存档目的、科学或历史研究目的，则个人数据的保存时间可以更长
 - ((63a8857d-ae1c-4ab5-8ab3-88bb93011f26)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:38:06.953Z
+  card-last-score:: 1
 	- ((63cfde34-9bbc-4fc8-9479-39f6443cc43f))
 	- 个人数据的保存形式应允许识别数据主体，其时间不得超过处理个人数据的目的所需的时间
 - ((63cfbc8b-3089-417b-bfb9-6be9439eff58)) in [[UK General Data Protection Regulation]] [[card]]
