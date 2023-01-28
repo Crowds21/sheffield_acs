@@ -8,7 +8,7 @@
 	- 背景四: WordSoft完成程序. Math 拿到了 WordSoft 的复制品, 认为 UI很相似
 	  id:: 63d5a0fd-8986-4a9d-8bc1-da1b0256380c
 - ### Intelligence Law
-	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff))
+	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
 		- Related Laws [[The Copyright (Computer Programs) Regulations]]
 		- Related Laws [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
@@ -18,7 +18,8 @@
 		- ((63d52842-b13a-4e84-9893-648f2307f5a9))
 		  collapsed:: true
 			- decompilation and rewrite are both effectively translation, which is a restricted right
-	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,认为 Word 侵犯了
+	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,认为 Word 侵犯了 Math 的版权
+		-
 - ### Contract Law
   collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
