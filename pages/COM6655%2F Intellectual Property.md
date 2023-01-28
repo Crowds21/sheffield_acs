@@ -128,7 +128,6 @@
 		- Criminal penalties for ‘secondary infringements’ 对 "二次侵权 "的刑事处罚
 			- 例如，盗版软件的商业交易。
 	- 作者身份和所有权 Authorship and ownership
-	  collapsed:: true
 		- 作品版权的最初所有者是作品的作者，除非作品是由雇员在工作期间制作的，在这种情况下，除非另有约定，否则雇主将是所有者
 		- 由于版权可以出售，其他人随后可以成为版权所有者
 		- CDPA区分了两类使用计算机制作的作品--由人类作者生成的作品和计算机生成的作品。
