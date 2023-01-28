@@ -180,8 +180,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:52:38.905Z
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:45:49.613Z
   card-last-score:: 1
 - 对商标的保护可以参考  {{cloze Trade Marks Act}}   和   {{cloze Trade Marks Regulations}} 这两部法律 [[card]]
   card-last-interval:: -1
