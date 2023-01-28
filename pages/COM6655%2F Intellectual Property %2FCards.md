@@ -71,7 +71,8 @@
 - CDPA 中,如何处理中间产物 [[card]]
 	- 编写软件的人对(用软件的人最终)输出的内容没有控制权
 	- 因为它是使用软件的人的努力的结果
-- CDPR,关于"Translation"的定义
+- CDPR,关于"Translation"的定义存在什么问题
+-
 - ### CDPA 与 计算机程序
 - 申请计算机程序版权必须保证 [[card]]
   card-last-interval:: -1
@@ -106,7 +107,7 @@
 	- 合法用户可以在==必要时进行反编译, 不包括开发竞争品==
 - 知识产权中关于 ((63d52842-daf7-4e56-9275-dea58e56dea6)) [[card]]
 	- a lawful user making a copy of a program for backup purposes 是可以的
-- 关于计算机软件的编译和反编译是由  {{cloze Copyright(Computer Programs) Regulations}} 提供的
+- 关于计算机软件的编译和反编译是由  {{cloze Copyright(Computer Programs) Regulations}} 提供的 [[card]]
 - 知识产权中关于计算机程序的 ((63d52842-3c1c-45cb-8e64-4351e857f421)) [[card]]
   collapsed:: true
 	- CCPR允许合法用户改编程序，前提是
