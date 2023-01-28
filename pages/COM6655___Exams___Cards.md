@@ -94,8 +94,9 @@
 - ### Computer Misuse
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析
 		- Guilty Action
-			-
+			- Accessed someone else's computer and copied material
 		- Guilty Mind
+			-
 		- [[Computer Misuse Act]]
 		  ref:: ((63d52842-4392-49b9-9c4a-7e88531a13b2))
 			- ((63623b75-9c19-4b4a-97fb-e86d4ca93557))
