@@ -20,6 +20,7 @@
 		  collapsed:: true
 			- decompilation and rewrite are both effectively translation, which is a restricted right
 	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,认为 Word 侵犯了 Math 的版权 [[card]]
+		- 相关法律是 [[Copyright, Designs and Patents Act]]
 		-
 - ### Contract Law
   collapsed:: true
