@@ -78,7 +78,7 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 - ((63a88ae9-a9f7-4503-9913-52b94d8650e8)) 的主要作用是? [[card]]
   collapsed:: true
 	- ((63cfbebd-bc0e-42a1-9fed-ecc56af17db7))
-	-
+	- Give people access to information
 - 调查权  Investigatory powers包含哪两种权利 [[card]]
   ref:: ((63a88ea0-7446-40b9-b4c4-bf67ed3b05f4))
   collapsed:: true
