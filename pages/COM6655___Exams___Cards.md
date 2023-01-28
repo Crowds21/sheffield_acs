@@ -2,6 +2,7 @@
 	- 背景一 : 学校 SCH 找 Microsoft 开发软件检测学生作弊, Microsoft自己写不了找三哥写软件,最后好多学生没分.
 	  id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  collapsed:: true
 	  案例中和 Contract Law 相关的内容
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
 		- [[Consumer Rights Act]]
@@ -26,7 +27,9 @@
 			- This may be due to problems with the training data provided by the school, the school also contributed to the negligence
 		- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 		-
-	- ((63d52843-ed39-4327-a1da-b453587d78ee))
+	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  案例中Negligence 相关内容
+	  ((63d52843-ed39-4327-a1da-b453587d78ee))
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
 		- ~~Reduced liability~~
 			- little control over the way the system is used or interpreted
