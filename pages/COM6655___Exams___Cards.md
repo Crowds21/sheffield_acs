@@ -5,7 +5,7 @@
 	  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
 	- 背景三: 公司 Math 生产电子表格 SHEET, WordSoft 希望生产一种新的文字处理程序 Word.  WordSoft 希望 Word 能和 SHEET 兼容. WordSoft 反编译了 SHEET.
 	  id:: 63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff
-	- 背景四: WordSoft完成程序. Math 拿到了 WordSoft 的复制品.
+	- 背景四: WordSoft完成程序. Math 拿到了 WordSoft 的复制品, 认为 UI 相似
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff))
 		- Related Laws [[The Copyright (Computer Programs) Regulations]]
