@@ -105,7 +105,7 @@
 	- 合法用户可以在==必要时进行反编译, 不包括开发竞争品==
 - 知识产权中关于 ((63d52842-daf7-4e56-9275-dea58e56dea6)) [[card]]
 	- a lawful user making a copy of a program for backup purposes 是可以的
-- 关于计算机软件的编译和反编译是由
+- 关于计算机软件的编译和反编译是由 Copyright(computer program)
 - 知识产权中关于计算机程序的 ((63d52842-3c1c-45cb-8e64-4351e857f421)) [[card]]
   collapsed:: true
 	- CCPR允许合法用户改编程序，前提是
