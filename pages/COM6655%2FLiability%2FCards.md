@@ -74,6 +74,12 @@
 	- The state of scientific and technical knowledge at the relevant time was not such that the producer of the product might be expected to have discovered the defect
 - [[Health and Safety Act]] 的主要内容 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:26:28.894Z
+  card-last-score:: 1
 	- Concerns responsibility for health and safety precautions in the workplace – most responsibility falls on employers.
 	  id:: 63d52841-f0f7-4654-9feb-bf97df753739
 	- 涉及到工作场所的健康和安全预防措施的责任--大部分责任由雇主承担
