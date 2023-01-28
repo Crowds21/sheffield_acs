@@ -47,6 +47,7 @@
 	- ((63d000d2-aee8-4f82-86ef-bc0870437b41))
 	- negligence
 	  id:: 63d53cf2-40b0-4958-96f6-a96046bbac8c
+	- claimant
 - What is [[Negligent misstatement]] [[card]]
   collapsed:: true
 	- If advice given by decision support system is incorrect,  developers of the system may be liable in negligent misstatement to the recipient.
