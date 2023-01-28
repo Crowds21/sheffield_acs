@@ -124,7 +124,8 @@ title:: COM6655/Liability
 			- 如果索赔人也是促成过失的因素之一,则被告人可以减少赔偿.
 			- TODO 举个例子
 				- 一台做工很差的电脑可能会有电气危险,但如果买房对其进行了操作,比如试图修复他,则可以根据他们对事故贡献的比例而减少损失.
-	- 疏忽误报 [[Negligent misstatement]]
+	- [[Negligent misstatement]]
+	  疏忽误报
 		- 就对软件提供建议而言,疏忽的责任是很严重的.
 		  background-color:: red
 		- 因疏忽的建议而造成的侵权行为被称作 [[Negligent misstatement]]
