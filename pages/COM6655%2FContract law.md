@@ -106,7 +106,6 @@ title:: COM6655/Contract law
 - 违反合同 Breach of contract
   id:: 6359449c-42e1-46ca-a069-f5022b5501e3
 	- 如果有一方违反了合同,补救措施(remedy)取决于违反条约的类型
-	  collapsed:: true
 		- warranties 保证 (warranty)
 		  id:: 63594511-6661-48c4-b396-88e42a897f97
 			- 违反保证允许受害方申请赔偿,合约仍然有效,需要继续完成
