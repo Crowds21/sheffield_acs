@@ -67,7 +67,7 @@
   :LOGBOOK:
   CLOCK: [2023-01-28 Sat 14:27:54]
   :END:
-- 版权保护的是 {{cloze 表达expression}},而不是 idea. 英国法律认为 ((63d56920-3aee-4cff-bb7a-a4bd4b563073)) [[card]]
+- 版权保护的是 {{cloze 表达expression}},而不是 idea. 英国法律认为 ((63d56920-3aee-4cff-bb7a-a4bd4b563073)) , 因此可能存在的问题是[[card]]
 - CDPA 中,如何处理中间产物 [[card]]
 	- 编写软件的人对(用软件的人最终)输出的内容没有控制权
 	- 因为它是使用软件的人的努力的结果
