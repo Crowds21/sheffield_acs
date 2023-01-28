@@ -5,7 +5,8 @@
 	  案例中和 Contract Law 相关的内容
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
 		- Software is digital product, the software should have satisfactory quality.
-		- The company provides services to schools, Microsoft should be carried out with a reasonable
+		- The company provides services to schools, Microsoft should be carried out with a reasonable degree of care and  skill
+		-
 	-
 - ### Liability
 - ### Computer Misuse
