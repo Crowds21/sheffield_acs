@@ -1,6 +1,5 @@
 -
 - 知识产权简介
-  collapsed:: true
 	- 什么是 知识产权 Intellectual Property(IP)
 		- 知识产权（IP）是对保护创造性作品、发明和商业商誉（企业的无形资产）的法律权利的称呼。
 		- 知识产权（IPR）包括以下内容。
@@ -220,6 +219,7 @@
 		  a lawful user making a copy of a program for backup purposes
 		- "协议中是否存在任何旨在禁止或限制该行为的条款或条件是不相关的"
 	- 错误纠正和其他例外情况 ((63b457ff-c82b-410e-8e34-e34211b997c0))
+	  collapsed:: true
 	  id:: 63d52842-3c1c-45cb-8e64-4351e857f421
 		- CCPR允许合法用户改编程序，前提是
 			- 为合法使用而必须这样做
