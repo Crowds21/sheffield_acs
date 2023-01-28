@@ -47,6 +47,7 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- ((63a8857d-ae1c-4ab5-8ab3-88bb93011f26))
 	- ((63a88574-ccdb-4ef4-ad55-0a4b865846d9))
 	- ((63a8858f-fdc8-49fb-a7de-e9d61efe6344))
+	  完整性和保密性
 	- ((63a88678-df55-4fb1-abb7-04d520f88dc7))
 - ((63a88678-df55-4fb1-abb7-04d520f88dc7)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
