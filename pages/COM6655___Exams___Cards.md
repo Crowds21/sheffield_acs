@@ -40,12 +40,12 @@
 		-
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
-	  ((635e96c3-4ac9-4867-89e9-f0a153125524))
+	  ((635e96c3-4ac9-4867-89e9-f0a153125524)) [[card]]
 		- The software company is vicariously liable to the school for any damages suffered by the student.
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
--
+	-
 -
 - ### Data Protection
 	- 背景: 某公司和某学校有合作关系,该公司未经申请向学生发送广告邮件
-	-
+		-
