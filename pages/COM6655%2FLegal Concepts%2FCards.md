@@ -87,6 +87,12 @@
 -
 - 什么是犯罪crime? [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T14:58:45.172Z
+  card-last-score:: 1
 	- ((6d06f987-7536-4adf-8020-abd320084eb9))
 - ((63bc5c91-329b-42a3-ad44-823788c3741f)) ? [[card]]
 	- the mind is guilty
