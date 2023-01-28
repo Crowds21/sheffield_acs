@@ -34,7 +34,6 @@
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
 		- 程序的 substantial part
-		  collapsed:: true
 			- ((63d52842-cea3-444a-ad14-35a17223f1cb))
 			- Even if a very small part of the program is copied, it is an infringement if that part is material in terms of the function of the program
 			- So the code for this function may have been copied
