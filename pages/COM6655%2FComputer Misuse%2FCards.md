@@ -77,6 +77,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 - [[Fraud Act]] 2006 涉及的方面 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:24:13.915Z
+  card-last-score:: 1
 	- ((6398df4d-6a84-4dda-be87-a34257013103))
 	- ((6398df50-92fc-466e-97b0-c66b97781337))
 	- ((6398dec2-59de-4e41-8195-d32e5549341f))
