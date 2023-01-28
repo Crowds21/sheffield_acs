@@ -25,7 +25,7 @@
 			- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
 		- ~~Reduced liability~~
 			- little control over the way the system is used or interpreted
-			-
+		- state-of-the-art defence
 - ### Liability
 - ### Computer Misuse
 -
