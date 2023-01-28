@@ -2,8 +2,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:45:36.454Z
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:44:40.507Z
   card-last-score:: 1
 	- 对于所有法院都是通用的法律
 	- 使用"先例 precedent" 作为指南, 先例也被叫做 case law
