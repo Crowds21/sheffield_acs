@@ -1,6 +1,5 @@
 -
 - 知识产权简介
-  collapsed:: true
 	- 什么是 知识产权 Intellectual Property(IP)
 		- 知识产权（IP）是对保护创造性作品、发明和商业商誉（企业的无形资产）的法律权利的称呼。
 		- 知识产权（IPR）包括以下内容。
