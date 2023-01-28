@@ -95,6 +95,7 @@
 	- 案例 ((63adfde8-5959-4e47-b156-905eefd2e346))
 	  background-color:: green
 	- 目前的情况
+	  collapsed:: true
 		- 软件版权现在由1988年 [[Copyright, Designs and Patents Act]] （CDPA）涵盖。
 		- CDPA本身已被有关计算机程序的备份、反编译和纠错的法规所修正。
 	- [[Copyright, Designs and Patents Act]]
@@ -117,7 +118,6 @@
 		- 1992年的[[Copyright (Computer Programs) Regulations]]对与计算机程序有关的侵权行为提出了例外情况
 		-
 	- 侵犯版权的补救措施 Remedies for copyright infringement
-	  collapsed:: true
 		- Injunction 禁令
 			- 法院命令，要求被告做某事或不做某事，例如，停止销售未经授权的计算机程序副本。
 		- Damages 损害赔偿
