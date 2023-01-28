@@ -56,6 +56,12 @@
 	- 经验性的--研究受应用影响的人的理解和经验
 	- 技术性的--识别价值并开发支持这些价值的技术机制
 - ((63d52843-66d6-40fd-9536-e70c9d3eb508)) [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T14:59:01.117Z
+  card-last-score:: 1
 	- 不想要的
 		- 计算机专业人员被一套固定的规则所约束，使他们与自己的道德标准和社会的道德标准相距甚远
 	- 想要的
