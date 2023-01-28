@@ -71,6 +71,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 需要检测、报告、调查和记录数据违规行为
 - ((63a8858f-fdc8-49fb-a7de-e9d61efe6344)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:35:43.832Z
+  card-last-score:: 1
 	- ((63cfc864-6565-457d-9b7d-bf64b347eb72))
 	- ((63cfc884-ed16-4eda-aa3b-10e29f698931))
 	- 个人数据的处理方式应确保个人数据的适当安全
