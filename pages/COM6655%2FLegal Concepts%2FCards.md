@@ -18,8 +18,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:47:52.341Z
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:43:20.820Z
   card-last-score:: 1
 - 民法关注的是 {{cloze 解决个人或群体之间的纠纷}},其目的通常是 {{cloze 损害赔偿  damages}}（金钱补偿 money compensation ）或 {{cloze 禁止令 injunction}}（法院命令） [[card]]
   card-last-interval:: -1
