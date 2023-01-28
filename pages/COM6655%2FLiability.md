@@ -118,8 +118,9 @@ title:: COM6655/Liability
 			- 软件开发者只对那些他有理由相信可能受到任何因疏忽行为或不作为而受到不利影响的人负责.
 		- 索赔人必须证明被告有疏忽 
 		  The claimant must show that the defendant was negligent
-		- 共同过失Contributory negligence
+		- Contributory negligence
 		  id:: 635e8778-ea88-4539-b14d-952b2931ea1a
+		  共同过失
 			- 如果索赔人也是促成过失的因素之一,则被告人可以减少赔偿.
 			- TODO 举个例子
 				- 一台做工很差的电脑可能会有电气危险,但如果买房对其进行了操作,比如试图修复他,则可以根据他们对事故贡献的比例而减少损失.
