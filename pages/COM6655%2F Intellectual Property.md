@@ -62,11 +62,9 @@
 	- ((63adfae1-d38b-44d1-87ca-92518ab71e01))
 	  background-color:: green
 	- Patent law专利法
-	  collapsed:: true
 		- 专利权给予发明（如新型计算机硬件）的所有者独家权利。
 		- 被视为一种有用的知识产权形式，因为所有者对一项发明有数年的垄断权。
 	- 获得专利
-	  collapsed:: true
 		- 申请是由知识产权局处理的
 		- The European Patent Convention  和其他条约规定了国际专利保护
 		- 如果一项专利被授予，其持有时间可长达20年
@@ -84,7 +82,6 @@
 	- ((63adfb99-fa58-41cf-be1f-a8cea1e6387e))
 - 计算机软件的版权 Copyright of computer software
 	- 简介
-	  collapsed:: true
 		- 计算机软件的版权--直到1985年，在英国，计算机程序是否受版权保护还不确定。
 		- 法院的观点是，计算机程序的源代码列表受版权保护，因为它们类似于书面英语。
 		- 问：但目标代码、计算机文件和数据库呢？
