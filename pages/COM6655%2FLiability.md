@@ -166,8 +166,9 @@ title:: COM6655/Liability
 		- 该法还规定了设计者和制造商有责任确保设备的安全
 		- 对安全关键型软件的影响
 			- 如果人因为计算机控制的机器的软件错误而受伤,如果软件开发商不能证明在设计上和开发中足够谨慎,他们可能会被起诉(developers could be liable for prosecution )
-	- 替代责任 Vicarious liability
+	- Vicarious liability
 	  id:: 635e96c3-4ac9-4867-89e9-f0a153125524
+	  替代责任
 		- 这指的是"次要"责任
 			- 雇主可能对雇员的行为负责
 			- 父母可能对子女的行为负责
