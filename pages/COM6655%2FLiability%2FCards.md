@@ -12,7 +12,7 @@
 	-
 - Accountable vs. responsible 的区别[[card]]
   collapsed:: true
-	-
+	- ((63d53e4b-9c0b-4e56-bfe3-4a9c373b1ca3))
 - TODO 什么是 Liability [[card]]
 - 为了保护消费者,[[Contract law]]也会受到  {{cloze Consumer Rights Act}} 的限制, ((635e63e8-5d6a-4ec2-b2df-f0a10015e881))
 - 承担 ((635e612e-1446-4b8f-8f68-fe830a0c2f21)) 的因素 [[card]]
