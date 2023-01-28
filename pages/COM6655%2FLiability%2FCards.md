@@ -26,6 +26,12 @@
 	- ((635e6625-fb4b-4fb7-b03a-c9b2d524b019))
 - ((635e6725-b37d-4a10-a456-705ab495e4be)) [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:18:50.805Z
+  card-last-score:: 1
 	- ((63cfff3c-3f0e-4b0a-aee9-104d0b4bda7c))
 		- 对受害方承担的照顾责任
 	- ((63cfff45-f8d9-4bb1-8759-f47779f1cafc))
