@@ -7,7 +7,7 @@
   card-next-schedule:: 2023-01-17T06:53:42.830Z
   card-last-reviewed:: 2023-01-11T15:53:42.830Z
   card-last-score:: 3
-- 当版权
+- 当版权被侵犯时,有哪些
 - 知识产权主要涉及的相关法律是? [[card]]
   collapsed:: true
 	- [[Copyright, Designs and Patents Act]]
