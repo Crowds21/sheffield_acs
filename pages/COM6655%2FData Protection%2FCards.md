@@ -21,6 +21,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 在大多数情况下，来自欧盟/欧洲经济区的大多数数据可以像以前一样继续流向英国，而不需要额外的保障措施
 	- 不包括为移民控制目的或适用英国移民例外情况而转移到英国的数据
 - 英国 [[Data Protection Act]] 规定了三种数据保护制度,大多数组织属于   {{cloze General processing regime}}, 因此可以适用 {{cloze  UK General Data Protection Regulation}} [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:00:12.257Z
+  card-last-score:: 1
 - ((63a4ffb9-b4ca-454d-9279-381814e87087)) 的主要原则 [[card]]
   collapsed:: true
 	- ((63cfbc8b-3089-417b-bfb9-6be9439eff58))
