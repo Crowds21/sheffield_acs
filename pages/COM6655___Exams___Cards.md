@@ -25,6 +25,7 @@
 		- Screen design and icons are be protected by copyright
 		- Case Law
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
+			-
 - ### Contract Law
   collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
