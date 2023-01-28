@@ -73,6 +73,8 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
   collapsed:: true
 	- ((63cfc864-6565-457d-9b7d-bf64b347eb72))
 	- ((63cfc884-ed16-4eda-aa3b-10e29f698931))
+	- 个人数据的处理方式应确保个人数据的适当安全
+	- 你必须确保你有适当的安全措施来保护你持有的个人资料。
 - ((63a88574-ccdb-4ef4-ad55-0a4b865846d9)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
   card-last-interval:: -1
