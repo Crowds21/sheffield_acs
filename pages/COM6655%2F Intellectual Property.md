@@ -204,7 +204,6 @@
   id:: 63d52842-0a56-4399-be8f-3b1dcb4a0280
 	- 侵犯版权的例外情况 ((63b4569a-9fc3-4c64-966b-1615e8950e44))
 		- [[The Copyright (Computer Programs) Regulations]] 是由欧共体关于计算机程序法律保护的指令促成的. 他们授予了几项的权利
-		  collapsed:: true
 			- 有权（有时）进行反编译
 			- 制作备份的权利
 			- 为纠正错误而复制或改编的权利
