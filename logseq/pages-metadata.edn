@@ -33,7 +33,7 @@
   :block/updated-at 1673803786267}
  {:block/name "com6655",
   :block/created-at 1673803784581,
-  :block/updated-at 1674919308895}
+  :block/updated-at 1674919980002}
  {:block/name "com6655/ intellectual property",
   :block/created-at 1673803809810,
   :block/updated-at 1673803809810}
@@ -42,13 +42,13 @@
   :block/updated-at 1673803785836}
  {:block/name "com6655/ intellectual property /cards",
   :block/created-at 1673803809812,
-  :block/updated-at 1674919389865}
+  :block/updated-at 1674920304238}
  {:block/name "com6655/computer misuse",
   :block/created-at 1673803809823,
   :block/updated-at 1673803809823}
  {:block/name "com6655/computer misuse/cards",
   :block/created-at 1674913857484,
-  :block/updated-at 1674918551567}
+  :block/updated-at 1674919924311}
  {:block/name "com6655/contract law",
   :block/created-at 1673803809819,
   :block/updated-at 1673803809819}
@@ -60,7 +60,7 @@
   :block/updated-at 1673803809824}
  {:block/name "com6655/data protection/cards",
   :block/created-at 1674913857637,
-  :block/updated-at 1674919754683}
+  :block/updated-at 1674920243776}
  {:block/name "com6655/exams",
   :block/created-at 1673803809833,
   :block/updated-at 1673803809833}
@@ -69,19 +69,19 @@
   :block/updated-at 1673803809829}
  {:block/name "com6655/introduction to ethics/cards",
   :block/created-at 1674913857696,
-  :block/updated-at 1674918518960}
+  :block/updated-at 1674920080710}
  {:block/name "com6655/legal concepts",
   :block/created-at 1673803797270,
   :block/updated-at 1673803797270}
  {:block/name "com6655/legal concepts/cards",
   :block/created-at 1673803809803,
-  :block/updated-at 1674917925184}
+  :block/updated-at 1674920317751}
  {:block/name "com6655/liability",
   :block/created-at 1673803809821,
   :block/updated-at 1673803809821}
  {:block/name "com6655/liability/cards",
   :block/created-at 1674913857738,
-  :block/updated-at 1674919588903}
+  :block/updated-at 1674920160680}
  {:block/name "com6655/professional ethics",
   :block/created-at 1673803809831,
   :block/updated-at 1673803809831}
@@ -93,7 +93,7 @@
   :block/updated-at 1673803809827}
  {:block/name "com6655/social context/cards",
   :block/created-at 1674913857803,
-  :block/updated-at 1674919383238}
+  :block/updated-at 1674919834490}
  {:block/name "com6655/worksheet5",
   :block/created-at 1673803809835,
   :block/updated-at 1673803809835}
