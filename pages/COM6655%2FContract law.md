@@ -74,14 +74,12 @@ title:: COM6655/Contract law
 		- 你可以要求重新提供部分或全部的服务,或要求退款(最多 100%)
 	- [[CRA]] 中对数字内容(digital content)的内容
 	  id:: 6358f9a5-781d-4bbc-8c1c-ba967489f1f6
-	  collapsed:: true
 		- 什么是 digital content
 		  collapsed:: true
 			- data which are produced and supplied in digital form.
 			  以数字的形式提供的数据
 		- 消费者对任何下载和流媒体内容拥有权利
 		- 数字内容需要满足
-		  collapsed:: true
 			- 让人满意的质量 of satisfactory quality
 			- 适用于特定目的 fit for a particular purpose
 			  id:: 6358fd12-d520-42b7-8fe0-4a9cdcf8b3c5
