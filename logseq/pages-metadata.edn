@@ -46,18 +46,30 @@
  {:block/name "com6655/computer misuse",
   :block/created-at 1673803809823,
   :block/updated-at 1673803809823}
+ {:block/name "com6655/computer misuse/cards",
+  :block/created-at 1674913857484,
+  :block/updated-at 1674913857484}
  {:block/name "com6655/contract law",
   :block/created-at 1673803809819,
   :block/updated-at 1673803809819}
+ {:block/name "com6655/contract law/cards",
+  :block/created-at 1674913857557,
+  :block/updated-at 1674913857557}
  {:block/name "com6655/data protection",
   :block/created-at 1673803809824,
   :block/updated-at 1673803809824}
+ {:block/name "com6655/data protection/cards",
+  :block/created-at 1674913857637,
+  :block/updated-at 1674913857637}
  {:block/name "com6655/exams",
   :block/created-at 1673803809833,
   :block/updated-at 1673803809833}
  {:block/name "com6655/introduction to ethics",
   :block/created-at 1673803809829,
   :block/updated-at 1673803809829}
+ {:block/name "com6655/introduction to ethics/cards",
+  :block/created-at 1674913857696,
+  :block/updated-at 1674913857696}
  {:block/name "com6655/legal concepts",
   :block/created-at 1673803797270,
   :block/updated-at 1673803797270}
@@ -67,12 +79,21 @@
  {:block/name "com6655/liability",
   :block/created-at 1673803809821,
   :block/updated-at 1673803809821}
+ {:block/name "com6655/liability/cards",
+  :block/created-at 1674913857738,
+  :block/updated-at 1674913857738}
  {:block/name "com6655/professional ethics",
   :block/created-at 1673803809831,
   :block/updated-at 1673803809831}
+ {:block/name "com6655/professional ethics/cards",
+  :block/created-at 1674913857781,
+  :block/updated-at 1674913857781}
  {:block/name "com6655/social context",
   :block/created-at 1673803809827,
   :block/updated-at 1673803809827}
+ {:block/name "com6655/social context/cards",
+  :block/created-at 1674913857803,
+  :block/updated-at 1674913857803}
  {:block/name "com6655/worksheet5",
   :block/created-at 1673803809835,
   :block/updated-at 1673803809835}
@@ -85,6 +106,9 @@
  {:block/name "computer misuse act",
   :block/created-at 1673803785459,
   :block/updated-at 1673803785459}
+ {:block/name "consumer contracts regulations",
+  :block/created-at 1674913858508,
+  :block/updated-at 1674913858508}
  {:block/name "consumer protection act",
   :block/created-at 1673803784577,
   :block/updated-at 1673803784577}
@@ -94,12 +118,18 @@
  {:block/name "contents",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
+ {:block/name "contract law",
+  :block/created-at 1674913857735,
+  :block/updated-at 1674913857735}
  {:block/name "copyright (computer programs) regulations",
   :block/created-at 1673803786245,
   :block/updated-at 1673803786245}
  {:block/name "copyright (computer programs) regulations ",
   :block/created-at 1673803786250,
   :block/updated-at 1673803786250}
+ {:block/name "copyright law",
+  :block/created-at 1674913857554,
+  :block/updated-at 1674913857554}
  {:block/name "copyright, designs and patents act",
   :block/created-at 1673803785454,
   :block/updated-at 1673803785454}
@@ -136,6 +166,12 @@
  {:block/name "eu general data protection regulation",
   :block/created-at 1673803786562,
   :block/updated-at 1673803786562}
+ {:block/name "exam",
+  :block/created-at 1674913857483,
+  :block/updated-at 1674913857483}
+ {:block/name "exams",
+  :block/created-at 1674913857696,
+  :block/updated-at 1674913857696}
  {:block/name "exemption clauses",
   :block/created-at 1673803784579,
   :block/updated-at 1673803784579}
@@ -163,6 +199,68 @@
  {:block/name "health and safety act",
   :block/created-at 1673803784578,
   :block/updated-at 1673803784578}
+ {:block/name "hls__01_legal_concepts_part_1_2022_1672176160578_0",
+  :block/created-at 1674914229200,
+  :block/updated-at 1674914229200}
+ {:block/name "hls__02_legal_concepts_part_2_2022_1672176168500_0",
+  :block/created-at 1674914229209,
+  :block/updated-at 1674914229209}
+ {:block/name
+  "hls__03_intellectual_property_part_1_2022_1672176180018_0",
+  :block/created-at 1674914229253,
+  :block/updated-at 1674914229253}
+ {:block/name
+  "hls__04_intellectual_property_part_2_2022_1672176187200_0",
+  :block/created-at 1674914229153,
+  :block/updated-at 1674914229153}
+ {:block/name
+  "hls__05_intellectual_property_part_3_2022_1672176193657_0",
+  :block/created-at 1674914229236,
+  :block/updated-at 1674914229236}
+ {:block/name "hls__07_contract_law_part_2_2022_1666798166699_0",
+  :block/created-at 1674914229173,
+  :block/updated-at 1674914229173}
+ {:block/name "hls__08_liability_2022_1667127471453_0",
+  :block/created-at 1674914229190,
+  :block/updated-at 1674914229190}
+ {:block/name "hls__09_computer_misuse_2022_part_1_1667380023259_0",
+  :block/created-at 1674914229053,
+  :block/updated-at 1674914229053}
+ {:block/name "hls__10_computer_misuse_2022_part_2_1670963890345_0",
+  :block/created-at 1674914229111,
+  :block/updated-at 1674914229111}
+ {:block/name
+  "hls__10_step_guide_to_clearer_thinking_through_essay_wr_1650627038011_0",
+  :block/created-at 1674914229127,
+  :block/updated-at 1674914229127}
+ {:block/name
+  "hls__11_data_protection_and_privacy_2022_part1(1)_1668517311626_0",
+  :block/created-at 1674914229041,
+  :block/updated-at 1674914229041}
+ {:block/name
+  "hls__12_data_protection_and_privacy_2022_part2(1)_1668517305628_0",
+  :block/created-at 1674914229026,
+  :block/updated-at 1674914229026}
+ {:block/name
+  "hls__13_data_protection_and_privacy_2022_part3_1668517297518_0",
+  :block/created-at 1674914228947,
+  :block/updated-at 1674914228947}
+ {:block/name "hls__15_social_context_2022_part2_1671989277336_0",
+  :block/created-at 1674914229005,
+  :block/updated-at 1674914229005}
+ {:block/name "hls__17_introduction_ethics_2022_part2_1671989293514_0",
+  :block/created-at 1674914229269,
+  :block/updated-at 1674914229269}
+ {:block/name "hls__18_professional_ethics_2022_part1_1671989300157_0",
+  :block/created-at 1674914228916,
+  :block/updated-at 1674914228916}
+ {:block/name "hls__2021_com6115_exam_1673800387486_0",
+  :block/created-at 1674914228982,
+  :block/updated-at 1674914228982}
+ {:block/name
+  "hls__34_code_of_practice_relating_to_meetings_and_other_activities_on_university_premises_2021-22_1655102036069_0",
+  :block/created-at 1674914228998,
+  :block/updated-at 1674914228998}
  {:block/name "hls__com6655-exam-2020_1670335057519_0",
   :block/created-at 1673803812461,
   :block/updated-at 1673803812461}
@@ -178,9 +276,15 @@
  {:block/name "jan 15th, 2023",
   :block/created-at 1673803741005,
   :block/updated-at 1673803741005}
+ {:block/name "jan 28th, 2023",
+  :block/created-at 1674913857840,
+  :block/updated-at 1674913857840}
  {:block/name "later",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
+ {:block/name "law of negligence",
+  :block/created-at 1674913859199,
+  :block/updated-at 1674913859199}
  {:block/name "laws in wales acts",
   :block/created-at 1673803786557,
   :block/updated-at 1673803786557}
@@ -202,6 +306,9 @@
  {:block/name "ref",
   :block/created-at 1673803785182,
   :block/updated-at 1673803785182}
+ {:block/name "supply of goods and services act",
+  :block/created-at 1674913858507,
+  :block/updated-at 1674913858507}
  {:block/name "the copyright (computer programs) regulations",
   :block/created-at 1673803786250,
   :block/updated-at 1673803786250}
