@@ -10,8 +10,10 @@
 		- Related Laws [[The Copyright (Computer Programs) Regulations]]
 		- Related Laws [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
+		  collapsed:: true
 			- There is a competitive relationship between these two software
-			-
+			- Decompiling is not allowed when creating competing products
+		-
 - ### Contract Law
   collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
