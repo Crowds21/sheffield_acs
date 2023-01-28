@@ -115,6 +115,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 基于个人的明确同意
 - ((63739120-24c5-4e1c-b179-4d0d20e57174)) 的责任 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:41:31.545Z
+  card-last-score:: 1
 	- 整理-通知-满足
 	- ((63cfbdcb-43e8-4e37-9bf6-9eb23fab7ccb))
 	- ((6373a0a8-a1f0-4747-9a83-be0d90243080))
