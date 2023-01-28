@@ -8,6 +8,7 @@
 		- Software is digital product, the software should have satisfactory quality.
 		- The company provides services to schools, Microsoft should be carried out with a reasonable degree of care and  skill
 		- Bench of contract
+		  collapsed:: true
 			- warranties
 			- conditions
 		-
