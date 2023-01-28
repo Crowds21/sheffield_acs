@@ -50,6 +50,7 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 			- 版权法(Copyright), 专利(patents) and 信任法(law of confidence)对信息提供了一些保护
 		- Unauthorised borrowing of computer material
 		  id:: 63623fe3-a4e5-4b3d-a1ac-ae28019bfd09
+		  collapsed:: true
 		  未经授权借用计算机资料
 			- 使用计算机媒体并不构成套盗窃
 			  Borrowing of computer media does not constitute theft
