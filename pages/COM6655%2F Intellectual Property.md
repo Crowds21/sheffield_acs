@@ -208,7 +208,7 @@
 			- 制作备份的权利
 			- 为纠正错误而复制或改编的权利
 		- 此外，CCPR还引入了公共利益的辩护，例如，如果符合公众利益,程序清单就应该被公布
-	- Decompilation of computer program
+	- Decompilation of computer programs
 	  id:: 63d52842-af57-437f-9bb5-74819021458f
 	  ref:: ((63b45732-e5f3-462c-a579-5d066c407a53))
 	  计算机程序的反编译
