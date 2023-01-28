@@ -209,16 +209,13 @@ title:: COM6655/Contract law
 			- 该软件的使用权能否从一个成员转移到另一个成员
 	- 合同的价格和支付 Contract price and payment terms
 	  id:: 6356b8eb-2947-48c6-8781-24e5feaf868b
-	  collapsed:: true
 		- 合同通常都是许可协议,所以支付的一般都是 **licence fee** 许可证费用
 		- 这个费用也可以被叫做**price**(价格) 因为他可能包含培训费用和文档费用
 		- 价格必须精准
-		  collapsed:: true
 			- 合同中应该提供一个机制,来计算条款之外的额外工作的费用
 			- 最简单的方法是说明程序员或分析人员每小时的费率
 		- 如果费用是一次性支付的,那么该费用中是否包含了文档,培训,维护,存储介质(storage media)的费用.
 	- 模糊不清的付款 Ambiguity with payment
-	  collapsed:: true
 		- 确保在任何时候合同对于付款都没有模糊之处
 		- 客户延迟付款是否会被收取利息?
 		- 客户拒绝付款会怎么办?
@@ -226,13 +223,11 @@ title:: COM6655/Contract law
 			- 在什么情况下软件公司可以拒绝为合同定价
 	- 软件的规格 Specification of software ((63595ba3-eb08-496b-a7da-e011fb145702))
 	  id:: 63595b5a-0d05-4f62-b99e-cee9d84b46ce
-	  collapsed:: true
 		- 详细描述该软件将执行的任务。
 		- 该软件将在哪些设备(equipment)上运行
 		- 软件执行所需操作的速度，考虑到任何联网和同时使用的要求
 	- 模糊的规格 Ambiguity with specification
 	  id:: 6356b9f2-3b17-41f1-ae1f-978a446dbd46
-	  collapsed:: true
 		- 客户可能不确定他们想要什么
 		- 他们可能在开发过程中改变规格
 		- 原始的合同必须允许这些变化
@@ -240,7 +235,6 @@ title:: COM6655/Contract law
 		- TODO Q: What approach might you take if the client is vague about the specification?
 	- 案例
 		- Comyn Ching Ltd v Radius plc (1997)
-		  collapsed:: true
 			- 背景
 				- CCL想要整合自己的计算机系统,他们希望 Radius 来完成这个任务
 				- Radius在合同签订前,两次提出,需要进行feasibility study (可行性研究),费用为 7k .
