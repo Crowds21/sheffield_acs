@@ -149,7 +149,7 @@
 - [[The law of confidence]] 想要生效必须满足一定的条件
 	- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
 	- ((63cff620-1b4c-44c8-8a99-56392efd9cd8))
-- 对于已经泄露的信息,依据 [[The law of confidence]] 可以采取哪些行动 [[card]]
+- 对于已经泄露的信息,依据 [[The law of confidence]] 可以采取哪些行动(补救) [[card]]
 	- ((63cff6d8-e57e-4e81-9296-3f8b036a6310))
 	- ((63cff6f6-2fd2-45db-aabb-34c59bd60ba9))
 	- ((63cff700-72d2-4d9c-a2de-b6111db9ebf1))
@@ -158,3 +158,4 @@
 	- 信息必须是在具有保密性质的情况下被传授的;  ((63b46611-7e69-47b7-bcb8-ff484f55e10c))
 	- ((63d52841-37e0-4f6c-a486-aa439669b6d2))
 - TODO Obligation of confidence 是如何产生的 [[card]]
+-
