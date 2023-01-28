@@ -54,6 +54,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- ((63cfde34-9bbc-4fc8-9479-39f6443cc43f))
 - ((63cfbc8b-3089-417b-bfb9-6be9439eff58)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:00:47.334Z
+  card-last-score:: 1
 	- 不违反法律
 	- 不造成其他损害
 	- 清晰说明如何使用数据
