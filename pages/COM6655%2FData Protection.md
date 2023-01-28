@@ -152,6 +152,7 @@
 		  Integrity and confidentiality (security)
 		- 责任性  
 		  Accountability
+-
 	- 合法性、公平性和透明度
 	  collapsed:: true
 	  Lawfulness, fairness and transparency
