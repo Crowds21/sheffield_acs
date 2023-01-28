@@ -18,6 +18,12 @@
 			- ((63d52842-c4e5-4ba7-83ff-9e10bba6b7fb))
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
+	  ((635e96c3-4ac9-4867-89e9-f0a153125524))
+		- The software company is vicariously liable to the school for any damages suffered by the student.
+		- 阿三 is vicariously liable to the software company
+- ### Liability
+	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  collapsed:: true
 	  案例中Negligence 相关内容
 		- The school own a duty of call to the student. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
@@ -35,11 +41,5 @@
 		- Reduced liability
 			- little control over the way the system is used or interpreted
 		-
-	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  collapsed:: true
-	  ((635e96c3-4ac9-4867-89e9-f0a153125524))
-		- The software company is vicariously liable to the school for any damages suffered by the student.
-		- 阿三 is vicariously liable to the software company
-- ### Liability
 - ### Computer Misuse
 -
