@@ -56,6 +56,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((63a1baf8-21dd-4015-b36a-9b1602a8c8d1))
 - ((63a1db9a-441b-4cad-b3d9-388a0b5b078d)) [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T14:59:11.699Z
+  card-last-score:: 1
 	- A concern is the meaning of unauthorised access.
 	- What if access is authorised but the function performed is no
 - ((63bee7c3-2b5d-436a-a407-a0e20e25da75)) 在计算机方面的作用
