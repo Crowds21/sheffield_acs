@@ -1,5 +1,6 @@
 -
 - 知识产权简介
+  collapsed:: true
 	- 什么是 知识产权 Intellectual Property(IP)
 	  collapsed:: true
 		- 知识产权（IP）是对保护创造性作品、发明和商业商誉（企业的无形资产）的法律权利的称呼。
@@ -92,6 +93,7 @@
 		- 专利法是由1977年[[Patents Act]]实施的。2004年[[Patents Act ]]对其进行了修订（但没有取代）
 	- ((63adfb99-fa58-41cf-be1f-a8cea1e6387e))
 - 计算机软件的版权 Copyright of computer software
+  collapsed:: true
 	- 简介
 	  collapsed:: true
 		- 计算机软件的版权--直到1985年，在英国，计算机程序是否受版权保护还不确定。
@@ -160,6 +162,7 @@
 		- 问：如果一家企业有一个计算机系统，在没有任何人工干预的情况下自动生成财务报告，谁是作者？
 		-
 - CDPA 与计算机程序
+  collapsed:: true
 	- 计算机程序的版权
 	  collapsed:: true
 		- CDPA规定，计算机程序的版权必须是原创的，并有记录 (original and recorded)
@@ -222,6 +225,7 @@
 			- 然而 [[Copyright (Computer Programs) Regulations ]] 1992 允许在某些情况下进行反编译
 - 反编译和反汇编 ((63b45647-2284-4a75-85d9-ecae1bf29285))
   id:: 63d52842-0a56-4399-be8f-3b1dcb4a0280
+  collapsed:: true
 	- 侵犯版权的例外情况 ((63b4569a-9fc3-4c64-966b-1615e8950e44))
 	  collapsed:: true
 		- [[The Copyright (Computer Programs) Regulations]] 是由欧共体关于计算机程序法律保护的指令促成的. 他们授予了几项的权利
