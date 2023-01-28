@@ -240,7 +240,6 @@ title:: COM6655/Contract law
 				- 法官拒绝了 CCL 的要求
 	- 完成时间 Time for completion
 	  id:: 63595e74-bc63-435d-89ec-7243272a329b
-	  collapsed:: true
 		- 一般处理延期的方法是在合同中增加一个条款,赋予客户获取违约金(**liquidated damages**)的权利
 		- 违约金可以量化为每周一定的金额,最后对于违约的时长计算总和.
 		- 违约金应该是对客户损失的一种计算,而不是对延误方的一种惩罚(penalty).
