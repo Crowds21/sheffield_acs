@@ -92,7 +92,6 @@
 		- 软件版权现在由1988年 [[Copyright, Designs and Patents Act]] （CDPA）涵盖。
 		- CDPA本身已被有关计算机程序的备份、反编译和纠错的法规所修正。
 	- [[Copyright, Designs and Patents Act]]
-	  collapsed:: true
 		- CDPA规定了以下的版权
 		  collapsed:: true
 			- 原创文学、戏剧、音乐或艺术作品。
