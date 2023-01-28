@@ -73,6 +73,7 @@
 	- 因为它是使用软件的人的努力的结果
 - CDPR,关于"Translation"的定义存在什么问题
 	- 含义可能过于宽泛，因为它似乎包括将一个程序从一种语言手动转换为另一种语言
+	- decompilation and manual rewriting are both effectively translation, which is a restricted right
 - ### CDPA 与 计算机程序
 - 申请计算机程序版权必须保证 [[card]]
   card-last-interval:: -1
