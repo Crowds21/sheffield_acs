@@ -37,6 +37,7 @@
 			- ((63d52842-cea3-444a-ad14-35a17223f1cb))
 			- Even if a very small part of the program is copied, it is an infringement if that part is material in terms of the function of the program
 			- So the code for this function may have been copied
+		-
 		- [[The Law of Confidence]]
 - ### Contract Law
   collapsed:: true
