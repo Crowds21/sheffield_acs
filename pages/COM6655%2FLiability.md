@@ -176,7 +176,6 @@ title:: COM6655/Liability
 			- 他们本身并不"负责"或有能力支付赔偿
 			- 如果系统背后有第三方,他们是否有替代责任(who? 供应商?开发者?)
 	- 免除条款 [[Exemption clauses]]
-	  collapsed:: true
 		- disclaimer免责声明
 		- 有两种类型: 免责和限制
 		- 免除责任受到 1977 年的[[Unfair Contract Terms Act]]的限制. 但软件在这方面并不明确
