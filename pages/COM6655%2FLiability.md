@@ -125,7 +125,6 @@ title:: COM6655/Liability
 			- TODO 举个例子
 				- 一台做工很差的电脑可能会有电气危险,但如果买房对其进行了操作,比如试图修复他,则可以根据他们对事故贡献的比例而减少损失.
 	- 疏忽误报 [[Negligent misstatement]]
-	  collapsed:: true
 		- 就对软件提供建议而言,疏忽的责任是很严重的.
 		  background-color:: #793e3e
 		- 因疏忽的建议而造成的侵权行为被称作 [[Negligent misstatement]]
