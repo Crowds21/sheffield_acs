@@ -327,7 +327,6 @@
 	- 案例 ((63b45dd4-dabd-4ace-91dc-a2344bd5ac6b))
 	  background-color:: green
 	- 非文字复制(UK) ((63b45e03-86ff-4afa-b93f-50509f07a49a))
-	  collapsed:: true
 		- 案例 ((63b45e0d-7ae2-404a-86f1-53ec0c1a8f6b))
 		  background-color:: green
 		- Richardson写了一个程序，后来又为别人写了一个程序来做同样的事情。人们接受了没有故意抄袭的说法
