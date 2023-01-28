@@ -303,7 +303,6 @@
 		- Altai使用不同的程序员从头开始重写了违规的部分--法官认为新版本没有侵犯版权。
 	- 案例 ((63b45c46-b2df-4b5f-bedd-cd39df19993f))
 	  background-color:: green
-	  collapsed:: true
 		- 上诉法院批评Whelan诉Jaslow案过于接近思想版权，并建议对非文字性版权侵权进行三步检验
 		  collapsed:: true
 			- Abstraction
