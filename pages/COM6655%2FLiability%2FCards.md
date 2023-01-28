@@ -84,6 +84,12 @@
 	- 如果决策支持系统给出的建议是不正确的，系统的开发者可能要对接受者的疏忽误报负责
 - CPA 中的 ((63d0038f-7670-4282-8687-7bebb070cc45)) 是什么 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:17:27.285Z
+  card-last-score:: 1
 	- The state of scientific and technical knowledge at the relevant time was not such that the producer of the product might be expected to have discovered the defect
 	- 在相关时间的科学和技术知识状况并不是产品的生产者可以预期发现缺陷的。
 - [[Health and Safety Act]] 的主要内容 [[card]]
