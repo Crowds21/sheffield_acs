@@ -47,7 +47,7 @@
 	-
 -
 - ### Data Protection
-	- 背景: 学校收集到了
+	- 背景: 学校通过 Microsoft收集到了学生的信息,
 	  id:: 63d59a67-d84d-42f3-a329-8e3910ff5525
 		- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
 		  结合 [[Data Protection Act]] 分析该案例 [[card]]
