@@ -35,7 +35,7 @@
 	- CCPR允许合法用户改编程序，前提是
 		- 为合法使用而必须这样做
 		- 任何规范用户合法使用的协议都不禁止改编
--
+- 程序的 substantial part
 - ###
 -
 - law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
@@ -83,7 +83,7 @@
 	- ((f1004708-80fa-4682-be56-7ffd1f00ae50)): ((63b44c85-ab2a-44f2-b92d-ecd6ea417445))
 	- ((1dc4a170-ec58-466a-bf66-abf2c977af87)): ((63b44ca3-fd04-4232-b07a-7218e3038631))
 - 对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的 [[card]]
-- 程序的 substantial part
+-
 - 什么是 [[The law of confidence]] [[card]]
   collapsed:: true
 	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
