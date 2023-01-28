@@ -36,6 +36,7 @@
 			- little control over the way the system is used or interpreted
 		-
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  collapsed:: true
 	  ((635e96c3-4ac9-4867-89e9-f0a153125524))
 		- The software company is vicariously liable to the school for any damages suffered by the student.
 		- 阿三 is vicariously liable to the software company
