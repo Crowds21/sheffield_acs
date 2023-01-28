@@ -6,6 +6,7 @@ Exams:: ((63cfdfad-129d-4f21-8775-cad438f9e125))
 	- 义务主义  {{cloze Duty ethics}},
 	- 权利主义  {{cloze Rights ethics}}
 	- 美德主义  {{cloze Virtue ethics}}
+	-
 - ((63cfe09f-be67-47ca-964d-49fcd6f01543)) 的含义 [[card]]
   collapsed:: true
 	- ((63cfe09a-7901-43c3-b3db-1d191a048119))
