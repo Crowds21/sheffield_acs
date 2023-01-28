@@ -36,7 +36,7 @@
 		- 为合法使用而必须这样做
 		- 任何规范用户合法使用的协议都不禁止改编
 - 程序的 substantial part
-- 对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的 [[card]]
+- (Restructed acts)对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的 [[card]]
 -
 - law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
   card-last-interval:: -1
