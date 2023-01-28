@@ -7,6 +7,7 @@
 	  id:: 63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff
 	- 背景四: WordSoft完成程序. Math 拿到了 WordSoft 的复制品, 认为 UI很相似
 	  id:: 63d5a0fd-8986-4a9d-8bc1-da1b0256380c
+	-
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
 	  collapsed:: true
