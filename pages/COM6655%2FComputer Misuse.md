@@ -28,7 +28,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 			- 属于欺诈或盗窃This category deals with fraud or theft
 		- Obtaining unauthorised access to a computer
 		  id:: 63623b75-9c19-4b4a-97fb-e86d4ca93557
-		  collapsed:: true
 		  未经授权获取计算机的访问权
 			- 雇员入侵和未经授权使用雇主的计算机 
 			  Hacking and unauthorised use of an employer's computer by an employee.
