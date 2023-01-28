@@ -85,7 +85,7 @@
 - CPA 中的 ((63d0038f-7670-4282-8687-7bebb070cc45)) 是什么 [[card]]
   collapsed:: true
 	- The state of scientific and technical knowledge at the relevant time was not such that the producer of the product might be expected to have discovered the defect
-	- 在相关时间的科学和技术知识状况并不是产品的生产者可以预期发现缺陷的。
+	- 在相关时间的科学和技术知识状况并不是产品的生产者可以预期发现缺陷的。s
 - [[Health and Safety Act]] 的主要内容 [[card]]
   collapsed:: true
   card-last-interval:: -1
