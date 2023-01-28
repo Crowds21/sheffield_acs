@@ -57,6 +57,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- ((63a88678-df55-4fb1-abb7-04d520f88dc7))
 - ((63a88678-df55-4fb1-abb7-04d520f88dc7)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:32:05.265Z
+  card-last-score:: 1
 	- ((63cfc6d9-946b-4c5b-ac69-d19c60b0bd2c))
 	- ((63cfc71f-72a5-4459-8e57-3f18569e1586))
 	- ((63cfc70b-2748-45d0-b8fc-b46172425827))
