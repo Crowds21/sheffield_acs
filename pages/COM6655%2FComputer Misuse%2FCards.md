@@ -2,6 +2,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 
 - Computer Misuse 的相关法律 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:45:06.504Z
+  card-last-score:: 1
 	- [[Acts Of Parliament]]
 	- [[Theft Act]] 1968
 	- [[Fraud Act]] 2006(重点)

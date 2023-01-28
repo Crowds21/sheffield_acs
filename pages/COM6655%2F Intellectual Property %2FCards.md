@@ -195,5 +195,11 @@
 	- ((63d52841-37e0-4f6c-a486-aa439669b6d2))
 	- Information leakage 信息泄露
 - TODO Obligation of confidence 是如何产生的 [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:45:14.286Z
+  card-last-score:: 1
 - 计算机黑客入侵他人计算机时,可以参考的法律是  {{cloze The Law of Confidence}} [[card]]
 -
