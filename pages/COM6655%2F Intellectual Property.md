@@ -95,7 +95,6 @@
 	- 案例 ((63adfde8-5959-4e47-b156-905eefd2e346))
 	  background-color:: green
 	- 目前的情况
-	  collapsed:: true
 		- 软件版权现在由1988年 [[Copyright, Designs and Patents Act]] （CDPA）涵盖。
 		- CDPA本身已被有关计算机程序的备份、反编译和纠错的法规所修正。
 	- [[Copyright, Designs and Patents Act]]
