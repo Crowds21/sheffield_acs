@@ -20,6 +20,7 @@
 		- The company own a duty of call to the school. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
 		- ((635e8778-ea88-4539-b14d-952b2931ea1a))
+		- ((63d52843-ed39-4327-a1da-b453587d78ee))
 			-
 - ### Liability
 - ### Computer Misuse
