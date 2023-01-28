@@ -25,8 +25,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:47:30.670Z
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:48:19.243Z
   card-last-score:: 1
 - 英国刑法中, ((bd33c97b-f95d-4b09-9c92-75f9ddcbe8ee)) , {{cloze  Criminal Justice Act}} 现在允许在获得新的有说服力的证据时对案件重审 [[card]]
   card-last-interval:: -1
