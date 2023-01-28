@@ -54,4 +54,5 @@
 			- 相关定义
 				- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
 				- Controller
-					- The school has the student's email information and can decide how to use it.
+					- The school has the student's email information and can decide how to use it.(purpose and manner)
+					-
