@@ -57,13 +57,13 @@
   card-next-schedule:: 2023-01-12T00:00:00.000Z
   card-last-reviewed:: 2023-01-11T15:48:11.651Z
   card-last-score:: 1
-- 财产和所有权 Property and ownership, 不同产( {{cloze Real property}}) 通常指 {{cloze 土地}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:46:15.868Z
+- 财产和所有权 Property and ownership, 不动产( {{cloze Real property}}) 通常指 {{cloze 土地}} [[card]]
   card-last-score:: 1
+  card-repeats:: 1
+  card-next-schedule:: 2023-01-12T00:00:00.000Z
+  card-last-interval:: -1
+  card-ease-factor:: 2.5
+  card-last-reviewed:: 2023-01-11T15:46:15.868Z
 - 个人财产也叫做 {{cloze  动产 chattel}} ,指的是? [[card]]
   card-last-interval:: -1
   card-repeats:: 1
