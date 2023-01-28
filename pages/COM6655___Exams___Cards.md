@@ -53,7 +53,8 @@
 		  结合 [[Data Protection Act]] 分析该案例 [[card]]
 			- 相关定义
 				- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
-				- Controller
+				- Controller - School
 					- The school has the student's email information and can decide how to use it.(purpose and manner)
-				-
+				- Processor - Rain
+					-
 					-
