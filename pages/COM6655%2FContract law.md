@@ -41,7 +41,6 @@ title:: COM6655/Contract law
 		- Liability for any injury to persons or property as a result of errors in the software should be considered
 		  需要考虑因软件错误而导致的人身伤害和财产损失
 	- 许可协议
-	  collapsed:: true
 		- 软件合同可能不是销售合同,而是一份许可协议, 允许用户使用软件,以换取许可费
 		- 许可可能是一个时间段(may be for a fixed period of time)
 		- TODO the link between a licence and copyright law
