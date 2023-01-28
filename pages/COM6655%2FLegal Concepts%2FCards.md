@@ -11,8 +11,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-12T00:00:00.000Z
-  card-last-reviewed:: 2023-01-11T15:46:40.753Z
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:43:26.576Z
   card-last-score:: 1
 - 英国法律来源中的 writs : {{cloze 被用来指示人们出庭，以便审理案件（下级法院发出传票）}} [[card]]
   card-last-interval:: -1
