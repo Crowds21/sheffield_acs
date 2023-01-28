@@ -106,7 +106,7 @@
 	- 因此，在雇用自由职业者时，必须通过合同规定来确定版权所有权
 	  make contractual provision for determining copyright ownership.
 	-
--
+- 自由软件并不意味着
 -
 -
 - law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
