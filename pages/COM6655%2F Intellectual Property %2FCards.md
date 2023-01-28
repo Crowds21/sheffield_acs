@@ -13,6 +13,12 @@
   card-last-reviewed:: 2023-01-11T15:53:42.830Z
   card-last-score:: 3
 - 当版权被侵犯时,有哪些补救措施Remedies [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:09:36.753Z
+  card-last-score:: 1
   collapsed:: true
 	- Injunction 禁令
 	  collapsed:: true
