@@ -75,6 +75,7 @@
 - What is [[Negligent misstatement]] [[card]]
   collapsed:: true
 	- If advice given by decision support system is incorrect,  developers of the system may be liable in negligent misstatement to the recipient.
+	- 如果决策支持系统给出的建议是不正确的，系统的开发者可能要对接受者的疏忽误报负责
 - CPA 中的 ((63d0038f-7670-4282-8687-7bebb070cc45)) 是什么 [[card]]
   collapsed:: true
 	- The state of scientific and technical knowledge at the relevant time was not such that the producer of the product might be expected to have discovered the defect
