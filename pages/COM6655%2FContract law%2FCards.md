@@ -31,7 +31,7 @@
 	- [[Unfair Contract Terms Act]]
 	- [[Consumer Rights Act]]
 	-
-- [[Consumer Rights Act]] 中重要的内容 [[card]]
+- [[Consumer Rights Act]] 中重要的内容 (商品,)[[card]]
 	- ((6358f768-8325-4dfb-b3ed-7a8be905fd85))
 		- Fit for purpose: ((63cffabf-0fb6-49fa-b385-0c1ac8455ba7))
 		- as described: ((63cffab6-7b78-45e7-a79a-6a9492e0476a))
