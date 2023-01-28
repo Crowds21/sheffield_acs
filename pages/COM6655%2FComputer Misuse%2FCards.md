@@ -9,6 +9,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- [[The law of confidence]]
 - 盗版软件涉及到的法律 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:41:09.640Z
+  card-last-score:: 1
 	- ((639b1b35-5dc1-4b4f-944d-5515e9a0b0bd))
 	- ((639b1b57-2568-4888-8539-d8a39ae0ec1b))
 	- ((639b239c-a6dd-47e0-954d-a359d5c57be9))
