@@ -53,7 +53,6 @@
 		- 它们可能适用于保护诸如符合人体工程学的鼠标等物品的设计。
 		- 硅芯片受 [[Design Right (Semiconductor Topographies) Regulations ]] 1989 的保护。
 	- 商标
-	  collapsed:: true
 		- 计算机行业的许多商标，例如，"Microsoft Word "和苹果公司的标志。
 		- 可以根据1994年[[Trade Marks Act ]] 注册。经[[Trade Marks Regulations ]]2018修订，商标是一种标志,能够:
 		  collapsed:: true
