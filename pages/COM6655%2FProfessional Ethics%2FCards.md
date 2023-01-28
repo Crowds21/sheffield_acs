@@ -1,4 +1,4 @@
-- ((63acbb6a-fc89-46ee-af62-10dbf712e288))
+- ((63acbb6a-fc89-46ee-af62-10dbf712e288)) [[card]]
 	- Friedman和Nissenbaum (1996) 计算机系统中的偏见
 	- 偏见可以有不同的形式
 	  collapsed:: true
