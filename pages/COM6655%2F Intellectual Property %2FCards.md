@@ -67,7 +67,7 @@
   :LOGBOOK:
   CLOCK: [2023-01-28 Sat 14:27:54]
   :END:
-- 版权保护的是表达expression,而不是 idea
+- 版权保护的是 {{cloze 表达expression}},而不是 idea,
 -
 - ### CDPA 与 计算机程序
 - 申请计算机程序版权必须保证 [[card]]
