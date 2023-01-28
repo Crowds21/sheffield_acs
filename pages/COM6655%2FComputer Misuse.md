@@ -138,7 +138,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 			- 对这一论点的困惑是1990年 [[Computer Misuse Act]] 第二节颁布的原因之一（下一讲）
 			- 2006年 [[Fraud Act]]（下一节）也涉及这一问题
 - 欺诈法案 [[Fraud Act]] 2006
-  collapsed:: true
 	- 处理1968年和1978年[[Theft Acts]]的缺陷,尤其是 ICT (信息和通信技术)方面的欺诈
 	- 主要方面
 		- 通过虚假陈述进行诈骗 Fraud by false representation
