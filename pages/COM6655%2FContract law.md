@@ -194,7 +194,6 @@ title:: COM6655/Contract law
 		- TODO Q: Will an exclusive licence cost more or less than nonexclusive licence?
 		- TODO Q: Why might a client insist on an exclusive licence?
 	- 许可证的持续时间,转让,范围 Licence: duration, transferral, scope
-	  collapsed:: true
 		- Duration 持续时间
 		  collapsed:: true
 			- 许可证需要有一个固定的时间段
