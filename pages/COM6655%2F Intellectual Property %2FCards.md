@@ -143,8 +143,6 @@
   card-next-schedule:: 2023-01-17T06:53:06.679Z
   card-last-reviewed:: 2023-01-11T15:53:06.679Z
   card-last-score:: 3
--
--
 - 什么是 [[The law of confidence]] [[card]]
   collapsed:: true
 	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
@@ -152,7 +150,6 @@
 	- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
 	- ((63cff620-1b4c-44c8-8a99-56392efd9cd8))
 - 对于已经泄露的信息,依据 [[The law of confidence]] 可以采取哪些行动 [[card]]
-  collapsed:: true
 	- ((63cff6d8-e57e-4e81-9296-3f8b036a6310))
 	- ((63cff6f6-2fd2-45db-aabb-34c59bd60ba9))
 	- ((63cff700-72d2-4d9c-a2de-b6111db9ebf1))
