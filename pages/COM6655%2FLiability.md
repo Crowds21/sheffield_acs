@@ -114,7 +114,6 @@ title:: COM6655/Liability
 			- 由于硬件制造商的疏忽而遭受损失的人,即使与经销商签订了销售合同,也可以对制造商提出疏忽索赔(have a claim in negligence against ).
 	- 疏忽中的限制 Negligence: limitations
 		- 必须对受害方承担注意责任(a duty of care )
-		  collapsed:: true
 			- 软件开发者只对那些他有理由相信可能受到任何因疏忽行为或不作为而受到不利影响的人负责.
 		- 索赔人必须证明被告有疏忽 
 		  The claimant must show that the defendant was negligent
