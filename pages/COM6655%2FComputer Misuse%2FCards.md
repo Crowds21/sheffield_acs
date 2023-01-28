@@ -74,6 +74,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((636247d1-48fd-4177-844a-796874c7b726))
 - 欺诈 Fraud offences 的定义 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T16:38:43.240Z
+  card-last-score:: 1
 	- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 - [[Fraud Act]] 2006 涉及的方面 [[card]]
   collapsed:: true
