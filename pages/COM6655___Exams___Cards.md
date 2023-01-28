@@ -19,6 +19,7 @@
 	  案例中Negligence 相关内容
 		- The company own a duty of call to the school. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
-		- Contributory negligence
+		- ((635e8778-ea88-4539-b14d-952b2931ea1a))
+			-
 - ### Liability
 - ### Computer Misuse
