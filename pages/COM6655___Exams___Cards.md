@@ -32,6 +32,7 @@
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
 	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
+		  collapsed:: true
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
 		- 程序的 substantial part
 			- ((63d52842-cea3-444a-ad14-35a17223f1cb))
