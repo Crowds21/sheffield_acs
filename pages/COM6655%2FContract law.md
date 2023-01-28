@@ -105,7 +105,6 @@ title:: COM6655/Contract law
 		- 如果消费者不同意(consumer doesn’t give their consent),他们必须要等到取消期结束后才能下载
 - 违反合同 Breach of contract
   id:: 6359449c-42e1-46ca-a069-f5022b5501e3
-  collapsed:: true
 	- 如果有一方违反了合同,补救措施(remedy)取决于违反条约的类型
 	  collapsed:: true
 		- warranties 保证 (warranty)
