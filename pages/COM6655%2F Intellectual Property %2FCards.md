@@ -153,7 +153,7 @@
 	- ((63cff6d8-e57e-4e81-9296-3f8b036a6310))
 	- ((63cff6f6-2fd2-45db-aabb-34c59bd60ba9))
 	- ((63cff700-72d2-4d9c-a2de-b6111db9ebf1))
-- 违反 [[The Law of Confidence]] 的三个要素
+- 违反 [[The Law of Confidence]] 的三个要素 [[card]]
 	- 该信息必须具有必要的 ((63b465f1-8a3c-4b15-b868-69f45b8af3cd))
 	- 信息必须是在具有保密性质的情况下被传授的;  ((63b46611-7e69-47b7-bcb8-ff484f55e10c))
 	- ((63d52841-37e0-4f6c-a486-aa439669b6d2))
