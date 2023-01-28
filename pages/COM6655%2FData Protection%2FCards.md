@@ -8,6 +8,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- ((63cfc52d-1aa3-4a46-af86-78730ea01cc0))
 - 英国数据保护涉及到的相关法律 [[card]]
   collapsed:: true
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-01-29T00:00:00.000Z
+  card-last-reviewed:: 2023-01-28T15:33:28.402Z
+  card-last-score:: 1
 	- [[Data Protection Act]]
 	- [[UK General Data Protection Regulation]]
 	- [[EU General Data Protection Regulation]] 
