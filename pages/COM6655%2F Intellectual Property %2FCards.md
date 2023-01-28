@@ -68,7 +68,7 @@
   CLOCK: [2023-01-28 Sat 14:27:54]
   :END:
 - 版权保护的是 {{cloze 表达expression}},而不是 idea. 英国法律认为 ((63d56920-3aee-4cff-bb7a-a4bd4b563073)) [[card]]
--
+- CDPA 中,对于中间产物认为
 - ### CDPA 与 计算机程序
 - 申请计算机程序版权必须保证 [[card]]
   card-last-interval:: -1
