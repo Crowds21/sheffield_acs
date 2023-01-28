@@ -223,13 +223,17 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 		- software key system 软件钥匙系统
 	- 适用于盗版软件的立法
 	  background-color:: red
+	  collapsed:: true
 	  ((639b2392-e042-4919-95a4-990e4924e361))
 		- [[Copyright, Designs and Patents Act]]  版权外观和专利法
+		  collapsed:: true
 			- 最严重的是用于分销和进口
 		- [[Forgery and Counterfeiting Act]] 伪造和假冒法
 		  id:: 639b239c-a6dd-47e0-954d-a359d5c57be9
+		  collapsed:: true
 			- 光盘、磁带或其他记录媒介可能是 "假文书"
 		- [[Trade Descriptions Act]] 商品说明法
+		  collapsed:: true
 			- 旨在保护消费者不买到劣质商品，例如，将复制的软件作为正品出售
 - 病毒和黑客 Viruses and hacking
 	- 病毒 Viruses
@@ -243,14 +247,18 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- 案例: R v Gold & Schifreen (the Crown against)
 	  background-color:: green
 	- 适用于黑客和病毒的立法 ((639df061-d9b2-4b4d-97b9-eb59968dddd3))
+	  collapsed:: true
 		- [[Computer Misuse Act]] 1990
 		  id:: 639df05c-ed9e-4746-8298-8b09170a1937
+		  collapsed:: true
 			- 引入了针对病毒和黑客行为的新罪行
 		- [[Investigatory Powers Act]] 2016
 		  id:: 639df086-519a-4f14-b244-2cd99dc1ae0c
+		  collapsed:: true
 			- 根据第3(1)条，在公共或私人电信系统传输过程中，故意截获(在英国)通信是一种犯罪。
 		- [[Data Protection Act]] 2018
 		  id:: 639df08f-2211-4671-bf0f-a39226ffdff9
+		  collapsed:: true
 			- 违法行为可能与网络犯罪同时发生。这些罪行包括==故意或鲁莽地获取或披露个人数据，以及出售未经同意披露的个人数据==
 - [[Computer Misuse Act]] 1990
 	- CMA 1990引入的新罪行(offences)
