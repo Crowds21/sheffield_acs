@@ -264,6 +264,10 @@
  {:block/name "hls__com6655-exam-2020_1670335057519_0",
   :block/created-at 1673803812461,
   :block/updated-at 1673803812461}
+ {:block/name
+  "hls__week45_06_contract_law_part_1_2022_1666627252369_0",
+  :block/created-at 1674914923962,
+  :block/updated-at 1674914923962}
  {:block/name "in-progress",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
