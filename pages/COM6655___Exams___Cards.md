@@ -17,7 +17,7 @@
 			- ((63d52842-c4e5-4ba7-83ff-9e10bba6b7fb))
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  案例中Negligence 相关内容
-		- The company own a duty of call to the school. It is predictable that there will be bugs in the software. And the student had a loss. 
+		- The school own a duty of call to the student. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
 		- ((635e8778-ea88-4539-b14d-952b2931ea1a))
 		- ((63d52843-ed39-4327-a1da-b453587d78ee))
