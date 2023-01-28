@@ -79,6 +79,7 @@
   collapsed:: true
 	- ((e7eee613-9e72-4da4-8e9d-729a451466df))
 	- ((f1004708-80fa-4682-be56-7ffd1f00ae50)): ((63b44c85-ab2a-44f2-b92d-ecd6ea417445))
+		- 具有适度的技能、劳动或努力，并且源自作者
 	- ((1dc4a170-ec58-466a-bf66-abf2c977af87)): ((63b44ca3-fd04-4232-b07a-7218e3038631))
 - (Restricted acts)对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的 [[card]]
   card-last-interval:: -1
