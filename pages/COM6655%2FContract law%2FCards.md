@@ -44,7 +44,7 @@
 		- Satisfactory quality,
 		- purpose,
 		- described,
-		- free of minor defecrs,
+		- free of minor defecrs 没有轻微缺陷
 - 豁免条款 [[Exemption clauses]] 具体有哪些类型 [[card]]
   collapsed:: true
   card-last-interval:: -1
