@@ -186,7 +186,7 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
   collapsed:: true
 	- ((63cfbe66-bb1f-4a33-b513-c888cbddae4a))
 	- ((63cfbe6f-ae19-473a-b00d-1b82b2c0f440))
-	- RIPA规定了拦截通信内容的权力
+	- The Regulation of Investigatory Powers Act 规定了拦截通信内容的权力
 	- 获取通信数据的权力，如谁与谁联系、何时联系、从哪里联系以及联系多久的记录
 	-
 -
