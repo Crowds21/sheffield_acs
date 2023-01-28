@@ -51,7 +51,6 @@
 		- described,
 		- free of minor defecrs 没有轻微缺陷
 - 豁免条款 [[Exemption clauses]] 具体有哪些类型 [[card]]
-  collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
@@ -71,7 +70,6 @@
   card-last-score:: 1
 	- ((63594afa-249f-47c2-8ab9-ab7e2cceb95a))
 - Contracts For bespoke software (定制软件) 需要注意的点有 [[card]]
-  collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
