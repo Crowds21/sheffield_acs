@@ -231,6 +231,12 @@
 				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 - ### Social Context
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T14:24:19.116Z
+	  card-last-score:: 1
 		- ~~The relationship between supply and demand~~
 		- The development of computer technology can bring positive impact to society
 			- 结合一下材料
