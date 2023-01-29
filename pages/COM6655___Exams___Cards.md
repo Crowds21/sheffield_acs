@@ -310,6 +310,12 @@
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 - ### Professional Issues
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) BCS Code中的那些内容和这一情景相关 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T15:51:04.870Z
+	  card-last-score:: 1
 		- ((63d52843-21d4-4c89-8e92-74d29d1c2b94))
 			- 公共利益 Public interest
 				- Should consider the public interest and not discriminate against others
