@@ -126,7 +126,7 @@
 		- License and sales contract are inseparable
 			- ((63d52842-ecf3-41c9-a67c-7cf113efd118))
 - ### Liability
-	- Product liability
+	- [[Consumer Protection Act]]
 		- Provides liability for producers of defective products
 		- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 		- vicarious liability
