@@ -121,6 +121,7 @@
 			- ((639df2fd-4ad4-4af8-bceb-b41a047598a1))
 			- ((63cfef2f-932d-4575-bf47-ca3f352d50c2))
 			- ((63a1baf8-21dd-4015-b36a-9b1602a8c8d1))
+			-
 	- ((63d67450-4b6b-45e1-a3ef-05e5a803737b))如果 abc 公司付款后,黑客仍然没有销毁数据,abc 公司是否能够根据 [[The Law of Confidence]]寻求一个解决 [[card]]
 		- Does the data meet the quality of confidence
 			- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
