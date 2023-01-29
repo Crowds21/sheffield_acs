@@ -172,5 +172,5 @@
 			- When he discovered that the data he had collected did not comply with ethical policies, he reported it to the appropriate people.
 		- Duty to the profession
 			- He cooperated well with the technician
-			- Did not bring the industry into disrepute
+			- Maintained the reputation of the association
 	-
