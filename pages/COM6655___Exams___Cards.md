@@ -67,7 +67,7 @@
 		- ~~Repair and Replace~~
 			- ((63d52842-c4e5-4ba7-83ff-9e10bba6b7fb))
 			- 订单的取消  [[Consumer Contracts Regulations]]
-		- Exclusions
+		- [[Exemption clauses]]
 			- [[Unfair Contract Terms Act]]
 		- Vicarious liability 替代责任
 - ### Liability
