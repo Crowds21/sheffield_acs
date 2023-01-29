@@ -159,5 +159,5 @@
 			- 对有关当局的责任 Duty to relevant authority
 				-
 			- 对专业的责任 Duty to the profession
-		- The algorithms he is working on are of public interest(结合例子)
+		- Public interest: The algorithms he is working on are of public interest(结合例子)
 		- Professional competence and integrity:  When he discovered that the data he had collected did not comply with ethical policies, he reported it to the appropriate people.
