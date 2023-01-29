@@ -1,5 +1,4 @@
 - 背景
-  collapsed:: true
 	- 背景一 : 学校 SCH 找 Microsoft 开发软件检测学生作弊, Microsoft自己写不了找三哥写软件,最后好多学生没分.
 	  id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
 	- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
@@ -14,6 +13,7 @@
 	  id:: 63d5a9d6-b303-4f67-9677-b67fb4860022
 	- 背景六: Lus收集的数据违反了之后才新出的伦理政策,但是他主动向相关人员进行了汇报
 	  id:: 63d666e1-f2f9-4a42-b72e-5a91bf67c1e5
+	-
 - ### Legal Concept
 	- TODO ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law [[card]]
 	  id:: 63d5aa63-d7f3-4140-b43a-c3d9d3baf1c7
