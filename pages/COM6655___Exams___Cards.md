@@ -120,7 +120,7 @@
 			- ((63d52842-1341-4712-a569-c2013f5cd8d8))
 				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 - ### Social Context
-	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用
+	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用 [[card]]
 	  collapsed:: true
 		- ~~The relationship between supply and demand~~
 		- The development of computer technology can bring positive impact to society
@@ -135,7 +135,8 @@
 		- ~~Technology may cause unemployment, but it can be solved in other ways~~
 		- ~~Women and work from home~~
 - ### Ethics
-	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)), 从实用主义和康德伦理学的角度分析 Lus 的行为
+	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)), 从实用主义和康德伦理学的角度分析 Lus 的行为 [[card]]
+	  collapsed:: true
 		- ((63d52843-0382-45a6-8933-2f0a65b32641))
 			- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
