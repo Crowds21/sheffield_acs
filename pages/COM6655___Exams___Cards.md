@@ -55,7 +55,7 @@
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
-		- [[Consumer Rights Act]] 对
+		- [[Consumer Rights Act]] ()
 		- Software is digital product, the software should have satisfactory quality.
 		- The company provides services to schools, Microsoft should be carried out with a ==reasonable degree of care and  skill==
 			- reasonable: 因为软件不可能  free of errors
@@ -66,7 +66,7 @@
 		- Computer aided mistake.  As a result of using this system, many students' grades are 0
 		- ~~Repair and Replace~~
 			- ((63d52842-c4e5-4ba7-83ff-9e10bba6b7fb))
-			-
+			- 订单的取消  [[Consumer Contracts Regulations]]
 		- Exclusions
 			- [[Unfair Contract Terms Act]]
 		- Vicarious liability 替代责任
