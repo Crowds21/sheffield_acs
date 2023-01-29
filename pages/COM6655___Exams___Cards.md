@@ -72,6 +72,7 @@
 		- Vicarious liability 替代责任
 - ### Liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  collapsed:: true
 	  案例中Negligence 相关内容 [[card]]
 		- The school own==a duty of call==  to the student. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
@@ -97,7 +98,6 @@
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析 [[card]]
-	  collapsed:: true
 		- Guilty Action
 			- Accessed someone else's computer and copied material
 		- Guilty Mind
