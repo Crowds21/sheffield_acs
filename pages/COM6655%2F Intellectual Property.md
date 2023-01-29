@@ -164,7 +164,6 @@
 - CDPA 与计算机程序
   collapsed:: true
 	- 计算机程序的版权
-	  collapsed:: true
 		- CDPA规定，计算机程序的版权必须是原创的，并有记录 (original and recorded)
 		  id:: e7eee613-9e72-4da4-8e9d-729a451466df
 		- 原创性(Original)
@@ -184,7 +183,6 @@
 	- 计算机程序的限制性行为 Restricted acts
 	  collapsed:: true
 		- 对计算机程序的限制性行为是
-		  collapsed:: true
 			- 复制 copying
 			- 向公众发放拷贝，包括出租  rental
 			- 改编  making an adaptation
