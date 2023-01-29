@@ -128,7 +128,6 @@
 - ### Social Context
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用
 		- 供应和需求的关系
-		- 生产力如何提高了
 		- The development of computer technology can bring positive impact to society
 			- 结合一下材料
 		- Potential negative impact of technology on society
