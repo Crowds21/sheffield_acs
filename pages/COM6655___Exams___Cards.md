@@ -104,7 +104,11 @@
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
 	- [[Theft Act]] 存在的问题,以及 [[Computer Misuse Act]]
 		- Stealing another person's information is not a ==permanent deprivation== of the other person's property
-		- [[Computer Misuse Act]] 中
+		- [[Computer Misuse Act]] 中引入了
+			- ((639df376-8804-4e7d-a2a8-a324052718a7))
+			- ((639df2fd-4ad4-4af8-bceb-b41a047598a1))
+			- ((63cfef2f-932d-4575-bf47-ca3f352d50c2))
+			- ((63a1baf8-21dd-4015-b36a-9b1602a8c8d1))
 - ### Data Protection
 	- UK GDPR 七个准则 [[card]]
 	  collapsed:: true
