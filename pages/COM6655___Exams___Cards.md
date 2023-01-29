@@ -114,6 +114,12 @@
 		- Case law
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
 	- ((63d67450-4b6b-45e1-a3ef-05e5a803737b)),[[Theft Act]]和 [[Computer Misuse Act]] 分别会如何处理黑客的问题 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T14:37:26.593Z
+	  card-last-score:: 1
 		- [[Theft Act]]
 			- Stealing another person's information is not a ==permanent deprivation== of the other person's property
 		- [[Computer Misuse Act]] provides
