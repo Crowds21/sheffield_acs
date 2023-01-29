@@ -59,7 +59,6 @@
 			- conditions
 		- Computer aided mistake.  As a result of using this system, many students' grades are 0
 		- ~~Repair and Replace~~
-		  collapsed:: true
 			- ((63d52842-c4e5-4ba7-83ff-9e10bba6b7fb))
 - ### Liability
   collapsed:: true
@@ -88,7 +87,6 @@
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析 [[card]]
-	  collapsed:: true
 		- Guilty Action
 			- Accessed someone else's computer and copied material
 		- Guilty Mind
@@ -101,7 +99,6 @@
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
 - ### Data Protection
 	- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
-	  collapsed:: true
 	  结合 [[Data Protection Act]] 分析该案例 [[card]]
 		- 相关定义
 			- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
