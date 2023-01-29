@@ -104,7 +104,6 @@
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
 - ### Data Protection
 	- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
-	  collapsed:: true
 	  结合 [[Data Protection Act]] 分析该案例 [[card]]
 		- 相关定义
 			- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
