@@ -127,6 +127,7 @@
 				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 - ### Social Context
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用
+	  collapsed:: true
 		- ~~The relationship between supply and demand~~
 		- The development of computer technology can bring positive impact to society
 			- 结合一下材料
@@ -138,7 +139,7 @@
 		- Technology and social change evolve together
 			- The ethical policies in the case have changed and data are more difficult to collect, which may have implications for technical studies
 		- ~~Technology may cause unemployment, but it can be solved in other ways~~
-		- ~Women and work from home~
+		- ~~Women and work from home~~
 - ### Ethics
 - ### Professional Issues
 -
