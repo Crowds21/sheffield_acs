@@ -54,6 +54,12 @@
 			- Copy code is an infringement, but rewrite code is not an infringement
 				- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
 	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T15:41:59.108Z
+	  card-last-score:: 1
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280)) in [[Copyright (Computer Programs) Regulations]]
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
 		- 程序的 substantial part
