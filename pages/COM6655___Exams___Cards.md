@@ -137,6 +137,7 @@
 		- Evidence suggests that huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 			- The ethical policies in the case have changed and data are more difficult to collect, which may have implications for technical studies
+		- ~~Technology may cause unemployment, but it can be solved in other ways~~
 		-
 - ### Ethics
 - ### Professional Issues
