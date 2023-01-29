@@ -73,7 +73,8 @@
 		- Exclusions [[Exemption clauses]]
 			- [[Unfair Contract Terms Act]]
 		- Vicarious liability 替代责任
-		- License 和 销售合同是
+		- License 和 销售合同是不可分开的
+			- ((63d52842-ecf3-41c9-a67c-7cf113efd118))
 - ### Liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
