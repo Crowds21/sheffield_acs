@@ -132,7 +132,7 @@
 			- 结合一下材料
 		- Potential negative impact of technology on society
 			- 集合材料
-			- id:: 63d66859-dc78-48af-8810-f410ab72de7b
+		- id:: 63d66859-dc78-48af-8810-f410ab72de7b
 - ### Ethics
 - ### Professional Issues
 -
