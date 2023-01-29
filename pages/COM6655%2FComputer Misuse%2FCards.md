@@ -37,7 +37,6 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((639df08f-2211-4671-bf0f-a39226ffdff9))
 	- [[The Law of Confidence]]
 - [[Theft Act]] 用于处理计算机相关问题存在的缺陷 [[card]]
-  collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
