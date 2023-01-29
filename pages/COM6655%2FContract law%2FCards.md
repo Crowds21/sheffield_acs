@@ -30,21 +30,6 @@
 	- [[Unfair Contract Terms Act]]
 	- [[Consumer Rights Act]]
 	-
-- [[Consumer Rights Act]] 中重要的内容 (商品,服务,数字内容)[[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:30:32.298Z
-  card-last-score:: 1
-	- ((6358f768-8325-4dfb-b3ed-7a8be905fd85))
-		- Fit for purpose: ((63cffabf-0fb6-49fa-b385-0c1ac8455ba7))
-		- as described: ((63cffab6-7b78-45e7-a79a-6a9492e0476a))
-		- satisfactory quality: ((63cffaab-f891-4f04-9409-61ae2c9d9ef3))
-	- ((6358f985-305d-434f-82dc-64d36032a440))
-		- Quality of service ((63cffa6d-069b-464b-a256-103a8e2d46db))
-		- price ((63cffa79-fec3-4d25-9fab-fe87c0ba2932))
-		- completion time: ((63cffa80-122d-49ec-be83-e141b88799b9))
 - 豁免条款 [[Exemption clauses]] 具体有哪些类型 [[card]]
   card-last-interval:: -1
   card-repeats:: 1
