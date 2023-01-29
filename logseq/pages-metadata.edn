@@ -66,7 +66,7 @@
   :block/updated-at 1673803809833}
  {:block/name "com6655/exams/cards",
   :block/created-at 1674939604757,
-  :block/updated-at 1674948094725}
+  :block/updated-at 1674995567174}
  {:block/name "com6655/introduction to ethics",
   :block/created-at 1673803809829,
   :block/updated-at 1673803809829}
@@ -93,7 +93,7 @@
   :block/updated-at 1674923995517}
  {:block/name "com6655/social context",
   :block/created-at 1673803809827,
-  :block/updated-at 1673803809827}
+  :block/updated-at 1674995597412}
  {:block/name "com6655/social context/cards",
   :block/created-at 1674913857803,
   :block/updated-at 1674923909905}
@@ -286,6 +286,9 @@
  {:block/name "jan 28th, 2023",
   :block/created-at 1674913857840,
   :block/updated-at 1674913857840}
+ {:block/name "jan 29th, 2023",
+  :block/created-at 1674995096573,
+  :block/updated-at 1674995096573}
  {:block/name "later",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
