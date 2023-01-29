@@ -72,7 +72,7 @@
 - ### Liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  案例中Negligence 相关内容 [[card]]
-		- The school own a duty of call to the student. It is predictable that there will be bugs in the software. And the student had a loss. 
+		- The school own==a duty of call==  to the student. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
 		- 阿三 did not find possible problems with the results of the algorithm, a competent professional should be able to find these problems
 		- The software company's testing of the system may not have been adequate
