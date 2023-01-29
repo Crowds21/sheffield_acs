@@ -17,11 +17,9 @@
 - ### Legal Concept
 	- TODO ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law [[card]]
 	  id:: 63d5aa63-d7f3-4140-b43a-c3d9d3baf1c7
-	  collapsed:: true
 		-
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
-	  collapsed:: true
 		- Related Laws [[The Copyright (Computer Programs) Regulations]]
 		- Related Laws [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
