@@ -87,7 +87,7 @@
 - ### Liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  案例中Negligence 相关内容 [[card]]
-		- memo:: negligence的条件
+		- negligence的条件
 			- The school own==a duty of care==  to the student. It is predictable that there will be bugs in the software. And the student had a loss.
 		- Competent Professinal
 			- 阿三 did not find possible problems with the results of the algorithm, ==a competent professional== should be able to find these problems
