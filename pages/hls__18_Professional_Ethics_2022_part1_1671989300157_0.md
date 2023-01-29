@@ -96,3 +96,13 @@ file-path:: ../assets/18_Professional_Ethics_2022_part1_1671989300157_0.pdf
   hl-page:: 59
   hl-color:: yellow
   id:: 63acc17a-126d-4171-a590-ac96f4faeac7
+- have due regard for public health, privacy, security and wellbeing of others and the environment.
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 63d66c3e-cc91-4a4a-b7ff-f48cfb321a91
+- have due regard for the legitimate rights of Third Parties
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 63d66c42-5035-4797-95b4-b40cb8f24608
