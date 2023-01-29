@@ -136,7 +136,7 @@
 		  id:: 63d66859-dc78-48af-8810-f410ab72de7b
 		- Evidence suggests that huge investments in computer technology may not pay off
 		- Technology and social change evolve together
-			-
+			- 案例中的伦理政策发生了变化,这可能会对
 - ### Ethics
 - ### Professional Issues
 -
