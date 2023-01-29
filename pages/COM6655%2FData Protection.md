@@ -40,6 +40,7 @@
 	  collapsed:: true
 	  Information in the possession of others
 		- 问题
+		  collapsed:: true
 			- 考虑一下有关个人的信息，这些信息是由他人占有的；
 			- 个人并不拥有这些信息，但它被认为是个人的，因此在某种意义上是 "他们的"
 		- 这方面的隐私问题是信息被滥用的可能性
@@ -48,6 +49,7 @@
 		- 英国，这些问题由 [[Data Protection Act]] 1998 解决
 		- 在英国脱欧之前，它们由[[EU GDPR/DPA]] 2018解决
 		- 英国脱欧后（2021年1月1日生效），它们由以下内容解决
+		  collapsed:: true
 			- [[UK General Data Protection Regulation]] (UK GDPR)
 			- [[Data Protection Act]] 2018 (DPA 2018)
 	- Transborder data flows
