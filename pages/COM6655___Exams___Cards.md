@@ -223,7 +223,7 @@
 		- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 	-
 - ### Data Protection
-	- UK GDPR 七个准则 [[card]]
+	- UK [] 七个准则 [[card]]
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
