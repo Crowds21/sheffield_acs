@@ -142,6 +142,7 @@ title:: COM6655/Contract law
 		  id:: 63594afa-249f-47c2-8ab9-ab7e2cceb95a
 		- 例子: 比如软件公司的软件造成了伤亡.
 	- 案例
+	  collapsed:: true
 		- St Albans City and District Council v International Computers Ltd (1996)
 		  collapsed:: true
 			- 背景
