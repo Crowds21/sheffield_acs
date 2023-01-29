@@ -22,7 +22,7 @@
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff))  请问是否违反了 copyright,简单解释[[card]]
 		- Relevant Legislation [[The Copyright (Computer Programs) Regulations]] (编译反编译)
-		- Related Laws [[Copyright, Designs and Patents Act]]
+		- Relevant Legislation [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
 			- There is a competitive relationship between these two software
 			- Decompiling is not allowed when creating competing products
