@@ -86,6 +86,12 @@
 			- ((63d52842-ecf3-41c9-a67c-7cf113efd118))
 - ### Liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T15:24:24.212Z
+	  card-last-score:: 1
 	  案例中Negligence 相关内容 [[card]]
 		- negligence的条件
 			- The school own==a duty of care==  to the student. It is predictable that there will be bugs in the software. And the student had a loss.
