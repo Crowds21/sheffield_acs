@@ -58,7 +58,7 @@
 		- [[Consumer Rights Act]]
 		- Software is digital product, the software should have satisfactory quality.
 		- The company provides services to schools, Microsoft should be carried out with a ==reasonable degree of care and  skill==
-			- reasonable:
+			- reasonable: 因为软件不可能  free of errors
 		- ~~Bench of contract~~
 			- warranties
 			- conditions
