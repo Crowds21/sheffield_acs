@@ -2,5 +2,5 @@
 - 本地合并分支
 	- ```sh
 	  git fetch --all
-	  git reset --hard <remote>/<branch_name>
+	  git reset --hard origin/main
 	  ```
