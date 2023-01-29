@@ -102,7 +102,7 @@
 			- ((639df376-8804-4e7d-a2a8-a324052718a7))
 		- Case law
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
-	- [[Theft Act]] 存在的问题,以及 [[Fraud Act]]
+	- [[Theft Act]] 存在的问题,以及 [[Computer
 		- Stealing another person's information is not a ==permanent deprivation== of the other person's property
 		- [[Fraud Act]]
 - ### Data Protection
