@@ -136,6 +136,7 @@
 		  id:: 63d66859-dc78-48af-8810-f410ab72de7b
 		- Evidence suggests that huge investments in computer technology may not pay off
 		- Technology and social change evolve together
+			- The ethical policies in the case have changed and data are more difficult to collect, which may have implications for technical studies
 			-
 - ### Ethics
 - ### Professional Issues
