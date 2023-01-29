@@ -200,7 +200,7 @@
 			- 超市收银台的货物扫描率；
 			- 电话监测；
 			- 追踪个别员工的 "活动徽章"。
-	- 监督和降技存在的问题 Problems with monitoring and deskilling
+	- 监督和裁员存在的问题 Problems with monitoring and deskilling
 		- 监督可能根本不能提高生产力：
 			- 增加压力和不信任的气氛；
 			- 旷工增加；
