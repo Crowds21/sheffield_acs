@@ -97,7 +97,7 @@
 			- Satisfactory quality
 			- purpose
 			- described
-			- free of minor defecrs 没有轻微缺陷
+			- free of minor defects 没有轻微缺陷
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  card-last-interval:: -1
 	  card-repeats:: 1
