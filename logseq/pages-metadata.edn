@@ -199,6 +199,9 @@
  {:block/name "general data protection regulation",
   :block/created-at 1673803786562,
   :block/updated-at 1673803786562}
+ {:block/name "git",
+  :block/created-at 1675025291356,
+  :block/updated-at 1675025291356}
  {:block/name "health and safety act",
   :block/created-at 1673803784578,
   :block/updated-at 1673803784578}
