@@ -327,6 +327,12 @@
 		- ~~Women and work from home~~
 - ### Ethics
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)), 从实用主义和康德伦理学的角度分析 Lus 的行为 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T16:12:44.028Z
+	  card-last-score:: 1
 		- ((63d52843-0382-45a6-8933-2f0a65b32641))
 			- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
