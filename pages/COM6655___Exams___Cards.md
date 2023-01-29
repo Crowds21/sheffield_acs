@@ -148,6 +148,6 @@
 		- ((63d52843-5c89-4b0f-89c5-7c9834b0a61e))
 			- The categorical imperative, treating people as ends (respecting their rights)
 			  and not merely as means  [5]
-			- [5]
+			- 集合案例说明他的什么行为将人作为目的 [5]
 - ### Professional Issues
 -
