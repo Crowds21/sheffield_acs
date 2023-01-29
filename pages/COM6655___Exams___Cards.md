@@ -224,11 +224,11 @@
 		- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 	- ((63d52841-303f-4a0c-b4b0-6327b0ed1846)) case law [[card]]
 		- ((63d52841-34d4-4c16-8345-9dad923f2651))
-	- Case law The organization in the code is similar
+	- Case law: The organization in the code is similar
 		- ((63d52842-cea3-444a-ad14-35a17223f1cb))
--
-	- Copy code is an infringement, but rewrite code is not an infringement
+	- Case law: Copy code is an infringement, but rewrite code is not an infringement
 		- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
+-
 - ### Data Protection
 	- [[UK General Data Protection Regulation]] 七个准则 [[card]]
 	  card-last-score:: 1
