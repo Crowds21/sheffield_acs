@@ -66,7 +66,7 @@
   :block/updated-at 1673803809833}
  {:block/name "com6655/exams/cards",
   :block/created-at 1674939604757,
-  :block/updated-at 1674999892423}
+  :block/updated-at 1675000466532}
  {:block/name "com6655/introduction to ethics",
   :block/created-at 1673803809829,
   :block/updated-at 1674996462911}
@@ -271,6 +271,9 @@
   "hls__week45_06_contract_law_part_1_2022_1666627252369_0",
   :block/created-at 1674914923962,
   :block/updated-at 1674914923962}
+ {:block/name "ibcos",
+  :block/created-at 1675000237031,
+  :block/updated-at 1675000237031}
  {:block/name "in-progress",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
