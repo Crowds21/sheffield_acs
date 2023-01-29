@@ -6,5 +6,6 @@
 	  ```
 - {{cards [[COM6655/Exams/Cards]] }}
 	- Summary: 7 items, 7 review counts [[Jan 29th, 2023]]
+	  collapsed:: true
 		- Remembered:   0 (0%)
 		- Forgotten :   7 (100%)
