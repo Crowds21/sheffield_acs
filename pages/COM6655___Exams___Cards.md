@@ -103,7 +103,8 @@
 		- Case law
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
 - ### Data Protection
-	- UK GDPK 七个准则
+	- UK GDPR 七个准则 [[card]]
+	  collapsed:: true
 		- 合法性、公平性和透明度
 		  collapsed:: true
 		  Lawfulness, fairness and transparency
