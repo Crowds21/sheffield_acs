@@ -106,3 +106,8 @@ file-path:: ../assets/18_Professional_Ethics_2022_part1_1671989300157_0.pdf
   hl-page:: 29
   hl-color:: yellow
   id:: 63d66c42-5035-4797-95b4-b40cb8f24608
+- conduct your professional activities without discrimination on the grounds of sex, sexual orientation, marital status, nationality, colour, race, ethnic origin, religion, age or disability, or of any other condition or requirement
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 63d66c46-37fe-483c-b801-6e8bd092e7f7
