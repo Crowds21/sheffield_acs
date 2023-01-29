@@ -90,7 +90,7 @@
 		- The software company is vicariously liable to the school for any damages suffered by the student.
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
-	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析 [[card]]
+	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析 [[card]]\
 	  collapsed:: true
 		- Guilty Action
 			- Accessed someone else's computer and copied material
@@ -102,6 +102,7 @@
 			- ((639df376-8804-4e7d-a2a8-a324052718a7))
 		- Case law
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
+	-
 - ### Data Protection
 	- UK GDPR 七个准则 [[card]]
 	  collapsed:: true
