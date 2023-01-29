@@ -155,7 +155,7 @@
 			- 公共利益 Public interest
 				- Should consider the public interest and not discriminate against others
 			- 专业能力和诚信 Professional competence and integrity
-				- As a professional, you should comply with the relevant professional requirements and make professional judgments at all times
+				- As a professional, you should comply with the relevant professional requirements and
 			- 对有关当局的责任 Duty to relevant authority
 				-
 			- 对专业的责任 Duty to the profession
