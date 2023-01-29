@@ -55,7 +55,7 @@
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
-		- [[Consumer Rights Act]] (规定服务)
+		- [[Consumer Rights Act]] (规定服务商品和数字产品)
 		- Software is digital product, the software should have satisfactory quality.
 		- The company provides services to schools, Microsoft should be carried out with a ==reasonable degree of care and  skill==
 			- reasonable: 因为软件不可能  free of errors
