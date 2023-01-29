@@ -54,6 +54,7 @@
 		- ((63d52842-66ec-4cd0-94ed-5b757a9d33e2))
 			- but it does not protect "look and feel".
 		- 其他 Case Law
+		  collapsed:: true
 			- ((63d52841-303f-4a0c-b4b0-6327b0ed1846))
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
 			- The organization in the code is similar
