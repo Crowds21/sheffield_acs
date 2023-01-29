@@ -66,7 +66,7 @@
   :block/updated-at 1673803809833}
  {:block/name "com6655/exams/cards",
   :block/created-at 1674939604757,
-  :block/updated-at 1675008764039}
+  :block/updated-at 1675009309929}
  {:block/name "com6655/introduction to ethics",
   :block/created-at 1673803809829,
   :block/updated-at 1674996462911}
@@ -316,6 +316,9 @@
  {:block/name "professional issues",
   :block/created-at 1673803785906,
   :block/updated-at 1673803785906}
+ {:block/name "readme",
+  :block/created-at 1675008886957,
+  :block/updated-at 1675008886957}
  {:block/name "ref",
   :block/created-at 1673803785182,
   :block/updated-at 1673803785182}
