@@ -143,6 +143,12 @@
 			- [[Consumer Protection Act]] Provides liability for producers of defective products
 			- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T16:21:22.805Z
+	  card-last-score:: 1
 	  案例中Negligence 相关内容
 	  ((63d52843-ed39-4327-a1da-b453587d78ee)) [[card]]
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
