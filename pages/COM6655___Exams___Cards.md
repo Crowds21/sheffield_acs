@@ -50,7 +50,7 @@
 		- Relevant Legislation is [[Copyright, Designs and Patents Act]]
 		- Screen design and icons are be protected by copyright
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
-		- ((63d52842-66ec-4cd0-94ed-5b757a9d33e2)) ,
+		- ((63d52842-66ec-4cd0-94ed-5b757a9d33e2)) , 保护 expression 而不是
 			- but it does not protect "look and feel".
 		- 其他 Case Law
 		  collapsed:: true
