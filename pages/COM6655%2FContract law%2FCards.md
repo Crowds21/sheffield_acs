@@ -45,11 +45,6 @@
 		- Quality of service ((63cffa6d-069b-464b-a256-103a8e2d46db))
 		- price ((63cffa79-fec3-4d25-9fab-fe87c0ba2932))
 		- completion time: ((63cffa80-122d-49ec-be83-e141b88799b9))
-	- ((6358f9a5-781d-4bbc-8c1c-ba967489f1f6))
-		- Satisfactory quality,
-		- purpose,
-		- described,
-		- free of minor defecrs 没有轻微缺陷
 - 豁免条款 [[Exemption clauses]] 具体有哪些类型 [[card]]
   card-last-interval:: -1
   card-repeats:: 1

@@ -71,6 +71,11 @@
 			- Math needs to determine if the code is a copy
 			- If the algorithm for part1 "input sheet file" is rewritten by WORD,  they may not be infringing under the law of the case.
 - ### Contract Law
+	- ((6358f9a5-781d-4bbc-8c1c-ba967489f1f6))
+		- Satisfactory quality,
+		- purpose,
+		- described,
+		- free of minor defecrs 没有轻微缺陷
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
