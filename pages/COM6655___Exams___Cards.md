@@ -91,7 +91,6 @@
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析 [[card]]
-	  collapsed:: true
 		- Guilty Action
 			- Accessed someone else's computer and copied material
 		- Guilty Mind
@@ -109,6 +108,14 @@
 			- ((639df2fd-4ad4-4af8-bceb-b41a047598a1))
 			- ((63cfef2f-932d-4575-bf47-ca3f352d50c2))
 			- ((63a1baf8-21dd-4015-b36a-9b1602a8c8d1))
+	- 欺诈 Fraud offences 的定义 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-29T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-28T16:38:43.240Z
+	  card-last-score:: 1
+		- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 	-
 - ### Data Protection
 	- UK GDPR 七个准则 [[card]]
