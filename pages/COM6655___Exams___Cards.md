@@ -82,6 +82,7 @@
 			- [[Consumer Protection Act]]
 			- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  collapsed:: true
 	  案例中Negligence 相关内容
 	  ((63d52843-ed39-4327-a1da-b453587d78ee)) [[card]]
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
