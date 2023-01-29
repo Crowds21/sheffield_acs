@@ -184,6 +184,7 @@
 	  collapsed:: true
 		- 对计算机程序的限制性行为是
 			- 复制 copying
+			  id:: 63d52842-b736-4db8-af9f-ca19048c3f11
 			- 向公众发放拷贝，包括出租  rental
 			- 改编  making an adaptation
 		- 限制性行为是指未经版权持有人许可而不能做的事情
