@@ -52,6 +52,7 @@
 			- If the algorithm for part1 "input sheet file" is rewritten by WORD,  they may not be infringing under the law of the case.
 - ### Contract Law
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  collapsed:: true
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
 		- [[Consumer Rights Act]]
@@ -90,6 +91,7 @@
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析 [[card]]
+	  collapsed:: true
 		- Guilty Action
 			- Accessed someone else's computer and copied material
 		- Guilty Mind
@@ -102,6 +104,7 @@
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
 - ### Data Protection
 	- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
+	  collapsed:: true
 	  结合 [[Data Protection Act]] 分析该案例 [[card]]
 		- 相关定义
 			- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
@@ -118,6 +121,7 @@
 				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 - ### Social Context
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用
+	  collapsed:: true
 		- ~~The relationship between supply and demand~~
 		- The development of computer technology can bring positive impact to society
 			- 结合一下材料
