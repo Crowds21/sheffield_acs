@@ -114,7 +114,7 @@
 	- ((63d67450-4b6b-45e1-a3ef-05e5a803737b))如果 abc 公司付款后,黑客仍然没有销毁数据,abc 公司是否能够根据 [[The Law of Confidence]]寻求一个解决 [[card]]
 		- Does the data meet the quality of confidence
 		- Seek an injunction
-		- In practice the leagal protection
+		- In practice the legal protection is week
 	-
 	- 欺诈 Fraud offences 的定义 [[card]]
 	  card-last-interval:: -1
