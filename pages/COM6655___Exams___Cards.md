@@ -87,9 +87,9 @@
 			- price ((63cffa79-fec3-4d25-9fab-fe87c0ba2932))
 			- completion time: ((63cffa80-122d-49ec-be83-e141b88799b9))
 		- ((6358f9a5-781d-4bbc-8c1c-ba967489f1f6))
-			- Satisfactory quality,
-			- purpose,
-			- described,
+			- Satisfactory quality
+			- purpose
+			- described
 			- free of minor defecrs 没有轻微缺陷
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  案例中和 Contract Law 相关的内容 [[card]]
