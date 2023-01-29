@@ -100,10 +100,13 @@
 			- 对专业的责任 Duty to the profession
 		- 相关定义
 			- Legislation
+			  collapsed:: true
 				- 术语 "立法 "是指任何适用的法律、法规和条例
 			- Third Parties
+			  collapsed:: true
 				- 术语 "第三方 "包括可能受到你以专业身份进行的活动影响的任何个人或组织，无论他们是否直接了解或参与这些活动
 			- Relevant Authority
+			  collapsed:: true
 				- 本文件中的 "相关机构 "一词用于确定对个人以其专业身份从事的活动拥有/拥有权力的个人或组织
 				- 对于执业的BCS会员，这通常是雇主或客户
 				- 对于学生会员，这通常是一个学术机构
