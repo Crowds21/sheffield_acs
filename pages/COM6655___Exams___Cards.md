@@ -153,7 +153,7 @@
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) BCS Code中的那些内容和这一情景相关
 		- ((63d52843-21d4-4c89-8e92-74d29d1c2b94))
 			- 公共利益 Public interest
-				-
+				- Should consider the public interest and not discriminate against others
 			- 专业能力和诚信 Professional competence and integrity
 			- 对有关当局的责任 Duty to relevant authority
 			- 对专业的责任 Duty to the profession
