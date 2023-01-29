@@ -132,7 +132,6 @@
 	-
 - ### Data Protection
 	- UK GDPR 七个准则 [[card]]
-	  collapsed:: true
 		- 合法性、公平性和透明度
 		  collapsed:: true
 		  Lawfulness, fairness and transparency
@@ -216,7 +215,6 @@
 				- 安全是最重要的，要求包括：信息安全政策、访问控制、安全监控和恢复计划。
 				- 数据泄露需要被发现、报告、调查和记录。
 	- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
-	  collapsed:: true
 	  结合 [[Data Protection Act]] 分析该案例 [[card]]
 		- 相关定义
 			- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
@@ -233,7 +231,6 @@
 				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 - ### Social Context
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用 [[card]]
-	  collapsed:: true
 		- ~~The relationship between supply and demand~~
 		- The development of computer technology can bring positive impact to society
 			- 结合一下材料
