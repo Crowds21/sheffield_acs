@@ -328,7 +328,6 @@ title:: COM6655/Contract law
 	- 案例
 	  collapsed:: true
 		- Beta Computers Ltd vs. Adobe Systems Ltd 1996
-		  collapsed:: true
 			- 背景
 				- Beta 公司向 Adobe 提供了由Informix 软件公司生产的软件
 				- 该软件有一个Shrink-wrap许可证,"打开即代表接受informix的条款"
