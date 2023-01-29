@@ -92,6 +92,12 @@
 			- described
 			- free of minor defecrs 没有轻微缺陷
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T16:12:03.427Z
+	  card-last-score:: 1
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
 		- [[Consumer Rights Act]] (规定服务商品和数字产品)
