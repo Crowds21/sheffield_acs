@@ -110,7 +110,6 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((63cfe926-31d3-4509-95fa-6cf76b9693d3))
 	- ((636243b0-938e-42e3-ac86-744fccd13bcf))
 - [[Computer Misuse Act]] 新引入的罪行offences [[card]]
-  collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
@@ -122,7 +121,6 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((63cfef2f-932d-4575-bf47-ca3f352d50c2))
 	- ((63a1baf8-21dd-4015-b36a-9b1602a8c8d1))
 - ((63a1db9a-441b-4cad-b3d9-388a0b5b078d)) [[card]]
-  collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
