@@ -42,7 +42,6 @@
 			- Copy code is an infringement, but rewrite code is not an infringement
 				- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
 	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任 [[card]]
-	  collapsed:: true
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
 		- 程序的 substantial part
@@ -62,7 +61,6 @@
 		- The company provides services to schools, Microsoft should be carried out with a ==reasonable degree of care and  skill==
 			- reasonable: 因为软件不可能  free of errors
 		- ~~Bench of contract~~
-		  collapsed:: true
 			- warranties
 			- conditions
 		- Computer aided mistake.  As a result of using this system, many students' grades are 0
@@ -76,7 +74,6 @@
 			- ((63d52842-ecf3-41c9-a67c-7cf113efd118))
 - ### Liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  collapsed:: true
 	  案例中Negligence 相关内容 [[card]]
 		- The school own==a duty of care==  to the student. It is predictable that there will be bugs in the software. And the student had a loss. 
 		  memo:: negligence的条件
@@ -88,7 +85,6 @@
 			- [[Consumer Protection Act]] Provides liability for producers of defective products
 			- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  collapsed:: true
 	  案例中Negligence 相关内容
 	  ((63d52843-ed39-4327-a1da-b453587d78ee)) [[card]]
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
