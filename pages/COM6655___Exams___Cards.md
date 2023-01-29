@@ -51,7 +51,6 @@
 			- Math needs to determine if the code is a copy
 			- If the algorithm for part1 "input sheet file" is rewritten by WORD,  they may not be infringing under the law of the case.
 - ### Contract Law
-  collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
 	  案例中和 Contract Law 相关的内容 [[card]]
