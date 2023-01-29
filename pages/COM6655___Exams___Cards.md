@@ -143,6 +143,9 @@
 			- The software company's testing of the system may not have been adequate
 		- ((635e8778-ea88-4539-b14d-952b2931ea1a))
 			- This may be due to problems with the training data provided by the school, the school also contributed to the negligence
+		- 其他
+			- ((635e91fa-73c4-40b7-8835-f23da74cf541))
+			- vicarious liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  card-last-interval:: -1
 	  card-repeats:: 1
