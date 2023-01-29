@@ -1,4 +1,5 @@
 - 背景
+  collapsed:: true
 	- 背景一 : 学校 SCH 找 Microsoft 开发软件检测学生作弊, Microsoft自己写不了找三哥写软件,最后好多学生没分.
 	  id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
 	- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
@@ -142,6 +143,7 @@
 		- ~~Women and work from home~~
 - ### Ethics
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)), 从实用主义和康德伦理学的角度分析 Lus 的行为
+	  collapsed:: true
 		- ((63d52843-0382-45a6-8933-2f0a65b32641))
 			- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
@@ -151,6 +153,7 @@
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 - ### Professional Issues
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) BCS Code中的那些内容和这一情景相关
+	  collapsed:: true
 		- ((63d52843-21d4-4c89-8e92-74d29d1c2b94))
 			- 公共利益 Public interest
 			  collapsed:: true
