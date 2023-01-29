@@ -123,7 +123,6 @@
 			- ((63cff620-1b4c-44c8-8a99-56392efd9cd8))
 		- Seek an injunction
 		- In practice the legal protection is week
-	-
 	- 欺诈 Fraud offences 的定义 [[card]]
 	  card-last-interval:: -1
 	  card-repeats:: 1
