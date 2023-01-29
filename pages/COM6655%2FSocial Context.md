@@ -195,7 +195,6 @@
 		- "美国雇主协会估计，美国公司赚取的每一美元中，有20%是因员工盗窃而损失的。"
 	- 监测技术 Monitoring techniques
 	  id:: 63ab5a02-fef7-483b-a74d-01aba03d5caa
-	  collapsed:: true
 		- 泰勒提倡的简单计时现在已经被更复杂的监测所取代
 		  collapsed:: true
 			- 闭路电视；
