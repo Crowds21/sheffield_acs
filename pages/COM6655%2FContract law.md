@@ -72,7 +72,6 @@ title:: COM6655/Contract law
 	- [[CRA]] 中对数字内容(digital content)的内容
 	  id:: 6358f9a5-781d-4bbc-8c1c-ba967489f1f6
 		- 什么是 digital content
-		  collapsed:: true
 			- data which are produced and supplied in digital form.
 			  以数字的形式提供的数据
 		- 消费者对任何下载和流媒体内容拥有权利
