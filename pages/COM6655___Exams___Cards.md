@@ -103,7 +103,7 @@
 			- ((639df376-8804-4e7d-a2a8-a324052718a7))
 		- Case law
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
-	-
+	- ((63d67450-4b6b-45e1-a3ef-05e5a803737b)),
 	- [[Theft Act]] 存在的问题,以及 [[Computer Misuse Act]] [[card]]
 		- Stealing another person's information is not a ==permanent deprivation== of the other person's property
 		- [[Computer Misuse Act]] solves these problems
