@@ -72,7 +72,6 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((63624779-41bc-40e3-b77f-b65985c67d56))
 	- ((636247d1-48fd-4177-844a-796874c7b726))
 - 欺诈 Fraud offences 的定义 [[card]]
-  collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
