@@ -223,13 +223,13 @@
 		- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 	-
 - ### Data Protection
-	- UK [] 七个准则 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-30T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-29T15:06:14.574Z
+	- [[UK General Data Protection Regulation]] 七个准则 [[card]]
 	  card-last-score:: 1
+	  card-repeats:: 1
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-interval:: -1
+	  card-ease-factor:: 2.5
+	  card-last-reviewed:: 2023-01-29T15:06:14.574Z
 		- 合法性、公平性和透明度
 		  collapsed:: true
 		  Lawfulness, fairness and transparency
