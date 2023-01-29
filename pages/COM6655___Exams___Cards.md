@@ -159,4 +159,5 @@
 			- 对有关当局的责任 Duty to relevant authority
 				-
 			- 对专业的责任 Duty to the profession
+		- The algorithms he is working on are of public interest(结合例子)
 		-
