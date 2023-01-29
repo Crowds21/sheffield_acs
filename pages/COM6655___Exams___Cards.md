@@ -104,7 +104,7 @@
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
 	- [[Theft Act]] 存在的问题,以及 [[Fraud Act]]
 		- Stealing another person's information is not a ==permanent deprivation== of the other person's property
-		-
+		- [[Fraud Act]]
 - ### Data Protection
 	- UK GDPR 七个准则 [[card]]
 	  collapsed:: true
