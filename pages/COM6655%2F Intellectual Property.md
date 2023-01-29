@@ -181,7 +181,6 @@
 		- 问：是否所有程序都符合这一要求？
 		  background-color:: purple
 	- 计算机程序的限制性行为 Restricted acts
-	  collapsed:: true
 		- 对计算机程序的限制性行为是
 			- 复制 copying
 			  id:: 63d52842-b736-4db8-af9f-ca19048c3f11
