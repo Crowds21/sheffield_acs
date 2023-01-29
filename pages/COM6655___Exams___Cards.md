@@ -57,7 +57,7 @@
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
 		- [[Consumer Rights Act]]
 		- Software is digital product, the software should have satisfactory quality.
-		- The company provides services to schools, Microsoft should be carried out with a reasonable degree of care and  skill
+		- The company provides services to schools, Microsoft should be carried out with a ==reasonable degree of care and  skill==
 		- ~~Bench of contract~~
 			- warranties
 			- conditions
