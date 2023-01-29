@@ -24,7 +24,7 @@
 	  card-next-schedule:: 2023-01-30T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-29T16:17:37.901Z
 	  card-last-score:: 1
-		- CDPR - ((63d52842-b736-4db8-af9f-ca19048c3f11))
+		- CDPR - ((63d52842-7568-463c-847b-4a730348014e))
 		- ((63d52842-1567-4a8a-8472-c7ac3aa4f2ac))
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff))  请问是否违反了 copyright,简单解释[[card]]
