@@ -21,7 +21,7 @@
 		-
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
-		- Related Laws [[The Copyright (Computer Programs) Regulations]]
+		- Related Laws [[The Copyright (Computer Programs) Regulations]] (编译反编译)
 		- Related Laws [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
 			- There is a competitive relationship between these two software
