@@ -213,7 +213,7 @@
 			- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
 			- ((63cff620-1b4c-44c8-8a99-56392efd9cd8))
 		- Seek an injunction
-		- In practice the legal protection is week
+		- In practice the legal protection is weak
 	- 欺诈 Fraud offences 的定义 [[card]]
 	  collapsed:: true
 	  card-last-interval:: -1
