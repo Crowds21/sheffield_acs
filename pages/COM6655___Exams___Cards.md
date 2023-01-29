@@ -103,10 +103,8 @@
 		- 相关定义
 			- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))
 			- Controller - School
-			  collapsed:: true
 				- The school has the student's email information and can decide how to use it.(purpose and manner)
 			- Processor - Rain
-			  collapsed:: true
 				- Rain Company sends advertising emails to students on behalf of the school
 		- ((63d59cd6-f605-46c9-b558-61d69c808b61))
 			- Purpose Limitation
@@ -117,7 +115,6 @@
 				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 - ### Social Context
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用
-	  collapsed:: true
 		- ~~The relationship between supply and demand~~
 		- The development of computer technology can bring positive impact to society
 			- 结合一下材料
@@ -132,7 +129,6 @@
 		- ~~Women and work from home~~
 - ### Ethics
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)), 从实用主义和康德伦理学的角度分析 Lus 的行为
-	  collapsed:: true
 		- ((63d52843-0382-45a6-8933-2f0a65b32641))
 			- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
@@ -142,7 +138,6 @@
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 - ### Professional Issues
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) BCS Code中的那些内容和这一情景相关
-	  collapsed:: true
 		- ((63d52843-21d4-4c89-8e92-74d29d1c2b94))
 			- 公共利益 Public interest
 			  collapsed:: true
