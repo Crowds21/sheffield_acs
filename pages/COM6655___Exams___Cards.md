@@ -147,7 +147,7 @@
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
 		- ((63d52843-5c89-4b0f-89c5-7c9834b0a61e))
 			- The categorical imperative, treating people as ends (respecting their rights)
-			  and not merely as means [5].
-			- JohnnyCab have used customers merely as means (not respected their rights/desires) – it was not the right action [5%].
+			  and not merely as means  [5]
+			- JohnnyCab have used customers merely as means (not respected their rights/desires) – it was not the right action [5]
 - ### Professional Issues
 -
