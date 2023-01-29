@@ -21,7 +21,6 @@
 		-
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
-	  collapsed:: true
 		- Related Laws [[The Copyright (Computer Programs) Regulations]]
 		- Related Laws [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
@@ -30,7 +29,6 @@
 		- ((63d52842-b13a-4e84-9893-648f2307f5a9))
 			- decompilation and rewrite are both effectively translation, which is a restricted right
 	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,认为 Word 侵犯了 Math 的版权 [[card]]
-	  collapsed:: true
 		- Relevant Legislation is [[Copyright, Designs and Patents Act]]
 		- Screen design and icons are be protected by copyright
 		- ((63d52842-66ec-4cd0-94ed-5b757a9d33e2))
@@ -39,6 +37,7 @@
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
 			- ((63d52841-303f-4a0c-b4b0-6327b0ed1846))
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
+			-
 	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任 [[card]]
 	  collapsed:: true
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
