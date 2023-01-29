@@ -39,7 +39,7 @@
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
 			- The organization in the code is similar
 				- ((63d52842-cea3-444a-ad14-35a17223f1cb))
-			- Copyies
+			- 复制
 				- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
 	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任 [[card]]
 	  collapsed:: true
