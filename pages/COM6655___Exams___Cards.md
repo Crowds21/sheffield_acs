@@ -383,7 +383,6 @@
 	  card-next-schedule:: 2023-01-30T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-29T16:21:49.869Z
 	  card-last-score:: 1
-	  collapsed:: true
 		- ((63d52843-21d4-4c89-8e92-74d29d1c2b94))
 			- 公共利益 Public interest
 				- Should consider the public interest and not discriminate against others
