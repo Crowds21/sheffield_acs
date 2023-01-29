@@ -127,7 +127,7 @@
 				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 - ### Social Context
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用
-		-
+		- 生产力
 - ### Ethics
 - ### Professional Issues
 -
