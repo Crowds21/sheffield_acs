@@ -129,7 +129,7 @@
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用
 		- 供应和需求的关系
 		- 生产力如何提高了
-		- 技术发展对社会的正面影响
+		- The development of computer technology can bring positive impact to society
 			-
 		- 技术对社会的潜在负面影响
 			-
