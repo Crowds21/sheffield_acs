@@ -13,7 +13,8 @@
 	  id:: 63d5a9d6-b303-4f67-9677-b67fb4860022
 	- 背景七: Lus收集的数据违反了之后才新出的伦理政策,但是他主动向相关人员进行了汇报
 	  id:: 63d666e1-f2f9-4a42-b72e-5a91bf67c1e5
-	- 背景八: ABC 公司收集个人数据,然后存储到 Cloud 公司,最后被黑客勒索了,
+	- 背景八: ABC 公司收集个人数据,然后存储到 Cloud 公司,最后被黑客勒索了,ABC 没有向用户汇报这件事
+	  id:: 63d67450-4b6b-45e1-a3ef-05e5a803737b
 - ### Legal Concept
 	- TODO ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law [[card]]
 	  id:: 63d5aa63-d7f3-4140-b43a-c3d9d3baf1c7
@@ -102,6 +103,7 @@
 			- ((639df376-8804-4e7d-a2a8-a324052718a7))
 		- Case law
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
+	-
 	- [[Theft Act]] 存在的问题,以及 [[Computer Misuse Act]] [[card]]
 		- Stealing another person's information is not a ==permanent deprivation== of the other person's property
 		- [[Computer Misuse Act]] solves these problems
