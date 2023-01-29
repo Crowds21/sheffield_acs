@@ -157,8 +157,9 @@
 			- 专业能力和诚信 Professional competence and integrity
 				- As a professional, you should comply with the relevant professional requirements and no harm to others
 			- 对有关当局的责任 Duty to relevant authority
-				-
+				- Not to conflict with the relevant institutions and comply with the relevant requirements of the authorities
 			- 对专业的责任 Duty to the profession
+				-
 		- Public interest
 			- The algorithms he is working on are of public interest(结合例子)
 		- Professional competence and integrity
