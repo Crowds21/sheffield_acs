@@ -92,7 +92,6 @@
 			- 负责监管英国的ICT和计算机科学
 			- 1984年通过 "皇家宪章 "注册成立
 	- BCS行为准则
-	  collapsed:: true
 		- 涉及的四个主要领域
 		  collapsed:: true
 			- 公共利益 Public interest
