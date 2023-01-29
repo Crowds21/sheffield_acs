@@ -58,7 +58,7 @@
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
 		- 程序的 substantial part
 			- ((63d52842-cea3-444a-ad14-35a17223f1cb))
-			- Even if a very small part of the program is copied, it is an infringement if that part is
+			- Even if a very small part of the program is copied, it is an infringement if that part is a Standard function
 			- So the code for this function may have been copied
 		- The other two parts are standard algorithms, so no expressions are copied
 		- ((63d52842-b3fe-416f-bb71-2ed79c499a35))
