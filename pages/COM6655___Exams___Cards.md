@@ -145,7 +145,8 @@
 			  and not merely as means  [5]
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 - ### Professional Issues
-	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) BCS Code中的那些内容和这一情景相关
+	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) BCS Code中的那些内容和这一情景相关 [[card]]
+	  collapsed:: true
 		- ((63d52843-21d4-4c89-8e92-74d29d1c2b94))
 			- 公共利益 Public interest
 				- Should consider the public interest and not discriminate against others
