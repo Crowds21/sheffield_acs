@@ -21,6 +21,12 @@
 		-
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff))  请问是否违反了 copyright,简单解释[[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T14:32:50.256Z
+	  card-last-score:: 1
 		- Relevant Legislation [[The Copyright (Computer Programs) Regulations]] (编译反编译)
 		- Relevant Legislation [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
