@@ -20,6 +20,7 @@
 		-
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
+	  collapsed:: true
 		- Related Laws [[The Copyright (Computer Programs) Regulations]]
 		- Related Laws [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
@@ -28,6 +29,7 @@
 		- ((63d52842-b13a-4e84-9893-648f2307f5a9))
 			- decompilation and rewrite are both effectively translation, which is a restricted right
 	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,认为 Word 侵犯了 Math 的版权 [[card]]
+	  collapsed:: true
 		- Relevant Legislation is [[Copyright, Designs and Patents Act]]
 		- Screen design and icons are be protected by copyright
 		- ((63d52842-66ec-4cd0-94ed-5b757a9d33e2))
@@ -37,6 +39,7 @@
 			- ((63d52841-303f-4a0c-b4b0-6327b0ed1846))
 				- ((63d52841-34d4-4c16-8345-9dad923f2651))
 	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任 [[card]]
+	  collapsed:: true
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280))
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
 		- 程序的 substantial part
@@ -140,16 +143,12 @@
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) BCS Code中的那些内容和这一情景相关
 		- ((63d52843-21d4-4c89-8e92-74d29d1c2b94))
 			- 公共利益 Public interest
-			  collapsed:: true
 				- Should consider the public interest and not discriminate against others
 			- 专业能力和诚信 Professional competence and integrity
-			  collapsed:: true
 				- As a professional, you should comply with the relevant professional requirements and no harm to others
 			- 对有关当局的责任 Duty to relevant authority
-			  collapsed:: true
 				- Not to conflict with the relevant institutions and comply with the relevant requirements of the authorities
 			- 对专业的责任 Duty to the profession
-			  collapsed:: true
 				-
 		- Public interest
 			- The algorithms he is working on are of public interest(结合例子)
