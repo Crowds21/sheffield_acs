@@ -4,4 +4,4 @@
 	  git fetch --all
 	  git reset --hard origin/main
 	  ```
-- {{cards [[COM6655]] }}
+- {{cards [[COM6655/Exams/Cards]] }}
