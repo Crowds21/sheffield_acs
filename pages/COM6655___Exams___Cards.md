@@ -60,6 +60,7 @@
 		- The company provides services to schools, Microsoft should be carried out with a ==reasonable degree of care and  skill==
 			- reasonable: 因为软件不可能  free of errors
 		- ~~Bench of contract~~
+		  collapsed:: true
 			- warranties
 			- conditions
 		- Computer aided mistake.  As a result of using this system, many students' grades are 0
