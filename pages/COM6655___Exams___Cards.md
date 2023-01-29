@@ -116,7 +116,7 @@
 	- ((63d67450-4b6b-45e1-a3ef-05e5a803737b)),[[Theft Act]]和 [[Computer Misuse Act]] 分别会如何处理黑客的问题 [[card]]
 		- [[Theft Act]]
 			- Stealing another person's information is not a ==permanent deprivation== of the other person's property
-		- [[Computer Misuse Act]] solves these problems
+		- [[Computer Misuse Act]] provides
 			- ((639df376-8804-4e7d-a2a8-a324052718a7))
 			- ((639df2fd-4ad4-4af8-bceb-b41a047598a1))
 			- ((63cfef2f-932d-4575-bf47-ca3f352d50c2))
