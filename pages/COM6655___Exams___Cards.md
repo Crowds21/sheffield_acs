@@ -130,9 +130,9 @@
 		- 供应和需求的关系
 		- 生产力如何提高了
 		- The development of computer technology can bring positive impact to society
-			- 集合
-		- 技术对社会的潜在负面影响
-			-
+			- 结合一下材料
+		-
+			- id:: 63d66859-dc78-48af-8810-f410ab72de7b
 - ### Ethics
 - ### Professional Issues
 -
