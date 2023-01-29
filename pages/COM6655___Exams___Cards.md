@@ -14,6 +14,7 @@
 - ### Legal Concept
 	- TODO ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law [[card]]
 	  id:: 63d5aa63-d7f3-4140-b43a-c3d9d3baf1c7
+	  collapsed:: true
 		-
 - ### Intelligence Law
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff)) [[card]]
@@ -67,7 +68,6 @@
 		  collapsed:: true
 			- ((63d52842-c4e5-4ba7-83ff-9e10bba6b7fb))
 - ### Liability
-  collapsed:: true
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  collapsed:: true
 	  案例中Negligence 相关内容 [[card]]
