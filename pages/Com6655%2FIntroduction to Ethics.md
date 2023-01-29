@@ -93,7 +93,6 @@
 			- 无论其后果如何，行为都是正确的或错误的
 			- "尽管事情做得很糟糕，但我们是好意"
 	- 功利主义 Utilitarianism
-	  collapsed:: true
 	  id:: 63d52843-0382-45a6-8933-2f0a65b32641
 		- 简介
 			- 寻求产生最大的效用
@@ -183,6 +182,7 @@
 		- 义务伦理学的主要倡导者是康德
 	- 康德 Kantian ethics
 	  id:: 63d52843-5c89-4b0f-89c5-7c9834b0a61e
+	  collapsed:: true
 		- 康德：绝对命令 
 		  Kant: categorical imperatives
 			- 命令是做某事的指令（=你需要做什么）
