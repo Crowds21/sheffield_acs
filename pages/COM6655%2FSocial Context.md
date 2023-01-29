@@ -113,18 +113,14 @@
   IT and Employment Change
 	- 信息技术与就业变化
 		- 当前社会就业趋势 trends
-		  collapsed:: true
 			- 就业从 the primary economic sector转移到第二部门，再到第三部门
-			  collapsed:: true
 				- 农业、林业、渔业
 				- 采矿业等采掘业
 				- 制造业
 			- 减少 "核心 "手工和生产职业() ，增加 "外围 "辅助、行政和专业工作
-			  collapsed:: true
 				- 建筑、采矿、农业
 			- 终身工作时间持续减少
 			- "信息部门" 现在主导着就业（超过美国所有工人的一半）
-			  collapsed:: true
 				- 生产信息产品和服务的最终产出
 	- 信息技术造成的就业损失
 	  collapsed:: true

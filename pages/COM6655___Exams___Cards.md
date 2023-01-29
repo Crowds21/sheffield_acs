@@ -126,7 +126,8 @@
 			- ((63d52842-1341-4712-a569-c2013f5cd8d8))
 				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 - ### Social Context
-	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,
+	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用
+		-
 - ### Ethics
 - ### Professional Issues
 -
