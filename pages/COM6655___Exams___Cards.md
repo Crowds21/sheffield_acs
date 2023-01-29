@@ -35,6 +35,12 @@
 		- ((63d52842-b13a-4e84-9893-648f2307f5a9))
 			- decompilation and rewrite are both effectively translation, which is a restricted right
 	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,认为 Word 侵犯了 Math 的版权 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T14:52:28.040Z
+	  card-last-score:: 1
 		- Relevant Legislation is [[Copyright, Designs and Patents Act]]
 		- Screen design and icons are be protected by copyright
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
