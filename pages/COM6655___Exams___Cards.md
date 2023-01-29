@@ -98,6 +98,7 @@
 	  card-next-schedule:: 2023-01-30T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-29T16:12:03.427Z
 	  card-last-score:: 1
+	  id:: 63d58da5-d2cf-479e-a6dc-b6c997acce36
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
 		- [[Consumer Rights Act]] (规定服务商品和数字产品)
