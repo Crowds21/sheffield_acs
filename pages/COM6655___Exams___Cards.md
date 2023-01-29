@@ -81,8 +81,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-29T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-28T16:30:32.298Z
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T16:21:28.360Z
 	  card-last-score:: 1
 		- ((6358f768-8325-4dfb-b3ed-7a8be905fd85))
 			- Fit for purpose: ((63cffabf-0fb6-49fa-b385-0c1ac8455ba7))
@@ -211,11 +211,12 @@
 		- Seek an injunction
 		- In practice the legal protection is week
 	- 欺诈 Fraud offences 的定义 [[card]]
+	  collapsed:: true
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-29T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-28T16:38:43.240Z
+	  card-next-schedule:: 2023-01-30T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-29T16:21:33.516Z
 	  card-last-score:: 1
 		- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 	-
