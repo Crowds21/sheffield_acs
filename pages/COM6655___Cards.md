@@ -4,6 +4,7 @@
 -
 - ### Contract
 - ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
+  collapsed:: true
 	- There are contracts between Mary and Doober, Doober and ViewScan. [5]
 	- The relevant legislation is [[Consumer Rights Act]] [5-10]
 		- Doober provided service to Mary. ViewScan provided goods and service to Dobber.
