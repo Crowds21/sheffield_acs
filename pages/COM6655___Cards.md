@@ -12,7 +12,7 @@
 		- This game was developed in  Arthur Hacker's leisure time. So the employee can not assume they own the copyright of this game.
 		- When he agreed that the company could use this game,  the employer should try to make an agreement on the use of the program and ownership of copyright.
 - ### Contract Law
-	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
+	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容 [[card]]
 	  collapsed:: true
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
 		- The relevant legislation is [[Consumer Rights Act]] [5-10]
@@ -25,7 +25,6 @@
 			- ViewScan has vicarious liability for Doober
 			-
 - ### Liability
-  collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中 Negligence 相关内容
 	  collapsed:: true
 		- Negligence 条件 duty of care [5-10]
