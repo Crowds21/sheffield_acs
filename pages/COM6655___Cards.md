@@ -66,7 +66,6 @@
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 - ### Ethic
-  collapsed:: true
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德伦理学的角度分析该案例
 		- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
@@ -77,6 +76,7 @@
 	-
 - ### Professional Issues
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC分析该案例
+	  collapsed:: true
 		- Public interest
 			- Mr Fox 在负责该模块时,隐瞒了这一问题,损害了公众利益
 			- JadaJada的隐瞒的行为,也有可能危害公众利益
