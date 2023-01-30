@@ -31,8 +31,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-30T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-29T14:32:50.256Z
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T12:20:36.597Z
 	  card-last-score:: 1
 		- Relevant Legislation [[The Copyright (Computer Programs) Regulations]] (编译反编译)
 		- Relevant Legislation [[Copyright, Designs and Patents Act]]
