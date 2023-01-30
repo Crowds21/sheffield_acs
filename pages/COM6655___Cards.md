@@ -32,4 +32,4 @@
 	- The relevant legislation is [[Consumer Protection Act]]  [5]
 	-
 	- Doober can use art-of-state to defend [5]
-		-
+	-
