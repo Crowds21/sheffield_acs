@@ -66,6 +66,7 @@
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 科技和社会是如何相互影响的
+	  collapsed:: true
 		- Positive
 		- Negative
 		- Huge investments in computer technology may not pay off
