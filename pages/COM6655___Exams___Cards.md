@@ -173,6 +173,7 @@
 	  card-next-schedule:: 2023-01-30T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-29T16:17:43.601Z
 	  card-last-score:: 1
+	  collapsed:: true
 	  ((635e96c3-4ac9-4867-89e9-f0a153125524)) [[card]]
 		- The software company is vicariously liable to the school for any damages suffered by the student.
 		- 阿三 is vicariously liable to the software company
