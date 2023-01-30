@@ -3,16 +3,15 @@
 	  id:: 63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8
 	- 背景十: Giggle 非法使用了 "GiggleInsights"收集的数据. the location, demographics and content data in emails had been used by GiggleInsights to build a model about users. Giggle 会把模型卖给第三方,并因此股价翻倍
 	  id:: 63d7cdf9-2a60-4c49-856c-e0542be90617
-- 背景十一:  Mr Smith在JadaJada公司开发了一个能够预测心血管衰退早期迹象的新产品.团队成员 Mr Fox离开了公司,Mr Smith负责了通信模块,他发现该模块有严重问题而 Fox 没有汇报,并向上层反馈. 上层决定隐瞒这一情况,并让Mr Smith修复该问题.由于这件事件,Mr Smith决定退出公司并不向大众报告该问题
-  id:: 63d7e4a1-8f47-4a54-834f-2fc1d8626e82
-- 背景十二: Arthur Hacker 是MicroCode的开发人员,他在闲暇时间开发了一个游戏.他的同事认为可以整合到公司的培训系统中. Arthur Hacker 同意了.后来Arthur Hacker申请晋升但是没有成功,决定到另一家公司,他告诉MicroCode,只有对方支付费用才能够使用他之前开发的游戏,MicroCode 拒绝了,并继续使用.
-  id:: 63d7f23a-95f0-46d6-be54-3ddac04d7083
+	- 背景十一:  Mr Smith在JadaJada公司开发了一个能够预测心血管衰退早期迹象的新产品.团队成员 Mr Fox离开了公司,Mr Smith负责了通信模块,他发现该模块有严重问题而 Fox 没有汇报,并向上层反馈. 上层决定隐瞒这一情况,并让Mr Smith修复该问题.由于这件事件,Mr Smith决定退出公司并不向大众报告该问题
+	  id:: 63d7e4a1-8f47-4a54-834f-2fc1d8626e82
+	- 背景十二: Arthur Hacker 是MicroCode的开发人员,他在闲暇时间开发了一个游戏.他的同事认为可以整合到公司的培训系统中. Arthur Hacker 同意了.后来Arthur Hacker申请晋升但是没有成功,决定到另一家公司,他告诉MicroCode,只有对方支付费用才能够使用他之前开发的游戏,MicroCode 拒绝了,并继续使用.
+	  id:: 63d7f23a-95f0-46d6-be54-3ddac04d7083
 - ### Intellectual Porperty
-	- ((63d7f23a-95f0-46d6-be54-3ddac04d7083)) Arthur Hacker的作品归属权是谁的?
+	- ((63d7f23a-95f0-46d6-be54-3ddac04d7083)) Arthur Hacker的作品归属权是谁的? [[card]]
 		- This game was developed in  Arthur Hacker's leisure time. So the employee can not assume they own the copyright of this game.
 		- When he agreed that the company could use this game,  the employer should try to make an agreement on the use of the program and ownership of copyright.
 - ### Contract Law
-  collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
 	  collapsed:: true
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
