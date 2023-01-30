@@ -23,8 +23,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-30T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-29T16:17:37.901Z
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T21:10:46.841Z
 	  card-last-score:: 1
 		- CDPR - ((63d52842-7568-463c-847b-4a730348014e))
 		- ((63d52842-1567-4a8a-8472-c7ac3aa4f2ac))
