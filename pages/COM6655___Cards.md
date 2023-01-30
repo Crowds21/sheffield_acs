@@ -74,7 +74,6 @@
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 - ### Ethic
-  collapsed:: true
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德伦理学的角度分析该案例
 	  collapsed:: true
 		- Utilitarianism – the action is right that promotes the greatest good [5]
@@ -105,6 +104,7 @@
 		- Duty to profession
 			- Fox 损害了行业的声誉
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82))从公司的角度如何避免类似问题 [[card]]
+	  collapsed:: true
 		- Smith
 		- Fox
 		- JadaJada
