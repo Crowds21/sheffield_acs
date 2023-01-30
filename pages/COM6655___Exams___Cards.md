@@ -133,7 +133,7 @@
 		- License and sales contract are inseparable
 			- ((63d52842-ecf3-41c9-a67c-7cf113efd118))
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
-		-
+		- There are contracts between
 - ### Liability
 	- [[Consumer Protection Act]]  规定了什么?
 		- Provides liability for producers of defective products
