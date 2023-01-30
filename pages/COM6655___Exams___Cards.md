@@ -141,7 +141,7 @@
 		- Relevant legislation is [[Unfair Contract Terms Act]]
 			- Liability for death or personal injury caused by negligence cannot be excluded or limited
 		- Vicarious Liability
-			-
+			- ViewScan 对 Doober
 - ### Liability
 	- [[Consumer Protection Act]]  规定了什么?
 		- Provides liability for producers of defective products
