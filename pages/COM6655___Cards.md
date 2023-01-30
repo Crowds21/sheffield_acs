@@ -25,6 +25,6 @@
 		- If Doober sue ViewScan, it is possible Doober has   contributory negligence
 	- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 - ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Negligence Misstatement
-	- The advice given by the  discision
+	- The advice given by the  discision is wrong
 	- Reduced liability
 		- little control over the way the system is used or interpreted
