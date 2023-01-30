@@ -113,6 +113,7 @@
 	  card-last-reviewed:: 2023-01-29T16:12:03.427Z
 	  card-last-score:: 1
 	  id:: 63d58da5-d2cf-479e-a6dc-b6c997acce36
+	  collapsed:: true
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
 		- [[Consumer Rights Act]] (规定服务商品和数字产品)
@@ -141,6 +142,7 @@
 			- Liability for death or personal injury caused by negligence cannot be excluded or limited
 		- Vicarious Liability [5]
 			- ViewScan has vicarious liability for Doober
+		-
 - ### Liability
 	- [[Consumer Protection Act]]  规定了什么?
 		- Provides liability for producers of defective products
