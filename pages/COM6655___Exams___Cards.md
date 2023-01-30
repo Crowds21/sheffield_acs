@@ -16,6 +16,7 @@
 	- 背景八: ABC 公司收集个人数据,然后存储到 Cloud 公司,最后被黑客勒索了,ABC 没有向用户汇报这件事
 	  id:: 63d67450-4b6b-45e1-a3ef-05e5a803737b
 	- 背景九: Mary Walker 乘坐 Doober 的 autonomous  vehicles. ViewScan 为 Dobber 提供了vision systems. Doober 的用户协议中包含对用户受到的伤害不负责. 最终 Mary Walker 受伤了, The Doober taxi does not take any action to avoid the obstacles and collides with them.
+	  id:: 63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8
 - ### Legal Concept
 	- TODO ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law [[card]]
 	  id:: 63d5aa63-d7f3-4140-b43a-c3d9d3baf1c7
@@ -35,6 +36,7 @@
 	  card-next-schedule:: 2023-01-31T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-30T12:20:36.597Z
 	  card-last-score:: 1
+	  collapsed:: true
 		- Relevant Legislation [[The Copyright (Computer Programs) Regulations]] (编译反编译)
 		- Relevant Legislation [[Copyright, Designs and Patents Act]]
 		- ((63d52842-af57-437f-9bb5-74819021458f))
@@ -49,6 +51,7 @@
 	  card-next-schedule:: 2023-01-31T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-30T13:09:22.874Z
 	  card-last-score:: 1
+	  collapsed:: true
 		- Relevant Legislation is [[Copyright, Designs and Patents Act]]
 		- Screen design and icons are be protected by copyright
 			- ((63d52842-6c9b-4e6f-aee6-7d36c54cccfd))
@@ -69,6 +72,7 @@
 	  card-next-schedule:: 2023-01-30T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-29T15:41:59.108Z
 	  card-last-score:: 1
+	  collapsed:: true
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280)) in [[Copyright (Computer Programs) Regulations]]
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
 		- 程序的 substantial part 实质性部分
