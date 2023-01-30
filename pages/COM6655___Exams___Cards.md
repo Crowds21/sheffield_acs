@@ -270,7 +270,6 @@
 	  card-last-interval:: -1
 	  card-ease-factor:: 2.5
 	  card-last-reviewed:: 2023-01-30T13:18:59.985Z
-	  collapsed:: true
 		- 合法性、公平性和透明度
 		  collapsed:: true
 		  Lawfulness, fairness and transparency
