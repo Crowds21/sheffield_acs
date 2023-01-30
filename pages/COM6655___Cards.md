@@ -20,6 +20,12 @@
 		- When he agreed that the company could use this game,  the employer should try to make an agreement on the use of the program and ownership of copyright.
 - ### Contract Law
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T20:16:24.312Z
+	  card-last-score:: 1
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
 		- The relevant legislation is [[Consumer Rights Act]] [5-10]
 			- Doober provided service to Mary. ViewScan provided goods and service to Dobber.
