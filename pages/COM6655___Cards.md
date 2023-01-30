@@ -30,6 +30,6 @@
 		- It may be possible that little control over the way the system is used or interpreted
 - ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Product Liability  相关内容
 	- The relevant legislation is [[Consumer Protection Act]]  [5]
-	-
+	- Mary Walker is the consumer of
 	- Doober can use art-of-state to defend [5]
 	-
