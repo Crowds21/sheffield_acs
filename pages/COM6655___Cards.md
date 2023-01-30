@@ -1,7 +1,7 @@
 -
 - 背景九: Mary Walker 乘坐 Doober 的 autonomous  vehicles. ViewScan 为 Dobber 提供了vision systems. Doober 的用户协议中包含对用户受到的伤害不负责. 最终 Mary Walker 受伤了, The Doober taxi does not take any action to avoid the obstacles and collides with them. Doober 声称 ViewScan 没有识别出来
   id:: 63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8
--
+- 背景十:
 - ### Contract Law
   collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
@@ -40,6 +40,7 @@
 		- Mary Walker is the consumer of Doober,and liability for death or personal injury caused by negligence cannot be excluded or limited [5]
 		- Doober can use art-of-state to defend [5]
 		-
+- ### Data Protection
 -
 - ### Social Content
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的
