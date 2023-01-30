@@ -5,7 +5,7 @@
   id:: 63d7cdf9-2a60-4c49-856c-e0542be90617
 - 背景十一:  Mr Smith在JadaJada公司开发了一个能够预测心血管衰退早期迹象的新产品.团队成员 Mr Fox离开了公司,Mr Smith负责了通信模块,他发现该模块有严重问题而 Fox 没有汇报,并向上层反馈. 上层决定隐瞒这一情况,并让Mr Smith修复该问题.由于这件事件,Mr Smith决定退出公司并不向大众报告该问题
   id:: 63d7e4a1-8f47-4a54-834f-2fc1d8626e82
-- 背景十二:Arthur Hacker 是MicroCode的开发人员,他在闲暇时间开发了一个游戏.他的同事认为可以整合到公司的培训系统中. Arthur Hacker 同意了.后来Arthur Hacker申请晋升但是没有成功,决定到另一家公司,他告诉MicroCode
+- 背景十二:Arthur Hacker 是MicroCode的开发人员,他在闲暇时间开发了一个游戏.他的同事认为可以整合到公司的培训系统中. Arthur Hacker 同意了.后来Arthur Hacker申请晋升但是没有成功,决定到另一家公司,他告诉MicroCode,只有对方支付
 - ### Contract Law
   collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
