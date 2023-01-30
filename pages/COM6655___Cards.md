@@ -74,6 +74,7 @@
 	  collapsed:: true
 		- The relevant legislation is [[Consumer Protection Act]]  [5]
 			- 该法案用于保护消费者免于因为产品收到损失
+		- 用户损失了
 		- Mary Walker is the consumer of Doober,and liability for death or personal injury caused by negligence cannot be excluded or limited [5]
 		- Doober can use art-of-state to defend [5]
 		-
