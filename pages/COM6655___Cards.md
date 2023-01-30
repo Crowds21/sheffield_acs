@@ -13,7 +13,7 @@
 		- Liability for death or personal injury caused by negligence cannot be excluded or limited
 	- Vicarious Liability [5]
 		- ViewScan has vicarious liability for Doober
-	-
+		-
 - ### Liability
 - ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中 Negligence 相关内容
 	- Negligence 条件 duty of care [5-10]
