@@ -3,7 +3,7 @@
   id:: 63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8
 - 背景十: Giggle 非法使用了 "GiggleInsights"收集的数据. the location, demographics and content data in emails had been used by GiggleInsights to build a model about users. Giggle 会把模型卖给第三方,并因此股价翻倍
   id:: 63d7cdf9-2a60-4c49-856c-e0542be90617
-- 背景十一:  Mr Smith在JadaJada公司开发了一个能够预测心血管衰退早期迹象的新产品.
+- 背景十一:  Mr Smith在JadaJada公司开发了一个能够预测心血管衰退早期迹象的新产品.团队成员 Mr Fox离开了公司,
 - ### Contract Law
   collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
