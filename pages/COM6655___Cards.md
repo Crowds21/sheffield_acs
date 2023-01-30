@@ -59,7 +59,6 @@
 			- Purpose Limiation
 			- ~~Integrity and Confidentiality~~
 - ### Social Content
-  collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的
 	  collapsed:: true
 		- Positive
@@ -67,7 +66,6 @@
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 科技和社会是如何相互影响的
-	  collapsed:: true
 		- Positive
 		- Negative
 		- Huge investments in computer technology may not pay off
