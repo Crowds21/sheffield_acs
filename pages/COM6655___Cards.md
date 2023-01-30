@@ -19,6 +19,6 @@
 	- Negligence 条件 duty of care [5-10]
 		- Doober and ViewScan own a duty of care to Mary Walker. Because it is predictable that there will be bugs in the software. And the injure of Mary can be reasonably foreseeable
 	- Competent Professional [5]
-		- Dubberdid not find possible problems with the results of the algorithm, ==a competent professional== should be able to find these problems
+		- Dubber and ViewScan did not find possible problems, ==a competent professional== should be able to find these problems
 	- Contributory Negligence
 		- If Doober sue ViewScan, it is possible Doober has   contributory negligence
