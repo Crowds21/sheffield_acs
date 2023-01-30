@@ -67,7 +67,7 @@
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Product Liability  相关内容 [[card]]
 	  collapsed:: true
 		- The relevant legislation is [[Consumer Protection Act]]  [5]
-			- 该法案用于
+			- 该法案用于保护消费者免于收到
 		- Mary Walker is the consumer of Doober,and liability for death or personal injury caused by negligence cannot be excluded or limited [5]
 		- Doober can use art-of-state to defend [5]
 		-
