@@ -45,10 +45,12 @@
 - ### Data Protection
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]] 的角度分析案例
 		- Terms
+		  collapsed:: true
 			- Personal Data
 			- Controller
 			- Processor
 		- ((63d59cd6-f605-46c9-b558-61d69c808b61))
+		  collapsed:: true
 			- Lawfulness, Fairness, Transparency
 			- Accountability
 			- Purpose Limiation
