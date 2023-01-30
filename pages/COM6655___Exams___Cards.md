@@ -263,6 +263,7 @@
 	  card-last-score:: 1
 		- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
 - ### Data Protection
+  collapsed:: true
 	- [[UK General Data Protection Regulation]] 七个准则 [[card]]
 	  card-last-score:: 1
 	  card-repeats:: 1

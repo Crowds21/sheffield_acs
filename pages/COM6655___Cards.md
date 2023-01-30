@@ -43,4 +43,4 @@
 - ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的
 	- Positive
 	- Negative
-	- Huge
+	- Evidence suggests that huge investments in computer technology may not pay off
