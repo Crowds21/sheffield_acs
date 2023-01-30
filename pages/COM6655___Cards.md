@@ -79,6 +79,12 @@
 		-
 - ### Data Protection
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]] 的角度分析案例 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T20:49:34.733Z
+	  card-last-score:: 1
 		- Terms
 			- Personal Data
 			- Controller
