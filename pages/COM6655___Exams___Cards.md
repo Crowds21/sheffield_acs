@@ -135,7 +135,7 @@
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
 		- The relevant legislation is [[Consumer Rights Act]]
-			- Doober provided service to Mary. ViewScan provided digital content to Dobber.
+			- Doober provided service to Mary. ViewScan provided goods and service to Dobber.
 			- Doober should have reasonable degree of care and skill. They should know no softwares can be free of errors, and provide emergency measures, such as user-controllable brakes.
 			-
 		- Relevant legislation is [[Unfair Contract Terms Act]]
