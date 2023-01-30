@@ -263,7 +263,6 @@
 	  card-last-score:: 1
 		- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
 - ### Data Protection
-  collapsed:: true
 	- [[UK General Data Protection Regulation]] 七个准则 [[card]]
 	  card-last-score:: 1
 	  card-repeats:: 1
@@ -271,6 +270,7 @@
 	  card-last-interval:: -1
 	  card-ease-factor:: 2.5
 	  card-last-reviewed:: 2023-01-30T13:18:59.985Z
+	  collapsed:: true
 		- 合法性、公平性和透明度
 		  collapsed:: true
 		  Lawfulness, fairness and transparency
