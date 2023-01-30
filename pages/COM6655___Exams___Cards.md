@@ -108,12 +108,12 @@
 			- described
 			- free of minor defects 没有轻微缺陷
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-30T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-29T16:12:03.427Z
-	  card-last-score:: 1
+	  card-last-interval:: 2.86
+	  card-repeats:: 2
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2023-02-02T17:10:16.448Z
+	  card-last-reviewed:: 2023-01-30T21:10:16.449Z
+	  card-last-score:: 3
 	  id:: 63d58da5-d2cf-479e-a6dc-b6c997acce36
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
