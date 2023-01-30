@@ -134,14 +134,14 @@
 			- ((63d52842-ecf3-41c9-a67c-7cf113efd118))
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
-		- The relevant legislation is [[Consumer Rights Act]]
+		- The relevant legislation is [[Consumer Rights Act]] []
 			- Doober provided service to Mary. ViewScan provided goods and service to Dobber.
 			- Doober should have reasonable degree of care and skill. They should know no softwares can be free of errors, and provide emergency measures, such as user-controllable brakes.
 			- ViewScan - reasonable degree of care and skill. Satisfactory quality.
 		- Relevant legislation is [[Unfair Contract Terms Act]]
 			- Liability for death or personal injury caused by negligence cannot be excluded or limited
 		- Vicarious Liability
-			- ViewScan 对 Doober 有替代责任
+			- ViewScan has vicarious liability for Doober
 - ### Liability
 	- [[Consumer Protection Act]]  规定了什么?
 		- Provides liability for producers of defective products
