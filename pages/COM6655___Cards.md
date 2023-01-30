@@ -77,6 +77,12 @@
 			- ~~Integrity and Confidentiality~~
 - ### Social Content
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T20:44:27.679Z
+	  card-last-score:: 1
 		- Positive
 		- Negative
 		- Huge investments in computer technology may not pay off
