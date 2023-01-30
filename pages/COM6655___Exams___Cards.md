@@ -45,8 +45,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-30T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-29T14:52:28.040Z
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T13:09:22.874Z
 	  card-last-score:: 1
 		- Relevant Legislation is [[Copyright, Designs and Patents Act]]
 		- Screen design and icons are be protected by copyright
