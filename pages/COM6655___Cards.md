@@ -48,7 +48,7 @@
 		- Doober can use art-of-state to defend [5]
 		-
 - ### Data Protection
-	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]] 的角度分析案例
+	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]] 的角度分析案例 [[card]]
 		- Terms
 		  collapsed:: true
 			- Personal Data
@@ -61,13 +61,13 @@
 			- Purpose Limiation
 			- ~~Integrity and Confidentiality~~
 - ### Social Content
-	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的
+	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的 [[card]]
 	  collapsed:: true
 		- Positive
 		- Negative
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
-	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 科技和社会是如何相互影响的
+	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 科技和社会是如何相互影响的 [[card]]
 	  collapsed:: true
 		- Positive
 		- Negative
@@ -92,7 +92,7 @@
 			  and not merely as means  [5]
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 - ### Professional Issues
-	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC Code分析该案例
+	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC Code分析该案例 [[card]]
 	  collapsed:: true
 		- Public interest
 			- Mr Fox 在负责该模块时,隐瞒了这一问题,损害了公众利益
@@ -104,7 +104,7 @@
 			- Smith 为了公司的利益, 没有在没被授权的情况下,泄露相关信息
 		- Duty to profession
 			- Fox 损害了行业的声誉
-	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82))从公司的角度如何避免类似问题
+	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82))从公司的角度如何避免类似问题 [[card]]
 		- Smith
 		- Fox
 		- JadaJada
