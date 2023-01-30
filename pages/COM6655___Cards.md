@@ -73,7 +73,7 @@
 			- The categorical imperative, treating people as ends (respecting their rights)
 			  and not merely as means  [5]
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
-	-
+	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 集合实用主义
 - ### Professional Issues
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC分析该案例
 	  collapsed:: true
