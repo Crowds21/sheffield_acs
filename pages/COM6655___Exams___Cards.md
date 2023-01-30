@@ -241,6 +241,12 @@
 	  card-last-score:: 1
 		- ((63d52842-cea3-444a-ad14-35a17223f1cb))
 	- Case law : Copy code is an infringement, but rewrite code is not an infringement [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T12:13:37.389Z
+	  card-last-score:: 1
 		- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
 - ### Data Protection
 	- [[UK General Data Protection Regulation]] 七个准则 [[card]]
