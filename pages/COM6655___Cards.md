@@ -64,6 +64,7 @@
 		- Negative
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
+	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82))
 - ### Ethic
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德伦理学的角度分析该案例
 	  collapsed:: true
