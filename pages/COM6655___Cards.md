@@ -1,4 +1,5 @@
 - 背景
+  collapsed:: true
 	- 背景九: Mary Walker 乘坐 Doober 的 autonomous  vehicles. ViewScan 为 Dobber 提供了vision systems. Doober 的用户协议中包含对用户受到的伤害不负责. 最终 Mary Walker 受伤了, The Doober taxi does not take any action to avoid the obstacles and collides with them. Doober 声称 ViewScan 没有识别出来
 	  id:: 63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8
 	- 背景十: Giggle 非法使用了 "GiggleInsights"收集的数据. the location, demographics and content data in emails had been used by GiggleInsights to build a model about users. Giggle 会把模型卖给第三方,并因此股价翻倍
@@ -74,7 +75,7 @@
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 - ### Ethic
-	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德伦理学的角度分析该案例
+	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德伦理学的角度分析该案例 [[card]]
 	  collapsed:: true
 		- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
@@ -82,7 +83,7 @@
 			- The categorical imperative, treating people as ends (respecting their rights)
 			  and not merely as means  [5]
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
-	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 集合实用主义和伦理学的角度分析
+	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 集合实用主义和伦理学的角度分析 [[card]]
 	  collapsed:: true
 		- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
