@@ -137,7 +137,7 @@
 		- The relevant legislation is [[Consumer Rights Act]]
 			- Doober provided service to Mary. ViewScan provided goods and service to Dobber.
 			- Doober should have reasonable degree of care and skill. They should know no softwares can be free of errors, and provide emergency measures, such as user-controllable brakes.
-			- ViewScan - reasonable degree of care and skill.
+			- ViewScan - reasonable degree of care and skill. Sactificatory
 		- Relevant legislation is [[Unfair Contract Terms Act]]
 			-
 - ### Liability
