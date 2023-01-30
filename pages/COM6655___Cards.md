@@ -52,4 +52,5 @@
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 - ### Ethic
-	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德论医学
+	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德伦理学的角度分析该案例
+		-
