@@ -65,9 +65,15 @@
 			- It may be possible that little control over the way the system is used or interpreted
 			-
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Product Liability  相关内容 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T20:48:39.998Z
+	  card-last-score:: 1
 	  collapsed:: true
 		- The relevant legislation is [[Consumer Protection Act]]  [5]
-			- 该法案用于保护消费者免于收到
+			- 该法案用于保护消费者免于因为产品收到损失
 		- Mary Walker is the consumer of Doober,and liability for death or personal injury caused by negligence cannot be excluded or limited [5]
 		- Doober can use art-of-state to defend [5]
 		-
