@@ -221,8 +221,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-30T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-29T15:12:13.575Z
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T20:50:42.297Z
 	  card-last-score:: 1
 		- Does the data meet the quality of confidence
 			- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
