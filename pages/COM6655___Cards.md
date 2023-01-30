@@ -1,5 +1,5 @@
 -
-- 背景九: Mary Walker 乘坐 Doober 的 autonomous  vehicles. ViewScan 为 Dobber 提供了vision systems. Doober 的用户协议中包含对用户受到的伤害不负责. 最终 Mary Walker 受伤了, The Doober taxi does not take any action to avoid the obstacles and collides with them. Doober 声称 ViewScan 没有识别出来
+- 背景九: Mary Walker 乘坐 D€oober 的 autonomous  vehicles. ViewScan 为 Dobber 提供了vision systems. Doober 的用户协议中包含对用户受到的伤害不负责. 最终 Mary Walker 受伤了, The Doober taxi does not take any action to avoid the obstacles and collides with them. Doober 声称 ViewScan 没有识别出来
   id:: 63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8
 - 背景十: Giggle 非法使用了 "GiggleInsights"收集的数据. the location, demographics and content data in emails had been used by GiggleInsights to build a model about users. Giggle 会把模型卖给第三方,并因此股价翻倍
   id:: 63d7cdf9-2a60-4c49-856c-e0542be90617
