@@ -81,7 +81,7 @@
 			- Mr Fox 在负责该模块时,隐瞒了这一问题,损害了公众利益
 			- JadaJada的隐瞒的行为,也有可能危害公众利益
 		- Competent Professional and Integrity
-			- Mr Fox 没有做到一个专业人员应该做的事情,要么
+			- Mr Fox 没有做到一个专业人员应该做的事情
 			- Mr Smith 修复了存在的问题, 并向相关人员进行了报告,体现了一个专业人员应有的能力
 		- Duty to authorities
 			-
