@@ -25,7 +25,7 @@
 			- ViewScan has vicarious liability for Doober
 			-
 - ### Liability
-	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中 Negligence 相关内容
+	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中 Negligence 相关内容 [[card]]
 	  collapsed:: true
 		- Negligence 条件 duty of care [5-10]
 			- Doober and ViewScan own a duty of care to Mary Walker. Because it is predictable that there will be bugs in the software. And the injure of Mary can be reasonably foreseeable
@@ -34,21 +34,20 @@
 		- Contributory Negligence [5]
 			- If Doober sue ViewScan, it is possible Doober has   contributory negligence
 		- ((635e91fa-73c4-40b7-8835-f23da74cf541))
-	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 [[Negligent misstatement]]
+	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 [[Negligent misstatement]] [[card]]
 	  collapsed:: true
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement  [5]
 			- Doober 汽车可能没有做出刹车的决定
 			- ViewScan 可能没有识别目标
 		- Reduced liability [5]
 			- It may be possible that little control over the way the system is used or interpreted
-	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Product Liability  相关内容
+	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Product Liability  相关内容 [[card]]
 	  collapsed:: true
 		- The relevant legislation is [[Consumer Protection Act]]  [5]
 		- Mary Walker is the consumer of Doober,and liability for death or personal injury caused by negligence cannot be excluded or limited [5]
 		- Doober can use art-of-state to defend [5]
 		-
 - ### Data Protection
-  collapsed:: true
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]] 的角度分析案例
 		- Terms
 		  collapsed:: true
