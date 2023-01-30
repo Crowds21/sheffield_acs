@@ -78,4 +78,5 @@
 - ### Professional Issues
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC分析该案例
 		- Public interest
+		- Competent Professional
 		-
