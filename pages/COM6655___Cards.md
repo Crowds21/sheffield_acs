@@ -8,7 +8,7 @@
 - 背景十二: Arthur Hacker 是MicroCode的开发人员,他在闲暇时间开发了一个游戏.他的同事认为可以整合到公司的培训系统中. Arthur Hacker 同意了.后来Arthur Hacker申请晋升但是没有成功,决定到另一家公司,他告诉MicroCode,只有对方支付费用才能够使用他之前开发的游戏,MicroCode 拒绝了,并继续使用.
   id:: 63d7f23a-95f0-46d6-be54-3ddac04d7083
 - ### Intellectual Porperty
-	- ((63d7f23a-95f0-46d6-be54-3ddac04d7083)) Arthur Hacker
+	- ((63d7f23a-95f0-46d6-be54-3ddac04d7083)) Arthur Hacker的做平
 - ### Contract Law
   collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
