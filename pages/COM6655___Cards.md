@@ -51,7 +51,7 @@
 			- ViewScan 可能没有识别目标
 		- Reduced liability [5]
 			- It may be possible that little control over the way the system is used or interpreted
-			- 如果合同中要求 Doober 不能对软件进行修改,或者
+			- 如果合同中要求 Doober 不能对软件进行修改,或者 ViewScan 在开发过程中没有办法进一步
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Product Liability  相关内容 [[card]]
 	  collapsed:: true
 		- The relevant legislation is [[Consumer Protection Act]]  [5]
