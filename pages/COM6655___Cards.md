@@ -31,5 +31,5 @@
 - ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Product Liability  相关内容
 	- Consumer can sue Doober with[[Consumer Protection Act]]
 		-
-	- Doober state-of-art defence
+	- Companies can use art-of-state to defend
 		-
