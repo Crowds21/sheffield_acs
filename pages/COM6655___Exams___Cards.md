@@ -1,4 +1,5 @@
 - 背景
+  collapsed:: true
 	- 背景一 : 学校 SCH 找 Microsoft 开发软件检测学生作弊, Microsoft自己写不了找三哥写软件,最后好多学生没分.
 	  id:: 63d58d08-c3d6-4edd-aa41-570b2388df9a
 	- 背景二: 学校通过 Microsoft收集到了学生的信息,让合作伙伴 Rain 给学生发送折扣优惠信息
@@ -16,6 +17,7 @@
 	- 背景八: ABC 公司收集个人数据,然后存储到 Cloud 公司,最后被黑客勒索了,ABC 没有向用户汇报这件事
 	  id:: 63d67450-4b6b-45e1-a3ef-05e5a803737b
 - ### Legal Concept
+  collapsed:: true
 	- TODO ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law [[card]]
 	  id:: 63d5aa63-d7f3-4140-b43a-c3d9d3baf1c7
 	  card-last-interval:: -1
@@ -27,6 +29,7 @@
 		- CDPR - ((63d52842-7568-463c-847b-4a730348014e))
 		- ((63d52842-1567-4a8a-8472-c7ac3aa4f2ac))
 - ### Intelligence Law
+  collapsed:: true
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff))  请问是否违反了 copyright,简单解释[[card]]
 	  card-last-interval:: -1
 	  card-repeats:: 1
@@ -82,6 +85,7 @@
 			- Math needs to determine if the code is a copy
 			- If the algorithm for part1 "input sheet file" is rewritten by WORD,  they may not be infringing under the law of the case.
 - ### Contract Law
+  collapsed:: true
 	- [[Consumer Rights Act]] 中重要的内容 (商品,服务,数字内容)[[card]]
 	  card-last-interval:: -1
 	  card-repeats:: 1
@@ -130,6 +134,7 @@
 		- License and sales contract are inseparable
 			- ((63d52842-ecf3-41c9-a67c-7cf113efd118))
 - ### Liability
+  collapsed:: true
 	- [[Consumer Protection Act]]  规定了什么?
 	  collapsed:: true
 		- Provides liability for producers of defective products
@@ -178,6 +183,7 @@
 		- The software company is vicariously liable to the school for any damages suffered by the student.
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
+  collapsed:: true
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析 [[card]]
 	  card-last-interval:: -1
 	  card-repeats:: 1
