@@ -3,6 +3,7 @@
   id:: 63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8
 -
 - ### Contract Law
+  collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
 	  collapsed:: true
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
@@ -16,6 +17,7 @@
 			- ViewScan has vicarious liability for Doober
 			-
 - ### Liability
+  collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中 Negligence 相关内容
 	  collapsed:: true
 		- Negligence 条件 duty of care [5-10]
