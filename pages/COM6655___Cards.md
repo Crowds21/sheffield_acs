@@ -27,7 +27,8 @@
 	- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 - ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 [[Negligent misstatement]]
 	- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement  [5]
-		- Doober 汽车可坑没有做出刹车的决定
+		- Doober 汽车可能没有做出刹车的决定
+		- ViewScan
 	- Reduced liability [5]
 		- It may be possible that little control over the way the system is used or interpreted
 - ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Product Liability  相关内容
