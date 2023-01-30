@@ -3,7 +3,7 @@
   id:: 63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8
 - 背景十: Giggle 非法使用了 "GiggleInsights"收集的数据. the location, demographics and content data in emails had been used by GiggleInsights to build a model about users. Giggle 会把模型卖给第三方,并因此股价翻倍
   id:: 63d7cdf9-2a60-4c49-856c-e0542be90617
-- 背景十一:  Mr Smith在JadaJada公司开发了一个能够预测心血管衰退早期迹象的新产品.团队成员 Mr Fox离开了公司,Mr Smith负责了通信模块,他发现该模块有严重问题,并向上层反馈. 上层决定隐瞒这一情况,并让Mr Smith修复该问题.由于这件事件,
+- 背景十一:  Mr Smith在JadaJada公司开发了一个能够预测心血管衰退早期迹象的新产品.团队成员 Mr Fox离开了公司,Mr Smith负责了通信模块,他发现该模块有严重问题,并向上层反馈. 上层决定隐瞒这一情况,并让Mr Smith修复该问题.由于这件事件,Mr Smith决定退出公司并不向大众报告该问题
 - ### Contract Law
   collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
@@ -43,6 +43,7 @@
 		- Doober can use art-of-state to defend [5]
 		-
 - ### Data Protection
+  collapsed:: true
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]] 的角度分析案例
 		- Terms
 		  collapsed:: true
@@ -56,6 +57,7 @@
 			- Purpose Limiation
 			- ~~Integrity and Confidentiality~~
 - ### Social Content
+  collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的
 	  collapsed:: true
 		- Positive
@@ -63,6 +65,7 @@
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 - ### Ethic
+  collapsed:: true
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德伦理学的角度分析该案例
 		- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
@@ -71,3 +74,4 @@
 			  and not merely as means  [5]
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 	-
+-
