@@ -136,7 +136,7 @@
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
 		- The relevant legislation is [[Consumer Rights Act]]
 			- Doober provided service to Mary. ViewScan provided digital content to Dobber.
-			- Doober should have reasonable degree of care and skill. They should know no softwares can
+			- Doober should have reasonable degree of care and skill. They should know no softwares can be free of errors
 		- Relevant legislation is [[Unfair Contract Terms Act]]
 			-
 - ### Liability
