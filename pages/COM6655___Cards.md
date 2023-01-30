@@ -14,7 +14,6 @@
 		- When he agreed that the company could use this game,  the employer should try to make an agreement on the use of the program and ownership of copyright.
 - ### Contract Law
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容 [[card]]
-	  collapsed:: true
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
 		- The relevant legislation is [[Consumer Rights Act]] [5-10]
 			- Doober provided service to Mary. ViewScan provided goods and service to Dobber.
@@ -27,7 +26,6 @@
 			-
 - ### Liability
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中 Negligence 相关内容 [[card]]
-	  collapsed:: true
 		- Negligence 条件 duty of care [5-10]
 			- Doober and ViewScan own a duty of care to Mary Walker. Because it is predictable that there will be bugs in the software. And the injure of Mary can be reasonably foreseeable
 		- Competent Professional [5]
@@ -36,7 +34,6 @@
 			- If Doober sue ViewScan, it is possible Doober has   contributory negligence
 		- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 [[Negligent misstatement]] [[card]]
-	  collapsed:: true
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement  [5]
 			- Doober 汽车可能没有做出刹车的决定
 			- ViewScan 可能没有识别目标
@@ -51,7 +48,6 @@
 - ### Data Protection
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]] 的角度分析案例 [[card]]
 		- Terms
-		  collapsed:: true
 			- Personal Data
 			- Controller
 			- Processor
