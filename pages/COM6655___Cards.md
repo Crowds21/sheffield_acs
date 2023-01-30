@@ -84,6 +84,6 @@
 			- Mr Fox 没有做到一个专业人员应该做的事情,隐瞒并没有解决问题
 			- Mr Smith 修复了存在的问题, 并向相关人员进行了报告,体现了一个专业人员应有的能力
 		- Duty to authorities
-			-
+			- Smith 为了
 		- Duty to profession
 			- Fox 损害了行业的声誉
