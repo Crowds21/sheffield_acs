@@ -53,4 +53,5 @@
 		- Technology and social change evolve together
 - ### Ethic
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德伦理学的角度分析该案例
-		-
+		- Utilitarianism – the action is right that promotes the greatest good [5]
+		- 结合案例说明他的哪些行为符合这一伦理理论  [5]

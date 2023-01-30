@@ -396,7 +396,6 @@
 		- ~~Technology may cause unemployment, but it can be solved in other ways~~
 		- ~~Women and work from home~~
 - ### Ethics
-  collapsed:: true
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)), 从实用主义和康德伦理学的角度分析 Lus 的行为 [[card]]
 	  card-last-interval:: -1
 	  card-repeats:: 1
