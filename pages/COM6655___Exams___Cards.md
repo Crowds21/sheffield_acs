@@ -360,7 +360,6 @@
 	  card-next-schedule:: 2023-01-30T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-29T16:20:00.101Z
 	  card-last-score:: 1
-	  collapsed:: true
 	  结合 [[Data Protection Act]] 分析该案例 [[card]]
 		- 相关定义
 			- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))

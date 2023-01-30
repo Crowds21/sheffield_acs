@@ -43,7 +43,8 @@
 		- Doober can use art-of-state to defend [5]
 		-
 - ### Data Protection
-	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]]
+	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]] 的角度分析案例
+		-
 - ### Social Content
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的
 	  collapsed:: true
