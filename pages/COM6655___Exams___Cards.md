@@ -91,6 +91,7 @@
 	  card-next-schedule:: 2023-01-30T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-29T16:21:28.360Z
 	  card-last-score:: 1
+	  collapsed:: true
 		- ((6358f768-8325-4dfb-b3ed-7a8be905fd85))
 			- Fit for purpose: ((63cffabf-0fb6-49fa-b385-0c1ac8455ba7))
 			- as described: ((63cffab6-7b78-45e7-a79a-6a9492e0476a))
@@ -112,6 +113,7 @@
 	  card-last-reviewed:: 2023-01-29T16:12:03.427Z
 	  card-last-score:: 1
 	  id:: 63d58da5-d2cf-479e-a6dc-b6c997acce36
+	  collapsed:: true
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
 		- [[Consumer Rights Act]] (规定服务商品和数字产品)
@@ -130,6 +132,7 @@
 		- Vicarious liability 替代责任
 		- License and sales contract are inseparable
 			- ((63d52842-ecf3-41c9-a67c-7cf113efd118))
+	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),
 - ### Liability
 	- [[Consumer Protection Act]]  规定了什么?
 		- Provides liability for producers of defective products
