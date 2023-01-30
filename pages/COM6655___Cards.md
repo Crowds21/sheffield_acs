@@ -79,7 +79,7 @@
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC分析该案例
 		- Public interest
 			- Mr Fox 在负责该模块时,隐瞒了这一问题,损害了公众利益
-			- JadaJada 的隐瞒的行为,也有可能危害公众利益
+			- JadaJada的隐瞒的行为,也有可能危害公众利益
 		- Competent Professional
 			- Mr Fox 没有做到一个专业人员应该做的事情
 			- Mr Smith 修复了存在的问题, 并向相关人员进行了报告,体现了一个专业人员应有的能力
