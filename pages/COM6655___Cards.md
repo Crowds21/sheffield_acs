@@ -114,6 +114,12 @@
 			  and not merely as means  [5]
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 集合实用主义和伦理学的角度分析 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T20:44:35.671Z
+	  card-last-score:: 1
 		- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
 		- ((63d52843-5c89-4b0f-89c5-7c9834b0a61e))
