@@ -28,4 +28,4 @@
 	- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement  [5]
 	- Reduced liability [5]
 		- It may be possible that little control over the way the system is used or interpreted
-- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 [[Negligent misstatement]]
+- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Liability
