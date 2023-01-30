@@ -9,7 +9,7 @@
   id:: 63d7f23a-95f0-46d6-be54-3ddac04d7083
 - ### Intellectual Porperty
 	- ((63d7f23a-95f0-46d6-be54-3ddac04d7083)) Arthur Hacker的作品归属权是谁的?
-		- This game was developed in  Arthur Hacker's leisure time, he
+		- This game was developed in  Arthur Hacker's leisure time. So the
 - ### Contract Law
   collapsed:: true
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容
