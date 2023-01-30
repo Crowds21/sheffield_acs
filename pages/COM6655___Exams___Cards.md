@@ -356,8 +356,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-30T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-29T16:20:00.101Z
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T21:11:59.097Z
 	  card-last-score:: 1
 	  结合 [[Data Protection Act]] 分析该案例 [[card]]
 		- 相关定义
