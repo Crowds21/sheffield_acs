@@ -82,6 +82,6 @@
 			- JadaJada 的隐瞒的行为,也有可能危害公众利益
 		- Competent Professional
 			- Mr Fox 没有做到一个专业人员应该做的事情
-			- Mr Smith 修复了
+			- Mr Smith 修复了存在的问题, 并
 		- Duty to authorities
 		- Duty to profession
