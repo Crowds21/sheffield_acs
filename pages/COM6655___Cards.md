@@ -76,7 +76,7 @@
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 集合实用主义和伦理学的角度分析
 		-
 - ### Professional Issues
-	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC分析该案例
+	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC Code分析该案例
 		- Public interest
 			- Mr Fox 在负责该模块时,隐瞒了这一问题,损害了公众利益
 			- JadaJada的隐瞒的行为,也有可能危害公众利益
