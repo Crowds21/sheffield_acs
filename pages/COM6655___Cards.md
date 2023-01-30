@@ -38,6 +38,12 @@
 			-
 - ### Liability
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中 Negligence 相关内容 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T20:46:09.907Z
+	  card-last-score:: 1
 		- Negligence 条件 duty of care [5-10]
 			- Doober and ViewScan own a duty of care to Mary Walker. Because it is predictable that there will be bugs in the software. And the injure of Mary can be reasonably foreseeable
 		- Competent Professional [5]
