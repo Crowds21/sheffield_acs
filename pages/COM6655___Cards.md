@@ -49,7 +49,7 @@
 			- Controller
 			- Processor
 		- ((63d59cd6-f605-46c9-b558-61d69c808b61))
-			-
+			- Lawfulness, Fairness, Transpan
 - ### Social Content
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的
 	  collapsed:: true
