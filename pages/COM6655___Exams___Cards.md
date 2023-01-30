@@ -225,6 +225,12 @@
 	  card-last-score:: 1
 		- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 	- Case law: ((63d52841-303f-4a0c-b4b0-6327b0ed1846))[[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T12:11:25.504Z
+	  card-last-score:: 1
 		- ((63d52841-34d4-4c16-8345-9dad923f2651))
 	- Case law : The organization in the code is similar [[card]]
 		- ((63d52842-cea3-444a-ad14-35a17223f1cb))
