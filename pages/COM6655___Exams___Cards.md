@@ -233,6 +233,12 @@
 	  card-last-score:: 1
 		- ((63d52841-34d4-4c16-8345-9dad923f2651))
 	- Case law : The organization in the code is similar [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T12:13:02.495Z
+	  card-last-score:: 1
 		- ((63d52842-cea3-444a-ad14-35a17223f1cb))
 	- Case law : Copy code is an infringement, but rewrite code is not an infringement [[card]]
 		- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
