@@ -140,7 +140,6 @@
 			- ViewScan - reasonable degree of care and skill. Satisfactory quality.
 		- The exclusion is limited by [[Unfair Contract Terms Act]] [5-10]
 			-
-			- Liability for death or personal injury caused by negligence cannot be excluded or limited
 		- Vicarious Liability [5]
 			- ViewScan has vicarious liability for Doober
 		-
