@@ -161,8 +161,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-30T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-29T16:21:22.805Z
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T21:13:04.873Z
 	  card-last-score:: 1
 	  collapsed:: true
 	  案例中Negligence 相关内容
@@ -234,8 +234,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-30T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-29T16:21:33.516Z
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-30T21:13:07.098Z
 	  card-last-score:: 1
 		- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 	- Case law: ((63d52841-303f-4a0c-b4b0-6327b0ed1846))[[card]]
