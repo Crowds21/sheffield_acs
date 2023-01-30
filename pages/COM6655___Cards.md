@@ -20,4 +20,4 @@
 		- Doober and ViewScan own a duty of care to Mary Walker. Because it is predictable that there will be bugs in the software. And the injure of Mary can be reasonably foreseeable
 	- Competent Professional
 	- Contributory Negligence
-		-
+		- If Doober sue
