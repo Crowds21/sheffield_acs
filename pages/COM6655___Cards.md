@@ -74,7 +74,12 @@
 			  and not merely as means  [5]
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 集合实用主义和伦理学的角度分析
-		-
+		- Utilitarianism – the action is right that promotes the greatest good [5]
+			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
+		- ((63d52843-5c89-4b0f-89c5-7c9834b0a61e))
+			- The categorical imperative, treating people as ends (respecting their rights)
+			  and not merely as means  [5]
+			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 - ### Professional Issues
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC Code分析该案例
 		- Public interest
