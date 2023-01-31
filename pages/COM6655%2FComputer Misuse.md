@@ -200,23 +200,18 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- CDPA [[Copyright, Designs and Patents Act]]
 	  id:: 639b1b57-2568-4888-8539-d8a39ae0ec1b
 	- 打击盗版软件的方法
-	  collapsed:: true
 		- Auditing programs 审计程序
 		- Hardware copy-protection ‘keys’ 硬件复制保护"钥匙"
 		- software key system 软件钥匙系统
 	- 适用于盗版软件的立法
 	  background-color:: red
-	  collapsed:: true
 	  ((639b2392-e042-4919-95a4-990e4924e361))
 		- [[Copyright, Designs and Patents Act]]  版权外观和专利法
-		  collapsed:: true
 			- 最严重的是用于分销和进口
 		- [[Forgery and Counterfeiting Act]] 伪造和假冒法
 		  id:: 639b239c-a6dd-47e0-954d-a359d5c57be9
-		  collapsed:: true
 			- 光盘、磁带或其他记录媒介可能是 "假文书"
 		- [[Trade Descriptions Act]] 商品说明法
-		  collapsed:: true
 			- 旨在保护消费者不买到劣质商品，例如，将复制的软件作为正品出售
 - 病毒和黑客 Viruses and hacking
 	- 病毒 Viruses
