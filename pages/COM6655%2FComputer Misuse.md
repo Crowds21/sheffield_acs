@@ -147,7 +147,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 - 欺诈法案 [[Fraud Act]] 2006
 	- 处理1968年和1978年[[Theft Acts]]的缺陷,尤其是 ICT (信息和通信技术)方面的欺诈
 	- 主要方面
-	  collapsed:: true
 		- 通过虚假陈述进行诈骗 Fraud by false representation
 		  id:: 6398df4d-6a84-4dda-be87-a34257013103
 		- 滥用职权的欺诈行为 Fraud by abuse of position
@@ -155,32 +154,26 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 		- 未披露信息的欺诈行为（如税收，在此不太相关）
 		  id:: 6398dec2-59de-4e41-8195-d32e5549341f
 	- 刑罚 Penalties
-	  collapsed:: true
 		- 简易程序定罪（治安法庭）：最多监禁12个月和/或罚款
 		  Summary conviction (Magistrates court): imprisonment for up to 12 months and/or fine
 		- 公诉定罪（刑事法庭由陪审团审判）：最高10年的监禁和/或罚款
 		  Conviction on indictment (Crown court trial by jury): imprisonment for up to 10 years and/or fine
 	- 虚假陈述的欺诈行为 
-	  collapsed:: true
 	  Fraud by false representation
 		- 发生在个人不诚实地作出虚假陈述，意图使自己或他人获得收益，或使他人遭受损失，或使他人面临损失的风险
 		- 具体例子
 			- Phishing 网络钓鱼
-			  collapsed:: true
 				- 通过发送声称来自该人银行的电子邮件（或短信）获取信息，如银行账户的详细信息
 			- Pharming 伪装
-			  collapsed:: true
 				- 将真实网站的流量转到假网站。
 		- 与1968年 [[Theft Acts]]（"永久剥夺"）不同，不需要实际收益或损失，或需要永久
 	- 滥用职权的欺诈行为
-	  collapsed:: true
 	  Fraud by abuse of position
 		- 适用于一个人所处的位置，他被期望保障或不损害另一个人的经济利益
 		- 具体例子
 			- 雇员利用其职务之便，未经授权复制其雇主的软件，为自己的利益进行销售。
 			- 员工将含有属于雇主的机密信息的电子邮件出售给竞争对手的公司
 	- 用于欺诈的物品 
-	  collapsed:: true
 	  Articles for use in fraud
 		- 一个人拥有任何与欺诈有关的物品是犯罪行为.
 		  任何人拥有用于欺诈的任何物品都是犯罪.
@@ -191,7 +184,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 			- 简易程序定罪 Summary conviction : 最高12个月的监禁和/或罚款
 			- 公诉书上的定罪：最高可判处10年监禁
 	- 不诚实地获得服务
-	  collapsed:: true
 	  ((6398e25e-74f4-45c8-b2db-9c8532fcee8a))
 		- 通过不诚实的行为为自己或他人获得服务的人所犯的罪行
 			- 提供服务的基础是已经/将要为其付款
