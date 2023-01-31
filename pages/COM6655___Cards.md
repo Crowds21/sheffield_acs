@@ -23,8 +23,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:16:24.312Z
+	  card-next-schedule:: 2023-02-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-31T10:57:33.920Z
 	  card-last-score:: 1
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
 		- The relevant legislation is [[Consumer Rights Act]] [5-10]
