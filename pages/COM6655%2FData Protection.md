@@ -30,17 +30,14 @@
 - 隐私的三个方面
   Three aspects of privacy
 	- 你拥有的信息
-	  collapsed:: true
 	  Information in your possession
 		- 考虑到你所拥有的信息，从保护其不被他人观察，也许是篡改的角度来看
 		- 与锁在文件柜里的文件相比，由计算机系统存储和传输的数据有可能非常脆弱
 		- 在大多数国家，篡改表面邮件是一种刑事犯罪，但电子邮件信息的法律地位如何?
 		- 技术的发展速度如此之快，以至于它常常使现有的隐私法变得过时;
 	- 其他人拥有的信息
-	  collapsed:: true
 	  Information in the possession of others
 		- 问题
-		  collapsed:: true
 			- 考虑一下有关个人的信息，这些信息是由他人占有的；
 			- 个人并不拥有这些信息，但它被认为是个人的，因此在某种意义上是 "他们的"
 		- 这方面的隐私问题是信息被滥用的可能性
@@ -49,11 +46,9 @@
 		- 英国，这些问题由 [[Data Protection Act]] 1998 解决
 		- 在英国脱欧之前，它们由[[EU GDPR/DPA]] 2018解决
 		- 英国脱欧后（2021年1月1日生效），它们由以下内容解决
-		  collapsed:: true
 			- [[UK General Data Protection Regulation]] (UK GDPR)
 			- [[Data Protection Act]] 2018 (DPA 2018)
 	- Transborder data flows
-	  collapsed:: true
 	  跨界数据流
 		- 当一个国家的计算机被另一个国家的计算机访问或向其传输数据时，就产生了跨境数据流（TDF）
 		- 禁止获取信息的当地立法可能被规避
