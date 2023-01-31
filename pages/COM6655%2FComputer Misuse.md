@@ -132,7 +132,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 		- Conspiracy to defraud (common law)  可能适用于计算机欺诈，因为不需要证明欺骗
 	- 访问计算机系统 Accessing computer systems
 	- [[Theft Act]]
-	  collapsed:: true
 		- 由于未经授权使用计算机会消耗一些电力, 这将会被视为盗窃.
 		- 但同时也必须证明,此人意识到他们的行为是 dishonest(犯罪意图)
 		- 案例 R v Ghosh (1982) Ghosh Test
