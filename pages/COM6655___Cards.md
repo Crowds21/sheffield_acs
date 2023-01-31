@@ -13,8 +13,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:13:18.959Z
+	  card-next-schedule:: 2023-02-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-31T10:56:25.430Z
 	  card-last-score:: 1
 		- This game was developed in  Arthur Hacker's leisure time. So the employee can not assume they own the copyright of this game.
 		- When he agreed that the company could use this game,  the employer should try to make an agreement on the use of the program and ownership of copyright.
