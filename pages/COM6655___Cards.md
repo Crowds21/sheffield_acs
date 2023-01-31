@@ -55,8 +55,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:44:12.675Z
+	  card-next-schedule:: 2023-02-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-31T10:59:09.536Z
 	  card-last-score:: 1
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement  [5]
 			- Doober 汽车可能没有做出刹车的决定
