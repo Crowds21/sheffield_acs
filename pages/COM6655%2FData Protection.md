@@ -98,7 +98,6 @@
 		- 规定了信息专员办公室(Information Commissioner’s Office)的职能和权力
 		- 更新了以前的 [[Data Protection Act]]  1998 , 以适应我们以数据为中心的时代
 	- 欧盟GDPR
-	  collapsed:: true
 		- EU GDPR – the EU “General Data Protection Regulation”
 		- 欧洲最新的数据保护法规，由欧洲议会和欧洲理事会于2016年4月通过
 		- 2018年5月18日生效，适用于整个欧洲，但每个国家可以做出自己的小改动
