@@ -137,8 +137,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:44:35.671Z
+	  card-next-schedule:: 2023-02-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-31T10:59:50.746Z
 	  card-last-score:: 1
 		- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
