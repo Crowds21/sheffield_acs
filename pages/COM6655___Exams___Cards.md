@@ -428,7 +428,7 @@
 			- TODO 对有关当局的责任 Duty to relevant authority
 				- Not to conflict with the relevant institutions and comply with the relevant requirements of the authorities
 			- TODO 对专业的责任 Duty to the profession
-				-
+				- Responsible for the industry
 		- Public interest
 			- The algorithms he is working on are of public interest(结合例子)
 		- Professional competence and integrity
@@ -436,7 +436,6 @@
 		- Duty to relevant authority
 			- When he discovered that the data he had collected did not comply with ethical policies, he reported it to the appropriate people.
 		- Duty to the profession
-			- Responsible for the industry
 			- He cooperated well with the technician
 			- Maintained the reputation of the association
 	-
