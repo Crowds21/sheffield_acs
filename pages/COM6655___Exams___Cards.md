@@ -158,15 +158,15 @@
 			- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 			- vicarious liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T21:13:04.873Z
 	  card-last-score:: 1
+	  card-repeats:: 1
+	  card-next-schedule:: 2023-01-31T00:00:00.000Z
+	  card-last-interval:: -1
+	  card-ease-factor:: 2.5
+	  card-last-reviewed:: 2023-01-30T21:13:04.873Z
 	  collapsed:: true
-	  案例中Negligence 相关内容
-	  ((63d52843-ed39-4327-a1da-b453587d78ee)) [[card]]
+	  案例中 ((63d52843-ed39-4327-a1da-b453587d78ee)) 相关内容
+	   [[card]]
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
 		- Reduced liability
 			- little control over the way the system is used or interpreted
