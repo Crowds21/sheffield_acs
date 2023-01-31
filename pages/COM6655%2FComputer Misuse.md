@@ -107,6 +107,7 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 			- 篡改计算机程序, 很复杂,因此有时候难以发现
 			- salami fraud
 	- 欺诈罪 Fraud offences
+	  collapsed:: true
 		- 欺诈是一系列类似的罪行，其中一些在1968年和1978年的 [[Theft Acts]] 1968 and 1978 中有所涉及
 		- 以欺骗手段获得财产  Obtaining property by deception
 		  id:: 6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907
@@ -119,7 +120,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 			- 当数据被取走时,所有者并没有被永久的剥夺该数据
 	- 案例 Oxford v Moss (1978)
 	  background-color:: green
-	  collapsed:: true
 		- 学生在考试前借了一份书卷
 		- 因盗窃机密信息被起诉。但被宣告无罪，理由是信息不能被视为财产，所以不能被盗窃
 		- 裁判官裁定. "confidence(秘密)包括控制考试出版的权利，是一种对财产的权利，而不是财产本身"
