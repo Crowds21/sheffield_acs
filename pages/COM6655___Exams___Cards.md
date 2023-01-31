@@ -135,7 +135,6 @@
 			- ((63d52842-ecf3-41c9-a67c-7cf113efd118))
 - ### Liability
 	- [[Consumer Protection Act]]  规定了什么?
-	  collapsed:: true
 		- Provides liability for producers of defective products
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
 	  card-last-interval:: -1
@@ -144,7 +143,6 @@
 	  card-next-schedule:: 2023-01-31T00:00:00.000Z
 	  card-last-reviewed:: 2023-01-30T20:52:59.632Z
 	  card-last-score:: 1
-	  collapsed:: true
 	  案例中Negligence 相关内容 [[card]]
 		- negligence的条件
 			- The school own==a duty of care==  to the student. It is predictable that there will be bugs in the software. And the student had a loss.
@@ -163,7 +161,6 @@
 	  card-last-interval:: -1
 	  card-ease-factor:: 2.5
 	  card-last-reviewed:: 2023-01-30T21:13:04.873Z
-	  collapsed:: true
 	  案例中 ((63d52843-ed39-4327-a1da-b453587d78ee)) 相关内容
 	   [[card]]
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
