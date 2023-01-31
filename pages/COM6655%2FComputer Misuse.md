@@ -10,18 +10,14 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- 计算机滥用也可能导致民法上的责任 
 	  Computer misuse could also give rise to liabilities under civil law.
 	- [[English Criminal Law]] 的回顾
-	  collapsed:: true
 		- 大多数刑事犯罪在 [[Acts Of Parliament]]   中都有规定
-		  collapsed:: true
 			- [[Theft Act]] 1968
 			- [[Fraud Act]] 2006
 			- [[Computer Misuse Act]] 1990
 		- 罪行的要素可以从以下方面进行分析
-		  collapsed:: true
 			- Mens rea  心理因素，意图
 			- Actus reus 实际行为
 		- 一些犯罪即便没有犯罪意图,也构成犯罪
-		  collapsed:: true
 			- strict liability offences "严格责任罪" 不涉及犯罪意图
 			- 例如，夜间驾驶时后灯有问题，即使司机不知道该灯有问题，也是犯罪
 	- 计算机滥用的类型  Types of computer misuse (Scottish Law Commission)
@@ -84,7 +80,6 @@ ref:: ((6398aa4d-5d16-4572-b2d1-2389b835de7c)), ((639b1bc4-b565-4532-9446-87b099
 	- 案例: R v Sunderland (unreported) 1983
 	  background-color:: green
 	  id:: 63d52842-3b88-4960-9668-ba5fec654b7d
-	  collapsed:: true
 		- 背景
 		  collapsed:: true
 			- 巴克莱银行的一名雇员利用银行的计算机找到一个休眠账户，伪造持有人的签名，提取2100英镑。
