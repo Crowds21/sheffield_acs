@@ -83,8 +83,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:49:34.733Z
+	  card-next-schedule:: 2023-02-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-31T11:01:59.384Z
 	  card-last-score:: 1
 		- Terms
 			- Personal Data
