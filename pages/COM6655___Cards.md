@@ -68,8 +68,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:48:39.998Z
+	  card-next-schedule:: 2023-02-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-31T11:00:45.288Z
 	  card-last-score:: 1
 	  collapsed:: true
 		- The relevant legislation is [[Consumer Protection Act]]  [5]
@@ -168,8 +168,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:48:43.434Z
+	  card-next-schedule:: 2023-02-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-31T11:00:52.204Z
 	  card-last-score:: 1
 		- Smith
 		- Fox
