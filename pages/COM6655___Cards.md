@@ -100,8 +100,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:44:27.679Z
+	  card-next-schedule:: 2023-02-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-31T10:59:31.678Z
 	  card-last-score:: 1
 		- Positive
 		- Negative
@@ -111,8 +111,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:44:21.211Z
+	  card-next-schedule:: 2023-02-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-01-31T10:59:28.463Z
 	  card-last-score:: 1
 		- Positive
 		- Negative
