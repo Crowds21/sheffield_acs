@@ -16,6 +16,9 @@
  {:block/name "acts of parliament",
   :block/created-at 1673803785447,
   :block/updated-at 1673803785447}
+ {:block/name "adaboost",
+  :block/created-at 1675272569239,
+  :block/updated-at 1675272569239}
  {:block/name "auto-encoders",
   :block/created-at 1675272425583,
   :block/updated-at 1675272425583}
@@ -48,7 +51,7 @@
   :block/updated-at 1675272425583}
  {:block/name "com6509",
   :block/created-at 1675272425324,
-  :block/updated-at 1675272425324}
+  :block/updated-at 1675272680879}
  {:block/name "com6509/assignment_part1",
   :block/created-at 1675272425584,
   :block/updated-at 1675272425584}
@@ -384,6 +387,9 @@
  {:block/name "ibcos",
   :block/created-at 1675000237031,
   :block/updated-at 1675000237031}
+ {:block/name "id3 algorithm",
+  :block/created-at 1675272569234,
+  :block/updated-at 1675272569234}
  {:block/name "in-progress",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
@@ -468,12 +474,18 @@
  {:block/name "professional issues",
   :block/created-at 1673803785906,
   :block/updated-at 1673803785906}
+ {:block/name "random forest",
+  :block/created-at 1675272569239,
+  :block/updated-at 1675272569239}
  {:block/name "readme",
   :block/created-at 1675008886957,
   :block/updated-at 1675008886957}
  {:block/name "ref",
   :block/created-at 1673803785182,
   :block/updated-at 1673803785182}
+ {:block/name "regression tress",
+  :block/created-at 1675272569236,
+  :block/updated-at 1675272569236}
  {:block/name "supervised learning",
   :block/created-at 1675272425575,
   :block/updated-at 1675272425575}
@@ -582,6 +594,9 @@
  {:block/name "逻辑回归",
   :block/created-at 1675272425582,
   :block/updated-at 1675272425582}
+ {:block/name "随机森林",
+  :block/created-at 1675272569238,
+  :block/updated-at 1675272569238}
  {:block/name "高等数学",
   :block/created-at 1675272425572, 
   :block/updated-at 1675272425572}]
