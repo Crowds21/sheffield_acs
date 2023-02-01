@@ -1,0 +1,83 @@
+file:: [Exercise_Sheet_3_1674262343001_0.pdf](../assets/Exercise_Sheet_3_1674262343001_0.pdf)
+file-path:: ../assets/Exercise_Sheet_3_1674262343001_0.pdf
+
+- 35
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd460e-0de4-43ff-a70e-bed6ca94c10b
+- 65
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: blue
+  id:: 63cd4611-4a7a-4402-b966-0afbd333a910
+- 40
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd4615-b14d-458b-ac2f-a09117fb36f4
+- 90
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 63cd4618-b23a-4308-aea2-8d2f004ea255
+- 70
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: blue
+  id:: 63cd461b-9405-4d50-8522-7619667dda87
+- 85
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 63cd461e-2f90-4b61-bce9-f2c877f09788
+- yes
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd4649-9f35-4994-bef5-e418fcbf30f0
+- yes
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd464b-acf3-4196-804f-3af2aa674240
+- yes
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd464f-15dd-4ea0-86a6-8fb2f8674e60
+- yes 
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd4651-ba94-4263-99a6-8d8d459c2fe1
+- tired
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd4859-63ca-4b2f-986a-4a2359d35c49
+- tired
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd485d-dc0e-49e8-8e94-557cf9c8a9d5
+- tired
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd4867-3db2-4dc2-9919-09014cb6e9a0
+- tired
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd486a-c341-4abd-a3ac-f3f10fb0ff86
+- You have been asked to implement this screening model using a random forest. 
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63cd4fca-eeee-44ef-a411-e3c7b8a6e0dd
+- three bootstrap samples that have been generated from the above dataset
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: blue
+  id:: 63cd4fd7-7441-4d39-95bd-d25453688479

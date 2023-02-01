@@ -1,0 +1,25 @@
+file-path:: ../assets/Exercise_Sheet_Lecture_4_1666615993119_0.pdf
+file:: [Exercise_Sheet_Lecture_4_1666615993119_0.pdf](../assets/Exercise_Sheet_Lecture_4_1666615993119_0.pdf)
+title:: hls__Exercise_Sheet_Lecture_4_1666615993119_0
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63da5c54-5ad4-43dd-a610-cf7e560eae67
+  hl-type:: area
+  hl-stamp:: 1675254867903
+- [:span]
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63da5c66-640d-4a9c-a717-f3745cb5863f
+  hl-type:: area
+  hl-stamp:: 1675254885823
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63da5c6e-ee7c-4674-aa5d-afc0d1fc2803
+  hl-type:: area
+  hl-stamp:: 1675254893377

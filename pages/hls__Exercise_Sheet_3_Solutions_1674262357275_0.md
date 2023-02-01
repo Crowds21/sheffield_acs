@@ -1,0 +1,260 @@
+file:: [Exercise_Sheet_3_Solutions_1674262357275_0.pdf](../assets/Exercise_Sheet_3_Solutions_1674262357275_0.pdf)
+file-path:: ../assets/Exercise_Sheet_3_Solutions_1674262357275_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63cd405f-f569-4ecc-98b7-73263dddb3c7
+  hl-type:: area
+  hl-stamp:: 1674395742487
+- [:span]
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd4088-6292-4013-9edc-cc3db6051dac
+  hl-type:: area
+  hl-stamp:: 1674395783728
+- 25K-50K
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd41b5-f98e-4f6e-ae31-3d3c8d7653cb
+- 25K-50K
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd41b9-46b5-4f2d-af79-6e9e51b63e92
+- 25K-50K
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd41bc-50c8-4879-bba4-2f6470116e1e
+- 25K-50K
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd41bf-101c-4421-a4e0-1465962e351f
+- 25K-50K
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd41c1-330f-4456-8843-47ea51e36794
+- ≤ 25K
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: blue
+  id:: 63cd41c5-ac3f-4e90-89b4-2b2649d40ca2
+- ≤ 25K
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: blue
+  id:: 63cd41c7-4051-4d5c-a1b3-1ea6c4f5a6aa
+- ≥ 50K
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 63cd41ca-9a29-4f1b-a45b-7521ab1c8821
+- bachelors
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd426e-a4f1-4df6-8b15-6fa36a2f4385
+- bachelors
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd4273-d1fc-425b-b5a2-b8f4fdc198ce
+- bachelors
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd4276-0705-410b-91db-ba905a3f1b42
+- high school 
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: blue
+  id:: 63cd427d-b12b-4be6-8bed-4ce2bf691e75
+- high school
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: blue
+  id:: 63cd4282-72d2-4da5-bb99-6998fc319d1e
+- high school
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: blue
+  id:: 63cd4286-c42f-446d-aba1-ea673fafc140
+- high school 
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: blue
+  id:: 63cd428b-35a2-4380-ac6d-704c66287db2
+- doctorate
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 63cd4290-8934-40bd-9af9-c7020a5f4fd8
+- rem(d, D)
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd513d-1e6b-4fd8-8e0f-8513c41a9c8c
+- threshold around which splits will be made.
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd52d6-1f05-425a-8301-2ac7ae207c1b
+- e optimal threshold to split the continuous AGE feature 
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd52db-5ca6-4343-994d-054dad3a96c7
+- Following the notation on the lecture slides, the variance at a node can be calculated using the following equation:
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63cd543c-f825-4320-8f85-ed3c73dafc9d
+- yes
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63cd55a3-96d3-411c-a4af-0394f6899f5c
+- yes 
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63cd55a5-4bc4-44f5-82f6-617ef12be7d7
+- yes
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63cd55aa-31f5-4683-a9bf-feed02302266
+- yes 
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63cd55ad-d6f6-4e08-ab21-c338fda84810
+- 65
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63cd55b3-b9d8-4355-9bcf-957d7d3a7738
+- 90
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63cd55b6-970b-4890-98ea-46322c4e7dd4
+- 70
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63cd55b8-8f8b-467d-8e55-9cbde9ae5ec7
+- 85
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63cd55bb-ba7c-4e77-9481-6a3fdc9e855f
+- From these calculations we can see that splitting the dataset using the STUDIED feature results in the lowest weighted variance. 
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 63cd598b-a4e5-4276-ade7-e30e1edd3a14
+- These calculations show that the EXERCISE feature has the highest information gain of the descriptive features in Bootstrap Sample A and should be added as the root node of the decision tree generated from Bootstrap Sample A.
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 63cd5a24-cc8a-463c-9489-a80e250d109a
+- generates pure sets
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 63cd5a49-92de-478e-9337-c57a39ecd6da
+- we simply create a leaf node with the majority target level within the partition: RISK =low.So, the final tree generated for Bootstrap Sample C: if OBESE Level is true, the RISK is high, if OBESE Level is false, the RISK is low.
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 63cd5b9f-8b09-4c57-90c7-e0cb5b0a102c
+- , the majority vote is for RISK=high,
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 63cd5d19-625e-4fd3-b47f-863f2c605008
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63cd6465-38c9-4aa9-afa4-4d9f88f9b2dc
+  hl-type:: area
+  hl-stamp:: 1674404964848
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63cd646b-da82-4dc7-92ca-69317658d8c0
+  hl-type:: area
+  hl-stamp:: 1674404970231
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: blue
+  id:: 63cd6474-bd70-40c9-a529-5bbdca7ebf24
+  hl-type:: area
+  hl-stamp:: 1674404979601
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: blue
+  id:: 63cd647d-94ab-4e3e-a0a6-35431a363757
+  hl-type:: area
+  hl-stamp:: 1674404989619
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 63cd6484-699e-4a91-bd9d-a27bf5681199
+  hl-type:: area
+  hl-stamp:: 1674404995189
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: blue
+  id:: 63cd648b-d6f9-41be-844b-db96be5e19c2
+  hl-type:: area
+  hl-stamp:: 1674405002406
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63cd6527-d894-4f27-9295-f0a09672e9e6
+  hl-type:: area
+  hl-stamp:: 1674405157636
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63cd66be-628f-4dc0-a16f-38210f90c91a
+  hl-type:: area
+  hl-stamp:: 1674405565091
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63cd66fa-c12b-4f40-ba2a-29f4036d9174
+  hl-type:: area
+  hl-stamp:: 1674405625586
+- Answer
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd67a8-4b1d-4956-8f67-a53978800cff
+- (c)
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63cd6cd5-8c6f-4517-884a-f4fc0555f955
+- You have been asked to implement this screening model using a random forest.
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 63cd6d3b-dc12-45e1-87ad-1bd8686885ce

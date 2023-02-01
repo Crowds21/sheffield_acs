@@ -591,6 +591,9 @@
  {:block/name "数学期望",
   :block/created-at 1675272425483,
   :block/updated-at 1675272425483}
+ {:block/name "数学符号",
+  :block/created-at 1675294360467,
+  :block/updated-at 1675294360467}
  {:block/name "条件概率",
   :block/created-at 1675272425482,
   :block/updated-at 1675272425482}
@@ -609,6 +612,9 @@
  {:block/name "正态分布",
   :block/created-at 1675293974625,
   :block/updated-at 1675293974625}
+ {:block/name "离散型随机变量",
+  :block/created-at 1675294360468,
+  :block/updated-at 1675294360468}
  {:block/name "离散随机变量",
   :block/created-at 1675272425576,
   :block/updated-at 1675272425576}
@@ -618,6 +624,9 @@
  {:block/name "贝叶斯定理",
   :block/created-at 1675272425576,
   :block/updated-at 1675272425576}
+ {:block/name "边缘分布",
+  :block/created-at 1675294360469,
+  :block/updated-at 1675294360469}
  {:block/name "逻辑回归",
   :block/created-at 1675272425582,
   :block/updated-at 1675272425582}

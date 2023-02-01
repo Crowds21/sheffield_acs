@@ -1,0 +1,108 @@
+file-path:: ../assets/Exercise_Sheet_1_1664396422144_0.pdf
+file:: [Exercise_Sheet_1_1664396422144_0.pdf](../assets/Exercise_Sheet_1_1664396422144_0.pdf)
+title:: hls__Exercise_Sheet_1_1664396422144_0
+
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334ae5d-9f5a-4fb4-ba8b-45db63943883
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334ae5e-5529-4fc3-b37b-5a36e9caf7a1
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334ae60-9af1-4b51-99e7-0188d7b80887
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334ae61-c90a-4dd7-97e3-b8c09e00ba81
+- false
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334aee1-7348-46d5-8f17-46466d0b51a9
+- false
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334aee3-5c50-420a-a94a-203764786753
+- false
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334aee5-7849-4a30-805d-d94eb1b047b4
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334afc3-cdfa-4c25-b245-744e744f7a53
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334afc8-aa57-42fc-9293-15e037206722
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334afcb-2fa1-4746-972c-40507671f89c
+- true 
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b067-029c-43cf-a968-4f7d709109c2
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b06b-4d29-4bec-bd6c-2c280ef68912
+- true 
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b0ca-0d44-4ef5-a954-3bfe45bbe04a
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b0d4-6050-4685-b3ad-62834c6ef6db
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b0d6-52f6-4d34-a089-f535bc0f1d8e
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b0d8-1f81-4207-b056-f610dab5cd6d
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b151-fed9-4b9d-a89c-c1fe0fde8edc
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b154-d9ca-4a1c-a931-849afb179be5
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b157-2b6a-4648-b1e4-7f6bed5a8538
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b15d-bd60-4090-8dfa-2f051f128e4c
+- false
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b167-8d1b-4a31-a038-8f85c820f05e
+- false
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b1b0-3e37-4b36-8d4f-738d91497753
+- false
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b1b3-0e89-419a-9552-bacb7945765c
+- false 
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b1b9-6287-4041-a6f6-09684b60cab9
+- true
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b24c-282c-4842-aa91-ce85c9a044b1
+- Let X be the RV giving the number of heads obtained.
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 6334b2e3-64c8-4a38-a0a2-6011712fe921
