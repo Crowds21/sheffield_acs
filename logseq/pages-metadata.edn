@@ -70,6 +70,18 @@
  {:block/name "com6509/lab6",
   :block/created-at 1675272425585,
   :block/updated-at 1675272425585}
+ {:block/name "com6509/logistic regression",
+  :block/created-at 1675293974542,
+  :block/updated-at 1675293974542}
+ {:block/name "com6509/logistic regression/cards",
+  :block/created-at 1675293974542,
+  :block/updated-at 1675293974542}
+ {:block/name "com6509/neural network",
+  :block/created-at 1675293974575,
+  :block/updated-at 1675293974575}
+ {:block/name "com6509/neural network/cards",
+  :block/created-at 1675293974575,
+  :block/updated-at 1675293974575}
  {:block/name "com6509/pca",
   :block/created-at 1675272425412,
   :block/updated-at 1675272425412}
@@ -256,6 +268,9 @@
  {:block/name "freedom of information act",
   :block/created-at 1673803787146,
   :block/updated-at 1673803787146}
+ {:block/name "gaussian distribution",
+  :block/created-at 1675293974626,
+  :block/updated-at 1675293974626}
  {:block/name "gaussian processes",
   :block/created-at 1675272425582,
   :block/updated-at 1675272425582}
@@ -456,6 +471,9 @@
  {:block/name "neural networks",
   :block/created-at 1675272425582,
   :block/updated-at 1675272425582}
+ {:block/name "normal distribution",
+  :block/created-at 1675293974626,
+  :block/updated-at 1675293974626}
  {:block/name "now",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
@@ -582,6 +600,9 @@
  {:block/name "概率论",
   :block/created-at 1675272425577,
   :block/updated-at 1675272425577}
+ {:block/name "正态分布",
+  :block/created-at 1675293974625,
+  :block/updated-at 1675293974625}
  {:block/name "离散随机变量",
   :block/created-at 1675272425576,
   :block/updated-at 1675272425576}
@@ -597,6 +618,9 @@
  {:block/name "随机森林",
   :block/created-at 1675272569238,
   :block/updated-at 1675272569238}
+ {:block/name "高斯分布",
+  :block/created-at 1675293974625,
+  :block/updated-at 1675293974625}
  {:block/name "高等数学",
   :block/created-at 1675272425572, 
   :block/updated-at 1675272425572}]
