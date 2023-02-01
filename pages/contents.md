@@ -5,4 +5,4 @@
 	  git fetch --all
 	  git reset --hard origin/main
 	  ```
--
+- ![image.png](../assets/image_1675274431146_0.png)
