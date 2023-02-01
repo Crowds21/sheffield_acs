@@ -375,6 +375,39 @@
  {:block/name "hls__com6655-exam-2020_1670335057519_0",
   :block/created-at 1673803812461,
   :block/updated-at 1673803812461}
+ {:block/name "hls__exercise_sheet_1_1664396422144_0",
+  :block/created-at 1675294518135,
+  :block/updated-at 1675294518135}
+ {:block/name "hls__exercise_sheet_1_solutions_1664396426454_0",
+  :block/created-at 1675294518161,
+  :block/updated-at 1675294518161}
+ {:block/name "hls__exercise_sheet_1_solutions_1673019768385_0",
+  :block/created-at 1675294518170,
+  :block/updated-at 1675294518170}
+ {:block/name "hls__exercise_sheet_2_1673281517644_0",
+  :block/created-at 1675294518180,
+  :block/updated-at 1675294518180}
+ {:block/name "hls__exercise_sheet_2_solutions_1673281508436_0",
+  :block/created-at 1675294518202,
+  :block/updated-at 1675294518202}
+ {:block/name "hls__exercise_sheet_3_1674262343001_0",
+  :block/created-at 1675294518217,
+  :block/updated-at 1675294518217}
+ {:block/name "hls__exercise_sheet_3_solutions_1674262357275_0",
+  :block/created-at 1675294518260,
+  :block/updated-at 1675294518260}
+ {:block/name "hls__exercise_sheet_4_solutions_1674262348114_0",
+  :block/created-at 1675294518281,
+  :block/updated-at 1675294518281}
+ {:block/name "hls__exercise_sheet_6_solutions_1674473553067_0",
+  :block/created-at 1675294518292,
+  :block/updated-at 1675294518292}
+ {:block/name "hls__exercise_sheet_9_solutions_1674473615870_0",
+  :block/created-at 1675294518315,
+  :block/updated-at 1675294518315}
+ {:block/name "hls__exercise_sheet_lecture_4_1666615993119_0",
+  :block/created-at 1675294518323,
+  :block/updated-at 1675294518323}
  {:block/name
   "hls__week45_06_contract_law_part_1_2022_1666627252369_0",
   :block/created-at 1674914923962,
