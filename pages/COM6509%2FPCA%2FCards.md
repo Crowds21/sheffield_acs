@@ -1,63 +1,133 @@
-- PCA目的是对数据空间中的进行偏转,最终找到 {{cloze 方差最大}}的方向, 方差代表数据的离散程度 [[card]]
-- 已知原数据空间中,$x$的向量为
-  id:: 63da7afa-31ef-4a0a-b0cf-a6ecdb02c498
-  collapsed:: true
-  $$
-  \mathbf{x}=\left[\begin{array}{l}
-  a \\ b
-  \end{array}\right]
-  $$
-  特征空间中对应的向量为
-  $$
-  \mathbf{y}=\left[\begin{array}{l}
-  c \\
-  d
-  \end{array}\right]=\left[\begin{array}{c}
-  \mathbf{u}_1^T \mathbf{x} \\
-  \mathbf{u}_2^T \mathbf{x}
-  \end{array}\right]
-  $$
-  对应的transformation matrix 为 
-  $$
-  \mathbf{U}^T=\left[\begin{array}{l}
-  \mathbf{u}_1^T \\
-  \mathbf{u}_2^T
-  \end{array}\right]
-  $$
-  根据 $\operatorname{Cov}=\frac{1}{N} \sum_{n=1}^N\left(y_{n i}-\mathbb{E}\left(y_i\right)\right)\left(y_{n j}-\mathbb{E}\left(y_j\right)\right)$ 
-  推导对应的矩阵表达式 [[card]]
-	- 协方差特征向量矩阵
+- PCA
+	- PCA目的是对数据空间中的进行偏转,最终找到 {{cloze 方差最大}}的方向, 方差代表数据的离散程度 [[card]]
+	- 已知原数据空间中,$x$的向量为
+	  id:: 63da7afa-31ef-4a0a-b0cf-a6ecdb02c498
+	  collapsed:: true
+	  $$
+	  \mathbf{x}=\left[\begin{array}{l}
+	  a \\ b
+	  \end{array}\right]
+	  $$
+	  特征空间中对应的向量为
+	  $$
+	  \mathbf{y}=\left[\begin{array}{l}
+	  c \\
+	  d
+	  \end{array}\right]=\left[\begin{array}{c}
+	  \mathbf{u}_1^T \mathbf{x} \\
+	  \mathbf{u}_2^T \mathbf{x}
+	  \end{array}\right]
+	  $$
+	  对应的transformation matrix 为 
+	  $$
+	  \mathbf{U}^T=\left[\begin{array}{l}
+	  \mathbf{u}_1^T \\
+	  \mathbf{u}_2^T
+	  \end{array}\right]
+	  $$
+	  根据 $\operatorname{Cov}=\frac{1}{N} \sum_{n=1}^N\left(y_{n i}-\mathbb{E}\left(y_i\right)\right)\left(y_{n j}-\mathbb{E}\left(y_j\right)\right)$ 
+	  推导对应的矩阵表达式 [[card]]
+		- 协方差特征向量矩阵
+			- $$
+			  C_{i j}=\frac{1}{N} \sum_{n=1}^N\left(x_{n i}-\mu_i\right)\left(x_{n j}-\mu_j\right)
+			  $$
 		- $$
-		  C_{i j}=\frac{1}{N} \sum_{n=1}^N\left(x_{n i}-\mu_i\right)\left(x_{n j}-\mu_j\right)
+		  \begin{aligned}
+		   \operatorname{Cov}\left(y_i, y_j\right) & = \frac{1}{N} \sum_{n=1}^N\left(y_{n i}-\mathbb{E}\left(y_i\right)\right)\left(y_{n j}-\mathbb{E}\left(y_j\right)\right) \\
+		  \ & =\frac{1}{N} \sum_{n=1}^N \mathbf{u}_i^T\left(\mathbf{x}_n-\boldsymbol{\mu}\right)\left(\mathbf{x}_n-\boldsymbol{\mu}\right)^T \mathbf{u}_j \\
+		  \ & =\mathbf{u}_i^T \mathbf{C} \mathbf{u}_j
+		  \end{aligned}
 		  $$
-	- $$
-	  \begin{aligned}
-	   \operatorname{Cov}\left(y_i, y_j\right) & = \frac{1}{N} \sum_{n=1}^N\left(y_{n i}-\mathbb{E}\left(y_i\right)\right)\left(y_{n j}-\mathbb{E}\left(y_j\right)\right) \\
-	  \ & =\frac{1}{N} \sum_{n=1}^N \mathbf{u}_i^T\left(\mathbf{x}_n-\boldsymbol{\mu}\right)\left(\mathbf{x}_n-\boldsymbol{\mu}\right)^T \mathbf{u}_j \\
-	  \ & =\mathbf{u}_i^T \mathbf{C} \mathbf{u}_j
-	  \end{aligned}
+		- $$
+		  \begin{aligned}
+		  y_{n i} & =\mathbf{u}_i^T \mathbf{x}_n \\
+		  \mathbb{E}\left(y_i\right) & =\mathbf{u}_i^T \boldsymbol{\mu}
+		  \end{aligned}
+		  $$
+		- $\mu$为转换之前$X$的均值, 即原本$E(x)-x$ 乘以转换函数
+	- 通过Lagrange multipliers,进行第1次PCA的优化标准 [[card]]
+		- $$
+		  L\left(\mathbf{u}_1, \lambda_1\right)=\mathbf{u}_1^T \mathbf{C} \mathbf{u}_1+\lambda_1\left(1-\mathbf{u}_1^T \mathbf{u}_1\right)
+		  $$
+		- $$
+		  \begin{aligned}
+		  \frac{d L\left(\mathbf{u}_1, \lambda_1\right)}{d \mathbf{u}_1} & =2 \mathbf{C} \mathbf{u}_1-2 \lambda_1 \mathbf{u}_1=\mathbf{0} \\
+		  \mathbf{C} \mathbf{u}_1 & =\lambda_1 \mathbf{u}_1 \\
+		  \end{aligned}
+		  $$
+		- 对 $L(u_1,\lambda_1)$求导,导数为 0 时,即可得极值
+		- 但是得到的特征向量$u_1$有多个值,需要进一步处理
+	- 矩阵特征值:设 $A$ 是$n$阶方阵，如果存在数$m$和非零$n$维列向量 $x$，使得 $Ax=mx$ 成立，则称 $m$ 是矩阵A的一个特征值（characteristic value)或本征值（eigenvalue). 在 pca 中,特征向量就是最大方差的方向 , 这里 $x$ 就是Eigenvectors [[card]]
+	- TODO 将一个$3\times1$的向量转换为$2\times1$的
+	- 已知$\lambda_i=\mathbf{w}_i^T \mathbf{C} \mathbf{w}_i$, $\lambda_i$是 {{cloze 特征值}},$w$是 {{cloze 特征向量}},$C$是 {{cloze 协方差矩阵}} [[card]]
+	- 已知协方差矩阵 
+	  collapsed:: true
 	  $$
-	- $$
-	  \begin{aligned}
-	  y_{n i} & =\mathbf{u}_i^T \mathbf{x}_n \\
-	  \mathbb{E}\left(y_i\right) & =\mathbf{u}_i^T \boldsymbol{\mu}
-	  \end{aligned}
+	  \mathbf{C}=\left(\begin{array}{ccc}
+	  4 & -2 & 0 \\
+	  -2 & 1 & 1 \\
+	  0 & 1 & 2
+	  \end{array}\right)
 	  $$
-	- $\mu$为转换之前$X$的均值, 即原本$E(x)-x$ 乘以转换函数
-- 通过Lagrange multipliers,进行第1次PCA的优化标准 [[card]]
-  collapsed:: true
-	- $$
-	  L\left(\mathbf{u}_1, \lambda_1\right)=\mathbf{u}_1^T \mathbf{C} \mathbf{u}_1+\lambda_1\left(1-\mathbf{u}_1^T \mathbf{u}_1\right)
+	  特征向量
 	  $$
-	- $$
-	  \begin{aligned}
-	  \frac{d L\left(\mathbf{u}_1, \lambda_1\right)}{d \mathbf{u}_1} & =2 \mathbf{C} \mathbf{u}_1-2 \lambda_1 \mathbf{u}_1=\mathbf{0} \\
-	  \mathbf{C} \mathbf{u}_1 & =\lambda_1 \mathbf{u}_1 \\
-	  \end{aligned}
+	  \mathbf{w}_1=\left(\begin{array}{c}
+	  -0.872 \\
+	  0.466 \\
+	  0.152
+	  \end{array}\right), \mathbf{w}_2=\left(\begin{array}{c}
+	  -0.390 \\
+	  -0.847 \\
+	  0.361
+	  \end{array}\right), \mathbf{w}_3=\left(\begin{array}{c}
+	  0.297 \\
+	  0.256 \\
+	  0.920
+	  \end{array}\right)
 	  $$
-	- 对 $L(u_1,\lambda_1)$求导,导数为 0 时,即可得极值
-	- 但是得到的特征向量$u_1$有多个值,需要进一步处理
-- 矩阵特征值:设 $A$ 是$n$阶方阵，如果存在数$m$和非零$n$维列向量 $x$，使得 $Ax=mx$ 成立，则称 $m$ 是矩阵A的一个特征值（characteristic value)或本征值（eigenvalue). 在 pca 中,特征向量就是最大方差的方向 , 这里 $x$ 就是Eigenvectors [[card]]
+	  求对应的特征值 [[card]]
+		- $\lambda_i=\mathbf{w}_i^T \mathbf{C} \mathbf{w}_i$
+		-
+	- 已知 $\mathbf{x}_1=(2,3,3)^T$ , $\mathbf{x}_2=(4,1,0)^T$ ,以及对应的特征值
+	  collapsed:: true
+	  $\lambda_1=5.070, \lambda_2=-0.346, \lambda_3=2.278$
+	  对应的特征向量为
+	  $$
+	  \mathbf{w}_1=\left(\begin{array}{c}
+	  -0.872 \\
+	  0.466 \\
+	  0.152
+	  \end{array}\right), \mathbf{w}_2=\left(\begin{array}{c}
+	  -0.390 \\
+	  -0.847 \\
+	  0.361
+	  \end{array}\right), \mathbf{w}_3=\left(\begin{array}{c}
+	  0.297 \\
+	  0.256 \\
+	  0.920
+	  \end{array}\right) .
+	  $$
+	  协方差矩阵为
+	  $$
+	  \mathbf{C}=\left(\begin{array}{ccc}
+	  4 & -2 & 0 \\
+	  -2 & 1 & 1 \\
+	  0 & 1 & 2
+	  \end{array}\right)
+	  $$
+	  使用 PCA transformation 计算转换后的两个向量 [[card]]
+		- 选择$\lambda_i$最大的两个对应的$w$
+		- $$
+		  \mathbf{U}=\left(\begin{array}{ll}
+		  \mathbf{w}_1 & \mathbf{w}_3
+		  \end{array}\right)=\left(\begin{array}{cc}
+		  -0.872 & 0.297 \\
+		  0.466 & -0.256 \\
+		  0.152 & 0.920
+		  \end{array}\right)
+		  $$
+		- 根据转换矩阵$U$,计算$\mathbf{y}_i=\mathbf{U}^T \mathbf{x}_i$
+	- TODO  (Worksheet8-3)证明...
 - K-means
 	- K-means 计算公式以及每一项的含义 [[card]]
 	  collapsed:: true
@@ -153,8 +223,8 @@
 		- Optimisation: Eigen-decomposition (and expectation maximisation in k-
 		  means)
 - Discriminative 模型 和 Generative 模型
+  collapsed:: true
 	- Discriminative 模型 和 Generative 模型 之间的区别 [[card]]
-	  collapsed:: true
 		- Discriminative
 			- Optimise an explicitly defined form of the decision boundary
 			- Assume some functional form for $P(y \mid \mathbf{x})$
