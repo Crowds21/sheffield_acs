@@ -5,7 +5,6 @@
 	  git reset --hard origin/main
 	  ```
 - {{cards [[COM6655/Cards]] }}
-  collapsed:: true
 	- Summary: 3 items, 3 review counts [[Jan 30th, 2023]]
 		- Remembered:   0 (0%)
 		- Forgotten :   3 (100%)
