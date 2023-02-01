@@ -1,0 +1,168 @@
+file-path:: ../assets/线性代数_Linear_Algebra_(同济大学数学系)_(z-lib.org)_1651837440083_0.pdf
+file:: [线性代数_Linear_Algebra_(同济大学数学系)_(z-lib.org)_1651837440083_0.pdf](../assets/线性代数_Linear_Algebra_(同济大学数学系)_(z-lib.org)_1651837440083_0.pdf)
+title:: hls__线性代数_Linear_Algebra_(同济大学数学系)_(z-lib.org)_1651837440083_0
+
+- 矩阵的秩
+  ls-type:: annotation
+  hl-page:: 77
+  id:: 62750a19-5dad-42c2-adbd-f60dd874ea1f
+- 矩阵子式的概念
+  ls-type:: annotation
+  hl-page:: 77
+  id:: 62750a5d-87a6-454a-abd6-71f95fc03faa
+- [:span]
+  ls-type:: annotation
+  hl-page:: 77
+  id:: 62750a8b-0f69-434c-82bc-a80da4ea340c
+  hl-type:: area
+  hl-stamp:: 1651837586179
+- 二阶行列式
+  ls-type:: annotation
+  hl-page:: 12
+  id:: 62750b31-42f1-41cc-9343-0d1d06333d9f
+- 行列式
+  ls-type:: annotation
+  hl-page:: 12
+  id:: 62750b41-ddb4-45f7-960e-6abf041f7c6e
+- [:span]
+  ls-type:: annotation
+  hl-page:: 77
+  id:: 62750bf0-5187-42e7-b2c0-8e81a1194b17
+  hl-type:: area
+  hl-stamp:: 1651837944610
+- 换言之，B4中非零子式的最高阶数是3.同样B5中非零子式的最高阶数也是3.
+  ls-type:: annotation
+  hl-page:: 77
+  id:: 62750c17-78c9-4702-999b-f72a096c7688
+- 含有零行
+  ls-type:: annotation
+  hl-page:: 77
+  id:: 62750c62-d62b-4b18-9856-0d1755557dd4
+- 最高阶非零子式
+  ls-type:: annotation
+  hl-page:: 78
+  id:: 62751162-65c2-4026-b575-6f2d0afeb683
+- 矩阵A的秩
+  ls-type:: annotation
+  hl-page:: 78
+  id:: 62751172-84ab-4a73-8ab0-5162fef04ccd
+- 引理一个n阶行列式，如果其中第i行所有元素除（i，j）元aij外都为零，那么这行列式等于aij与它的代数余子式的乘积，即
+  ls-type:: annotation
+  hl-page:: 27
+  id:: 62751251-f02e-4d09-be05-3add54b36769
+- 定理2行列式等于它的任一行（列）的各元素与其对应的代数余子式乘积之和，
+  ls-type:: annotation
+  hl-page:: 28
+  id:: 62751282-b253-4c5f-812c-f16b8e52c8ff
+- 对角线法则
+  ls-type:: annotation
+  hl-page:: 13
+  id:: 627512f5-f42e-47c7-9c7d-9670620a8a45
+- 二阶行列式便是主对角线上的两元素之积减去副对角线上两元素之积所得的差.
+  ls-type:: annotation
+  hl-page:: 13
+  id:: 62751380-91c0-4796-81f0-138e45e6a1fa
+- [:span]
+  ls-type:: annotation
+  hl-page:: 14
+  id:: 62751436-f2cb-4ac1-ba79-59e98cc23973
+  hl-type:: area
+  hl-stamp:: 1651840053498
+- n阶行列式
+  ls-type:: annotation
+  hl-page:: 18
+  id:: 62751463-f3b7-4c12-9aab-c13dcd5c9bcf
+- 性质 1  行列式与它的转置行列式相等
+  ls-type:: annotation
+  hl-page:: 19
+  id:: 627514cf-1ebf-4903-8b75-f597c4f0f582
+- 性质2对换行列式的两行（列），行列式变号.
+  ls-type:: annotation
+  hl-page:: 20
+  id:: 627514d7-7e52-47d3-9ca9-a58e8c94c558
+- 推论如果行列式有两行（列）完全相同，则此行列式等于零.
+  ls-type:: annotation
+  hl-page:: 20
+  id:: 627514e5-3656-4c04-b534-8a5802bf7365
+- 性质3行列式的某一行（列）中所有的元素都乘同一数k，等于用数k乘此行列式.
+  ls-type:: annotation
+  hl-page:: 20
+  id:: 6275150d-1422-47b5-bf0c-bfc1eb0cec7b
+- 推论行列式中某一行（列）的所有元素的公因子可以提到行列式记号的外面.
+  ls-type:: annotation
+  hl-page:: 20
+  id:: 6275151c-925f-4e18-ba40-3df4e15ef570
+- 性质4行列式中如果有两行（列）元素成比例，则此行列式等于零.
+  ls-type:: annotation
+  hl-page:: 20
+  id:: 62751526-6579-4b86-959f-31527a6dcb85
+- 性质5若行列式的某一行（列）的元素都是两数之和，例如第i行的元素都是两数之和
+  ls-type:: annotation
+  hl-page:: 20
+  id:: 6275152c-5b1f-43b5-8084-0ff838db6c95
+- 性质6把行列式的某一行（列）的各元素乘同一数然后加到另一行（列）对应的元素上去，行列式不变.
+  ls-type:: annotation
+  hl-page:: 21
+  id:: 62751544-8571-47cc-afec-acf402cbff1d
+- 例10
+  ls-type:: annotation
+  hl-page:: 27
+  id:: 62751595-c2f1-4f30-bf1d-da9e143e22b9
+- ：D=D1D2.
+  ls-type:: annotation
+  hl-page:: 25
+  id:: 6275159c-a7b6-434b-8a46-06d1893c99ee
+- 推论行列式某一行（列）的元素与另一行（列）的对应元素的代数余子式乘积之和等于零.
+  ls-type:: annotation
+  hl-page:: 31
+  id:: 627515b7-a706-4de0-9301-05f89f6c56f8
+- 克拉默法则
+  ls-type:: annotation
+  hl-page:: 55
+  id:: 627515d5-011e-4d13-9ea2-380535b47829
+- [:span]
+  ls-type:: annotation
+  hl-page:: 17
+  id:: 62751725-d681-400b-8ca7-c891a6076c8f
+  hl-type:: area
+  hl-stamp:: 1651840803510
+- 并规定零矩阵的秩等于0.
+  ls-type:: annotation
+  hl-page:: 78
+  id:: 62751747-90c0-446f-9f8e-d10ed1c54252
+- 满秩矩.阵
+  ls-type:: annotation
+  hl-page:: 79
+  id:: 62751a41-3121-48bf-89a3-858567eb6e48
+- 空间”通常是作为点的集合，即构成“空间”的元素是点，这样的空间叫做点空间.我们把3维向量的全体所组成的集合R3=｛r=（x，y，z）Tx，y，z∈R｝叫做3维向量空间.
+  ls-type:: annotation
+  hl-page:: 92
+  id:: 627fb414-fb7f-4f24-8408-2e8fcf5f2498
+- 因此，向量空间可以类比为取定了坐标
+  ls-type:: annotation
+  hl-page:: 92
+  id:: 627fb422-3f83-4e82-a447-a1a5185d9068
+- 系的点空间.
+  ls-type:: annotation
+  hl-page:: 93
+  id:: 627fb428-8a16-4c7c-ba88-2522d543e1f2
+- 在讨论向量集时，则把向量r看作以r为向径的点P，从而把点P的轨迹作为向量集的图形
+  ls-type:: annotation
+  hl-page:: 93
+  id:: 627fb439-4996-4b42-94ef-580397f314c2
+- 一个平面（a，b，c不全为0），于是向量集
+  ls-type:: annotation
+  hl-page:: 93
+  id:: 627fb4e3-c846-4e62-b9ec-81a2bda08e96
+- 叫做向量空间R3中的平面
+  ls-type:: annotation
+  hl-page:: 93
+  id:: 627fb4e8-51d7-4c24-80fc-1b5439e168b9
+- 做n维向量空间Rn中的n-1维超平面.
+  ls-type:: annotation
+  hl-page:: 93
+  id:: 627fb4f8-3852-4d44-8621-008285ab32fa
+- 内积是两个向量之间的一种运算，其结果是一个实数，用矩阵记号表示，当 x 与 y 都是列向量时，
+  ls-type:: annotation
+  hl-page:: 125
+  id:: 63346524-b31d-405b-afb6-7301d57099ea

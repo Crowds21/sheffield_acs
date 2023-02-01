@@ -1,0 +1,46 @@
+file-path:: ../assets/线性代数及其应用_by_David_C._Lay_(z-lib.org)_1651836211989_0.pdf
+file:: [线性代数及其应用_by_David_C._Lay_(z-lib.org)_1651836211989_0.pdf](../assets/线性代数及其应用_by_David_C._Lay_(z-lib.org)_1651836211989_0.pdf)
+title:: hls__线性代数及其应用_by_David_C._Lay_(z-lib.org)_1651836211989_0
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 168
+  id:: 6275055c-fee3-4d60-a77c-bb6826a1048d
+  hl-type:: area
+  hl-stamp:: 1651836306506
+- [:span]
+  ls-type:: annotation
+  hl-page:: 108
+  id:: 627505a2-ae36-4f26-b0dd-f1557c55ef3d
+  hl-type:: area
+  hl-stamp:: 1651836320692
+- [:span]
+  ls-type:: annotation
+  hl-page:: 168
+  id:: 627505dd-5d94-442b-ba1d-32a33a445206
+  hl-type:: area
+  hl-stamp:: 1651836379771
+- [:span]
+  ls-type:: annotation
+  hl-page:: 169
+  id:: 62750626-033e-4f99-bddc-69d8763307d2
+  hl-type:: area
+  hl-stamp:: 1651836453473
+- [:span]
+  ls-type:: annotation
+  hl-page:: 170
+  id:: 62750657-ffec-45ac-90f9-a2738df21bbc
+  hl-type:: area
+  hl-stamp:: 1651836502764
+- [:span]
+  ls-type:: annotation
+  hl-page:: 160
+  id:: 62750763-ded2-4a68-b2b0-f14a3c168b30
+  hl-type:: area
+  hl-stamp:: 1651836768527
+- [:span]
+  ls-type:: annotation
+  hl-page:: 160
+  id:: 62750773-051e-4456-8450-3db9ff802e8b
+  hl-type:: area
+  hl-stamp:: 1651836787160
