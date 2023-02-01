@@ -51,7 +51,7 @@
   :block/updated-at 1675272425583}
  {:block/name "com6509",
   :block/created-at 1675272425324,
-  :block/updated-at 1675294031558}
+  :block/updated-at 1675294184604}
  {:block/name "com6509/assignment_part1",
   :block/created-at 1675272425584,
   :block/updated-at 1675272425584}
@@ -70,6 +70,12 @@
  {:block/name "com6509/lab6",
   :block/created-at 1675272425585,
   :block/updated-at 1675272425585}
+ {:block/name "com6509/linear regression",
+  :block/created-at 1675294155433,
+  :block/updated-at 1675294155433}
+ {:block/name "com6509/linear regression/cards",
+  :block/created-at 1675294155433,
+  :block/updated-at 1675294155433}
  {:block/name "com6509/logistic regression",
   :block/created-at 1675293974542,
   :block/updated-at 1675293974542}
