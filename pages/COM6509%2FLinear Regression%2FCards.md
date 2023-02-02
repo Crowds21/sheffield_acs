@@ -52,6 +52,12 @@
 		- $\sigma^2$ 为方差
 	- 标准正态分布 [[card]]
 	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T19:17:54.332Z
+	  card-last-score:: 1
 		- 当$\mu=0,\sigma=1$ 时，正态分布就成为标准正态分布
 		- $$
 		  f(x) = \frac{1}{ \sqrt{2\pi }} e ^{ \left[-\frac{x^2}{2} \right] }
