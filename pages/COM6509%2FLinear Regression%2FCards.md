@@ -152,10 +152,22 @@
 		- $\boldsymbol{w}_*=\left(\boldsymbol{X}^{\top} \boldsymbol{X}+\frac{\lambda N}{2} \boldsymbol{I}\right)^{-1} \boldsymbol{X}^{\top} \boldsymbol{y}$
 		-
 	- 对于 $E(m, c)=\sum_{i=1}^n r_i\left(y_i-f\left(x_i\right)\right)^2=\sum_{i=1}^n r_i\left(y_i-m x_i-c\right)^2$,假设 c=1, 求两次梯度下降,设置初始 m 为 0. 两个样本为 $\left(r_1, x_1, y_1\right)=\left(1, \frac{1}{3}, \frac{1}{2}\right)$ , $\left(r_2, x_2, y_2\right)=\left(\frac{1}{2},-3, \frac{5}{2}\right)$ [[card]]
+	  card-last-interval:: 2.27
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2023-02-05T05:14:47.787Z
+	  card-last-reviewed:: 2023-02-02T23:14:47.787Z
+	  card-last-score:: 3
 		- $m_{k+1}=m_k - \alpha \dfrac{d}{dm}E(m)$, $\alpha$为学习率
 		- 初始$m_0=0$ 然后带如样本求$m_1$
 		- 根据$m_1$和样本 2 再求$m_2$
 - Ridge regression
 	- ridge regression 公式 [[card]]
+	  card-last-interval:: 2.27
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2023-02-05T05:14:45.847Z
+	  card-last-reviewed:: 2023-02-02T23:14:45.848Z
+	  card-last-score:: 3
 		- $\mathbf{w}_*=\left(\mathbf{X}^{\top} \mathbf{X}+\frac{\lambda N}{2} \mathbf{I}\right)^{-1} \mathbf{X}^{\top} \mathbf{y}$
 -
