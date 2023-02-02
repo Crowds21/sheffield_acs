@@ -58,11 +58,11 @@
 	- ((63398e51-cf75-4236-abfe-91d0018114d4))
 - DONE 对于随机变量 X,Y. 已知联合分布函数 $P(X,Y)$.  如何判断随机变量 X,Y 是否线性相关 [[card]]
   card-last-score:: 3
-  card-repeats:: 2
-  card-next-schedule:: 2023-01-25T08:19:33.170Z
-  card-last-interval:: 1.95
-  card-ease-factor:: 2.36
-  card-last-reviewed:: 2023-01-23T10:19:33.170Z
+  card-repeats:: 3
+  card-next-schedule:: 2023-02-11T16:25:28.981Z
+  card-last-interval:: 8.88
+  card-ease-factor:: 2.22
+  card-last-reviewed:: 2023-02-02T19:25:28.981Z
 	- $\sigma_{X, Y}=E\{X Y\}-E\{X\} E\{Y\}$
 	- 如果计算结果为 0 则随机变量 X, Y 线性相关
 - 证明两个随机变量如果相互独立,则不相关 [[card]]
