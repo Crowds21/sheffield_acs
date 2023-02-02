@@ -140,7 +140,7 @@
 	  \end{array}\right)
 	  $$
 	  使用 PCA transformation 计算转换后的两个向量 [[card]]
-		- 选择$\lambda_i$最大的两个对应的$w$, 每组$w$都可以确定一个点中的
+		- 选择$\lambda_i$最大的两个对应的$w$, 每组$w$都可以确定一个点(a,bc)
 		- $$
 		  \mathbf{U}=\left(\begin{array}{ll}
 		  \mathbf{w}_1 & \mathbf{w}_3
