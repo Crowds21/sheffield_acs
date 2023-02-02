@@ -128,7 +128,6 @@
 		- 最终可得 $\sigma^2=\frac{1}{N}(\mathbf{y}-\mathbf{X} \mathbf{w})^{\top}(\mathbf{y}-\mathbf{X} \mathbf{w})$
 		- 首先需要根据符合正态分布的对数似然函数求导,即上式,然后对该式再求导..
 	- l2 正则化,并化简整个式子,来通过 inner product 和 differentiate 整个式子,来表示最后一项 [[card]]
-	  collapsed:: true
 	  card-last-interval:: 2.27
 	  card-repeats:: 1
 	  card-ease-factor:: 2.36
