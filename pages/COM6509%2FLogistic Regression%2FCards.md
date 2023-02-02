@@ -9,6 +9,12 @@
 	  $$
 - 逻辑回归
 	- 根据$\log \left(\frac{\pi}{1-\pi}\right)=\mathbf{w}^T \mathbf{x}$ 推导 Sigmoid 函数 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T13:12:00.222Z
+	  card-last-score:: 1
 		- 右边变成 exp{WX}
 	- $P(\mathbf{x})=\frac{1}{1+\exp \left(-\mathbf{w}^T \mathbf{x}\right)}$的计算结果就代表  {{cloze 结果为1 的概率}} [[card]]
 	- TODO (worksheet6-3)推导逻辑回归的代价函数 $\sum_{i=1}^N\left(y_i \log (\pi)+\left(1-y_i\right) \log (1-\pi)\right)$ [[card]]
