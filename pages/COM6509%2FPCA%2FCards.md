@@ -193,6 +193,12 @@
 	- Normalised Cut
 		- 计算 Normallised Cut[[card]]
 		  collapsed:: true
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2023-02-03T00:00:00.000Z
+		  card-last-reviewed:: 2023-02-02T16:16:18.373Z
+		  card-last-score:: 1
 			- 根据每组的 volumes 考虑两组之间的连通性
 			- $$
 			  \operatorname{Ncut}(A, B)=\frac{\operatorname{Cut}(A, B)}{\operatorname{Vol}(A)}+\frac{\operatorname{Cut}(A, B)}{\operatorname{Vol}(B)}
