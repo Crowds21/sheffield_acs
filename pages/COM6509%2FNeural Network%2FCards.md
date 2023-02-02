@@ -9,6 +9,12 @@
 	  card-last-score:: 1
 - CNN
 	- 根据输入和卷积核,求输出结果 
+	  card-last-interval:: 2.29
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2023-02-05T01:20:00.441Z
+	  card-last-reviewed:: 2023-02-02T19:20:00.441Z
+	  card-last-score:: 3
 	  $$
 	  x=\left[\begin{array}{lllll}
 	  1 & 1 & 1 & 0 & 0 \\
