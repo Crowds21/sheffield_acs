@@ -49,11 +49,11 @@ tags:: [[COM6509]]
 	  $$
 - # 期望与数学方差
 - 连续型随机变量如何求[[数学期望]] [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-26T10:18:45.889Z
-  card-last-reviewed:: 2023-01-22T10:18:45.889Z
+  card-last-interval:: 8.32
+  card-repeats:: 3
+  card-ease-factor:: 2.08
+  card-next-schedule:: 2023-02-11T02:26:27.366Z
+  card-last-reviewed:: 2023-02-02T19:26:27.366Z
   card-last-score:: 3
 	- ((633563ea-d75d-4f78-926e-2680b949625b))
 - 离散型随机变量如何求[[数学期望]] [[card]]
