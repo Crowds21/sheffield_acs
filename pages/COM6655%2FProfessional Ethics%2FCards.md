@@ -58,12 +58,12 @@
 			- 由于现有的种族偏见，黑人被告以前的犯罪次数可能更多，因此系统的输入可能存在偏见
 	- 消除偏见
 - TODO ((63d52843-8125-4122-ae36-1166aae90916)) [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:39:55.511Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:13.759Z
+  card-last-reviewed:: 2023-02-02T19:28:13.759Z
+  card-last-score:: 5
 	- 概念性的--价值如何被设计所支持或减弱
 	- 经验性的--研究受应用影响的人的理解和经验
 	- 技术性的--识别价值并开发支持这些价值的技术机制

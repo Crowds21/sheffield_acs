@@ -1,12 +1,12 @@
 -
 - ### 简介
 - 知识产权主要涉及的相关法律是? [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:32:44.770Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:11.623Z
+  card-last-reviewed:: 2023-02-02T19:28:11.623Z
+  card-last-score:: 5
   collapsed:: true
 	- [[Copyright, Designs and Patents Act]]
 	- [[The Law of Confidence]]
@@ -46,12 +46,12 @@
   card-last-reviewed:: 2023-01-28T15:01:05.630Z
   card-last-score:: 1
 - [[Copyright, Designs and Patents Act]] 中规定的, 计算机生成的作品属于两种类型,具体是? [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:33:56.757Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:11.889Z
+  card-last-reviewed:: 2023-02-02T19:28:11.890Z
+  card-last-score:: 5
   collapsed:: true
 	- 由==人类作者==创造的计算机程序作为 "文学作品 "的形式受到保护
 		- 文学作品（包括计算机程序）的版权在作者去世后的70年内失效
@@ -242,19 +242,19 @@
   card-last-reviewed:: 2023-02-02T19:27:59.349Z
   card-last-score:: 5
 - 对专利的保护可以参考 {{cloze  Patent Act}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:48:33.677Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:14.110Z
+  card-last-reviewed:: 2023-02-02T19:28:14.110Z
+  card-last-score:: 5
 - 计算机软件的版权相关法规应该参考 {{cloze Copyright, Designs and Patents Act}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:49:49.067Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.46
+  card-next-schedule:: 2023-02-06T19:28:10.372Z
+  card-last-reviewed:: 2023-02-02T19:28:10.372Z
+  card-last-score:: 5
 - 什么是 [[The law of confidence]] [[card]]
   card-last-interval:: 4
   card-repeats:: 2

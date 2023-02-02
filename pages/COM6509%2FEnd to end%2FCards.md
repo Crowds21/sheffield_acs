@@ -15,11 +15,11 @@
   card-last-score:: 3
 	- $x_i^{\prime}=\frac{s_i-\mu}{\sigma}$
 - 如何计算 Precision [[card]]
-  card-last-interval:: 7.31
-  card-repeats:: 1
-  card-ease-factor:: 2.6
-  card-next-schedule:: 2023-01-29T17:33:42.389Z
-  card-last-reviewed:: 2023-01-22T10:33:42.389Z
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.7
+  card-next-schedule:: 2023-02-06T19:28:15.825Z
+  card-last-reviewed:: 2023-02-02T19:28:15.825Z
   card-last-score:: 5
 	- $\dfrac{TP}{TP+FP}$
 	- 所有预测为 Positive 的样本中, 预测结果为 True 的

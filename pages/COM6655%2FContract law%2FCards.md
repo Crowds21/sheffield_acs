@@ -42,12 +42,12 @@
 	- ((6359497e-fb6b-473e-ab08-1e5dcdef7ded))
 		- 软件供应商可以将他们需要承担的责任限制在软件的许可费用中.(很便宜的软件不承担很重要的任务造成的损失)
 - [[Unfair Contract Terms Act]] 主要负责内容 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:30:41.088Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:10.889Z
+  card-last-reviewed:: 2023-02-02T19:28:10.890Z
+  card-last-score:: 5
 	- ((63594afa-249f-47c2-8ab9-ab7e2cceb95a))
 - Contracts For bespoke software (定制软件)的合同都包括哪些内容 [[card]]
   card-last-score:: 5

@@ -1,11 +1,11 @@
 -
 - 在信息技术的发展过程中,对就业变化产生了什么样的影响 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:38:29.896Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:09.274Z
+  card-last-reviewed:: 2023-02-02T19:28:09.275Z
+  card-last-score:: 5
 	- 信息技术造成的就业减少, 同样数量的人可以做更多的工作
 	- ((6d70df3f-0d9e-4dd2-b305-017cf19ef51f)), 传统文职工作女性居多,文职工作更多依靠电脑,导致从事这一行业的女性变少了
 	- 通过就业培训也许能够抵消一部分失业人员

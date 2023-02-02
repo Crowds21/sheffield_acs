@@ -72,12 +72,13 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((63624779-41bc-40e3-b77f-b65985c67d56))
 	- ((636247d1-48fd-4177-844a-796874c7b726))
 - 欺诈 Fraud offences 的定义 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:38:43.240Z
-  card-last-score:: 1
+  collapsed:: true
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:09.833Z
+  card-last-reviewed:: 2023-02-02T19:28:09.833Z
+  card-last-score:: 5
 	- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 - [[Fraud Act]] 2006 涉及的方面 [[card]]
   collapsed:: true
@@ -108,12 +109,13 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((63cfe926-31d3-4509-95fa-6cf76b9693d3))
 	- ((636243b0-938e-42e3-ac86-744fccd13bcf))
 - [[Computer Misuse Act]] 新引入的罪行offences [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:40:27.031Z
-  card-last-score:: 1
+  collapsed:: true
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:14.487Z
+  card-last-reviewed:: 2023-02-02T19:28:14.487Z
+  card-last-score:: 5
 	- ((639df376-8804-4e7d-a2a8-a324052718a7))
 	- ((639df2fd-4ad4-4af8-bceb-b41a047598a1))
 	- ((63cfef2f-932d-4575-bf47-ca3f352d50c2))

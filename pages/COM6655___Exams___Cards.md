@@ -31,12 +31,12 @@
 - ### Intelligence Law
   collapsed:: true
 	- ((63d59eac-bdf4-45af-9eb0-6ea9e2dff6ff))  请问是否违反了 copyright,简单解释[[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T12:20:36.597Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:17.428Z
+	  card-last-reviewed:: 2023-02-02T19:28:17.428Z
+	  card-last-score:: 5
 	  collapsed:: true
 		- Relevant Legislation [[The Copyright (Computer Programs) Regulations]] (编译反编译)
 		- Relevant Legislation [[Copyright, Designs and Patents Act]]
@@ -46,12 +46,12 @@
 		- ((63d52842-b13a-4e84-9893-648f2307f5a9))
 			- decompilation and rewrite are both effectively translation, which is a restricted right
 	- ((63d5a0fd-8986-4a9d-8bc1-da1b0256380c)). 能否以外观和感觉为由,认为 Word 侵犯了 Math 的版权 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T13:09:22.874Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:16.311Z
+	  card-last-reviewed:: 2023-02-02T19:28:16.311Z
+	  card-last-score:: 5
 	  collapsed:: true
 		- Relevant Legislation is [[Copyright, Designs and Patents Act]]
 		- Screen design and icons are be protected by copyright
@@ -258,12 +258,12 @@
 		- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
 - ### Data Protection
 	- [[UK General Data Protection Regulation]] 七个准则 [[card]]
-	  card-last-score:: 1
-	  card-repeats:: 1
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-interval:: -1
-	  card-ease-factor:: 2.5
-	  card-last-reviewed:: 2023-01-30T13:18:59.985Z
+	  card-last-score:: 5
+	  card-repeats:: 2
+	  card-next-schedule:: 2023-02-06T22:28:17.798Z
+	  card-last-interval:: 4.14
+	  card-ease-factor:: 2.6
+	  card-last-reviewed:: 2023-02-02T19:28:17.799Z
 		- 合法性、公平性和透明度
 		  Lawfulness, fairness and transparency
 			- 个人资料应以合法、公平和透明的方式对资料主体进行处理 
@@ -329,12 +329,12 @@
 				- 安全是最重要的，要求包括：信息安全政策、访问控制、安全监控和恢复计划。
 				- 数据泄露需要被发现、报告、调查和记录。
 	- ((63d59a67-d84d-42f3-a329-8e3910ff5525))
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T21:11:59.097Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:18.180Z
+	  card-last-reviewed:: 2023-02-02T19:28:18.180Z
+	  card-last-score:: 5
 	  结合 [[Data Protection Act]] 分析该案例 [[card]]
 		- 相关定义
 			- Email is ((63d52842-cd42-4ff6-bf4c-ff2dcf94ecad))

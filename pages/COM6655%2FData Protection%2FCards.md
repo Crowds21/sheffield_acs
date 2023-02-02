@@ -1,12 +1,12 @@
 Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 
 - ((63a4fe21-2370-465a-98bd-328b39cdc27c)), {{cloze Personal Data}},  {{cloze Processing}}, {{cloze  Controller}},  {{cloze Processor}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:36:00.699Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:12.354Z
+  card-last-reviewed:: 2023-02-02T19:28:12.354Z
+  card-last-score:: 5
 - 如何判断 Personal Data , Controller 和  Processor
   collapsed:: true
 	- ((63cfc7e9-4bb0-42e7-8d2a-380cf67eabe6))
@@ -63,12 +63,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- ((63a88678-df55-4fb1-abb7-04d520f88dc7))
 - ((63a88678-df55-4fb1-abb7-04d520f88dc7)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:32:05.265Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:11.288Z
+  card-last-reviewed:: 2023-02-02T19:28:11.288Z
+  card-last-score:: 5
 	- ((63cfc6d9-946b-4c5b-ac69-d19c60b0bd2c))
 	- ((63cfc71f-72a5-4459-8e57-3f18569e1586))
 	- ((63cfc70b-2748-45d0-b8fc-b46172425827))
@@ -77,12 +77,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 需要检测、报告、调查和记录数据违规行为
 - ((63a8858f-fdc8-49fb-a7de-e9d61efe6344)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:35:43.832Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:12.088Z
+  card-last-reviewed:: 2023-02-02T19:28:12.088Z
+  card-last-score:: 5
 	- ((63cfc864-6565-457d-9b7d-bf64b347eb72))
 	- ((63cfc884-ed16-4eda-aa3b-10e29f698931))
 	- 个人数据的处理方式应确保个人数据的适当安全
@@ -101,12 +101,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 只要个人数据仅用于公共利益的存档目的、科学或历史研究目的，则个人数据的保存时间可以更长
 - ((63a8857d-ae1c-4ab5-8ab3-88bb93011f26)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:38:06.953Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:08.667Z
+  card-last-reviewed:: 2023-02-02T19:28:08.668Z
+  card-last-score:: 5
 	- ((63cfde34-9bbc-4fc8-9479-39f6443cc43f))
 	- 个人数据的保存形式应允许识别数据主体，其时间不得超过处理个人数据的目的所需的时间
 - ((63cfbc8b-3089-417b-bfb9-6be9439eff58)) in [[UK General Data Protection Regulation]] [[card]]
@@ -184,12 +184,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 - 调查权  Investigatory powers包含哪两种权利 [[card]]
   ref:: ((63a88ea0-7446-40b9-b4c4-bf67ed3b05f4))
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:42:19.868Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:14.852Z
+  card-last-reviewed:: 2023-02-02T19:28:14.853Z
+  card-last-score:: 5
 	- ((63cfbe66-bb1f-4a33-b513-c888cbddae4a))
 	- ((63cfbe6f-ae19-473a-b00d-1b82b2c0f440))
 	- [[The Regulation of Investigatory Powers Act]]规定了拦截通信内容的权力

@@ -68,12 +68,12 @@
 	- ((63cfff4b-cbd1-4d51-8576-0c934f7bcf9a))
 	  ((635e842f-a147-46b4-8618-331738f24ebe))
 - Negligence中需要满足的一个因素是 consequential loss(相应的损失), 指的是 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:36:22.479Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:13.431Z
+  card-last-reviewed:: 2023-02-02T19:28:13.431Z
+  card-last-score:: 5
   collapsed:: true
 	- 人身或财产损失
 	- ((635e845f-1d6c-4e78-b7d2-6cf05c308e27))
