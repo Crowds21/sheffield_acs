@@ -135,11 +135,11 @@
 	- l2 正则化,并化简整个式子,来通过 inner product 和 differentiate 整个式子,来表示最后一项 [[card]]
 	  collapsed:: true
 	  card-last-interval:: -1
-	  card-repeats:: 1
+	  card-repeats:: 0
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-03T00:00:00.000Z
-	  card-last-reviewed:: 2023-02-02T16:32:49.080Z
-	  card-last-score:: 1
+	  card-next-schedule:: nil
+	  card-last-reviewed:: nil
+	  card-last-score:: nil
 		- $$
 		  E=\frac{1}{N}\left(\boldsymbol{y}-\boldsymbol{X} \boldsymbol{w}_*\right)^{\top}\left(\boldsymbol{y}-\boldsymbol{X} \boldsymbol{w}_*\right)+\frac{\lambda}{2}\|\boldsymbol{w}\|_2^2
 		  $$
