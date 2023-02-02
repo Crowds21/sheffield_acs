@@ -40,11 +40,11 @@
   card-last-reviewed:: 2023-01-23T10:20:55.258Z
   card-last-score:: 3
 - 对于随机变量 X,Y 的联合分布函数 $P(X,Y)$ 如何求边缘质量函数 [[card]]
-  card-last-interval:: 1.95
-  card-repeats:: 2
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-25T08:19:10.007Z
-  card-last-reviewed:: 2023-01-23T10:19:10.008Z
+  card-last-interval:: 8.88
+  card-repeats:: 3
+  card-ease-factor:: 2.22
+  card-next-schedule:: 2023-02-11T16:25:25.215Z
+  card-last-reviewed:: 2023-02-02T19:25:25.215Z
   card-last-score:: 3
 	- {{embed ((63320d74-5fec-42da-ba5a-194f926b17eb))}}
 	- ((63bc534b-bf69-4acb-9a66-a88cf7b94ab5))
