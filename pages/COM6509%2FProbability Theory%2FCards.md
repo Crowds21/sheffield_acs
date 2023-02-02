@@ -36,11 +36,11 @@ tags:: [[COM6509]]
 	- ((6963560a-4586-48ff-ac2e-fe0260b30f16))
 	- 分母部分计算结果就等于 $P(B)$
 - How to calculate the probability of binomial distribution? [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-26T10:21:55.056Z
-  card-last-reviewed:: 2023-01-22T10:21:55.056Z
+  card-last-interval:: 8.32
+  card-repeats:: 3
+  card-ease-factor:: 2.08
+  card-next-schedule:: 2023-02-11T02:27:29.736Z
+  card-last-reviewed:: 2023-02-02T19:27:29.737Z
   card-last-score:: 3
 	- $$
 	  \left(\begin{array}{l}

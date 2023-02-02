@@ -58,12 +58,12 @@
   card-last-reviewed:: 2023-01-28T16:45:45.147Z
   card-last-score:: 1
 - 财产和所有权 Property and ownership, 不动产( {{cloze Real property}}) 通常指 {{cloze 土地}} [[card]]
-  card-last-score:: 1
-  card-repeats:: 1
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-interval:: -1
-  card-ease-factor:: 2.5
-  card-last-reviewed:: 2023-01-28T16:44:18.270Z
+  card-last-score:: 5
+  card-repeats:: 2
+  card-next-schedule:: 2023-02-06T19:27:34.605Z
+  card-last-interval:: 4
+  card-ease-factor:: 2.6
+  card-last-reviewed:: 2023-02-02T19:27:34.605Z
 - 个人财产也叫做 {{cloze  动产 chattel}} ,指的是? [[card]]
   card-last-interval:: -1
   card-repeats:: 1
