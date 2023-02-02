@@ -189,6 +189,13 @@
 			  \mathbf{m}_k=\frac{1}{n_k} \sum_{n \in C_k} \mathbf{x}_n
 			  $$
 	- K-means 模型成分 [[card]]
+	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T19:19:22.543Z
+	  card-last-score:: 1
 		- Input : Data  + pre-processing
 		- Model:
 			- Structure/architecture: linear separation between clusters
