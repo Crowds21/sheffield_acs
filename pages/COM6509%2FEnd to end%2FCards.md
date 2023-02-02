@@ -66,11 +66,11 @@
 	- $\sigma_{X, Y}=E\{X Y\}-E\{X\} E\{Y\}$
 	- 如果计算结果为 0 则随机变量 X, Y 线性相关
 - 证明两个随机变量如果相互独立,则不相关 [[card]]
-  card-last-interval:: 1.95
-  card-repeats:: 2
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-25T08:18:41.220Z
-  card-last-reviewed:: 2023-01-23T10:18:41.221Z
+  card-last-interval:: 8.88
+  card-repeats:: 3
+  card-ease-factor:: 2.22
+  card-next-schedule:: 2023-02-11T16:24:42.721Z
+  card-last-reviewed:: 2023-02-02T19:24:42.721Z
   card-last-score:: 3
 	- $\begin{aligned}E\{X Y\} & =\sum_{y_j} \sum_{x_i} x_i y_j P\left(x_i, y_j\right)=\sum_{y_j} \sum_{x_i} x_i y_j P\left(x_i\right)P\left(y_j\right) \\& =\left[\sum_{x_i} x_i P\left(x_i\right)\right]\left[\sum_{y_j} y_j P\left(y_j\right)\right]=E\{X\} E\{Y\}\end{aligned}$
 	- $\begin{aligned}E\{X Y\} & =\int_{-\infty}^{\infty} \int_{-\infty}^{\infty} x y p(x, y) d x d y=\int_{-\infty}^{\infty} \int_{-\infty}^{\infty} x y p(x) p(y) d x d y \\& =\int_{-\infty}^{\infty} x p(x) d x \int_{-\infty}^{\infty} y p(y) d y=E\{X\} E\{Y\}\end{aligned}$
