@@ -98,12 +98,12 @@ tags:: [[COM6509]]
   card-last-score:: 3
 	- ((633563ea-44ec-452c-b6e2-87bf43fa42ed))
 - ((633563ea-66ad-4210-82b8-ab0513b13d76)), $E(XY)=?$ [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
+  card-last-interval:: -1
+  card-repeats:: 1
   card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-27T10:08:59.992Z
-  card-last-reviewed:: 2023-01-23T10:08:59.993Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T12:43:33.855Z
+  card-last-score:: 1
 	- ((633563ea-d3c1-430c-93b2-ecd30da71a9f))
 - 方差的性质 [[标准差与方差]], $D(kX+c)= ?$
 	- ((6336fce6-0bb6-4870-bbff-7ca5f436cdfb))
