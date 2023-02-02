@@ -35,8 +35,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-25T00:00:00.000Z
-  card-last-reviewed:: 2023-01-24T16:46:01.472Z
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T12:29:43.319Z
   card-last-score:: 1
 	- ((6362e08a-d392-4b8a-b285-8110f7fbe49b))
 - 如何通过 Gini 系数计算Information Gain [[card]]
