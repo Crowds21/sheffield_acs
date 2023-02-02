@@ -92,6 +92,12 @@
 	  card-last-score:: 1
 	- 已知协方差矩阵 
 	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T19:23:48.960Z
+	  card-last-score:: 1
 	  $$
 	  \mathbf{C}=\left(\begin{array}{ccc}
 	  4 & -2 & 0 \\
