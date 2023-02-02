@@ -149,6 +149,12 @@
 			- 通过 forward step 来计算变量$v_i$然后将相关依赖存储到计算图中
 			- 在 reverse step, adjoints被用来计算导数,从输出开始最后返回到输入
 	- 通过 AD reverse mode 计算该计算图的 Jacobin 矩阵 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T15:29:51.945Z
+	  card-last-score:: 1
 	  ![](https://cdn.mathpix.com/snip/images/J5LbccB8_dcVp6XFM4iQYBP7hpKyftp3O0-vnlMESaE.original.fullsize.png){:height 255, :width 454}
 		- adjoints : $\bar{v}_i=\frac{\partial y_j}{\partial v_i}$. 输出变量的 adjoints就等于最终输出的导数,即
 		- $$

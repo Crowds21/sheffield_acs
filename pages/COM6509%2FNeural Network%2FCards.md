@@ -1,6 +1,12 @@
 -
 - Neural Networks
 	- TODO  (worksheet7-1)对于神经网络,求最终表达式 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T15:29:56.623Z
+	  card-last-score:: 1
 - CNN
 	- 根据输入和卷积核,求输出结果 
 	  $$
