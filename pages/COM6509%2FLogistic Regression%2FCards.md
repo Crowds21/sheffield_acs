@@ -18,6 +18,12 @@
 		- 右边变成 exp{WX}
 	- $P(\mathbf{x})=\frac{1}{1+\exp \left(-\mathbf{w}^T \mathbf{x}\right)}$的计算结果就代表  {{cloze 结果为1 的概率}} [[card]]
 	- TODO (worksheet6-3)推导逻辑回归的代价函数 $\sum_{i=1}^N\left(y_i \log (\pi)+\left(1-y_i\right) \log (1-\pi)\right)$ [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T13:24:31.584Z
+	  card-last-score:: 1
 	-
 - Jacobain
 	- 使用using manual differentiation的方法.给定以下函数, 求 Jacobain 矩阵 
