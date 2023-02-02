@@ -135,12 +135,12 @@
 		- 首先需要根据符合正态分布的对数似然函数求导,即上式,然后对该式再求导..
 	- l2 正则化,并化简整个式子,来通过 inner product 和 differentiate 整个式子,来表示最后一项 [[card]]
 	  collapsed:: true
-	  card-last-interval:: -1
-	  card-repeats:: 0
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: nil
-	  card-last-reviewed:: nil
-	  card-last-score:: nil
+	  card-last-interval:: 2.27
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2023-02-05T05:15:04.903Z
+	  card-last-reviewed:: 2023-02-02T23:15:04.903Z
+	  card-last-score:: 3
 		- $$
 		  E=\frac{1}{N}\left(\boldsymbol{y}-\boldsymbol{X} \boldsymbol{w}_*\right)^{\top}\left(\boldsymbol{y}-\boldsymbol{X} \boldsymbol{w}_*\right)+\frac{\lambda}{2}\|\boldsymbol{w}\|_2^2
 		  $$
