@@ -1,9 +1,9 @@
 - the formula of normalization(min-max scaling, $(a,b)$ )[[card]]
-  card-last-interval:: 1.81
-  card-repeats:: 2
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-26T11:43:26.768Z
-  card-last-reviewed:: 2023-01-24T16:43:26.768Z
+  card-last-interval:: 8.88
+  card-repeats:: 3
+  card-ease-factor:: 2.22
+  card-next-schedule:: 2023-02-11T16:28:51.948Z
+  card-last-reviewed:: 2023-02-02T19:28:51.948Z
   card-last-score:: 3
 	- $s_i^{\prime}=\frac{s_i-\min (s)}{\max (s)-\min (s)} \times(b-a)+a$
 - the formula of standarisation [[card]]
@@ -49,11 +49,11 @@
 	- {{embed ((63320d74-5fec-42da-ba5a-194f926b17eb))}}
 	- ((63bc534b-bf69-4acb-9a66-a88cf7b94ab5))
 - 对于随机变量 X,Y. 已知联合分布函数 $P(X,Y)$. 如何计算协方差 $cov{X,Y}$ [[card]]
-  card-last-interval:: 1.81
-  card-repeats:: 2
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-26T11:44:06.412Z
-  card-last-reviewed:: 2023-01-24T16:44:06.412Z
+  card-last-interval:: 8.88
+  card-repeats:: 3
+  card-ease-factor:: 2.22
+  card-next-schedule:: 2023-02-11T16:28:58.359Z
+  card-last-reviewed:: 2023-02-02T19:28:58.359Z
   card-last-score:: 3
 	- ((63398e51-cf75-4236-abfe-91d0018114d4))
 - DONE 对于随机变量 X,Y. 已知联合分布函数 $P(X,Y)$.  如何判断随机变量 X,Y 是否线性相关 [[card]]
