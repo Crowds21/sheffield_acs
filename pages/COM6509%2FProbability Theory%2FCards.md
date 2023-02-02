@@ -82,11 +82,11 @@ tags:: [[COM6509]]
   card-last-score:: 3
 	- ((633563ea-a044-4b22-9288-b1633b38c03a))
 - ((633563ea-66ad-4210-82b8-ab0513b13d76)), $E(kX+c)=?$ [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-26T10:21:08.117Z
-  card-last-reviewed:: 2023-01-22T10:21:08.118Z
+  card-last-interval:: 8.32
+  card-repeats:: 3
+  card-ease-factor:: 2.08
+  card-next-schedule:: 2023-02-11T02:27:13.945Z
+  card-last-reviewed:: 2023-02-02T19:27:13.945Z
   card-last-score:: 3
 	- ((633563ea-929d-493c-87cf-135a218c5006))
 - ((633563ea-66ad-4210-82b8-ab0513b13d76)), $E(X+Y)=?$ [[card]]
