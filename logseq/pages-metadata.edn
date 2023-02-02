@@ -87,13 +87,13 @@
   :block/updated-at 1675293974575}
  {:block/name "com6509/neural network/cards",
   :block/created-at 1675293974575,
-  :block/updated-at 1675357527513}
+  :block/updated-at 1675359200912}
  {:block/name "com6509/pca",
   :block/created-at 1675272425412,
   :block/updated-at 1675272425412}
  {:block/name "com6509/pca/cards",
   :block/created-at 1675272425412,
-  :block/updated-at 1675355960026}
+  :block/updated-at 1675359207499}
  {:block/name "com6509/probability theory",
   :block/created-at 1675272425488,
   :block/updated-at 1675272425488}
@@ -111,7 +111,7 @@
   :block/updated-at 1673803785836}
  {:block/name "com6655/ intellectual property /cards",
   :block/created-at 1673803809812,
-  :block/updated-at 1675355625744}
+  :block/updated-at 1675359210750}
  {:block/name "com6655/cards",
   :block/created-at 1675087316173,
   :block/updated-at 1675162919394}
@@ -126,7 +126,7 @@
   :block/updated-at 1673803809819}
  {:block/name "com6655/contract law/cards",
   :block/created-at 1674913857557,
-  :block/updated-at 1674930352396}
+  :block/updated-at 1675359213908}
  {:block/name "com6655/data protection",
   :block/created-at 1673803809824,
   :block/updated-at 1674944014494}
