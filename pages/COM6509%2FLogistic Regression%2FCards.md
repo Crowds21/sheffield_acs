@@ -83,6 +83,13 @@
 			- $y_i=v_{l+i} \text { with } i=1, \ldots, m$
 - Computational graph
 	- 画出下式的计算图 [[card]] 
+	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T17:55:27.295Z
+	  card-last-score:: 1
 	  ((63daa9fa-c609-4474-8907-e9ac45f48a00))
 		- 画的时候要两个一起画
 		- ![](https://cdn.mathpix.com/snip/images/J5LbccB8_dcVp6XFM4iQYBP7hpKyftp3O0-vnlMESaE.original.fullsize.png)
