@@ -150,4 +150,4 @@
 		- $\left(\boldsymbol{X}^{\top} \boldsymbol{X}+\frac{\lambda}{2} N \boldsymbol{I}\right) \boldsymbol{w}=\boldsymbol{X}^{\top} \boldsymbol{y}$
 		- $\boldsymbol{w}_*=\left(\boldsymbol{X}^{\top} \boldsymbol{X}+\frac{\lambda N}{2} \boldsymbol{I}\right)^{-1} \boldsymbol{X}^{\top} \boldsymbol{y}$
 		-
-	-
+	- 对于
