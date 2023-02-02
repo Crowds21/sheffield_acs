@@ -9,7 +9,7 @@
 	  $$
 - 逻辑回归
 	- 根据$\log \left(\frac{\pi}{1-\pi}\right)=\mathbf{w}^T \mathbf{x}$ 推导 Sigmoid 函数 [[card]]
-		-
+		- 右边变成 exp{WX}
 	- $P(\mathbf{x})=\frac{1}{1+\exp \left(-\mathbf{w}^T \mathbf{x}\right)}$的计算结果就代表  {{cloze 结果为1 的概率}} [[card]]
 	- TODO (worksheet6-3)推导逻辑回归的代价函数 $\sum_{i=1}^N\left(y_i \log (\pi)+\left(1-y_i\right) \log (1-\pi)\right)$ [[card]]
 	-
