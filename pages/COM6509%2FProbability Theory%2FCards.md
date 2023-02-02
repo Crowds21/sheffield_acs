@@ -160,11 +160,11 @@ tags:: [[COM6509]]
 	- if $p(x) p(y) \neq p(x, y)$, they are not independent
 - # 积分
 - 求 $\int_0^2 \int_0^2(x+y) dxdy$ [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.46
-  card-next-schedule:: 2023-01-26T10:25:02.165Z
-  card-last-reviewed:: 2023-01-22T10:25:02.166Z
+  card-last-interval:: 9.28
+  card-repeats:: 3
+  card-ease-factor:: 2.32
+  card-next-schedule:: 2023-02-11T18:41:16.476Z
+  card-last-reviewed:: 2023-02-02T12:41:16.477Z
   card-last-score:: 3
 	- $$
 	  \begin{aligned}
