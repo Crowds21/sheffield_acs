@@ -111,23 +111,23 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 个人数据的保存形式应允许识别数据主体，其时间不得超过处理个人数据的目的所需的时间
 - ((63cfbc8b-3089-417b-bfb9-6be9439eff58)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:00:47.334Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:19.735Z
+  card-last-reviewed:: 2023-02-02T19:30:19.735Z
+  card-last-score:: 5
 	- 不违反法律
 	- 不造成其他损害
 	- 清晰说明如何使用数据
 - ((63cfbc99-10a9-4bca-97e1-44c1fa0d769c)) in [[UK General Data Protection Regulation]] [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:13:13.720Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:25.807Z
+  card-last-reviewed:: 2023-02-02T19:30:25.807Z
+  card-last-score:: 5
 	- ((63cfded3-2cac-4bb9-91ad-988b5ebf78b5))
 	- adequate
 	- relevant
@@ -173,12 +173,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 		- ((63a88adc-e30a-4203-856d-e4938d551db1))
 - ((63a88ae9-a9f7-4503-9913-52b94d8650e8)) 的主要作用是? [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:01:25.076Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:22.694Z
+  card-last-reviewed:: 2023-02-02T19:30:22.694Z
+  card-last-score:: 5
 	- ((63cfbebd-bc0e-42a1-9fed-ecc56af17db7))
 	- Give people access to information held by public atuhorities
 - 调查权  Investigatory powers包含哪两种权利 [[card]]

@@ -56,12 +56,12 @@
 	- ((635e6625-fb4b-4fb7-b03a-c9b2d524b019))
 - ((635e6725-b37d-4a10-a456-705ab495e4be)) [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:18:50.805Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:26.332Z
+  card-last-reviewed:: 2023-02-02T19:30:26.332Z
+  card-last-score:: 5
 	- ((63cfff3c-3f0e-4b0a-aee9-104d0b4bda7c))
 		- 对受害方承担的照顾责任
 	- ((63cfff45-f8d9-4bb1-8759-f47779f1cafc))
@@ -80,12 +80,12 @@
 	- ((635e846f-f25f-4b90-ac67-6b7181211b6a))
 - 什么是 ((635e8778-ea88-4539-b14d-952b2931ea1a)) [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:20:01.688Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:26.844Z
+  card-last-reviewed:: 2023-02-02T19:30:26.845Z
+  card-last-score:: 5
 	- ((63d000d2-aee8-4f82-86ef-bc0870437b41))
 	- negligence
 	  id:: 63d53cf2-40b0-4958-96f6-a96046bbac8c

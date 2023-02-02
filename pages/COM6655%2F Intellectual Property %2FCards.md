@@ -39,12 +39,12 @@
 	  collapsed:: true
 		- 例如，盗版软件的商业交易。
 - 版权的所有人: 就文学、戏剧、音乐或艺术作品而言， {{cloze 作品的作者或创作者}} 通常是其任何版权的第一所有人. 政府部门制作的材料的版权属于 {{cloze 政府}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:01:05.630Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:21.617Z
+  card-last-reviewed:: 2023-02-02T19:30:21.617Z
+  card-last-score:: 5
 - [[Copyright, Designs and Patents Act]] 中规定的, 计算机生成的作品属于两种类型,具体是? [[card]]
   card-last-interval:: 4
   card-repeats:: 2
@@ -104,21 +104,21 @@
 		- 具有适度的技能、劳动或努力，并且源自作者
 	- ((1dc4a170-ec58-466a-bf66-abf2c977af87)): ((63b44ca3-fd04-4232-b07a-7218e3038631))
 - (Restricted acts)对于拥有版权的计算机软件,对其进行  {{cloze copying}}, {{cloze  rental}},  {{cloze making an adaptation}}  都是受到限制的 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:00:33.121Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:18.743Z
+  card-last-reviewed:: 2023-02-02T19:30:18.743Z
+  card-last-score:: 5
   collapsed:: true
 	- 复制是指以任何物质形式复制作品，包括电子存储 ( reproducing the work in any material form)
 - TODO 程序的 substantial part [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:00:53.653Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:20.404Z
+  card-last-reviewed:: 2023-02-02T19:30:20.405Z
+  card-last-score:: 5
 - CCPA关于 ((63d52842-0a56-4399-be8f-3b1dcb4a0280)) [[card]]
   card-last-interval:: 4
   card-repeats:: 1

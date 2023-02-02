@@ -25,12 +25,13 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((639b1b57-2568-4888-8539-d8a39ae0ec1b))
 	- ((639b239c-a6dd-47e0-954d-a359d5c57be9))
 - 关于黑客和病毒的法案 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:09:11.560Z
-  card-last-score:: 1
+  collapsed:: true
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:25.315Z
+  card-last-reviewed:: 2023-02-02T19:30:25.315Z
+  card-last-score:: 5
 	- ((639df05c-ed9e-4746-8298-8b09170a1937))
 	- ((639df086-519a-4f14-b244-2cd99dc1ae0c))
 	- ((639df08f-2211-4671-bf0f-a39226ffdff9))
@@ -53,20 +54,20 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
   card-last-reviewed:: 2023-02-02T19:27:48.453Z
   card-last-score:: 5
 - [[Fraud Act]] 2006 的一个重要作用是  {{cloze 处理1968年和1978年 Theft Acts的缺陷,尤其是 ICT (信息和通信技术)方面的欺诈}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:01:13.138Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:22.128Z
+  card-last-reviewed:: 2023-02-02T19:30:22.128Z
+  card-last-score:: 5
 - ~~Types of computer fraud  in [[Fraud Act]]~~[[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:03:06.006Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:23.776Z
+  card-last-reviewed:: 2023-02-02T19:30:23.776Z
+  card-last-score:: 5
 	- ((636246a4-d236-444d-b20f-c01caaec462f))
 	- ((63624745-b95f-44fc-9c16-db3e2d800ded))
 	- ((63624779-41bc-40e3-b77f-b65985c67d56))

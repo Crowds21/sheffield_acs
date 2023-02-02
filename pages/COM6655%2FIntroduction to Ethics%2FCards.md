@@ -27,12 +27,12 @@ Exams:: ((63cfdfad-129d-4f21-8775-cad438f9e125))
 	- ((63cfe0cf-cb96-4968-abd7-797fdb89340c))
 - ((63cfe12c-382d-4402-905e-0dd6db3e75b4)) 的含义 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:08:38.948Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:24.799Z
+  card-last-reviewed:: 2023-02-02T19:30:24.800Z
+  card-last-score:: 5
 	- the categorical imperative, ==treating people as ends (respecting their rights) and not merely as means==
 	- ((63cfe4f3-2ef6-4d76-8034-42f600e90ec5))
 - ((63cfe529-a447-4a19-b036-cb0c06b0af90)) 的含义 [[card]]

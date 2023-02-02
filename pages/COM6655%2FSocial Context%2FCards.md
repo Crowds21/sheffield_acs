@@ -30,12 +30,12 @@
 		- 对每个行动进行计时；
 		- 重新设计行动以减少时间要求
 - 信息自动化造成的两种影响 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:23:03.226Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:27.807Z
+  card-last-reviewed:: 2023-02-02T19:30:27.807Z
+  card-last-score:: 5
 	- 裁员 Deskilling
 		- 概念性任务被纳入计算机算法，或转移到少数专家手中
 		- Conceptual tasks built into computer algorithms, or transferred to a few specialists

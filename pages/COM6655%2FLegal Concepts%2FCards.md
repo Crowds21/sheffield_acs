@@ -8,12 +8,12 @@
 	- 对于所有法院都是通用的法律
 	- 使用"先例 precedent" 作为指南, 先例也被叫做 case law
 - 民法依靠 {{cloze  书面立法 Legislation}} 和其他法律规范来确保立法程序和惩罚措施 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:43:26.576Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:23.248Z
+  card-last-reviewed:: 2023-02-02T19:30:23.248Z
+  card-last-score:: 5
 - 英国法律来源中的 writs : {{cloze 被用来指示人们出庭，以便审理案件（下级法院发出传票）}} [[card]]
   card-last-interval:: 4.14
   card-repeats:: 2
