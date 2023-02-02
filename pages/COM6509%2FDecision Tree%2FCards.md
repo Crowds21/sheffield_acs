@@ -11,12 +11,12 @@
 		- ((634d7ca4-5e42-496b-851c-44c0c1d900ae))
 		- 后半部分可以写作 $rem = \sum_{i=1}^N p(A=i) H(S \mid A=i)$
 - 已知熵为$H(S)$这里的 S 指的是什么? [[card]]
-  card-last-interval:: 1.95
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-25T08:26:01.401Z
-  card-last-reviewed:: 2023-01-23T10:26:01.401Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T12:37:17.070Z
+  card-last-score:: 1
 	- 指的是决策树最后的预测结果 $S=\{ s_1,s_2,s_3\}$
 - 已知计算$IG(S, A)=H(S)-\operatorname{rem}(d, \mathcal{D})$ 
   card-last-interval:: -1
