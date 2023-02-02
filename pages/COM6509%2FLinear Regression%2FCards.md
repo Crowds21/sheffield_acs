@@ -64,6 +64,12 @@
 		  $$
 	- 如果$X\sim N(\mu,\sigma^2)$ 且a与b是实数，那么 $aX+b\sim N()$ [[card]]
 	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T19:18:13.609Z
+	  card-last-score:: 1
 		- $aX+b\sim N(a\mu+b,(a\sigma)^2)$
 	- 如果 $X \sim N\left(\mu_{X}, \sigma_{X}^{2}\right)$ 和  $Y \sim N\left(\mu_{Y}, \sigma_{Y}^{2}\right)$是统计独立的正态随机变量
 	  collapsed:: true
