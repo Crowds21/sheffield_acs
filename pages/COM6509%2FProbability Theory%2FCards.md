@@ -2,12 +2,12 @@ tags:: [[COM6509]]
 
 - # 概率公式
 - Sum rule of probability [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
+  card-last-interval:: -1
+  card-repeats:: 1
   card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-28T16:42:41.953Z
-  card-last-reviewed:: 2023-01-24T16:42:41.953Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T12:45:35.061Z
+  card-last-score:: 1
 	- $$
 	  p\left(X=x_i\right)=\sum_{j=1}^L p\left(X=x_i, Y=y_j\right)
 	  $$
