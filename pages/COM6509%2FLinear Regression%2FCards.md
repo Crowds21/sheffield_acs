@@ -68,7 +68,6 @@
 	  card-last-score:: 1
 		- $aX+b\sim N(a\mu+b,(a\sigma)^2)$
 	- 如果 $X \sim N\left(\mu_{X}, \sigma_{X}^{2}\right)$ 和  $Y \sim N\left(\mu_{Y}, \sigma_{Y}^{2}\right)$是统计独立的正态随机变量
-	  collapsed:: true
 	  card-last-interval:: 2.29
 	  card-repeats:: 1
 	  card-ease-factor:: 2.36
@@ -82,7 +81,6 @@
 		- 它们的差也满足正态分布 $V=X-Y \sim N\left(\mu_{X}-\mu_{Y}, \sigma_{X}^{2}+\sigma_{Y}^{2}\right)$
 		- U与V两者是相互独立的（要求X与Y的方差相等）
 - Log Likelihood
-  collapsed:: true
 	- 简介
 		- 对数似然方程(log-likelihood equation)，简称“似然方程”, 对数似然方程与原似然方程同解，由于独立同分布的样本的似然函数上具有连乘积，对似然方程取对数更方便计算
 	- TODO 对正态分布使用 look likelihood, 推导 normal equation [[card]]
