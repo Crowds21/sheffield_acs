@@ -78,6 +78,12 @@
 	- probably infringement, since copyright extends beyond literal similarity to the structure of
 	  the program
 - CDPA 中,如何处理中间产物 [[card]]
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T16:28:23.587Z
+  card-last-reviewed:: 2023-02-02T16:28:23.587Z
+  card-last-score:: 5
 	- 编写软件的人对(用软件的人最终)输出的内容没有控制权
 	- 因为它是使用软件的人的努力的结果
 - CDPR,关于"Translation"的定义存在什么问题
