@@ -35,12 +35,12 @@
   card-last-score:: 5
 - 承担 ((635e612e-1446-4b8f-8f68-fe830a0c2f21)) 的因素 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:36:00.665Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:50.293Z
+  card-last-reviewed:: 2023-02-02T19:27:50.293Z
+  card-last-score:: 5
 	- ((63d0000d-2b57-4cba-bb86-e267420d756c))
 	- ((63d00011-4882-4b1a-8329-4c8e48db8192))
 	- ((63d00016-7610-43e0-bb34-ab020411ee3e))
@@ -92,12 +92,12 @@
 	- 如果索赔人对过失有贡献，则可减少损失
 - What is [[Negligent misstatement]] [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:04:22.892Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:55.724Z
+  card-last-reviewed:: 2023-02-02T19:27:55.724Z
+  card-last-score:: 5
 	- If advice given by decision support system is incorrect,  developers of the system may be liable in negligent misstatement ~~to the recipient.~~
 	- 如果决策支持系统给出的建议是不正确的，系统的开发者可能要对接受者的疏忽误报负责
 - CPA 中的 ((63d0038f-7670-4282-8687-7bebb070cc45)) 是什么 [[card]]
@@ -124,12 +124,12 @@
 	- employers is reasonable for the  health and safety precautions in the workplace
 - What is ((635e96c3-4ac9-4867-89e9-f0a153125524)) [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:05:09.052Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:56.097Z
+  card-last-reviewed:: 2023-02-02T19:27:56.097Z
+  card-last-score:: 5
 	- ((63d5479d-7cc5-49c2-b454-7e6d82f79d5e))
 	-
 -

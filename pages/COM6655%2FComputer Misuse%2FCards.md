@@ -2,12 +2,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 
 - Computer Misuse 的相关法律 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:45:06.504Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:54.332Z
+  card-last-reviewed:: 2023-02-02T19:27:54.332Z
+  card-last-score:: 5
 	- [[Acts Of Parliament]]
 	- [[Theft Act]] 1968
 	- [[Fraud Act]] 2006(重点)
@@ -15,12 +15,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- [[The law of confidence]]
 - 盗版软件涉及到的法律 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:41:09.640Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:53.010Z
+  card-last-reviewed:: 2023-02-02T19:27:53.010Z
+  card-last-score:: 5
 	- ((639b1b35-5dc1-4b4f-944d-5515e9a0b0bd))
 	- ((639b1b57-2568-4888-8539-d8a39ae0ec1b))
 	- ((639b239c-a6dd-47e0-954d-a359d5c57be9))
@@ -36,12 +36,13 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- ((639df08f-2211-4671-bf0f-a39226ffdff9))
 	- [[The Law of Confidence]]
 - [[Theft Act]] 用于处理计算机相关问题存在的缺陷 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:05:23.695Z
-  card-last-score:: 1
+  collapsed:: true
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:50.657Z
+  card-last-reviewed:: 2023-02-02T19:27:50.657Z
+  card-last-score:: 5
 	- ((63cff0e9-b686-4632-9ee5-fe1214e3e18c))
 	- Stealing another person's information is not a ==permanent deprivation== of the other person's property
 - 犯罪需要从  {{cloze mental element}} 和  {{cloze actual behaviour}} 两个方面考虑,然而部分犯罪即使只涉及到其中一个方面也会构成犯罪,这叫做  {{cloze strict liability offences "严格责任罪" 不涉及犯罪意图}} [[card]]
@@ -92,12 +93,12 @@ exam:: ((63cff2ce-eb31-4a1e-bf07-c61a91a10034))
 	- 不诚实地获得服务 ((6398e25e-74f4-45c8-b2db-9c8532fcee8a))
 - ~~Types of computer misus  (基本都都被CMA涉及到了)~~ [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:05:51.970Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:50.988Z
+  card-last-reviewed:: 2023-02-02T19:27:50.988Z
+  card-last-score:: 5
 	- ((63623a80-6077-4949-aa1c-ce8ed72fc7a6))
 	- ((63623b75-9c19-4b4a-97fb-e86d4ca93557))
 	- ((63623c8a-4778-4247-8d7d-2f9ab47a4fcc))

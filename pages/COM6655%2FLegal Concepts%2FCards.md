@@ -1,10 +1,10 @@
 - 什么是普通法 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:44:40.507Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:49.937Z
+  card-last-reviewed:: 2023-02-02T19:27:49.938Z
+  card-last-score:: 5
 	- 对于所有法院都是通用的法律
 	- 使用"先例 precedent" 作为指南, 先例也被叫做 case law
 - 民法依靠 {{cloze  书面立法 Legislation}} 和其他法律规范来确保立法程序和惩罚措施 [[card]]
@@ -43,20 +43,20 @@
   card-last-reviewed:: 2023-02-02T19:27:46.115Z
   card-last-score:: 5
 - {{cloze 仲裁(Arbitration )}}用于许多民事案件（特别是在商业领域），涉及任命一名独立的仲裁员来解决争端 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:49:45.251Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.46
+  card-next-schedule:: 2023-02-06T19:27:57.254Z
+  card-last-reviewed:: 2023-02-02T19:27:57.255Z
+  card-last-score:: 5
 -
 - 法人 英文为: {{cloze An artificial person}} , 指的是在法律意义上,具有独立的法律地位和责任能力的 {{cloze 组织或个人}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:45:45.147Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:52.015Z
+  card-last-reviewed:: 2023-02-02T19:27:52.015Z
+  card-last-score:: 5
 - 财产和所有权 Property and ownership, 不动产( {{cloze Real property}}) 通常指 {{cloze 土地}} [[card]]
   card-last-score:: 5
   card-repeats:: 2
@@ -96,12 +96,12 @@
 	- ((6d06f987-7536-4adf-8020-abd320084eb9))
 - ((63bc5c91-329b-42a3-ad44-823788c3741f)) ? [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:38:37.700Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:52.673Z
+  card-last-reviewed:: 2023-02-02T19:27:52.673Z
+  card-last-score:: 5
 	- the mind is guilty
 	- ((63aded27-648a-4114-9d1b-f39631f0098c)) + ((63aded10-4fbb-4bdd-bdca-21b58393c1f7))
 - 疏忽 Negligence 涉及到  {{cloze duty of care}} ,以及因为此而在造成的损害. 如果损害是可以 {{cloze 被合理预见的}},那么被告就应该负责. [[card]]
@@ -114,12 +114,12 @@
 -
 - [[Theft Act]] 中关于 Theft 的定义 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:44:48.023Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:53.984Z
+  card-last-reviewed:: 2023-02-02T19:27:53.985Z
+  card-last-score:: 5
 	- ((63cff0e9-b686-4632-9ee5-fe1214e3e18c))
 	- ......如果一个人不诚实地侵占属于他人的财产，意图永久剥夺他人的财产，则犯有盗窃罪......"（1968年盗窃法）
 	- permanently depriving

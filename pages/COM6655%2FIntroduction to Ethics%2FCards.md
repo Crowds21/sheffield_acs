@@ -1,12 +1,12 @@
 Exams:: ((63cfdfad-129d-4f21-8775-cad438f9e125))
 
 - 五种伦理理论分别是 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:34:40.700Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:49.491Z
+  card-last-reviewed:: 2023-02-02T19:27:49.491Z
+  card-last-score:: 5
 	- 功利主义 {{cloze  Utilitarianism}}
 	- 直觉主义  {{cloze Intuitionism}}
 	- 义务主义  {{cloze Duty ethics}},

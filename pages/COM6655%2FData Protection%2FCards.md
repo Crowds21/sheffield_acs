@@ -14,12 +14,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- ((63cfc52d-1aa3-4a46-af86-78730ea01cc0))
 - 英国数据保护涉及到的相关法律 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:33:28.402Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:48.825Z
+  card-last-reviewed:: 2023-02-02T19:27:48.826Z
+  card-last-score:: 5
 	- [[Data Protection Act]]
 	- [[UK General Data Protection Regulation]]
 	- [[EU General Data Protection Regulation]] 
@@ -29,12 +29,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 由[[The Regulation of Investigatory Powers Act]]
 - DONE Adequacy decisions 指的是什么? [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:37:23.729Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:51.695Z
+  card-last-reviewed:: 2023-02-02T19:27:51.695Z
+  card-last-score:: 5
 	- 允许在被认为具有相当水平的数据保护的欧盟和国家之间自由流动个人数据
 	- 在大多数情况下，来自欧盟/欧洲经济区的大多数数据可以像以前一样继续流向英国，而不需要额外的保障措施
 	- 不包括为移民控制目的或适用英国移民例外情况而转移到英国的数据
@@ -47,12 +47,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
   card-last-score:: 1
 - ((63a4ffb9-b4ca-454d-9279-381814e87087)) 的主要原则 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:48:46.052Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:55.045Z
+  card-last-reviewed:: 2023-02-02T19:27:55.045Z
+  card-last-score:: 5
 	- ((63cfbc8b-3089-417b-bfb9-6be9439eff58))
 	- ((63cfbc93-d0a8-4795-91da-22302a5b1e84))
 	- ((63cfbc99-10a9-4bca-97e1-44c1fa0d769c))
@@ -144,12 +144,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 个人数据的收集应该是为了特定的、明确的和合法的目的，并且不得以与这些目的不相符的方式进一步处理
 - [[UK General Data Protection Regulation]] 中规定,对于自动化决策需要满足以下条件 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:37:18.676Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:51.328Z
+  card-last-reviewed:: 2023-02-02T19:27:51.328Z
+  card-last-score:: 5
 	- ((63cfbd22-bc8a-49c7-ad0d-86e57495f1bb))
 	- ((63cfbd28-30e9-4de7-a3c2-dc223332bc8a))
 	- ((63cfbd30-7716-41ef-81ff-a8974700035f))
@@ -158,12 +158,12 @@ Exam:: ((63cfdf8e-0749-4f4b-a725-87ab43be7dfe))
 	- 基于个人的明确同意
 - ((63739120-24c5-4e1c-b179-4d0d20e57174)) 的责任 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:41:31.545Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:53.357Z
+  card-last-reviewed:: 2023-02-02T19:27:53.357Z
+  card-last-score:: 5
 	- 整理-通知-满足
 	- ((63cfbdcb-43e8-4e37-9bf6-9eb23fab7ccb))
 	- ((6373a0a8-a1f0-4747-9a83-be0d90243080))

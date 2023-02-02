@@ -193,12 +193,12 @@
 		- "对于模仿者何时超越了对'理念'的复制，并借用了其'表达'，没有原则可言。因此，决定不可避免地必须是临时性的。在设计的情况下，由于设计是针对观察者的审美感觉的，如果可能的话，测试甚至是更加无形的。"
 		- 在苹果公司的案件中，它与微软公司早先达成的许可协议是本案的一个关键因素，同时它还使用了施乐公司的一些材料。
 - 雇员和自由职业者的权利,以及版权归属 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:07:17.885Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:57.547Z
+  card-last-reviewed:: 2023-02-02T19:27:57.547Z
+  card-last-score:: 5
   collapsed:: true
 	- 通常情况下，作品的作者是该作品的版权所有者
 	- 一个例外情况适用于==雇员在就业过程中创作的作品==，在这种情况下，雇主拥有该作品的版权
@@ -228,12 +228,12 @@
 	- ((a44acd55-5c1e-4940-b4e0-d3b6e80a1965))
 -
 - law of confidence 是由  {{cloze common law}} 规定的. 用于保护 {{cloze 信息（商业秘密、商业数据、不以实物表达的想法）}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:45:49.613Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:53.660Z
+  card-last-reviewed:: 2023-02-02T19:27:53.660Z
+  card-last-score:: 5
 - 对商标的保护可以参考  {{cloze Trade Marks Act}}   和   {{cloze Trade Marks Regulations}} 这两部法律 [[card]]
   card-last-interval:: -1
   card-repeats:: 1
@@ -256,22 +256,22 @@
   card-last-reviewed:: 2023-01-28T16:49:49.067Z
   card-last-score:: 1
 - 什么是 [[The law of confidence]] [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:06:47.207Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:56.886Z
+  card-last-reviewed:: 2023-02-02T19:27:56.886Z
+  card-last-score:: 5
   collapsed:: true
 	- ((63cff555-be9f-4b90-8411-cdee37e1d3e6))
 	- 这涉及到对商业秘密、个人性质的秘密和有关国家政府的秘密的保护
 - [[The law of confidence]] 想要生效必须满足一定的条件 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:53:23.113Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:55.364Z
+  card-last-reviewed:: 2023-02-02T19:27:55.364Z
+  card-last-score:: 5
 	- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
 	- ((63cff620-1b4c-44c8-8a99-56392efd9cd8))
 	- 信息的发布会损害信息所有者的利益或有利于其他人
@@ -290,23 +290,23 @@
 	- 如果信息已经被泄露给足够的人
 	- 如果信息的使用或披露损害了 "所有者 "的利益，则可对责任人进行赔偿
 - 违反 [[The Law of Confidence]] 的三个要素 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:38:24.225Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:52.350Z
+  card-last-reviewed:: 2023-02-02T19:27:52.350Z
+  card-last-score:: 5
 	- 该信息必须具有必要的 ((63b465f1-8a3c-4b15-b868-69f45b8af3cd))
 	- 信息必须是在具有保密性质的情况下被传授的;  ((63b46611-7e69-47b7-bcb8-ff484f55e10c))
 	- ((63d52841-37e0-4f6c-a486-aa439669b6d2))
 	- Information leakage 信息泄露
 - TODO Obligation of confidence 是如何产生的 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:45:14.286Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:54.658Z
+  card-last-reviewed:: 2023-02-02T19:27:54.658Z
+  card-last-score:: 5
 - 计算机黑客入侵他人计算机时,可以参考的法律是  {{cloze The Law of Confidence}} [[card]]
   card-last-interval:: -1
   card-repeats:: 1
