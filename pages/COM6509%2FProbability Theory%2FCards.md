@@ -122,11 +122,11 @@ tags:: [[COM6509]]
 	- pmf 是 probability mass function 的缩写，其中 probability 表示概率，mass 表示质量，function 表示函数
 	- pmf 是概率论中的一个术语，它代表概率质量函数。概率质量函数是一种数学函数，用于表示一个离散随机变量的概率分布
 - 什么是 pdf? [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-26T10:21:18.288Z
-  card-last-reviewed:: 2023-01-22T10:21:18.289Z
+  card-last-interval:: 8.32
+  card-repeats:: 3
+  card-ease-factor:: 2.08
+  card-next-schedule:: 2023-02-11T02:27:21.676Z
+  card-last-reviewed:: 2023-02-02T19:27:21.676Z
   card-last-score:: 3
 	- pdf 是 probability density function 的缩写.
 	- 概率密度函数是概率论中的一个术语，用于表示连续随机变量的概率分布。它的值表示该随机变量在每一个可能的取值处的概率密度
