@@ -101,6 +101,7 @@
 	- 使用以下计算图计算函数的 Jacobain 矩阵 [[card]] 
 	  ((63daa9fa-c609-4474-8907-e9ac45f48a00))
 	  ![](https://cdn.mathpix.com/snip/images/J5LbccB8_dcVp6XFM4iQYBP7hpKyftp3O0-vnlMESaE.original.fullsize.png) [[card]]
+		- 绘制计算图时,现算直接和
 		- 通过正向传播得下表
 		- $$
 		  \begin{array}{|l|l|}
