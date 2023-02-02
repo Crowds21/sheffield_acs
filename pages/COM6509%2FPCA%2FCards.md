@@ -46,6 +46,12 @@
 		  $$
 		- $\mu$为转换之前$X$的均值, 即原本$E(x)-x$ 乘以转换函数
 	- 通过Lagrange multipliers,进行第1次PCA的优化标准 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T15:52:11.752Z
+	  card-last-score:: 1
 		- $$
 		  L\left(\mathbf{u}_1, \lambda_1\right)=\mathbf{u}_1^T \mathbf{C} \mathbf{u}_1+\lambda_1\left(1-\mathbf{u}_1^T \mathbf{u}_1\right)
 		  $$
