@@ -71,6 +71,12 @@
 	- ((635a507e-cc79-4295-bbe5-0d94820b8532))
 	- ((635a5115-1ec8-424a-a839-5bfde6d75716))
 - 如何处理软件中的 Bug [[card]]
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T17:33:33.902Z
+  card-last-reviewed:: 2023-02-02T17:33:33.903Z
+  card-last-score:: 5
   collapsed:: true
 	- ((63cffb6f-ee6f-4c63-b937-14398ed0d9d9))
 	- ((63cffb74-6df1-4b4d-a47f-5d5bbb2c1f82))
