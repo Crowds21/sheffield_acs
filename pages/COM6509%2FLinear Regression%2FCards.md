@@ -1,6 +1,13 @@
 -
 - 矩阵运算
 	- 矩阵的inner product 和 outer product [[card]]
+	  collapsed:: true
+	  card-last-interval:: 2.29
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2023-02-05T01:16:40.551Z
+	  card-last-reviewed:: 2023-02-02T19:16:40.551Z
+	  card-last-score:: 3
 		- Inner Product
 			- $$\begin{aligned}
 			  &a \cdot b=a^{\top} b=
