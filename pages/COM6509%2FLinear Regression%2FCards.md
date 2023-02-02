@@ -79,6 +79,12 @@
 			- $x^Ty=x\omega x^T$
 			- $\left(x^{\top} x\right)^{-1} x^{\top} y=\omega$
 	- TODO 对于下式求$\dfrac{dy}{d\sigma}$,并给出关于$\sigma^2$的等式
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T13:24:21.543Z
+	  card-last-score:: 1
 	  ((63daed33-814b-4d61-82dd-efd9d66ddd3a)) [[card]]
 		- 最终可得 $\sigma^2=\frac{1}{N}(\mathbf{y}-\mathbf{X} \mathbf{w})^{\top}(\mathbf{y}-\mathbf{X} \mathbf{w})$
 		- 首先需要根据符合正态分布的对数似然函数求导,即上式,然后对该式再求导..
