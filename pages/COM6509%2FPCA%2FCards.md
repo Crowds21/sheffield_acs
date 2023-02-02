@@ -180,6 +180,7 @@
 		- 解决minimum cut的一个方法是 Normalised Cut
 	- Normalised Cut
 		- 计算 Normallised Cut[[card]]
+		  collapsed:: true
 			- 根据每组的 volumes 考虑两组之间的连通性
 			- $$
 			  \operatorname{Ncut}(A, B)=\frac{\operatorname{Cut}(A, B)}{\operatorname{Vol}(A)}+\frac{\operatorname{Cut}(A, B)}{\operatorname{Vol}(B)}
@@ -194,6 +195,7 @@
 				- $Cut(A,B)$是 A 和 B 之间连同的值
 				- $Cut(A,B)=0.1+0.2=0.3$
 		- minimise the normalised cut [[card]]
+		  collapsed:: true
 			- $$
 			  \min _{\mathbf{x}} \operatorname{Ncut}(\mathbf{x})=\min _{\mathbf{y}} \frac{\mathbf{y}^T(\mathbf{D}-\mathbf{W}) \mathbf{y}}{\mathbf{y}^T \mathbf{D} \mathbf{y}}
 			  $$
@@ -205,6 +207,7 @@
 				  $$
 				- 第二低的特征值 (和特征向量) 对应将图形一分为二所需的切割
 	- Spectral Clustering模型成分
+	  collapsed:: true
 		- Data + pre-processing
 		- Model:
 			- Structure/architecture: non-linear separation between clusters
