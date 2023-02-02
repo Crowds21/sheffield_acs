@@ -1,8 +1,6 @@
 -
 - 矩阵运算
-  collapsed:: true
 	- 矩阵的inner product 和 outer product [[card]]
-	  collapsed:: true
 		- Inner Product
 			- $$\begin{aligned}
 			  &a \cdot b=a^{\top} b=
@@ -16,7 +14,6 @@
 			  a_N b_1 & \cdots & a_N b_N
 			  \end{array}\right]$$
 	- 已知矩阵$w$, $n \times m$, 矩阵$x$,$m \times 1$,矩阵$y$,$n \times 1$,将下面的式子改写为矩阵相乘的形式
-	  collapsed:: true
 	  $$
 	  \sum_{i=1}^n \sum_{j=1}^m w_{i, j} x_j+\sum_{j=1}^m \sum_{i=1}^n y_i w_{i, j}
 	  $$
@@ -26,7 +23,6 @@
 		  \sum_{i=1}^n \sum_{j=1}^m w_{i, j} x_j+\sum_{j=1}^m \sum_{i=1}^n y_i w_{i, j}=\mathbf{1}_n^{\top} \mathbf{W} \mathbf{x}+\mathbf{y}^{\top} \mathbf{W} \mathbf{1}_m
 		  $$
 - [[高斯分布]]
-  collapsed:: true
 	- [[高斯分布]]的定义 [[card]]
 		- $$
 		  f(x) = \frac{1}{\sigma \sqrt{2\pi }} \exp \left[-\frac{(x - \mu )^2}{2\sigma ^2} \right] , -\infty<x<+\infty 
@@ -86,7 +82,6 @@
 	  ((63daed33-814b-4d61-82dd-efd9d66ddd3a)) [[card]]
 		- 最终可得 $\sigma^2=\frac{1}{N}(\mathbf{y}-\mathbf{X} \mathbf{w})^{\top}(\mathbf{y}-\mathbf{X} \mathbf{w})$
 	- l2 正则化,并化简整个式子,来通过 inner product 和 differentiate 整个式子,来表示最后一项 [[card]]
-	  collapsed:: true
 		- $$
 		  E=\frac{1}{N}\left(\boldsymbol{y}-\boldsymbol{X} \boldsymbol{w}_*\right)^{\top}\left(\boldsymbol{y}-\boldsymbol{X} \boldsymbol{w}_*\right)+\frac{\lambda}{2}\|\boldsymbol{w}\|_2^2
 		  $$
