@@ -131,11 +131,11 @@ tags:: [[COM6509]]
 	- pdf 是 probability density function 的缩写.
 	- 概率密度函数是概率论中的一个术语，用于表示连续随机变量的概率分布。它的值表示该随机变量在每一个可能的取值处的概率密度
 - For the joint probability pmf $p(X,Y)$ how to calculate the marginal **pdf** for X and Y [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-26T10:19:39.379Z
-  card-last-reviewed:: 2023-01-22T10:19:39.380Z
+  card-last-interval:: 8.32
+  card-repeats:: 3
+  card-ease-factor:: 2.08
+  card-next-schedule:: 2023-02-11T02:26:36.737Z
+  card-last-reviewed:: 2023-02-02T19:26:36.738Z
   card-last-score:: 3
 	- $p(x)=\int_{-\infty}^{\infty} p(x, y) d y$
 	- $p(y)=\int_{-\infty}^{\infty} p(x, y) dx$
