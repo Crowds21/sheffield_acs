@@ -75,7 +75,7 @@
   :block/updated-at 1675294155433}
  {:block/name "com6509/linear regression/cards",
   :block/created-at 1675294155433,
-  :block/updated-at 1675344852848}
+  :block/updated-at 1675355569119}
  {:block/name "com6509/logistic regression",
   :block/created-at 1675293974542,
   :block/updated-at 1675293974542}
@@ -87,7 +87,7 @@
   :block/updated-at 1675293974575}
  {:block/name "com6509/neural network/cards",
   :block/created-at 1675293974575,
-  :block/updated-at 1675351796630}
+  :block/updated-at 1675355622719}
  {:block/name "com6509/pca",
   :block/created-at 1675272425412,
   :block/updated-at 1675272425412}
@@ -111,7 +111,7 @@
   :block/updated-at 1673803785836}
  {:block/name "com6655/ intellectual property /cards",
   :block/created-at 1673803809812,
-  :block/updated-at 1675355303593}
+  :block/updated-at 1675355625744}
  {:block/name "com6655/cards",
   :block/created-at 1675087316173,
   :block/updated-at 1675162919394}
