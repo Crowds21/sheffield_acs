@@ -155,7 +155,6 @@
 		- Optimisation: Gradient descent (back-prop) or similar
 - Spectral Clustering
 	- 创建 graph 的流程
-	  collapsed:: true
 		- 通过Gaussian Kernel 计算两个对之间的相似性
 			- $$
 			  W_{i j}=\exp \left(-\frac{\left|\mathbf{x}_i-\mathbf{x}_j\right|^2}{2 \sigma^2}\right)
@@ -169,7 +168,6 @@
 			- Graph cut / partitioning
 			- 目的是进行最小化切割
 	- Cutting the graph
-	  collapsed:: true
 		- 把两个相连的 graph 进行切割
 		- ((63da96fc-753a-4d20-bb6b-1f18f19b8779))
 		- cut 的过程就是计算各组连接之和
@@ -177,7 +175,6 @@
 		  \operatorname{cut}(A, B)=\sum_{i \in A} \sum_{j \in B} W_{i j}
 		  $$
 	- minimum cut
-	  collapsed:: true
 		- 并不总是最佳的选择,有时候会被异常值影响
 		- ((63da977f-f8e3-433c-bb37-b5e93ab9abde))
 		- 解决minimum cut的一个方法是 Normalised Cut
