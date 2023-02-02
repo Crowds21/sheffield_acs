@@ -120,6 +120,12 @@
   card-last-reviewed:: 2023-01-28T15:00:53.653Z
   card-last-score:: 1
 - CCPA关于 ((63d52842-0a56-4399-be8f-3b1dcb4a0280)) [[card]]
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T16:33:45.737Z
+  card-last-reviewed:: 2023-02-02T16:33:45.737Z
+  card-last-score:: 5
 	- 进行==改编包括反编译，侵犯了版权==，除非新的反编译权允许
 	- 合法用户可以在==必要时进行反编译, 不包括开发竞争品==
 - 知识产权中关于 ((63d52842-daf7-4e56-9275-dea58e56dea6)) [[card]]

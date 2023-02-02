@@ -46,6 +46,12 @@
 		- $S$ Stride 步长
 		- $F$ filter size
 	- 已知 512 × 512 RGB colour image, apply 100 5 × 5 filters with a stride of 7 and a padding of 2. 求该层共有多少 parameters [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T16:33:42.711Z
+	  card-last-score:: 1
 		- (==Filter width== x ==filter height== x ==number of channels in previous layer== + 1) x ==number of output channels==
 		- $(5 \times 5 \times 3 +1) \times 100 = 7600$
 -
