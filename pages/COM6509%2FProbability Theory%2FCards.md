@@ -90,11 +90,11 @@ tags:: [[COM6509]]
   card-last-score:: 3
 	- ((633563ea-929d-493c-87cf-135a218c5006))
 - ((633563ea-66ad-4210-82b8-ab0513b13d76)), $E(X+Y)=?$ [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-26T10:22:02.227Z
-  card-last-reviewed:: 2023-01-22T10:22:02.227Z
+  card-last-interval:: 8.32
+  card-repeats:: 3
+  card-ease-factor:: 2.08
+  card-next-schedule:: 2023-02-11T02:28:42.274Z
+  card-last-reviewed:: 2023-02-02T19:28:42.274Z
   card-last-score:: 3
 	- ((633563ea-44ec-452c-b6e2-87bf43fa42ed))
 - ((633563ea-66ad-4210-82b8-ab0513b13d76)), $E(XY)=?$ [[card]]
@@ -113,11 +113,11 @@ tags:: [[COM6509]]
 	- ((6336fd1f-fa5c-4720-a476-0e37f4f95399))
 - # 概率分布
 - 什么是 pmf? [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-26T10:21:57.577Z
-  card-last-reviewed:: 2023-01-22T10:21:57.577Z
+  card-last-interval:: 8.32
+  card-repeats:: 3
+  card-ease-factor:: 2.08
+  card-next-schedule:: 2023-02-11T02:28:38.744Z
+  card-last-reviewed:: 2023-02-02T19:28:38.744Z
   card-last-score:: 3
 	- pmf 是 probability mass function 的缩写，其中 probability 表示概率，mass 表示质量，function 表示函数
 	- pmf 是概率论中的一个术语，它代表概率质量函数。概率质量函数是一种数学函数，用于表示一个离散随机变量的概率分布
@@ -151,12 +151,12 @@ tags:: [[COM6509]]
 	- $P(Y)=\sum_{x_i} P\left(x_i, y_j\right)$
 	- 计算结果需要标明取值范围. 例如$P(X)= \begin{cases}\frac{1}{18}\left(4 x_i+3\right), & \text { for } i=1,2 \\ 0 & \text { otherwise }\end{cases}$
 - How to determine whether random variables X,Y are independent[[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.7
-  card-next-schedule:: 2023-01-26T10:23:22.859Z
-  card-last-reviewed:: 2023-01-22T10:23:22.859Z
-  card-last-score:: 5
+  card-last-interval:: 10.24
+  card-repeats:: 3
+  card-ease-factor:: 2.56
+  card-next-schedule:: 2023-02-13T00:28:45.885Z
+  card-last-reviewed:: 2023-02-02T19:28:45.886Z
+  card-last-score:: 3
 	- if $p(x) p(y) \neq p(x, y)$, they are not independent
 - # 积分
 - 求 $\int_0^2 \int_0^2(x+y) dxdy$ [[card]]
