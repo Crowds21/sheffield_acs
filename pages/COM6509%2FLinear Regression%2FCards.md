@@ -14,6 +14,13 @@
 			  a_N b_1 & \cdots & a_N b_N
 			  \end{array}\right]$$
 	- 已知矩阵$w$, $n \times m$, 矩阵$x$,$m \times 1$,矩阵$y$,$n \times 1$,将下面的式子改写为矩阵相乘的形式
+	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T19:12:03.134Z
+	  card-last-score:: 1
 	  $$
 	  \sum_{i=1}^n \sum_{j=1}^m w_{i, j} x_j+\sum_{j=1}^m \sum_{i=1}^n y_i w_{i, j}
 	  $$
