@@ -75,13 +75,13 @@
   :block/updated-at 1675294155433}
  {:block/name "com6509/linear regression/cards",
   :block/created-at 1675294155433,
-  :block/updated-at 1675342973247}
+  :block/updated-at 1675343581208}
  {:block/name "com6509/logistic regression",
   :block/created-at 1675293974542,
   :block/updated-at 1675293974542}
  {:block/name "com6509/logistic regression/cards",
   :block/created-at 1675293974542,
-  :block/updated-at 1675293974542}
+  :block/updated-at 1675343520229}
  {:block/name "com6509/neural network",
   :block/created-at 1675293974575,
   :block/updated-at 1675293974575}
