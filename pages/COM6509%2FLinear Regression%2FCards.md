@@ -78,7 +78,7 @@
 			- 令$x^Ty-x\omega x^T=0$
 			- $x^Ty=x\omega x^T$
 			- $\left(x^{\top} x\right)^{-1} x^{\top} y=\omega$
-	- 对于下式求$\dfrac{dy}{d\sigma}$
+	- 对于下式求$\dfrac{dy}{d\sigma}$,
 	  ((63daed33-814b-4d61-82dd-efd9d66ddd3a)) [[card]]
 		- 最终可得 $\sigma^2=\frac{1}{N}(\mathbf{y}-\mathbf{X} \mathbf{w})^{\top}(\mathbf{y}-\mathbf{X} \mathbf{w})$
 	- l2 正则化,并化简整个式子,来通过 inner product 和 differentiate 整个式子,来表示最后一项 [[card]]
