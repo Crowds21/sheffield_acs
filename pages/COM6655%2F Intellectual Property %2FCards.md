@@ -92,12 +92,12 @@
 	- decompilation and manual rewriting are both effectively translation, which is a restricted right
 - ### CDPA 与 计算机程序
 - 申请计算机程序版权必须保证 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:44:03.059Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:28.499Z
+  card-last-reviewed:: 2023-02-02T19:30:28.499Z
+  card-last-score:: 5
   collapsed:: true
 	- ((e7eee613-9e72-4da4-8e9d-729a451466df))
 	- ((f1004708-80fa-4682-be56-7ffd1f00ae50)): ((63b44c85-ab2a-44f2-b92d-ecd6ea417445))
