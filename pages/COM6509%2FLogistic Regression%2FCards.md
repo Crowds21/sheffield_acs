@@ -61,6 +61,13 @@
 			  $$
 - Evaluation Trace
 	- Evaluation Trace 数学符号 [[card]]
+	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T16:28:18.635Z
+	  card-last-score:: 1
 		- $\mathbf{y}=\mathbf{f}\left(x_1, \ldots, x_n\right)$ 表示 n 个输入, m 个输出
 		- Input variables
 			- $v_{i-n}=x_i \text { with } i=1, \ldots, n$
