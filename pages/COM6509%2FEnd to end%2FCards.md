@@ -24,12 +24,12 @@
 	- $\dfrac{TP}{TP+FP}$
 	- 所有预测为 Positive 的样本中, 预测结果为 True 的
 - 如何计算 Recall [[card]]
-  card-last-interval:: 2.71
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-25T03:30:45.065Z
-  card-last-reviewed:: 2023-01-22T10:30:45.065Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T19:24:28.607Z
+  card-last-score:: 1
 	- $\dfrac{TP}{TP+FN}$
 	- 所有 Actual Positive 中,成功召回的
 - 训练集经过 min-max scaling 后训练得到的模型,在测试时,对于测试集中的数据,也需要进行 {{cloze min-max scaling }} [[card]]
