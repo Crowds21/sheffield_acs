@@ -19,12 +19,12 @@
   card-last-score:: 3
 	- 指的是决策树最后的预测结果 $S=\{ s_1,s_2,s_3\}$
 - 已知计算$IG(S, A)=H(S)-\operatorname{rem}(d, \mathcal{D})$ 
-  card-last-interval:: 1.95
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-25T08:23:59.043Z
-  card-last-reviewed:: 2023-01-23T10:23:59.043Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T12:37:12.386Z
+  card-last-score:: 1
   计算$rem$时,$p(A=i) H(S \mid A=i)$分别指的是什么? [[card]]
 	- $p(A=i)$
 		- 指的是类别 $i$ 在 $A$ 中占据的比例
