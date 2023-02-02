@@ -65,11 +65,11 @@ tags:: [[COM6509]]
   card-last-score:: 1
 	- ((633563ea-f4f9-4499-a778-201da9691e66))
 - 方差的计算公式 [[标准差与方差]] [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-26T10:18:03.193Z
-  card-last-reviewed:: 2023-01-22T10:18:03.195Z
+  card-last-interval:: 8.32
+  card-repeats:: 3
+  card-ease-factor:: 2.08
+  card-next-schedule:: 2023-02-11T02:26:13.867Z
+  card-last-reviewed:: 2023-02-02T19:26:13.868Z
   card-last-score:: 3
 	- ((63396f57-fab5-4da2-a6d7-ec778a0ce801))
 	- ((6336faa3-40be-4d46-a632-1d5ccaaf4c2e))
