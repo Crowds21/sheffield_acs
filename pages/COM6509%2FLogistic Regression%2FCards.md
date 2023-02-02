@@ -34,6 +34,12 @@
 - Jacobain
 	- 使用using manual differentiation的方法.给定以下函数, 求 Jacobain 矩阵 
 	  collapsed:: true
+	  card-last-interval:: 2.29
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2023-02-05T01:16:11.565Z
+	  card-last-reviewed:: 2023-02-02T19:16:11.566Z
+	  card-last-score:: 3
 	  ((63daa9fa-c609-4474-8907-e9ac45f48a00))
 	  求在点$\left(x_1=3, x_2=5, x_3=1\right)$的Jacobain矩阵 [[card]]
 		- $$
