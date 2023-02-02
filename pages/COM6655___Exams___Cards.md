@@ -108,12 +108,12 @@
 			- described
 			- free of minor defects 没有轻微缺陷
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  card-last-interval:: 2.86
-	  card-repeats:: 2
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2023-02-02T17:10:16.448Z
-	  card-last-reviewed:: 2023-01-30T21:10:16.449Z
-	  card-last-score:: 3
+	  card-last-interval:: 9.48
+	  card-repeats:: 3
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2023-02-12T06:28:29.385Z
+	  card-last-reviewed:: 2023-02-02T19:28:29.385Z
+	  card-last-score:: 5
 	  id:: 63d58da5-d2cf-479e-a6dc-b6c997acce36
 	  案例中和 Contract Law 相关的内容 [[card]]
 		- Contracts between SCH and Microsoft, Microsoft and 三哥
@@ -168,12 +168,12 @@
 			- little control over the way the system is used or interpreted
 		-
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  card-last-interval:: 2.86
-	  card-repeats:: 2
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2023-02-02T17:11:14.508Z
-	  card-last-reviewed:: 2023-01-30T21:11:14.508Z
-	  card-last-score:: 3
+	  card-last-interval:: 9.48
+	  card-repeats:: 3
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2023-02-12T06:28:30.302Z
+	  card-last-reviewed:: 2023-02-02T19:28:30.302Z
+	  card-last-score:: 5
 	  ((635e96c3-4ac9-4867-89e9-f0a153125524)) [[card]]
 		- The software company is vicariously liable to the school for any damages suffered by the student.
 		- 阿三 is vicariously liable to the software company
@@ -372,12 +372,12 @@
 		- ~~Women and work from home~~
 - ### Ethics
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)), 从实用主义和康德伦理学的角度分析 Lus 的行为 [[card]]
-	  card-last-interval:: 2.86
-	  card-repeats:: 2
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2023-02-02T17:10:24.606Z
-	  card-last-reviewed:: 2023-01-30T21:10:24.606Z
-	  card-last-score:: 3
+	  card-last-interval:: 9.48
+	  card-repeats:: 3
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2023-02-12T06:28:29.983Z
+	  card-last-reviewed:: 2023-02-02T19:28:29.984Z
+	  card-last-score:: 5
 		- ((63d52843-0382-45a6-8933-2f0a65b32641))
 			- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]

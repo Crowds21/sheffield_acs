@@ -20,12 +20,12 @@
 		- When he agreed that the company could use this game,  the employer should try to make an agreement on the use of the program and ownership of copyright.
 - ### Contract Law
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中和 Contract Law 相关内容 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T10:57:33.920Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:28.794Z
+	  card-last-reviewed:: 2023-02-02T19:28:28.794Z
+	  card-last-score:: 5
 		- There are contracts between Mary and Doober, Doober and ViewScan. [5]
 		- The relevant legislation is [[Consumer Rights Act]] [5-10]
 			- Doober provided service to Mary. ViewScan provided goods and service to Dobber.
@@ -52,12 +52,12 @@
 			- If Doober sue ViewScan, it is possible Doober has   contributory negligence
 		- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 [[Negligent misstatement]] [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T10:59:09.536Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:28.391Z
+	  card-last-reviewed:: 2023-02-02T19:28:28.392Z
+	  card-last-score:: 5
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement  [5]
 			- Doober 汽车可能没有做出刹车的决定
 			- ViewScan 可能没有识别目标
@@ -134,12 +134,12 @@
 			  and not merely as means  [5]
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 集合实用主义和伦理学的角度分析 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T10:59:50.746Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:28.025Z
+	  card-last-reviewed:: 2023-02-02T19:28:28.025Z
+	  card-last-score:: 5
 		- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
 		- ((63d52843-5c89-4b0f-89c5-7c9834b0a61e))
