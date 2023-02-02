@@ -81,7 +81,7 @@
 	- TODO 对于下式求$\dfrac{dy}{d\sigma}$,并给出关于$\sigma^2$的等式
 	  ((63daed33-814b-4d61-82dd-efd9d66ddd3a)) [[card]]
 		- 最终可得 $\sigma^2=\frac{1}{N}(\mathbf{y}-\mathbf{X} \mathbf{w})^{\top}(\mathbf{y}-\mathbf{X} \mathbf{w})$
-		- 首先需要根据符合正态分布的的对数似然求导
+		- 首先需要根据符合正态分布的对数似然函数求导,
 	- l2 正则化,并化简整个式子,来通过 inner product 和 differentiate 整个式子,来表示最后一项 [[card]]
 		- $$
 		  E=\frac{1}{N}\left(\boldsymbol{y}-\boldsymbol{X} \boldsymbol{w}_*\right)^{\top}\left(\boldsymbol{y}-\boldsymbol{X} \boldsymbol{w}_*\right)+\frac{\lambda}{2}\|\boldsymbol{w}\|_2^2
