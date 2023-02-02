@@ -208,7 +208,6 @@
 				  $$
 				- 第二低的特征值 (和特征向量) 对应将图形一分为二所需的切割
 	- Spectral Clustering模型成分
-	  collapsed:: true
 		- Data + pre-processing
 		- Model:
 			- Structure/architecture: non-linear separation between clusters
@@ -218,7 +217,6 @@
 		- Optimisation: Eigen-decomposition (and expectation maximisation in k-
 		  means)
 - Discriminative 模型 和 Generative 模型
-  collapsed:: true
 	- Discriminative 模型 和 Generative 模型 之间的区别 [[card]]
 		- Discriminative
 			- Optimise an explicitly defined form of the decision boundary
