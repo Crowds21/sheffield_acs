@@ -68,6 +68,12 @@
   CLOCK: [2023-01-28 Sat 14:27:54]
   :END:
 - 版权保护的是 {{cloze 表达expression}},而不是 idea. 英国法律认为 ((63d56920-3aee-4cff-bb7a-a4bd4b563073)) , 因此可能[[card]]
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T15:31:12.460Z
+  card-last-reviewed:: 2023-02-02T15:31:12.461Z
+  card-last-score:: 5
 - 基于 版权保护的 Expression 而不是 idea, 计算机程序可能侵权的原因是
 	- probably infringement, since copyright extends beyond literal similarity to the structure of
 	  the program
