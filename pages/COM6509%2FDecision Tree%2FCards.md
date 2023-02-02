@@ -60,12 +60,12 @@
   card-last-score:: 1
 	- $\operatorname{var}(t, \mathcal{D})=\frac{\sum_{i=1}^n\left(t_i-\bar{t}\right)^2}{n-1}$
 - 对于输出结果为连续型变量的决策树,如何选择特征来进行分类? [[card]]
-  card-last-interval:: 1.81
-  card-repeats:: 2
+  card-last-interval:: -1
+  card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-26T11:45:48.016Z
-  card-last-reviewed:: 2023-01-24T16:45:48.017Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T12:37:33.946Z
+  card-last-score:: 1
 	- 计算方差,选择方差最小的作为分类依据
 - TODO WrokSheet3 1- ((63cd6cd5-8c6f-4517-884a-f4fc0555f955)) [[card]]
   card-last-interval:: -1
