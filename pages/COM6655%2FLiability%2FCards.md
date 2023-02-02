@@ -1,22 +1,22 @@
 -
 - ~~Liability相关法案~~ [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:21:30.681Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:47.486Z
+  card-last-reviewed:: 2023-02-02T19:27:47.486Z
+  card-last-score:: 5
 	- [[Health and Safety Act]]
 	- [[Consumer Rights Act]]
 	- [[Consumer Protection Act]]
 	-
 - Accountable vs. responsible 的区别[[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:25:20.061Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:42.991Z
+  card-last-reviewed:: 2023-02-02T19:27:42.992Z
+  card-last-score:: 5
   collapsed:: true
 	- ((63d53e4b-9c0b-4e56-bfe3-4a9c373b1ca3))
 - TODO 什么是 Liability [[card]]
@@ -112,12 +112,12 @@
 	- 在相关时间的科学和技术知识状况并不是产品的生产者可以预期发现缺陷的。
 - [[Health and Safety Act]] 的主要内容 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:26:28.894Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:44.910Z
+  card-last-reviewed:: 2023-02-02T19:27:44.911Z
+  card-last-score:: 5
 	- Concerns responsibility for health and safety precautions in the workplace – most responsibility falls on employers.
 	  id:: 63d52841-f0f7-4654-9feb-bf97df753739
 	- 涉及到工作场所的健康和安全预防措施的责任--大部分责任由雇主承担

@@ -207,12 +207,12 @@
 	  make contractual provision for determining copyright ownership.
 	-
 - 自由软件并不意味着非商业性 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:23:09.855Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:41.827Z
+  card-last-reviewed:: 2023-02-02T19:27:41.828Z
+  card-last-score:: 5
 -
 - ### 软件和专利
 - 满足什么条件才能够申请专利 [[card]]

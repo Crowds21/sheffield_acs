@@ -29,19 +29,19 @@
   card-last-reviewed:: 2023-01-28T16:48:19.243Z
   card-last-score:: 1
 - 英国刑法中, ((bd33c97b-f95d-4b09-9c92-75f9ddcbe8ee)) , {{cloze  Criminal Justice Act}} 现在允许在获得新的有说服力的证据时对案件重审 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:44:27.709Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:43.815Z
+  card-last-reviewed:: 2023-02-02T19:27:43.815Z
+  card-last-score:: 5
 - {{cloze 法庭 (Tribunals)}}关注的是解决特定领域的争端；它们涉及法律专家和相关领域的专家 (例如，数据保护) [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:44:36.359Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:46.114Z
+  card-last-reviewed:: 2023-02-02T19:27:46.115Z
+  card-last-score:: 5
 - {{cloze 仲裁(Arbitration )}}用于许多民事案件（特别是在商业领域），涉及任命一名独立的仲裁员来解决争端 [[card]]
   card-last-interval:: -1
   card-repeats:: 1
@@ -105,12 +105,12 @@
 	- the mind is guilty
 	- ((63aded27-648a-4114-9d1b-f39631f0098c)) + ((63aded10-4fbb-4bdd-bdca-21b58393c1f7))
 - 疏忽 Negligence 涉及到  {{cloze duty of care}} ,以及因为此而在造成的损害. 如果损害是可以 {{cloze 被合理预见的}},那么被告就应该负责. [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T15:31:10.444Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:48.042Z
+  card-last-reviewed:: 2023-02-02T19:27:48.043Z
+  card-last-score:: 5
 -
 - [[Theft Act]] 中关于 Theft 的定义 [[card]]
   collapsed:: true
