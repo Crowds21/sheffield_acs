@@ -3,6 +3,12 @@
 	- 已知原数据空间中,$x$的向量为
 	  id:: 63da7afa-31ef-4a0a-b0cf-a6ecdb02c498
 	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T17:46:03.701Z
+	  card-last-score:: 1
 	  $$
 	  \mathbf{x}=\left[\begin{array}{l}
 	  a \\ b
