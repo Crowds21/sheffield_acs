@@ -48,7 +48,6 @@
 			  $$
 - Evaluation Trace
 	- Evaluation Trace 数学符号 [[card]]
-	  collapsed:: true
 		- $\mathbf{y}=\mathbf{f}\left(x_1, \ldots, x_n\right)$ 表示 n 个输入, m 个输出
 		- Input variables
 			- $v_{i-n}=x_i \text { with } i=1, \ldots, n$
