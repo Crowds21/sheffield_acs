@@ -165,7 +165,7 @@
 		- 根据转换矩阵$U$,计算$\mathbf{y}_i=\mathbf{U}^T \mathbf{x}_i$
 	- TODO  (Worksheet8-3)证明...
 - K-means
-	- K-means 计算公式以及每一项的含义 [[card]]
+	- K-means 代价函数以及每一项的含义 [[card]]
 		- $$
 		  E_{\mathrm{KM}}=\frac{1}{2} \sum_{k=1}^K \sum_{n \in C_k}^{n_k}\left(\mathbf{x}_n-\mathbf{m}_k\right)^2
 		  $$
