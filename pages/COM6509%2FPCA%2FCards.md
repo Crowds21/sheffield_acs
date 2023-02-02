@@ -150,6 +150,13 @@
 			- $C_k$ List of data points in cluster k
 			- $n_k$ Number of data points in cluster k
 	- K-means步骤 [[card]]
+	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T16:39:19.987Z
+	  card-last-score:: 1
 		- 挑选一个随机的初始中心点 starting centroids
 		- 重复以下步骤,直到不再产生变化
 			- 将数据点分配给最近的中心点 (一次性全部分了)
