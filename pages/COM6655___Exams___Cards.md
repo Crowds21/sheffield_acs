@@ -20,12 +20,12 @@
   collapsed:: true
 	- TODO ((63d5a9d6-b303-4f67-9677-b67fb4860022))相关的 civil law [[card]]
 	  id:: 63d5aa63-d7f3-4140-b43a-c3d9d3baf1c7
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T21:10:46.841Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:22.918Z
+	  card-last-reviewed:: 2023-02-02T19:28:22.918Z
+	  card-last-score:: 5
 		- CDPR - ((63d52842-7568-463c-847b-4a730348014e))
 		- ((63d52842-1567-4a8a-8472-c7ac3aa4f2ac))
 - ### Intelligence Law
@@ -67,12 +67,12 @@
 			- Copy code is an infringement, but rewrite code is not an infringement
 				- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
 	- ((63d5a5bb-6f95-4066-aed1-44ad7891c364)), 双方在 [[Copyright, Designs and Patents Act]] 下的责任 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T21:07:36.206Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:19.328Z
+	  card-last-reviewed:: 2023-02-02T19:28:19.328Z
+	  card-last-score:: 5
 	  collapsed:: true
 		- ((63d52842-0a56-4399-be8f-3b1dcb4a0280)) in [[Copyright (Computer Programs) Regulations]]
 			- Is Math a legitimate user of Word, Only legal users can decompile the sofware  if necessary
@@ -87,12 +87,12 @@
 - ### Contract Law
   collapsed:: true
 	- [[Consumer Rights Act]] 中重要的内容 (商品,服务,数字内容)[[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T21:07:40.515Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:22.655Z
+	  card-last-reviewed:: 2023-02-02T19:28:22.655Z
+	  card-last-score:: 5
 	  collapsed:: true
 		- ((6358f768-8325-4dfb-b3ed-7a8be905fd85))
 			- Fit for purpose: ((63cffabf-0fb6-49fa-b385-0c1ac8455ba7))
@@ -137,12 +137,12 @@
 	- [[Consumer Protection Act]]  规定了什么?
 		- Provides liability for producers of defective products
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:52:59.632Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:18.578Z
+	  card-last-reviewed:: 2023-02-02T19:28:18.578Z
+	  card-last-score:: 5
 	  案例中Negligence 相关内容 [[card]]
 		- negligence的条件
 			- The school own==a duty of care==  to the student. It is predictable that there will be bugs in the software. And the student had a loss.
@@ -155,12 +155,12 @@
 			- ((635e91fa-73c4-40b7-8835-f23da74cf541))
 			- vicarious liability
 	- ((63d58d08-c3d6-4edd-aa41-570b2388df9a))
-	  card-last-score:: 1
-	  card-repeats:: 1
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-interval:: -1
-	  card-ease-factor:: 2.5
-	  card-last-reviewed:: 2023-01-30T21:13:04.873Z
+	  card-last-score:: 5
+	  card-repeats:: 2
+	  card-next-schedule:: 2023-02-06T22:28:20.378Z
+	  card-last-interval:: 4.14
+	  card-ease-factor:: 2.6
+	  card-last-reviewed:: 2023-02-02T19:28:20.379Z
 	  案例中 ((63d52843-ed39-4327-a1da-b453587d78ee)) 相关内容
 	   [[card]]
 		- If the advice given by the decision support system is wrong, the developer of the system may be liable to the recipient for Negligent misstatement
@@ -179,12 +179,12 @@
 		- 阿三 is vicariously liable to the software company
 - ### Computer Misuse
 	- ((63d5a9d6-b303-4f67-9677-b67fb4860022)), 从 Criminal law 的角度分析 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T21:03:51.186Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:21.787Z
+	  card-last-reviewed:: 2023-02-02T19:28:21.788Z
+	  card-last-score:: 5
 		- Guilty Action
 			- Accessed someone else's computer and copied material
 		- Guilty Mind
@@ -196,12 +196,12 @@
 		- Case law
 			- ((63d52842-7bbf-4067-8f05-da302d682a4a))
 	- ((63d67450-4b6b-45e1-a3ef-05e5a803737b)),[[Theft Act]]和 [[Computer Misuse Act]] 分别会如何处理黑客的问题 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T12:53:14.685Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:21.163Z
+	  card-last-reviewed:: 2023-02-02T19:28:21.163Z
+	  card-last-score:: 5
 		- [[Theft Act]]
 			- Stealing another person's information is not a ==permanent deprivation== of the other person's property
 		- [[Computer Misuse Act]] provides
@@ -212,12 +212,12 @@
 			- ((63a1baf8-21dd-4015-b36a-9b1602a8c8d1))
 			-
 	- ((63d67450-4b6b-45e1-a3ef-05e5a803737b))如果 abc 公司付款后,黑客仍然没有销毁数据,abc 公司是否能够根据 [[The Law of Confidence]]寻求一个解决 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T20:50:42.297Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:22.370Z
+	  card-last-reviewed:: 2023-02-02T19:28:22.371Z
+	  card-last-score:: 5
 		- Does the data meet the quality of confidence
 			- ((63cff618-5874-4b42-b38d-f77a4735ebc1))
 			- ((63cff620-1b4c-44c8-8a99-56392efd9cd8))
@@ -225,36 +225,36 @@
 		- In practice the legal protection is weak
 	- 欺诈 Fraud offences 的定义 [[card]]
 	  collapsed:: true
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T21:13:07.098Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:19.701Z
+	  card-last-reviewed:: 2023-02-02T19:28:19.701Z
+	  card-last-score:: 5
 		- ((6398ad4b-7d92-4a9e-b4dd-6ea0be4e1907))
 	- Case law: ((63d52841-303f-4a0c-b4b0-6327b0ed1846))[[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T12:11:25.504Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:18.956Z
+	  card-last-reviewed:: 2023-02-02T19:28:18.956Z
+	  card-last-score:: 5
 		- ((63d52841-34d4-4c16-8345-9dad923f2651))
 	- Case law : The organization in the code is similar [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T12:13:02.495Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:20.072Z
+	  card-last-reviewed:: 2023-02-02T19:28:20.072Z
+	  card-last-score:: 5
 		- ((63d52842-cea3-444a-ad14-35a17223f1cb))
 	- Case law : Copy code is an infringement, but rewrite code is not an infringement [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T12:13:37.389Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:20.834Z
+	  card-last-reviewed:: 2023-02-02T19:28:20.834Z
+	  card-last-score:: 5
 		- 案例 ((63b45bef-430e-4bbe-b50d-ca35ac626b3d))
 - ### Data Protection
 	- [[UK General Data Protection Regulation]] 七个准则 [[card]]
@@ -352,12 +352,12 @@
 				- The school collected the emotional features of students through Microsoft, information that was irrelevant for their purposes
 - ### Social Context
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) 提供三个例子,证明社会和技术之间的相互作用 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T12:16:17.120Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:22.113Z
+	  card-last-reviewed:: 2023-02-02T19:28:22.113Z
+	  card-last-score:: 5
 		- ~~The relationship between supply and demand~~
 		- The development of computer technology can bring positive impact to society
 			- 结合一下材料
@@ -387,12 +387,12 @@
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 - ### Professional Issues
 	- ((63d666e1-f2f9-4a42-b72e-5a91bf67c1e5)) BCS Code中的那些内容和这一情景相关 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-01-31T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-30T21:08:33.546Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:20.628Z
+	  card-last-reviewed:: 2023-02-02T19:28:20.628Z
+	  card-last-score:: 5
 		- ((63d52843-21d4-4c89-8e92-74d29d1c2b94))
 			- 公共利益 Public interest
 				- Should consider the public interest and not discriminate against others

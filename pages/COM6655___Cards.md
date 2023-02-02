@@ -10,12 +10,12 @@
 	  id:: 63d7f23a-95f0-46d6-be54-3ddac04d7083
 - ### Intellectual Porperty
 	- ((63d7f23a-95f0-46d6-be54-3ddac04d7083)) Arthur Hacker的作品归属权是谁的? [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T10:56:25.430Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:25.966Z
+	  card-last-reviewed:: 2023-02-02T19:28:25.966Z
+	  card-last-score:: 5
 		- This game was developed in  Arthur Hacker's leisure time. So the employee can not assume they own the copyright of this game.
 		- When he agreed that the company could use this game,  the employer should try to make an agreement on the use of the program and ownership of copyright.
 - ### Contract Law
@@ -38,12 +38,12 @@
 			-
 - ### Liability
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)), 案例中 Negligence 相关内容 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T11:00:11.771Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:25.202Z
+	  card-last-reviewed:: 2023-02-02T19:28:25.203Z
+	  card-last-score:: 5
 		- Negligence 条件 duty of care [5-10]
 			- Doober and ViewScan own a duty of care to Mary Walker. Because it is predictable that there will be bugs in the software. And the injure of Mary can be reasonably foreseeable
 		- Competent Professional [5]
@@ -65,12 +65,12 @@
 			- It may be possible that little control over the way the system is used or interpreted
 			-
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)),案例中和 Product Liability  相关内容 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T11:00:45.288Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:24.777Z
+	  card-last-reviewed:: 2023-02-02T19:28:24.778Z
+	  card-last-score:: 5
 	  collapsed:: true
 		- The relevant legislation is [[Consumer Protection Act]]  [5]
 			- 该法案用于保护消费者免于因为产品收到损失
@@ -80,12 +80,12 @@
 		-
 - ### Data Protection
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) ,从 [[Data Protection Act]] 的角度分析案例 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T11:01:59.384Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:26.758Z
+	  card-last-reviewed:: 2023-02-02T19:28:26.758Z
+	  card-last-score:: 5
 		- Terms
 			- Personal Data
 			- Controller
@@ -97,35 +97,35 @@
 			- ~~Integrity and Confidentiality~~
 - ### Social Content
 	- ((63d7c7e9-7eb8-49d6-b1a1-b482fe5894a8)) 体现科技和社会是如何互相影响的 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T10:59:31.678Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:26.319Z
+	  card-last-reviewed:: 2023-02-02T19:28:26.320Z
+	  card-last-score:: 5
 		- Positive
 		- Negative
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 科技和社会是如何相互影响的 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T10:59:28.463Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:23.219Z
+	  card-last-reviewed:: 2023-02-02T19:28:23.219Z
+	  card-last-score:: 5
 		- Positive
 		- Negative
 		- Huge investments in computer technology may not pay off
 		- Technology and social change evolve together
 - ### Ethic
 	- ((63d7cdf9-2a60-4c49-856c-e0542be90617)) 从实用主义和康德伦理学的角度分析该案例 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T10:58:17.015Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:27.176Z
+	  card-last-reviewed:: 2023-02-02T19:28:27.177Z
+	  card-last-score:: 5
 		- Utilitarianism – the action is right that promotes the greatest good [5]
 			- 结合案例说明他的哪些行为符合这一伦理理论  [5]
 			- This information does not create any direct value for the average user, while Google can use it for objective economic benefit and to drive technological development
@@ -148,12 +148,12 @@
 			- 集合案例说明他的什么行为将人作为 目的和过程 [5]
 - ### Professional Issues
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82)) 基于BSC Code分析该案例 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T10:56:02.638Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:25.604Z
+	  card-last-reviewed:: 2023-02-02T19:28:25.604Z
+	  card-last-score:: 5
 		- Public interest
 			- Mr Fox 在负责该模块时,隐瞒了这一问题,损害了公众利益
 			- JadaJada的隐瞒的行为,也有可能危害公众利益
@@ -165,12 +165,12 @@
 		- Duty to profession
 			- Fox 损害了行业的声誉
 	- ((63d7e4a1-8f47-4a54-834f-2fc1d8626e82))从公司的角度如何避免类似问题 [[card]]
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2023-02-01T00:00:00.000Z
-	  card-last-reviewed:: 2023-01-31T11:00:52.204Z
-	  card-last-score:: 1
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2023-02-06T22:28:27.545Z
+	  card-last-reviewed:: 2023-02-02T19:28:27.546Z
+	  card-last-score:: 5
 		- Smith
 		- Fox
 		- JadaJada
