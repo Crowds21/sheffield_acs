@@ -27,12 +27,12 @@ tags:: [[COM6509]]
 	- [[条件概率]]
 		- ((6332024e-fd96-4c97-8aa2-294094598f1b))
 - Bayesian formula [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
+  card-last-interval:: -1
+  card-repeats:: 1
   card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-27T10:10:55.034Z
-  card-last-reviewed:: 2023-01-23T10:10:55.034Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T12:45:12.529Z
+  card-last-score:: 1
 	- ((6963560a-4586-48ff-ac2e-fe0260b30f16))
 	- 分母部分计算结果就等于 $P(B)$
 - How to calculate the probability of binomial distribution? [[card]]
