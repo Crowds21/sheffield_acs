@@ -150,4 +150,4 @@
 		- $\left(\boldsymbol{X}^{\top} \boldsymbol{X}+\frac{\lambda}{2} N \boldsymbol{I}\right) \boldsymbol{w}=\boldsymbol{X}^{\top} \boldsymbol{y}$
 		- $\boldsymbol{w}_*=\left(\boldsymbol{X}^{\top} \boldsymbol{X}+\frac{\lambda N}{2} \boldsymbol{I}\right)^{-1} \boldsymbol{X}^{\top} \boldsymbol{y}$
 		-
-	- 对于 $E(m, c)=\sum_{i=1}^n r_i\left(y_i-f\left(x_i\right)\right)^2=\sum_{i=1}^n r_i\left(y_i-m x_i-c\right)^2$
+	- 对于 $E(m, c)=\sum_{i=1}^n r_i\left(y_i-f\left(x_i\right)\right)^2=\sum_{i=1}^n r_i\left(y_i-m x_i-c\right)^2$,设置初始 m 为 0,s
