@@ -130,7 +130,6 @@
 	- TODO  (Worksheet8-3)证明...
 - K-means
 	- K-means 计算公式以及每一项的含义 [[card]]
-	  collapsed:: true
 		- $$
 		  E_{\mathrm{KM}}=\frac{1}{2} \sum_{k=1}^K \sum_{n \in C_k}^{n_k}\left(\mathbf{x}_n-\mathbf{m}_k\right)^2
 		  $$
@@ -139,7 +138,6 @@
 			- $C_k$ List of data points in cluster k
 			- $n_k$ Number of data points in cluster k
 	- K-means步骤 [[card]]
-	  collapsed:: true
 		- 挑选一个随机的初始中心点 starting centroids
 		- 重复以下步骤,直到不再产生变化
 			- 将数据点分配给最近的中心点 (一次性全部分了)
@@ -148,7 +146,6 @@
 			  \mathbf{m}_k=\frac{1}{n_k} \sum_{n \in C_k} \mathbf{x}_n
 			  $$
 	- K-means 模型成分 [[card]]
-	  collapsed:: true
 		- Input : Data  + pre-processing
 		- Model:
 			- Structure/architecture: linear separation between clusters
