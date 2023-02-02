@@ -138,6 +138,12 @@
 	- a lawful user making a copy of a program for backup purposes 是可以的
 - 关于计算机软件的编译和反编译是由  {{cloze Copyright(Computer Programs) Regulations}} 提供的 [[card]]
 - 知识产权中关于计算机程序的 ((63d52842-3c1c-45cb-8e64-4351e857f421)) [[card]]
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T17:40:13.293Z
+  card-last-reviewed:: 2023-02-02T17:40:13.293Z
+  card-last-score:: 5
   collapsed:: true
 	- CCPR允许合法用户改编程序，前提是
 		- 为合法使用而必须这样做
