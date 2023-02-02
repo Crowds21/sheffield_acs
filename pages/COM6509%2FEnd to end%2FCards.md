@@ -78,8 +78,8 @@
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-25T00:00:00.000Z
-  card-last-reviewed:: 2023-01-24T16:43:52.478Z
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T19:24:26.598Z
   card-last-score:: 1
 	- $\rho=\frac{\operatorname{Cov}(X, Y)}{\sqrt{\operatorname{Var}(X) \operatorname{Var}(Y)}}$
 	- XY的协方差
