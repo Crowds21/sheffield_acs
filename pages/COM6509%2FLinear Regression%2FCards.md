@@ -155,5 +155,6 @@
 		- $m_{k+1}=m_k - \alpha \dfrac{d}{dm}E(m)$, $\alpha$为学习率
 		- 初始$m_0=0$ 然后带如样本求$m_1$
 		- 根据$m_1$和样本 2 再求$m_2$
--
+- Ridge regression
+	-
 -
