@@ -141,11 +141,11 @@ tags:: [[COM6509]]
 	- $p(y)=\int_{-\infty}^{\infty} p(x, y) dx$
 	- 计算结果需要标注取值范围,例如:  $p(y)=\left\{\begin{array}{lc}\frac{1}{4}(y+1) & 0<y<2 \\0 & \text { otherwise }\end{array}\right.$
 - For the joint probability pdf $P(X,Y)$ how to calculate the marginal pmf  for X and Y [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-27T10:08:39.105Z
-  card-last-reviewed:: 2023-01-23T10:08:39.105Z
+  card-last-interval:: 8.32
+  card-repeats:: 3
+  card-ease-factor:: 2.08
+  card-next-schedule:: 2023-02-10T19:43:15.884Z
+  card-last-reviewed:: 2023-02-02T12:43:15.884Z
   card-last-score:: 3
 	- $P(X)=\sum_{y_j} P\left(x_i, y_j\right)$
 	- $P(Y)=\sum_{x_i} P\left(x_i, y_j\right)$
