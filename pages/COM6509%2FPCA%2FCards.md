@@ -60,6 +60,12 @@
 	- 矩阵特征值:设 $A$ 是$n$阶方阵，如果存在数$m$和非零$n$维列向量 $x$，使得 $Ax=mx$ 成立，则称 $m$ 是矩阵A的一个特征值（characteristic value)或本征值（eigenvalue). 在 pca 中,特征向量就是最大方差的方向 , 这里 $x$ 就是Eigenvectors [[card]]
 	- TODO 将一个$3\times1$的向量转换为$2\times1$的
 	- 已知$\lambda_i=\mathbf{w}_i^T \mathbf{C} \mathbf{w}_i$, $\lambda_i$是 {{cloze 特征值}},$w$是 {{cloze 特征向量}},$C$是 {{cloze 协方差矩阵}} [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T15:31:09.235Z
+	  card-last-score:: 1
 	- 已知协方差矩阵 
 	  collapsed:: true
 	  $$
