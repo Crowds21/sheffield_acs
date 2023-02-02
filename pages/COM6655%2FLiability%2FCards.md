@@ -47,12 +47,12 @@
 	- ((63d00027-4836-4819-9348-054e4151f34e))
 - ((635e65e7-6f1f-4d20-9621-80ae8b910a5d)) [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T14:58:41.012Z
-  card-last-score:: 1
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:10.843Z
+  card-last-reviewed:: 2023-02-02T19:30:10.844Z
+  card-last-score:: 5
 	- ((635e6625-fb4b-4fb7-b03a-c9b2d524b019))
 - ((635e6725-b37d-4a10-a456-705ab495e4be)) [[card]]
   collapsed:: true

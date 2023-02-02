@@ -7,12 +7,12 @@
   card-last-score:: 3
 	- $s_i^{\prime}=\frac{s_i-\min (s)}{\max (s)-\min (s)} \times(b-a)+a$
 - the formula of standarisation [[card]]
-  card-last-interval:: 1.81
-  card-repeats:: 2
+  card-last-interval:: -1
+  card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-26T11:44:15.118Z
-  card-last-reviewed:: 2023-01-24T16:44:15.118Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T19:30:09.049Z
+  card-last-score:: 1
 	- $x_i^{\prime}=\frac{s_i-\mu}{\sigma}$
 - 如何计算 Precision [[card]]
   card-last-interval:: 4

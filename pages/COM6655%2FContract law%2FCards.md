@@ -31,12 +31,13 @@
 	- [[Consumer Rights Act]]
 	-
 - 豁免条款 [[Exemption clauses]] 具体有哪些类型 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T14:59:19.191Z
-  card-last-score:: 1
+  collapsed:: true
+  card-last-interval:: 4.14
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T22:30:14.609Z
+  card-last-reviewed:: 2023-02-02T19:30:14.609Z
+  card-last-score:: 5
 	- ((63594967-c83a-476c-a84c-bcca371f327c))
 		- 例如:延期交货是因为超出其控制的条件造成的,供应商可以免除其责任.
 	- ((6359497e-fb6b-473e-ab08-1e5dcdef7ded))
