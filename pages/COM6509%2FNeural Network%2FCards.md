@@ -45,7 +45,7 @@
 		- $P$ Padding
 		- $S$ Stride 步长
 		- $F$ filter size
-			-
+			- kernel 的长
 	- 已知 512 × 512 RGB colour image, apply 100 5 × 5 filters with a stride of 7 and a padding of 2. 求该层共有多少 parameters [[card]]
 	  card-last-interval:: -1
 	  card-repeats:: 1
