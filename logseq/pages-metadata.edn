@@ -75,7 +75,7 @@
   :block/updated-at 1675294155433}
  {:block/name "com6509/linear regression/cards",
   :block/created-at 1675294155433,
-  :block/updated-at 1675359546077}
+  :block/updated-at 1675365123145}
  {:block/name "com6509/logistic regression",
   :block/created-at 1675293974542,
   :block/updated-at 1675293974542}
@@ -93,7 +93,7 @@
   :block/updated-at 1675272425412}
  {:block/name "com6509/pca/cards",
   :block/created-at 1675272425412,
-  :block/updated-at 1675364651663}
+  :block/updated-at 1675365036064}
  {:block/name "com6509/probability theory",
   :block/created-at 1675272425488,
   :block/updated-at 1675272425488}
