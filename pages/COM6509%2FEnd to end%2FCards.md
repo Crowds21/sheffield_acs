@@ -33,11 +33,11 @@
 	- $\dfrac{TP}{TP+FN}$
 	- 所有 Actual Positive 中,成功召回的
 - 训练集经过 min-max scaling 后训练得到的模型,在测试时,对于测试集中的数据,也需要进行 {{cloze min-max scaling }} [[card]]
-  card-last-interval:: 1.95
-  card-repeats:: 2
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-25T08:20:55.258Z
-  card-last-reviewed:: 2023-01-23T10:20:55.258Z
+  card-last-interval:: 8.88
+  card-repeats:: 3
+  card-ease-factor:: 2.22
+  card-next-schedule:: 2023-02-11T16:25:58.613Z
+  card-last-reviewed:: 2023-02-02T19:25:58.613Z
   card-last-score:: 3
 - 对于随机变量 X,Y 的联合分布函数 $P(X,Y)$ 如何求边缘质量函数 [[card]]
   card-last-interval:: 8.88

@@ -66,7 +66,7 @@
   :block/updated-at 1675272425369}
  {:block/name "com6509/end to end/cards",
   :block/created-at 1675272425368,
-  :block/updated-at 1675272425368}
+  :block/updated-at 1675365958628}
  {:block/name "com6509/lab6",
   :block/created-at 1675272425585,
   :block/updated-at 1675272425585}
@@ -75,25 +75,25 @@
   :block/updated-at 1675294155433}
  {:block/name "com6509/linear regression/cards",
   :block/created-at 1675294155433,
-  :block/updated-at 1675365123145}
+  :block/updated-at 1675365709643}
  {:block/name "com6509/logistic regression",
   :block/created-at 1675293974542,
   :block/updated-at 1675293974542}
  {:block/name "com6509/logistic regression/cards",
   :block/created-at 1675293974542,
-  :block/updated-at 1675360527304}
+  :block/updated-at 1675365371576}
  {:block/name "com6509/neural network",
   :block/created-at 1675293974575,
   :block/updated-at 1675293974575}
  {:block/name "com6509/neural network/cards",
   :block/created-at 1675293974575,
-  :block/updated-at 1675359200912}
+  :block/updated-at 1675365600465}
  {:block/name "com6509/pca",
   :block/created-at 1675272425412,
   :block/updated-at 1675272425412}
  {:block/name "com6509/pca/cards",
   :block/created-at 1675272425412,
-  :block/updated-at 1675365036064}
+  :block/updated-at 1675365828977}
  {:block/name "com6509/probability theory",
   :block/created-at 1675272425488,
   :block/updated-at 1675272425488}
@@ -111,7 +111,7 @@
   :block/updated-at 1673803785836}
  {:block/name "com6655/ intellectual property /cards",
   :block/created-at 1673803809812,
-  :block/updated-at 1675360444739}
+  :block/updated-at 1675365403821}
  {:block/name "com6655/cards",
   :block/created-at 1675087316173,
   :block/updated-at 1675162919394}
@@ -126,7 +126,7 @@
   :block/updated-at 1673803809819}
  {:block/name "com6655/contract law/cards",
   :block/created-at 1674913857557,
-  :block/updated-at 1675359213908}
+  :block/updated-at 1675365505715}
  {:block/name "com6655/data protection",
   :block/created-at 1673803809824,
   :block/updated-at 1674944014494}
@@ -156,7 +156,7 @@
   :block/updated-at 1674942669770}
  {:block/name "com6655/liability/cards",
   :block/created-at 1674913857738,
-  :block/updated-at 1674930693153}
+  :block/updated-at 1675365405020}
  {:block/name "com6655/professional ethics",
   :block/created-at 1673803809831,
   :block/updated-at 1674997367456}
