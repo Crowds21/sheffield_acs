@@ -156,5 +156,6 @@
 		- 初始$m_0=0$ 然后带如样本求$m_1$
 		- 根据$m_1$和样本 2 再求$m_2$
 - Ridge regression
-	- r
+	- ridge regression 公式
+		- \mathbf{w}_*=\left(\mathbf{X}^{\top} \mathbf{X}+\frac{\lambda N}{2} \mathbf{I}\right)^{-1} \mathbf{X}^{\top} \mathbf{y}
 -
