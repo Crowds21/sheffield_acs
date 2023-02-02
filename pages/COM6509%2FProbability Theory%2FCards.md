@@ -74,12 +74,12 @@ tags:: [[COM6509]]
 	- ((63396f57-fab5-4da2-a6d7-ec778a0ce801))
 	- ((6336faa3-40be-4d46-a632-1d5ccaaf4c2e))
 - ((633563ea-66ad-4210-82b8-ab0513b13d76)), c 为常数 $E(c)=?$ [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
-  card-ease-factor:: 2.7
-  card-next-schedule:: 2023-01-26T10:23:31.414Z
-  card-last-reviewed:: 2023-01-22T10:23:31.414Z
-  card-last-score:: 5
+  card-last-interval:: 10.24
+  card-repeats:: 3
+  card-ease-factor:: 2.56
+  card-next-schedule:: 2023-02-12T17:40:45.277Z
+  card-last-reviewed:: 2023-02-02T12:40:45.278Z
+  card-last-score:: 3
 	- ((633563ea-a044-4b22-9288-b1633b38c03a))
 - ((633563ea-66ad-4210-82b8-ab0513b13d76)), $E(kX+c)=?$ [[card]]
   card-last-interval:: 4
