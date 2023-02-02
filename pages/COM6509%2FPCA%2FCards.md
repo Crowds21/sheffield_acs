@@ -1,5 +1,11 @@
 - PCA
 	- PCA目的是对数据空间中的进行偏转,最终找到 {{cloze 方差最大}}的方向, 方差代表数据的离散程度 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T19:18:22.202Z
+	  card-last-score:: 1
 	- 已知原数据空间中,$x$的向量为
 	  id:: 63da7afa-31ef-4a0a-b0cf-a6ecdb02c498
 	  collapsed:: true

@@ -82,6 +82,12 @@
 	- ((63cffb74-6df1-4b4d-a47f-5d5bbb2c1f82))
 	-
 - License agreement 中应该包含的内容有 [[card]]
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:18:25.703Z
+  card-last-reviewed:: 2023-02-02T19:18:25.704Z
+  card-last-score:: 5
 	- Duration 持续时间
 		- 许可证需要有一个固定的时间段
 		- 如果没有说明期限,那么只要软件版权还在,许可就一直存在
