@@ -57,14 +57,11 @@
 		- Output Variables
 			- $y_i=v_{l+i} \text { with } i=1, \ldots, m$
 - Computational graph
-  collapsed:: true
 	- 画出下式的计算图 [[card]] 
-	  collapsed:: true
 	  ((63daa9fa-c609-4474-8907-e9ac45f48a00))
 		- 画的时候要两个一起画
 		- ![](https://cdn.mathpix.com/snip/images/J5LbccB8_dcVp6XFM4iQYBP7hpKyftp3O0-vnlMESaE.original.fullsize.png)
 - Forward accumulation mode
-  collapsed:: true
 	- Forward accumulation mode 简介
 	  collapsed:: true
 		- 计算 f w.r.t $x_k$的导数,每一个中间变量$v_i$都有一个导数
