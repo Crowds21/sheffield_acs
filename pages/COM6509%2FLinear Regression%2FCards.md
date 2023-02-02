@@ -73,6 +73,12 @@
 		- $aX+b\sim N(a\mu+b,(a\sigma)^2)$
 	- 如果 $X \sim N\left(\mu_{X}, \sigma_{X}^{2}\right)$ 和  $Y \sim N\left(\mu_{Y}, \sigma_{Y}^{2}\right)$是统计独立的正态随机变量
 	  collapsed:: true
+	  card-last-interval:: 2.29
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2023-02-05T01:21:49.629Z
+	  card-last-reviewed:: 2023-02-02T19:21:49.629Z
+	  card-last-score:: 3
 	  $U=X+Y \sim N$
 	  $V=X-Y \sim N$
 	  [[card]]
