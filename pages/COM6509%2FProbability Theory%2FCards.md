@@ -12,12 +12,12 @@ tags:: [[COM6509]]
 	  p\left(X=x_i\right)=\sum_{j=1}^L p\left(X=x_i, Y=y_j\right)
 	  $$
 - The product rule of probability [[card]]
-  card-last-interval:: 4
-  card-repeats:: 2
+  card-last-interval:: -1
+  card-repeats:: 1
   card-ease-factor:: 2.22
-  card-next-schedule:: 2023-01-28T16:43:03.020Z
-  card-last-reviewed:: 2023-01-24T16:43:03.021Z
-  card-last-score:: 3
+  card-next-schedule:: 2023-02-03T00:00:00.000Z
+  card-last-reviewed:: 2023-02-02T12:46:00.051Z
+  card-last-score:: 1
 	- $$
 	  \begin{aligned}
 	  p\left(X=x_i, Y=y_j\right) & =\frac{n_{i j}}{N}=\frac{n_{i j}}{c_i} \cdot \frac{c_i}{N} \\
