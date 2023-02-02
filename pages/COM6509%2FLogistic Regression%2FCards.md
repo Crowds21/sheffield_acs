@@ -99,6 +99,12 @@
 		  \frac{d y}{d x}=\frac{d y}{d u} \frac{d u}{d z} \frac{d z}{d x}
 		  $$
 	- 使用以下计算图计算函数的 Jacobain 矩阵 [[card]] 
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T17:47:46.018Z
+	  card-last-score:: 1
 	  ((63daa9fa-c609-4474-8907-e9ac45f48a00))
 	  ![](https://cdn.mathpix.com/snip/images/J5LbccB8_dcVp6XFM4iQYBP7hpKyftp3O0-vnlMESaE.original.fullsize.png) [[card]]
 		- 绘制计算图时,现算直接和 x 相关的,全部列完再去列后续的
