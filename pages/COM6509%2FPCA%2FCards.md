@@ -166,6 +166,12 @@
 	- TODO  (Worksheet8-3)证明...
 - K-means
 	- K-means 代价函数以及每一项的含义 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T19:21:37.660Z
+	  card-last-score:: 1
 		- $$
 		  E_{\mathrm{KM}}=\frac{1}{2} \sum_{k=1}^K \sum_{n \in C_k}^{n_k}\left(\mathbf{x}_n-\mathbf{m}_k\right)^2
 		  $$
