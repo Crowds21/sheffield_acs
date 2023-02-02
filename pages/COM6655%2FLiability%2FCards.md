@@ -20,12 +20,12 @@
   collapsed:: true
 	- ((63d53e4b-9c0b-4e56-bfe3-4a9c373b1ca3))
 - TODO 什么是 Liability [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:24:16.249Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:08.082Z
+  card-last-reviewed:: 2023-02-02T19:28:08.083Z
+  card-last-score:: 5
 - 为了保护消费者,[[Contract law]]也会受到  {{cloze Consumer Rights Act}} 的限制, ((635e63e8-5d6a-4ec2-b2df-f0a10015e881)) [[card]]
   card-last-interval:: 4
   card-repeats:: 1
@@ -102,12 +102,12 @@
 	- 如果决策支持系统给出的建议是不正确的，系统的开发者可能要对接受者的疏忽误报负责
 - CPA 中的 ((63d0038f-7670-4282-8687-7bebb070cc45)) 是什么 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:17:27.285Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:02.051Z
+  card-last-reviewed:: 2023-02-02T19:28:02.052Z
+  card-last-score:: 5
 	- The state of scientific and technical knowledge at the relevant time was not such that the producer of the product might be expected to have discovered the defect
 	- 在相关时间的科学和技术知识状况并不是产品的生产者可以预期发现缺陷的。
 - [[Health and Safety Act]] 的主要内容 [[card]]

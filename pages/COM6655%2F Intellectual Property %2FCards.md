@@ -12,19 +12,19 @@
 	- [[The Law of Confidence]]
 	- [[Copyright (Computer Programs) Regulations]]
 - Intellectual Property 包括  {{cloze 版权 copyright}},  {{cloze 专利 patents}},  {{cloze 商标 trade marks}} , 保密法  law of confidence , 冒名顶替 passing off, 设计权 design rights , 半导体法规 semiconductor regulations [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.36
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:52:24.459Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.46
+  card-next-schedule:: 2023-02-06T19:28:03.719Z
+  card-last-reviewed:: 2023-02-02T19:28:03.719Z
+  card-last-score:: 5
 - 当版权被侵犯时,有哪些补救措施Remedies [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:09:36.753Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:59.641Z
+  card-last-reviewed:: 2023-02-02T19:27:59.641Z
+  card-last-score:: 5
   collapsed:: true
 	- Injunction 禁令
 	  collapsed:: true
@@ -217,12 +217,12 @@
 - ### 软件和专利
 - 满足什么条件才能够申请专利 [[card]]
   collapsed:: true
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:22:29.811Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:06.557Z
+  card-last-reviewed:: 2023-02-02T19:28:06.557Z
+  card-last-score:: 5
 	- ((b8afae07-2b83-4d8b-bdce-b2c19654966d))
 	- ((cf843d25-54ac-448e-ad14-d462b1b9f5d2))
 	- ((a44acd55-5c1e-4940-b4e0-d3b6e80a1965))
@@ -235,12 +235,12 @@
   card-last-reviewed:: 2023-02-02T19:27:53.660Z
   card-last-score:: 5
 - 对商标的保护可以参考  {{cloze Trade Marks Act}}   和   {{cloze Trade Marks Regulations}} 这两部法律 [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:46:16.450Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:59.349Z
+  card-last-reviewed:: 2023-02-02T19:27:59.349Z
+  card-last-score:: 5
 - 对专利的保护可以参考 {{cloze  Patent Act}} [[card]]
   card-last-interval:: -1
   card-repeats:: 1
@@ -277,12 +277,12 @@
 	- 信息的发布会损害信息所有者的利益或有利于其他人
 	- 信息所有者必须认为该信息是秘密的，并且尚未进入公共领域
 - 对于已经泄露的信息,依据 [[The law of confidence]] 可以采取哪些行动(补救) [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:19:14.303Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:28:02.595Z
+  card-last-reviewed:: 2023-02-02T19:28:02.595Z
+  card-last-score:: 5
 	- ((63cff6d8-e57e-4e81-9296-3f8b036a6310))
 	- ((63cff6f6-2fd2-45db-aabb-34c59bd60ba9))
 	- ((63cff700-72d2-4d9c-a2de-b6111db9ebf1))
@@ -308,10 +308,10 @@
   card-last-reviewed:: 2023-02-02T19:27:54.658Z
   card-last-score:: 5
 - 计算机黑客入侵他人计算机时,可以参考的法律是  {{cloze The Law of Confidence}} [[card]]
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2023-01-29T00:00:00.000Z
-  card-last-reviewed:: 2023-01-28T16:07:25.015Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T19:27:58.291Z
+  card-last-reviewed:: 2023-02-02T19:27:58.291Z
+  card-last-score:: 5
 -
