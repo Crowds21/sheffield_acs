@@ -75,13 +75,13 @@
   :block/updated-at 1675294155433}
  {:block/name "com6509/linear regression/cards",
   :block/created-at 1675294155433,
-  :block/updated-at 1675355569119}
+  :block/updated-at 1675359546077}
  {:block/name "com6509/logistic regression",
   :block/created-at 1675293974542,
   :block/updated-at 1675293974542}
  {:block/name "com6509/logistic regression/cards",
   :block/created-at 1675293974542,
-  :block/updated-at 1675355298643}
+  :block/updated-at 1675360066029}
  {:block/name "com6509/neural network",
   :block/created-at 1675293974575,
   :block/updated-at 1675293974575}
@@ -93,7 +93,7 @@
   :block/updated-at 1675272425412}
  {:block/name "com6509/pca/cards",
   :block/created-at 1675272425412,
-  :block/updated-at 1675359207499}
+  :block/updated-at 1675359963751}
  {:block/name "com6509/probability theory",
   :block/created-at 1675272425488,
   :block/updated-at 1675272425488}
@@ -111,7 +111,7 @@
   :block/updated-at 1673803785836}
  {:block/name "com6655/ intellectual property /cards",
   :block/created-at 1673803809812,
-  :block/updated-at 1675359210750}
+  :block/updated-at 1675359613298}
  {:block/name "com6655/cards",
   :block/created-at 1675087316173,
   :block/updated-at 1675162919394}
@@ -120,7 +120,7 @@
   :block/updated-at 1674947571480}
  {:block/name "com6655/computer misuse/cards",
   :block/created-at 1674913857484,
-  :block/updated-at 1674930781281}
+  :block/updated-at 1675359615924}
  {:block/name "com6655/contract law",
   :block/created-at 1673803809819,
   :block/updated-at 1673803809819}
@@ -144,7 +144,7 @@
   :block/updated-at 1674996462911}
  {:block/name "com6655/introduction to ethics/cards",
   :block/created-at 1674913857696,
-  :block/updated-at 1674930765859}
+  :block/updated-at 1675359549376}
  {:block/name "com6655/legal concepts",
   :block/created-at 1673803797270,
   :block/updated-at 1673803797270}
