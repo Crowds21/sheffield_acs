@@ -1,7 +1,6 @@
 -
 - 矩阵运算
 	- 矩阵的inner product 和 outer product [[card]]
-	  collapsed:: true
 	  card-last-interval:: 2.29
 	  card-repeats:: 1
 	  card-ease-factor:: 2.36
@@ -21,7 +20,6 @@
 			  a_N b_1 & \cdots & a_N b_N
 			  \end{array}\right]$$
 	- 已知矩阵$w$, $n \times m$, 矩阵$x$,$m \times 1$,矩阵$y$,$n \times 1$,将下面的式子改写为矩阵相乘的形式
-	  collapsed:: true
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
@@ -51,7 +49,6 @@
 		- $\mu$ 为均值
 		- $\sigma^2$ 为方差
 	- 标准正态分布 [[card]]
-	  collapsed:: true
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
@@ -63,7 +60,6 @@
 		  f(x) = \frac{1}{ \sqrt{2\pi }} e ^{ \left[-\frac{x^2}{2} \right] }
 		  $$
 	- 如果$X\sim N(\mu,\sigma^2)$ 且a与b是实数，那么 $aX+b\sim N()$ [[card]]
-	  collapsed:: true
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
