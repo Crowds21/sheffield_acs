@@ -114,6 +114,12 @@
 		-
 	- 已知 $\mathbf{x}_1=(2,3,3)^T$ , $\mathbf{x}_2=(4,1,0)^T$ ,以及对应的特征值
 	  collapsed:: true
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-02-03T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-02T17:54:01.530Z
+	  card-last-score:: 1
 	  $\lambda_1=5.070, \lambda_2=-0.346, \lambda_3=2.278$
 	  对应的特征向量为
 	  $$

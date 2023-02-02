@@ -149,6 +149,12 @@
 		- 为合法使用而必须这样做
 		- 任何规范用户合法使用的协议都不禁止改编
 - [[Copyright, Designs and Patents Act]] 存在的问题 [[card]]
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-02-06T17:54:04.729Z
+  card-last-reviewed:: 2023-02-02T17:54:04.730Z
+  card-last-score:: 5
   collapsed:: true
 	- 版权法中的"翻译"
 		- CDPA中 "翻译 "的含义可能过于宽泛，因为它似乎包括将一个程序从一种语言手动转换为另一种语言
