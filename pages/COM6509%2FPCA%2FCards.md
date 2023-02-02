@@ -237,7 +237,7 @@
 				- $d_1= 0.8+0.6+0.1=1.5$
 				- $Cut(A,B)$是 A 和 B 之间连同的值
 				- $Cut(A,B)=0.1+0.2=0.3$
-		- minimise the normalised cut [[card]]
+		- TODO minimise the normalised cut [[card]]
 		  collapsed:: true
 			- $$
 			  \min _{\mathbf{x}} \operatorname{Ncut}(\mathbf{x})=\min _{\mathbf{y}} \frac{\mathbf{y}^T(\mathbf{D}-\mathbf{W}) \mathbf{y}}{\mathbf{y}^T \mathbf{D} \mathbf{y}}
