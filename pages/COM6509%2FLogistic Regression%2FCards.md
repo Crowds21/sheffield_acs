@@ -89,7 +89,6 @@
 			- $y_i=v_{l+i} \text { with } i=1, \ldots, m$
 - Computational graph
 	- 画出下式的计算图 [[card]] 
-	  collapsed:: true
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
