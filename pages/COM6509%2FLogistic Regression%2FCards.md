@@ -8,6 +8,7 @@
 	  \end{aligned}
 	  $$
 - 逻辑回归
+  collapsed:: true
 	- 根据$\log \left(\frac{\pi}{1-\pi}\right)=\mathbf{w}^T \mathbf{x}$ 推导 Sigmoid 函数 [[card]]
 	  card-last-interval:: -1
 	  card-repeats:: 1
@@ -32,6 +33,7 @@
 	  card-last-score:: 1
 	-
 - Jacobain
+  collapsed:: true
 	- 使用using manual differentiation的方法.给定以下函数, 求 Jacobain 矩阵 
 	  collapsed:: true
 	  card-last-interval:: 2.29
