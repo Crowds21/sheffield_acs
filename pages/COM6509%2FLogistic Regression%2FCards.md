@@ -88,6 +88,7 @@
 		- Output Variables
 			- $y_i=v_{l+i} \text { with } i=1, \ldots, m$
 - Computational graph
+  collapsed:: true
 	- 画出下式的计算图 [[card]] 
 	  card-last-interval:: -1
 	  card-repeats:: 1
@@ -97,7 +98,7 @@
 	  card-last-score:: 1
 	  ((63daa9fa-c609-4474-8907-e9ac45f48a00))
 		- 画的时候要两个一起画
-		- ![](https://cdn.mathpix.com/snip/images/J5LbccB8_dcVp6XFM4iQYBP7hpKyftp3O0-vnlMESaE.original.fullsize.png)
+		- ![image.png](../assets/image_1675274431146_0.png){:height 253, :width 462}
 - Forward accumulation mode
 	- Forward accumulation mode 简介
 	  collapsed:: true
