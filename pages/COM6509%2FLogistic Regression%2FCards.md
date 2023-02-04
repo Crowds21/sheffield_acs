@@ -119,7 +119,7 @@
 	  card-last-reviewed:: 2023-02-02T17:47:46.018Z
 	  card-last-score:: 1
 	  ((63daa9fa-c609-4474-8907-e9ac45f48a00))
-	  ![](https://cdn.mathpix.com/snip/images/J5LbccB8_dcVp6XFM4iQYBP7hpKyftp3O0-vnlMESaE.original.fullsize.png) [[card]]
+	  ![image.png](../assets/image_1675274431146_0.png){:height 253, :width 462} [[card]]
 		- 绘制计算图时,现算直接和 x 相关的,全部列完再去列后续的
 		- 通过正向传播得下表
 		- $$
