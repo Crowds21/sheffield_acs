@@ -81,7 +81,7 @@
   :block/updated-at 1675293974542}
  {:block/name "com6509/logistic regression/cards",
   :block/created-at 1675293974542,
-  :block/updated-at 1675365371576}
+  :block/updated-at 1675513991437}
  {:block/name "com6509/neural network",
   :block/created-at 1675293974575,
   :block/updated-at 1675293974575}
@@ -100,6 +100,9 @@
  {:block/name "com6509/probability theory/cards",
   :block/created-at 1675272425487,
   :block/updated-at 1675366125937}
+ {:block/name "com6513",
+  :block/created-at 1675514018296,
+  :block/updated-at 1675514165806}
  {:block/name "com6655",
   :block/created-at 1673803784581,
   :block/updated-at 1675340882685}
@@ -192,7 +195,7 @@
   :block/updated-at 1673803785166}
  {:block/name "contents",
   :block/created-at 1673803742579,
-  :block/updated-at 1675274442412}
+  :block/updated-at 1675513913520}
  {:block/name "contract law",
   :block/created-at 1674913857735,
   :block/updated-at 1674913857735}
@@ -265,6 +268,9 @@
  {:block/name "feb 3rd, 2023",
   :block/created-at 1675382403218,
   :block/updated-at 1675382403218}
+ {:block/name "feb 4th, 2023",
+  :block/created-at 1675513909241,
+  :block/updated-at 1675514018296}
  {:block/name "file",
   :block/created-at 1673803786874,
   :block/updated-at 1673803786874}
@@ -519,6 +525,9 @@
  {:block/name "neural networks",
   :block/created-at 1675272425582,
   :block/updated-at 1675272425582}
+ {:block/name "nlp",
+  :block/created-at 1675514025870,
+  :block/updated-at 1675514025870}
  {:block/name "normal distribution",
   :block/created-at 1675293974626,
   :block/updated-at 1675293974626}
