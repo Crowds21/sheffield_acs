@@ -6,6 +6,6 @@ The syllabus may change every year, so don't use it as the basis for preparing e
 # Process
 - [x] COM6655 
 - [x] COM6509
-- [] COM6513
-- [] COM6504
-- [] COM6523
+- [ ] COM6513
+- [ ] COM6504
+- [ ] COM6523
