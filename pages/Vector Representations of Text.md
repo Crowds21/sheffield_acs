@@ -22,5 +22,6 @@
 	- ((63dfa760-9d6f-4e6d-9938-6fbd0d1eaac7))
 - Vector Similarity
   ref:: ((63dfa77e-72b9-4abb-b0bf-2a9711d76136))
+	- Dot(inner) product
 	-
 -
