@@ -102,7 +102,7 @@
   :block/updated-at 1675366125937}
  {:block/name "com6513",
   :block/created-at 1675514018296,
-  :block/updated-at 1675514165806}
+  :block/updated-at 1675599801565}
  {:block/name "com6655",
   :block/created-at 1673803784581,
   :block/updated-at 1675340882685}
@@ -195,7 +195,7 @@
   :block/updated-at 1673803785166}
  {:block/name "contents",
   :block/created-at 1673803742579,
-  :block/updated-at 1675513913520}
+  :block/updated-at 1675599765806}
  {:block/name "contract law",
   :block/created-at 1674913857735,
   :block/updated-at 1674913857735}
@@ -271,6 +271,9 @@
  {:block/name "feb 4th, 2023",
   :block/created-at 1675513909241,
   :block/updated-at 1675514018296}
+ {:block/name "feb 5th, 2023",
+  :block/created-at 1675599741633,
+  :block/updated-at 1675599741633}
  {:block/name "file",
   :block/created-at 1673803786874,
   :block/updated-at 1673803786874}
@@ -423,6 +426,9 @@
  {:block/name "hls__lecture_9_1671028541607_0",
   :block/created-at 1675343819709,
   :block/updated-at 1675343819709}
+ {:block/name "hls__nlp_lec1_1675599773002_0",
+  :block/created-at 1675599882511,
+  :block/updated-at 1675599882511}
  {:block/name
   "hls__week45_06_contract_law_part_1_2022_1666627252369_0",
   :block/created-at 1674914923962,
@@ -615,6 +621,9 @@
  {:block/name "variational auto-encoders",
   :block/created-at 1675272425583,
   :block/updated-at 1675272425583}
+ {:block/name "vector representations of text",
+  :block/created-at 1675599801565,
+  :block/updated-at 1675600191851}
  {:block/name "wait",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
