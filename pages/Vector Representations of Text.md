@@ -88,8 +88,8 @@
 	  \begin{array}{|c|c|c|c|c|}
 	  Doc  & \hline \text { bad } & \text { good } & \text { great } & \text { terrible } \\
 	  Doc 1 & \hline 14 & 1 & 0 & 5 \\
-	  \hline 2 & 5 & 3 & 0 \\
-	  \hline 0 & 2 & 5 & 0 \\
+	  Doc 2 & \hline 2 & 5 & 3 & 0 \\
+	  Doc 3 &\hline 0 & 2 & 5 & 0 \\
 	  \hline
 	  \end{array}
 	  $$
