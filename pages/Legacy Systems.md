@@ -52,8 +52,8 @@
 	- Usability
 	  collapsed:: true
 		- Ease with which people can interact with the system and work effectively.
-- Why is reengineering  hard
+- TODO Why is reengineering  hard
 	- Scale
 	- Continuous change
 	- Complexity
-	-
+	- Dynamism 动态性
