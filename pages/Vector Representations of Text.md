@@ -72,7 +72,7 @@
 	  \text { information } & 0 & 1 & 6 & 0 & 4 & 0
 	  \end{array}
 	  $$
-	  
+	  根据上图计算
 	  $$
 	  \begin{aligned}
 	  & \operatorname{cosine}(\text { apricot, pineapple })=1 \\
