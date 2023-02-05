@@ -31,7 +31,8 @@
 - Vector Spaces of Text
 	- word-word (term-context)
 	- document-word (bag-of-words)
-- The role of vector representations of text
+- Its purpose of vector representations of text
   ref:: ((63dfa9b7-0b0a-408b-9350-fcf02cf32525))
 	- Encode the meaning of words so we can compute ==semantic similarity== between them
 	- Document retrieval
+	- Apply Machine Learning on textual data
