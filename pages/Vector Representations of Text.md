@@ -96,6 +96,7 @@
 	  $$
 	- $X$ 也可以通过将文档中 one-hot vectors of the words 相加，然后转置来获得
 - TODO Weight the vectors
+  collapsed:: true
 	- Weighting the Word-Word Matrix
 		- Distance discount
 		- Pointwise Mutual Information
@@ -104,6 +105,7 @@
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
+  collapsed:: true
 	- Evaluation: Word Vectors
 	- Limitations: Word Vectors
 	- Evaluation: Document Vectors
