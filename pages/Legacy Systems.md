@@ -22,4 +22,17 @@
 	  collapsed:: true
 		- How the system will be operated, administered, et
 - Perspectives
-	-
+	- Accessibility
+		- The ability of the system to be used by people with disabilities
+	- Availability & Resilience Ability to be operational as and when required, and to handle failures that could affect availability.
+	- Development Resource Ability to be designed, build, deployed, and operated within constraints around people, budget, 
+	  time, materials.
+	- Evolution Ability to be flexible in the face of inevitable change, balanced against costs of providing this 
+	  flexibility.
+	- Internationalisation Ability to be independent from any particular language, country or cultural group.
+	- Location Ability to overcome problems brought about by the location of its elements and distances between 
+	  them.
+	- Performance & Scalability Ability to predictably execute within mandated performance profile, and handle increasing volumes.
+	  Regulation Ability to conform to local and international laws, quasi-legal regulations, company policies, etc.
+	  Security Ability to reliably control, monitor, and audit who can perform what mechanisms on what resources.
+	  Usability Ease with which people can interact with the system and work effectively.
