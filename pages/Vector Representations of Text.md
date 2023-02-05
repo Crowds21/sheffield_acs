@@ -5,3 +5,4 @@
 		- new words appear constantly
 		- syntactic rules are flexible
 		- ambiguity is inherent
+	- world knowledge is necessary for interpretation
