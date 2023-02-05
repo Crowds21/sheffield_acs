@@ -57,4 +57,4 @@
 	- ((63dfaf8c-1ffc-4ee4-9fbe-92b341b1bff3))
 - Word-Word Matrix
   ref:: ((63dfafb3-3d18-4d8d-8a33-e7e6db41c3e8))
-	-
+	- 矩阵$X$,维度为$
