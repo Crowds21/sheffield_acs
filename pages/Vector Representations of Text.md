@@ -93,4 +93,4 @@
 	  \hline
 	  \end{array}
 	  $$
--
+	- $X$y
