@@ -21,4 +21,5 @@
 	- Operational
 	  collapsed:: true
 		- How the system will be operated, administered, et
-- Prespectives
+- Perspectives
+	-
