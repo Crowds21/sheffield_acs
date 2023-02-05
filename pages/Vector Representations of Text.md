@@ -12,4 +12,6 @@
 		- requires expert knowledge to engineer the rules
 		- not flexible to adapt in multiple languages, domains, applications
 	- Machine leanring
-		- to evolution: just learn from new data to different applications: just learn with the appropriate target representation
+		- to evolution: just learn from new data
+		- to different applications: just learn with the appropriate target representation
+-
