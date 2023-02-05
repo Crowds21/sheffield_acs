@@ -60,3 +60,4 @@
 	- Complexity
 	- Dynamism 动态性
 - Why not start from  scratch
+	- It’s extremely risky
