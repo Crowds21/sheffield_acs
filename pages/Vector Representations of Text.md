@@ -86,7 +86,7 @@
 	- 对于每一个文档,确定单词$w \in \mathcal{V}$出现的次数
 	- $$
 	  
-	  \begin{tabular}{|c|c|c|c|}
+	  \begin{tabular}{|c|c|c|c|c|}
 	  Doc  \hline bad & good & great & terrible \\
 	  Doc 1 \hline 14 & 1 & 0 & 5 \\
 	  Doc 2 \hline 2 & 5 & 3 & 0 \\
