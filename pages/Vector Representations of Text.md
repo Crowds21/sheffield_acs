@@ -62,7 +62,7 @@
 	- 用一个上下文窗口($\pm k$, 即$x_i$左右两侧的单词数)
 	- 计算大文档的词汇频率
 	- 通常，目标词和上下文词词汇表是相同的，形成一个方阵
-	- 示例, 行为目标词汇,
+	- 示例, 行为target words, 列为
 	  $$
 	  \begin{array}{lrrrr|rrr|} 
 	  & \text { aardvark } & \text { computer } & \text { data } & \text { pinch } & \text { result } & \text { sugar } & \ldots \\
