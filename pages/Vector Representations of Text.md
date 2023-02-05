@@ -87,8 +87,8 @@
 	- $$
 	  
 	  \begin{tabular}{|c|c|c|c|c|}
-	  Doc  &\hline bad & good & great & terrible \\
-	  Doc 1 &\hline 14 & 1 & 0 & 5 \\
+	  \hline Doc  & bad & good & great & terrible \\
+	  \hline  Doc 1 &14 & 1 & 0 & 5 \\
 	  \hline Doc 2 & 2 & 5 & 3 & 0 \\
 	  \hline Doc 3 & 0 & 2 & 5 & 0 \\
 	  \hline
