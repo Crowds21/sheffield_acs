@@ -62,5 +62,14 @@
 	- 用一个上下文窗口($\pm k$, 即$x_i$左右两侧的单词数)
 	- 计算大文档的词汇频率
 	- 通常，目标词和上下文词词汇表是相同的，形成一个方阵
--
+	- 示例
+	  $$
+	  \begin{array}{lrrrr|rrr|} 
+	  & \text { aardvark } & \text { computer } & \text { data } & \text { pinch } & \text { result } & \text { sugar } & \ldots \\
+	  \hline \text { apricot } & 0 & 0 & 0 & 1 & 0 & 1 & \\
+	  \text { pineapple } & 0 & 0 & 0 & 1 & 0 & 1 \\
+	  \text { digital } & 0 & 2 & 1 & 0 & 1 & 0 \\
+	  \text { information } & 0 & 1 & 6 & 0 & 4 & 0
+	  \end{array}
+	  $$
 -
