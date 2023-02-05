@@ -55,4 +55,4 @@
 - Distributional Hypothesis in NLP [[card]]
   collapsed:: true
 	- ((63dfaf8c-1ffc-4ee4-9fbe-92b341b1bff3))
--
+- Word-Word Matrix
