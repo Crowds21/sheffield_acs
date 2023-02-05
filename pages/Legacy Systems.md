@@ -23,14 +23,19 @@
 		- How the system will be operated, administered, et
 - Perspectives
 	- Accessibility
+	  collapsed:: true
 		- The ability of the system to be used by people with disabilities
 	- Availability & Resilience
+	  collapsed:: true
 		- Ability to be operational as and when required, and to handle failures that could affect availability.
 	- Development Resource
+	  collapsed:: true
 		- Ability to be designed, build, deployed, and operated within constraints around people, budget,  time, materials.
 	- Evolution
+	  collapsed:: true
 		- Ability to be flexible in the face of inevitable change, balanced against costs of providing this  flexibility.
 	- Internationalisation
+	  collapsed:: true
 		- Ability to be independent from any particular language, country or cultural group.
 	- Location
 		- Ability to overcome problems brought about by the location of its elements and distances between  them.
