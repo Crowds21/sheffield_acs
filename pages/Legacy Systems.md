@@ -37,7 +37,11 @@
 	- Location
 		- Ability to overcome problems brought about by the location of its elements and distances between 
 		  them.
-	- Performance & Scalability Ability to predictably execute within mandated performance profile, and handle increasing volumes.
-	- Regulation Ability to conform to local and international laws, quasi-legal regulations, company policies, etc.
-	- Security Ability to reliably control, monitor, and audit who can perform what mechanisms on what resources.
-	- Usability Ease with which people can interact with the system and work effectively.
+	- Performance & Scalability
+		- Ability to predictably execute within mandated performance profile, and handle increasing volumes.
+	- Regulation
+		- Ability to conform to local and international laws, quasi-legal regulations, company policies, etc.
+	- Security
+		- Ability to reliably control, monitor, and audit who can perform what mechanisms on what resources.
+	- Usability
+		- Ease with which people can interact with the system and work effectively.
