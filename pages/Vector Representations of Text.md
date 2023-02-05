@@ -47,4 +47,5 @@
 - The steps of Textprocessing
 	- ((63dfaede-9ef5-44aa-b0ac-d5155ea6a3bd))
 	- lowercasing
-	- punctuation/number/stop/infrequent word removal and stemming
+	- punctuation/number/stop/infrequent word removal
+	- stemming
