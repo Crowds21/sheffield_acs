@@ -20,5 +20,6 @@
 - Vectors and Vector Spaces
 	- ((63dfa75a-3616-4992-8703-6c1f7b2f58ae))
 	- ((63dfa760-9d6f-4e6d-9938-6fbd0d1eaac7))
--
+- Vector Similarity
+  ref
 -
