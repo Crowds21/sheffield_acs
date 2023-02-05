@@ -7,5 +7,5 @@
 		- ambiguity is inherent
 	- world knowledge is necessary for interpretation
 	- many languages, dialects, styles
-- Challenges in
--
+- Challenges in Traditional rule-based artificial intelligenc and Learning from data (machine learning) adapts
+	-
