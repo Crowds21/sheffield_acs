@@ -102,3 +102,4 @@
 	- Weighting the Document-Word Matri
 		- TF.IDF
 - Problems with Dimensionality
+- Truncated Singular Value Decomposition
