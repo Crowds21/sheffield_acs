@@ -195,7 +195,7 @@
   :block/updated-at 1673803785166}
  {:block/name "contents",
   :block/created-at 1673803742579,
-  :block/updated-at 1675599765806}
+  :block/updated-at 1675604556153}
  {:block/name "contract law",
   :block/created-at 1674913857735,
   :block/updated-at 1674913857735}
@@ -623,7 +623,7 @@
   :block/updated-at 1675272425583}
  {:block/name "vector representations of text",
   :block/created-at 1675599801565,
-  :block/updated-at 1675604243319}
+  :block/updated-at 1675605336815}
  {:block/name "wait",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
