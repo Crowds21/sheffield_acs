@@ -23,5 +23,5 @@
 - Vector Similarity
   ref:: ((63dfa77e-72b9-4abb-b0bf-2a9711d76136))
 	- Dot(inner) product
-	-
+		- $$
 -
