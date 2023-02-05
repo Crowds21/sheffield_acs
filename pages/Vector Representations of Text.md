@@ -36,3 +36,4 @@
 	- Encode the meaning of words so we can compute ==semantic similarity== between them
 	- Document retrieval
 	- Apply Machine Learning on textual data
+-
