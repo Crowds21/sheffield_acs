@@ -44,4 +44,5 @@
   ref:: ((63dfaea8-5504-4321-8634-048530c47c5a))
 	- word (token/term):
 	- document (text sequence/snippet)
-- The steps of
+- The steps of Tokenisation
+	-
