@@ -8,4 +8,5 @@
 	- world knowledge is necessary for interpretation
 	- many languages, dialects, styles
 - Challenges in Traditional rule-based artificial intelligenc and Learning from data (machine learning) adapts [[card]]
-	-
+	- Rule-based
+		- requires expert knowledge to engineer the rules not flexible to adapt in multiple languages, domains, applications
