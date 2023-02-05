@@ -82,6 +82,7 @@
 	  $$
 - Document-Word Matrix
   ref:: ((63dfb2cb-18ed-421b-89c5-0a46bf1cef41))
+  collapsed:: true
 	- 一个矩阵 $X$,$|D| \times|\mathcal{V}|$, 其中行是语料库$D$中的文档，列是$V$中的词汇
 	- 对于每一个文档,确定单词$w \in \mathcal{V}$出现的次数
 	- $$
@@ -93,5 +94,6 @@
 	  \hline
 	  \end{array}
 	  $$
-	- $X$ 也可以通过将文档中one-hot vectors of the words相加，然后转置来获得！
+	- $X$ 也可以通过将文档中 one-hot vectors of the words 相加，然后转置来获得
+-
 -
