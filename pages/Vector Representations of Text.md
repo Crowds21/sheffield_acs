@@ -30,4 +30,5 @@
 		-
 - Vector Spaces of Text
 	- word-word (term-context)
-	-
+	- document-word (bag-of-words)
+-
