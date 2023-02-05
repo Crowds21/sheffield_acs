@@ -33,8 +33,7 @@
 	- Internationalisation
 		- Ability to be independent from any particular language, country or cultural group.
 	- Location
-		- Ability to overcome problems brought about by the location of its elements and distances between 
-		  them.
+		- Ability to overcome problems brought about by the location of its elements and distances between  them.
 	- Performance & Scalability
 		- Ability to predictably execute within mandated performance profile, and handle increasing volumes.
 	- Regulation
