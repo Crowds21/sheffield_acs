@@ -98,4 +98,5 @@
 - Weight the vectors
 	- Weighting the Word-Word Matrix
 		- Distance discount
+		- Pointwise Mutual Information
 -
