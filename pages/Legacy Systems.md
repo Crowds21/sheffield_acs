@@ -38,12 +38,18 @@
 	  collapsed:: true
 		- Ability to be independent from any particular language, country or cultural group.
 	- Location
+	  collapsed:: true
 		- Ability to overcome problems brought about by the location of its elements and distances between  them.
 	- Performance & Scalability
+	  collapsed:: true
 		- Ability to predictably execute within mandated performance profile, and handle increasing volumes.
 	- Regulation
+	  collapsed:: true
 		- Ability to conform to local and international laws, quasi-legal regulations, company policies, etc.
 	- Security
+	  collapsed:: true
 		- Ability to reliably control, monitor, and audit who can perform what mechanisms on what resources.
 	- Usability
+	  collapsed:: true
 		- Ease with which people can interact with the system and work effectively.
+- Why is reengineering  hard
