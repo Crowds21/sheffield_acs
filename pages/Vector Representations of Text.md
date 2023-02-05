@@ -82,5 +82,6 @@
 	  $$
 - Document-Word Matrix
   ref:: ((63dfb2cb-18ed-421b-89c5-0a46bf1cef41))
-	- 一个矩阵 $X$,$|D| \times|\mathcal{V}|$, 其中行是语料库$D中的文档，列是V中的词汇
+	- 一个矩阵 $X$,$|D| \times|\mathcal{V}|$, 其中行是语料库$D$中的文档，列是$V$中的词汇
+	-
 -
