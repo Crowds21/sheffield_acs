@@ -32,4 +32,5 @@
 	- word-word (term-context)
 	- document-word (bag-of-words)
 - The role of vector representations of text
-	- Semantic similarity
+	- Encode the meaning of words so we can compute ==semantic similarity== between them
+	-
