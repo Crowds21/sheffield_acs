@@ -20,7 +20,7 @@
 - Vectors and Vector Spaces
 	- ((63dfa75a-3616-4992-8703-6c1f7b2f58ae))
 	- ((63dfa760-9d6f-4e6d-9938-6fbd0d1eaac7))
-- Vector Similarity
+- Claculate Vector Similarity
   ref:: ((63dfa77e-72b9-4abb-b0bf-2a9711d76136))
 	- Dot(inner) product
 		- $\operatorname{dot}\left(\mathbf{x}_1, \mathbf{x}_2\right)=\mathbf{x}_1 \cdot \mathbf{x}_2=\mathbf{x}_1 \mathbf{x}_2^{\top}=\sum_{i=1}^d x_{1, i} x_{2, i}$
