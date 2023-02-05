@@ -1,5 +1,6 @@
 -
 - View points
+  collapsed:: true
 	- Context
 	  collapsed:: true
 		- Describes the relationships, dependencies, and interactions between the system and its environment.
@@ -22,6 +23,7 @@
 	  collapsed:: true
 		- How the system will be operated, administered, et
 - Perspectives
+  collapsed:: true
 	- Accessibility
 	  collapsed:: true
 		- The ability of the system to be used by people with disabilities
@@ -57,3 +59,4 @@
 	- Continuous change
 	- Complexity
 	- Dynamism 动态性
+- Why not start from  scratch
