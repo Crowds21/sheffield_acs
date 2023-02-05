@@ -55,3 +55,4 @@
 - Why is reengineering  hard
 	- Scale
 	- Continuous change
+	- Complexity
