@@ -101,3 +101,4 @@
 		- Pointwise Mutual Information
 	- Weighting the Document-Word Matri
 		- TF.IDF
+- Problems with Dimensionality
