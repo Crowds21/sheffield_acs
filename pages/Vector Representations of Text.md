@@ -40,3 +40,5 @@
 	- Document retrieval
 	- Apply Machine Learning on textual data
 - Text units
+  ref
+	- word (token/term):
