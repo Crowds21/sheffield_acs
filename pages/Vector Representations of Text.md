@@ -93,5 +93,5 @@
 	  \hline
 	  \end{array}
 	  $$
-	- $X$ 也可以通过将文档中单词的所有一个热向量相加，然后转置来获得！
+	- $X$ 也可以通过将文档中one-hot vectors of the words相加，然后转置来获得！
 -
