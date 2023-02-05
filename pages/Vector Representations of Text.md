@@ -86,17 +86,11 @@
 	- 对于每一个文档,确定单词$w \in \mathcal{V}$出现的次数
 	- $$
 	  \begin{array}{|c|c|c|c|c|}
-	  \hlineDoc  &  \text { bad } & \text { good } & \text { great } & \text { terrible } \\
+	  \hline Doc  &  \text { bad } & \text { good } & \text { great } & \text { terrible } \\
 	  \hline Doc 1 &  14 & 1 & 0 & 5 \\
-	   \hline Doc 2 & 2 & 5 & 3 & 0 \\
-	  \hline  Doc 3 &0 & 2 & 5 & 0 \\
+	  \hline Doc 2 & 2 & 5 & 3 & 0 \\
+	  \hline Doc 3 &0 & 2 & 5 & 0 \\
 	  \hline
 	  \end{array}
 	  $$
-- \begin{tabular}{|c|c|c|c|c|}
-  \hline Doc  & bad & good & great & terrible \\
-  \hline Doc 1 &14 & 1 & 0 & 5 \\
-  \hline Doc 2 & 2 & 5 & 3 & 0 \\
-  \hline Doc 3 & 0 & 2 & 5 & 0 \\
-  \hline
-  \end{tabular}
+-
