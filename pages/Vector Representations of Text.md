@@ -105,4 +105,6 @@
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - Evaluation
 	- Evaluation: Word Vectors
+	- Limitations: Word Vectors
+	- Evaluation: Document Vectors
 -
