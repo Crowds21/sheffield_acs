@@ -96,5 +96,6 @@
 	  $$
 	- $X$ 也可以通过将文档中 one-hot vectors of the words 相加，然后转置来获得
 - Weight the vectors
-	- Weighting the Word-Word Matrix: Distance discount
+	- Weighting the Word-Word Matrix
+		- Distance discount
 -
