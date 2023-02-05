@@ -1,5 +1,6 @@
 -
 - Introduction
+  collapsed:: true
 	- Why is nlp challenging (overall) [[card]] 
 	  ref:: ((63dfa07c-7f26-4748-9b6e-83e438c17179))
 	  collapsed:: true
@@ -43,3 +44,4 @@
   ref:: ((63dfaea8-5504-4321-8634-048530c47c5a))
 	- word (token/term):
 	- document (text sequence/snippet)
+-
