@@ -7,5 +7,5 @@
 		- ambiguity is inherent
 	- world knowledge is necessary for interpretation
 	- many languages, dialects, styles
-- Traditional rule-based artificial intelligenc and
+-
 -
