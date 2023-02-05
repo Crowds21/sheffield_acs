@@ -61,3 +61,5 @@
 	- Dynamism 动态性
 - Why not start from  scratch
 	- It’s extremely risky
+		- A lack of requirements and specification
+		-
