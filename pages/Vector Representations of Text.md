@@ -85,7 +85,7 @@
 	- 一个矩阵 $X$,$|D| \times|\mathcal{V}|$, 其中行是语料库$D$中的文档，列是$V$中的词汇
 	- 对于每一个文档,确定单词$w \in \mathcal{V}$出现的次数
 	- $$
-	  \begin{array}{|c|c|c|c|}
+	  \begin{array}{|c|c|c|c|c|}
 	  \hline \text { bad } & \text { good } & \text { great } & \text { terrible } \\
 	  \hline 14 & 1 & 0 & 5 \\
 	  \hline 2 & 5 & 3 & 0 \\
