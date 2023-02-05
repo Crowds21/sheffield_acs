@@ -101,5 +101,5 @@
 		- Pointwise Mutual Information
 	- Weighting the Document-Word Matri
 		- TF.IDF
-- Problems with Dimensionality
-- Truncated Singular Value Decomposition
+- TODO Problems with Dimensionality
+- TODO Truncated Singular Value Decomposition 截断的奇异值分解
