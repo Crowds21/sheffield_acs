@@ -54,4 +54,4 @@
 		- Ease with which people can interact with the system and work effectively.
 - Why is reengineering  hard
 	- Scale
-	-
+	- Continuous change
