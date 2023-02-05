@@ -17,5 +17,6 @@
 		- Machine leanring
 			- to evolution: just learn from new data
 			- to different applications: just learn with the appropriate target representation
-- Vectors and
+- Vectors and Vector Spaces
+	-
 -
