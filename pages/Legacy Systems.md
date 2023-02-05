@@ -62,4 +62,6 @@
 - Why not start from  scratch
 	- It’s extremely risky
 		- A lack of requirements and specification
-		-
+		- Difficult to anticipate cost and ensure reliability.
+		- Difficult to ensure that the replacement is able to replace the old system.
+		- High stakes for business critical systems
