@@ -23,5 +23,6 @@
 - Vector Similarity
   ref:: ((63dfa77e-72b9-4abb-b0bf-2a9711d76136))
 	- Dot(inner) product
-		- $$
--
+		- $\operatorname{dot}\left(\mathbf{x}_1, \mathbf{x}_2\right)=\mathbf{x}_1 \cdot \mathbf{x}_2=\mathbf{x}_1 \mathbf{x}_2^{\top}=\sum_{i=1}^d x_{1, i} x_{2, i}$
+	- Cosine similarity
+		-
