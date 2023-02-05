@@ -103,8 +103,8 @@
 		- TF.IDF
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
-- Evaluation
+- TODO Evaluation
 	- Evaluation: Word Vectors
 	- Limitations: Word Vectors
 	- Evaluation: Document Vectors
--
+	- Limitations: Document Vectors
