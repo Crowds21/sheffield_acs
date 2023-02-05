@@ -27,11 +27,9 @@
 	- Availability & Resilience
 		- Ability to be operational as and when required, and to handle failures that could affect availability.
 	- Development Resource
-		- Ability to be designed, build, deployed, and operated within constraints around people, budget, 
-		  time, materials.
+		- Ability to be designed, build, deployed, and operated within constraints around people, budget,  time, materials.
 	- Evolution
-		- Ability to be flexible in the face of inevitable change, balanced against costs of providing this 
-		  flexibility.
+		- Ability to be flexible in the face of inevitable change, balanced against costs of providing this  flexibility.
 	- Internationalisation
 		- Ability to be independent from any particular language, country or cultural group.
 	- Location
