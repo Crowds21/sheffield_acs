@@ -72,4 +72,11 @@
 	  \text { information } & 0 & 1 & 6 & 0 & 4 & 0
 	  \end{array}
 	  $$
+	  
+	  $$
+	  \begin{aligned}
+	  & \operatorname{cosine}(\text { apricot, pineapple })=1 \\
+	  & \operatorname{cosine}(\text { apricot, digital })=0
+	  \end{aligned}
+	  $$
 -
