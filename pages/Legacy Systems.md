@@ -1,32 +1,33 @@
 -
 - View points
 	- What is view points
+	  collapsed:: true
 		- Collection of patterns, templates, and conventions for constructing one type of view.
 		- Defines the relevant stakeholders, and the relevant guidelines, principles and template models for constructing the views.
-- View points
-	- Context
+	- Consist of View points
 	  collapsed:: true
-		- Describes the relationships, dependencies, and interactions between the system and its environment.
-	- Functional
-	  collapsed:: true
-		- Functional elements, their responsibilities and interactions. Traditionally the starting point for an architectural description.
-	- Information
-	  collapsed:: true
-		- How the architecture stores, manipulates, manages and distributes information. Content, structure, ownership, latency,  etc.
-	- Concurrency
-	  collapsed:: true
-		- Maps functional elements to concurrency units to clearly identify which parts of the system are synchronous or asynchronous.
-	- Development
-	  collapsed:: true
-		- How does the architecture support development - building, testing, maintaining, and enhancing the system.
-	- Deployment
-	  collapsed:: true
-		- What environment will the system be deployed to? Dependencies on the runtime environment, network connections, etc.
-	- Operational
-	  collapsed:: true
-		- How the system will be operated, administered, et
+		- Context
+		  collapsed:: true
+			- Describes the relationships, dependencies, and interactions between the system and its environment.
+		- Functional
+		  collapsed:: true
+			- Functional elements, their responsibilities and interactions. Traditionally the starting point for an architectural description.
+		- Information
+		  collapsed:: true
+			- How the architecture stores, manipulates, manages and distributes information. Content, structure, ownership, latency,  etc.
+		- Concurrency
+		  collapsed:: true
+			- Maps functional elements to concurrency units to clearly identify which parts of the system are synchronous or asynchronous.
+		- Development
+		  collapsed:: true
+			- How does the architecture support development - building, testing, maintaining, and enhancing the system.
+		- Deployment
+		  collapsed:: true
+			- What environment will the system be deployed to? Dependencies on the runtime environment, network connections, etc.
+		- Operational
+		  collapsed:: true
+			- How the system will be operated, administered, et
 - Perspectives
-  collapsed:: true
 	- Accessibility
 	  collapsed:: true
 		- The ability of the system to be used by people with disabilities
