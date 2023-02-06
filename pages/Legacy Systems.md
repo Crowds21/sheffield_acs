@@ -1,6 +1,7 @@
 -
 - 推荐阅读 ![Software systems architecture.pdf](../assets/Software_systems_architecture_1675690882326_0.pdf)
 - Viewpoints
+  collapsed:: true
 	- What is viewpoints
 	  collapsed:: true
 		- Collection of patterns, templates, and conventions for constructing one type of view.
@@ -61,13 +62,16 @@
 	  collapsed:: true
 		- Ease with which people can interact with the system and work effectively.
 - TODO Why is reengineering  hard
+  collapsed:: true
 	- Scale
 	- Continuous change
 	- Complexity
 	- Dynamism 动态性
 - Why not start from  scratch
+  collapsed:: true
 	- It’s extremely risky
 	- A lack of requirements and specification
 	- Difficult to anticipate cost and ensure reliability.
 	- Difficult to ensure that the replacement is able to replace the old system.
 	- High stakes for business critical systems
+-
