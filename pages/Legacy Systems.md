@@ -1,6 +1,8 @@
 -
 - View points
-	- What is
+	- What is view points
+		- Collection of patterns, templates, and conventions for constructing one type of view.
+		- Defines the relevant stakeholders, and the relevant guidelines, principles and template models for constructing the views.
 - View points
 	- Context
 	  collapsed:: true
