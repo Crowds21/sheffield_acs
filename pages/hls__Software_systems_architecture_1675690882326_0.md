@@ -21,3 +21,8 @@ file-path:: ../assets/Software_systems_architecture_1675690882326_0.pdf
   hl-page:: 25
   hl-color:: red
   id:: 63e10d20-f2f5-4745-8532-e30ed69792fa
+- the concept of an architectural view.
+  ls-type:: annotation
+  hl-page:: 25
+  hl-color:: red
+  id:: 63e10d4d-19e3-435b-a048-cc61c182533c
