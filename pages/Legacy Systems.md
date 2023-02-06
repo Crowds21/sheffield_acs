@@ -55,13 +55,11 @@
 	  collapsed:: true
 		- Ease with which people can interact with the system and work effectively.
 - TODO Why is reengineering  hard
-  collapsed:: true
 	- Scale
 	- Continuous change
 	- Complexity
 	- Dynamism 动态性
 - Why not start from  scratch
-  collapsed:: true
 	- It’s extremely risky
 	- A lack of requirements and specification
 	- Difficult to anticipate cost and ensure reliability.
