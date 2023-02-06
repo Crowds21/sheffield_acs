@@ -1,6 +1,5 @@
 -
 - View points
-  collapsed:: true
 	- Context
 	  collapsed:: true
 		- Describes the relationships, dependencies, and interactions between the system and its environment.
