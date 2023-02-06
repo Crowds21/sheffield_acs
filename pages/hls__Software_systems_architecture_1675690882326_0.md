@@ -11,3 +11,8 @@ file-path:: ../assets/Software_systems_architecture_1675690882326_0.pdf
   hl-page:: 23
   hl-color:: red
   id:: 63e10bfb-240e-4e48-9511-1da0f11a23b1
+- clearly identify your stakeholders, work with them to understand their concerns, balance their inevitably conflicting priorities
+  ls-type:: annotation
+  hl-page:: 24
+  hl-color:: red
+  id:: 63e10c92-0f5d-4f8f-ac9c-92e3c2c71366
