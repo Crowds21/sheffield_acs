@@ -1,6 +1,6 @@
 -
 - 推荐阅读 ![Software systems architecture.pdf](../assets/Software_systems_architecture_1675690882326_0.pdf)
-- View points
+- Viewpoints
 	- What is view points
 	  collapsed:: true
 		- Collection of patterns, templates, and conventions for constructing one type of view.
