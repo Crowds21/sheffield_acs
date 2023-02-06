@@ -1,7 +1,7 @@
 -
 - 推荐阅读 ![Software systems architecture.pdf](../assets/Software_systems_architecture_1675690882326_0.pdf)
 - Viewpoints
-	- What is view points
+	- What is viewpoints
 	  collapsed:: true
 		- Collection of patterns, templates, and conventions for constructing one type of view.
 		- Defines the relevant stakeholders, and the relevant guidelines, principles and template models for constructing the views.
