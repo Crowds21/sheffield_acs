@@ -28,6 +28,7 @@
 		  collapsed:: true
 			- How the system will be operated, administered, et
 - Perspectives
+  collapsed:: true
 	- Accessibility
 	  collapsed:: true
 		- The ability of the system to be used by people with disabilities
