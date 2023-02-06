@@ -279,7 +279,7 @@
   :block/updated-at 1675599741633}
  {:block/name "feb 6th, 2023",
   :block/created-at 1675688159877,
-  :block/updated-at 1675688159877}
+  :block/updated-at 1675693396996}
  {:block/name "file",
   :block/created-at 1673803786874,
   :block/updated-at 1673803786874}
@@ -435,6 +435,9 @@
  {:block/name "hls__nlp_lec1_1675599773002_0",
   :block/created-at 1675599882511,
   :block/updated-at 1675599882511}
+ {:block/name "hls__software_systems_architecture_1675690882326_0",
+  :block/created-at 1675692976088,
+  :block/updated-at 1675692976088}
  {:block/name
   "hls__week45_06_contract_law_part_1_2022_1666627252369_0",
   :block/created-at 1674914923962,
@@ -521,7 +524,7 @@
   :block/updated-at 1673803786557}
  {:block/name "legacy systems",
   :block/created-at 1675635812264,
-  :block/updated-at 1675692609471}
+  :block/updated-at 1675693062829}
  {:block/name "linear regression",
   :block/created-at 1675272425582,
   :block/updated-at 1675272425582}
