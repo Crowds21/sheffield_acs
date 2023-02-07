@@ -133,14 +133,15 @@
 		- 其中$\#(\cdot)$表示计数，$|D|$表示语料库中观察到的word-context 词对的数量
 		- Positive values quantify relatedness. Use PMI instead of counts.
 		- Negative values? Usually ignored (positive PMI) $\operatorname{PPMI}\left(w_i, w_j\right)=\max \left(P M I\left(w_i, w_j\right), 0\right)$
-	- TF.IDF
+	- What is TF.IDF
+	  collapsed:: true
 		- 对出现在许多文档中的词进行惩罚 将词的频率与其倒置的文档频率相乘
 			- Penalise words appearing in many documents
 			- Multiply word frequencies with their inverted document frequencies:
 		- $$
 		  i d f_w=\log _{10} \frac{N}{d f_w}
 		  $$
-		- $N$ is the number of documents in the corpus, $df_w$ is document frequency of word w
+		- $N$ is the number of documents in the corpus, $df_w$ is document frequency of word $w$
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
