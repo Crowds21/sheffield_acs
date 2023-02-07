@@ -133,6 +133,8 @@
 		- 其中$\#(\cdot)$表示计数，$|D|$表示语料库中观察到的word-context 词对的数量
 		- Positive values quantify relatedness. Use PMI instead of counts.
 		- Negative values? Usually ignored (positive PMI) $\operatorname{PPMI}\left(w_i, w_j\right)=\max \left(P M I\left(w_i, w_j\right), 0\right)$
+	- TF.IDF
+		-
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
