@@ -71,3 +71,8 @@ file-path:: ../assets/SpareFoodShare.docx_1675790974813_0.pdf
   hl-page:: 2
   hl-color:: yellow
   id:: 63e28e43-bb71-4ae0-a7c2-e88dbcdbd6f8
+- generate PDF reports f
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63e28e86-4cee-4e2c-868c-9070a51745f1
