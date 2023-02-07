@@ -6,3 +6,8 @@ file-path:: ../assets/SpareFoodShare.docx_1675790974813_0.pdf
   hl-page:: 1
   hl-color:: yellow
   id:: 63e28a98-5ec7-447c-ab00-10071c630709
+- login and validate their email address the first time they login.
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 63e28aab-9050-4437-8320-8c41f91446d1
