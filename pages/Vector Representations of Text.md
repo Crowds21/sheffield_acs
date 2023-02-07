@@ -48,7 +48,6 @@
 	- document (text sequence/snippet)
 		- entence, paragraph, section, chapter, entire document, search query, social media post, transcribed utterance, pseudo-documents (e.g. all tweets posted by a user), etc.
 - The steps of Textprocessing
-  collapsed:: true
 	- ((63dfaede-9ef5-44aa-b0ac-d5155ea6a3bd))
 	- lowercasing
 	- punctuation/number/stop/infrequent word removal
