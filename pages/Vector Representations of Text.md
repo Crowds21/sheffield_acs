@@ -30,11 +30,13 @@
 	- TODO document-word (bag-of-words)
 - Its purpose of vector representations of text [[card]] 
   ref:: ((63dfa9b7-0b0a-408b-9350-fcf02cf32525))
+  collapsed:: true
 	- Encode the meaning of words so we can compute ==semantic similarity== between them
 	- Document retrieval
 	- Apply Machine Learning on textual data
 - Text units [[card]] 
   ref:: ((63dfaea8-5504-4321-8634-048530c47c5a))
+  collapsed:: true
 	- word (token/term)
 		- a sequence of one or more characters excluding whitespaces. Sometimes it consists of n-grams.
 	- document (text sequence/snippet)
