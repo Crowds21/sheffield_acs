@@ -147,6 +147,7 @@
 		- $x_{i d}=t f_{i d} \log _{10} \frac{N}{d f_{i d}}$
 		- $tf$的计算方式有多种,可以使用$tf=\log_{10}(count(t,d)+1)$
 - TODO Problems with Dimensionality
+	-
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
 	- Evaluation: Word Vectors
