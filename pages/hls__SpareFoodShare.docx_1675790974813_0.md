@@ -56,3 +56,8 @@ file-path:: ../assets/SpareFoodShare.docx_1675790974813_0.pdf
   hl-page:: 2
   hl-color:: yellow
   id:: 63e28da8-b6a9-46f3-b1dd-c3efc6599fa0
+- make use of paypal and stripe for payment collection
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63e28e08-5107-4c77-8d05-640a82bc3c59
