@@ -41,11 +41,11 @@
 		- entence, paragraph, section, chapter, entire document, search query, social media post, transcribed utterance, pseudo-documents (e.g. all tweets posted by a user), etc.
 - The steps of Textprocessing
 	- ((63dfaede-9ef5-44aa-b0ac-d5155ea6a3bd))
-		- Tokenisation to obtain tokens from raw text. Simplest form: split text on whitespaces or use regular expressions
 	- lowercasing
 	- punctuation/number/stop/infrequent word removal
 	- stemming
-- What is
+- What is Tokenisation [[card]]
+	- Tokenisation to obtain tokens from raw text. Simplest form: split text on whitespaces or use regular expressions
 - TODO ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
 - Distributional Hypothesis in NLP [[card]]
 	- ((63dfaf8c-1ffc-4ee4-9fbe-92b341b1bff3))
