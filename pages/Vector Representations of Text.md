@@ -40,8 +40,9 @@
 	- Encode the meaning of words so we can compute ==semantic similarity== between them
 	- Document retrieval
 	- Apply Machine Learning on textual data
-- Text units
+- Text units [[card]] 
   ref:: ((63dfaea8-5504-4321-8634-048530c47c5a))
+  collapsed:: true
 	- word (token/term)
 		- a sequence of one or more characters excluding whitespaces. Sometimes it consists of n-grams.
 	- document (text sequence/snippet)
