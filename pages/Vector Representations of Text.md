@@ -43,8 +43,9 @@
 - Text units
   ref:: ((63dfaea8-5504-4321-8634-048530c47c5a))
 	- word (token/term)
-		-
+		- a sequence of one or more characters excluding whitespaces. Sometimes it consists of n-grams.
 	- document (text sequence/snippet)
+		- entence, paragraph, section, chapter, entire document, search query, social media post, transcribed utterance, pseudo-documents (e.g. all tweets posted by a user), etc.
 - The steps of Textprocessing
   collapsed:: true
 	- ((63dfaede-9ef5-44aa-b0ac-d5155ea6a3bd))
