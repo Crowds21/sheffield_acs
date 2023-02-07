@@ -117,6 +117,7 @@
 	  $$
 	- $X$ 也可以通过将文档中 one-hot vectors of the words 相加，然后转置来获得
 - Weight the vectors
+  collapsed:: true
 	- 引入 Weight the vectors 是为了解决什么问题? [[card]]
 	  collapsed:: true
 		- Frequent words (articles, pronouns, etc.) dominate contexts without being informative
@@ -127,13 +128,14 @@
 		- 一个窗口的大小为 $\pm k$, 则该词语的上下文权重为$\frac{k-d i s t a n c e}{k}$
 		- 例如当$k=3$时 $\left[\frac{1}{3}, \frac{2}{3}, \frac{3}{3}, \text { word }, \frac{3}{3}, \frac{2}{3}, \frac{1}{3}\right]$
 	- What is Pointwise Mutual Information [[card]]
+	  collapsed:: true
 		- 点间互信息, 两个词$w_i$, 和 $w_j$, 相对独立出现的频率
 		- $P M I\left(w_i, w_j\right)=\log _2 \frac{P\left(w_i, w_j\right)}{P\left(w_i\right) P\left(w_j\right)}=\frac{\#\left(w_i, w_j\right)|D|}{\#\left(w_1\right) \cdot \#\left(w_j\right)}$
 		- $P\left(w_i, w_j\right)=\frac{\#\left(w_i, w_j\right)}{|D|}, P\left(w_i\right)=\frac{\#\left(w_i\right)}{|D|}$
 		- 其中$\#(\cdot)$表示计数，$|D|$表示语料库中观察到的word-context 词对的数量
 		- Positive values quantify relatedness. Use PMI instead of counts.
 		- Negative values? Usually ignored (positive PMI) $\operatorname{PPMI}\left(w_i, w_j\right)=\max \left(P M I\left(w_i, w_j\right), 0\right)$
-	- What is TF.IDF
+	- What is TF.IDF [[card]]
 	  collapsed:: true
 		- 对出现在许多文档中的词进行惩罚 将词的频率与其倒置的文档频率相乘
 			- Penalise words appearing in many documents
