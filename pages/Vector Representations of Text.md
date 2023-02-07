@@ -63,6 +63,7 @@
 		- $$
 		  \operatorname{cosine}\left(\mathbf{x}_2, \mathbf{x}_3\right)=\frac{\mathbf{x}_2 \cdot \mathbf{x}_3}{\left|\mathbf{x}_2\right|\left|\mathbf{x}_3\right|}=\frac{0}{1 \cdot 1}=0
 		  $$
+		- Every word is equally different from every other word. But apricot and pineapple are related
 		-
 - Distributional Hypothesis in NLP [[card]]
 	- ((63dfaf8c-1ffc-4ee4-9fbe-92b341b1bff3))
