@@ -130,7 +130,7 @@
 		- 点间互信息, 两个词$w_i$, 和 $w_j$, 相对独立出现的频率
 		- $P M I\left(w_i, w_j\right)=\log _2 \frac{P\left(w_i, w_j\right)}{P\left(w_i\right) P\left(w_j\right)}=\frac{\#\left(w_i, w_j\right)|D|}{\#\left(w_1\right) \cdot \#\left(w_j\right)}$
 		- $P\left(w_i, w_j\right)=\frac{\#\left(w_i, w_j\right)}{|D|}, P\left(w_i\right)=\frac{\#\left(w_i\right)}{|D|}$
-		- 其中$\#(\cdot)$表示计数，$|D|$表示语料库中观察到的word-context对的数量。
+		- 其中$\#(\cdot)$表示计数，$|D|$表示语料库中观察到的word-context 词对的数量。
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
