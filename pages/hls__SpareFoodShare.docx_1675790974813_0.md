@@ -46,3 +46,8 @@ file-path:: ../assets/SpareFoodShare.docx_1675790974813_0.pdf
   hl-page:: 2
   hl-color:: yellow
   id:: 63e28d75-ae05-4c33-98c8-eb894b8f839c
+- e automatically removed from the public page,
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63e28d8e-3541-499b-b705-939f01e7eb8d
