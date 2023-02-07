@@ -66,3 +66,8 @@ file-path:: ../assets/SpareFoodShare.docx_1675790974813_0.pdf
   hl-page:: 2
   hl-color:: yellow
   id:: 63e28e34-9e10-4dfc-a8f9-2d2a9cad5f75
+- remind them of the expiry or use by date
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63e28e43-bb71-4ae0-a7c2-e88dbcdbd6f8
