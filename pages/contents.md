@@ -1,12 +1,13 @@
-- [[COM6655]] Professional Issues
-- [[COM6509]] Machine Learning
-- [[COM6513]] NLP
-- [[COM6523]] Re-engineering
 - 本地合并分支
+  collapsed:: true
 	- ```sh
 	  git fetch --all
 	  git reset --hard origin/main
 	  ```
+- [[COM6655]] Professional Issues
+- [[COM6509]] Machine Learning
+- [[COM6513]] NLP
+- [[COM6523]] Re-engineering
 -
 -
 -
