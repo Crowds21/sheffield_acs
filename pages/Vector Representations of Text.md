@@ -154,6 +154,7 @@
 	- 非常稀疏：词只与少量的词共同出现；文档只包含词汇的一个非常小的子集
 	- 解决办法 ((63e263b5-0126-4973-8998-cecb1129f979))
 - TODO [#A] Truncated Singular Value Decomposition
+  collapsed:: true
 	- 什么是 Truncated Singular Value Decomposition 截断的奇异值分解 [[card]]
 		- 一种寻找数据集最重要维度的方法，即通过将矩阵分解为潜在因素，找到数据变化最大的那些维度
 		- Truncated Singular Value Decomposition (truncated-SVD):
