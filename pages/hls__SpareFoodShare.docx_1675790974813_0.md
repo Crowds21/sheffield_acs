@@ -26,3 +26,8 @@ file-path:: ../assets/SpareFoodShare.docx_1675790974813_0.pdf
   hl-page:: 2
   hl-color:: yellow
   id:: 63e28b09-1588-46a3-866f-a69bfb7ee292
+- upload items via a CSV or excel file
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63e28d18-57d2-4f22-b034-b0fbafa4bb77
