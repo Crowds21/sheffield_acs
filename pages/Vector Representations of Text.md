@@ -1,5 +1,6 @@
 -
 - Introduction
+  collapsed:: true
 	- Why is nlp challenging (overall) [[card]] 
 	  ref:: ((63dfa07c-7f26-4748-9b6e-83e438c17179))
 	  collapsed:: true
@@ -77,6 +78,7 @@
 	- ((63dfaf8c-1ffc-4ee4-9fbe-92b341b1bff3))
 - Word-Word Matrix
   ref:: ((63dfafb3-3d18-4d8d-8a33-e7e6db41c3e8))
+  collapsed:: true
 	- 矩阵$X$,维度为$n\times m$,$n=|\mathcal{V}|$ (目标词汇) , $m=\left|\mathcal{V}_c\right|$ (context 词汇)
 	- 对于$\mathcal{V}$中的每一个单词$x_i$,计算他和上下文中的词汇$x_j$一起出现的次数
 	- 用一个上下文窗口($\pm k$, 即$x_i$左右两侧的单词数)
