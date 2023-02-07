@@ -116,8 +116,10 @@
 	  $$
 	- $X$ 也可以通过将文档中 one-hot vectors of the words 相加，然后转置来获得
 - Weight the vectors
-	-
+	- Weight the vectors 是为了解决什么问题?
+		-
 	- TODO Weight the vectors
+	  collapsed:: true
 		- Weighting the Word-Word Matrix
 			- Distance discount
 			- Pointwise Mutual Information
