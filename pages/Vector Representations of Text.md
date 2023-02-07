@@ -34,7 +34,7 @@
   collapsed:: true
 	- TODO word-word (term-context)
 	- TODO document-word (bag-of-words)
-- Its purpose of vector representations of text
+- Its purpose of vector representations of text [[card]] 
   ref:: ((63dfa9b7-0b0a-408b-9350-fcf02cf32525))
 	- Encode the meaning of words so we can compute ==semantic similarity== between them
 	- Document retrieval
