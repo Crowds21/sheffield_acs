@@ -49,6 +49,7 @@
 		- entence, paragraph, section, chapter, entire document, search query, social media post, transcribed utterance, pseudo-documents (e.g. all tweets posted by a user), etc.
 - The steps of Textprocessing
 	- ((63dfaede-9ef5-44aa-b0ac-d5155ea6a3bd))
+		- Tokenisation to obtain tokens from raw text. Simplest form: split text on whitespaces or use regular expressions
 	- lowercasing
 	- punctuation/number/stop/infrequent word removal
 	- stemming
