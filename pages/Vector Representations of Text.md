@@ -52,7 +52,8 @@
   ref:: ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
   $\mathcal{V}=\{\text { apple, apricot, chocolate, love, pie, pineapple }\}$
 	- $|\mathcal{V}|=6$
-	- $
+	- $\begin{aligned}\text { apricot } & =\mathbf{x}_2=[0,1,0,0,0,0] \\ \text { pineapple } & =\mathbf{x}_3=[0,0,0,0,0,1]\end{aligned}$
+	-
 - Distributional Hypothesis in NLP [[card]]
 	- ((63dfaf8c-1ffc-4ee4-9fbe-92b341b1bff3))
 - Word-Word Matrix
