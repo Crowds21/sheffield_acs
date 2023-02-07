@@ -117,7 +117,6 @@
 	  $$
 	- $X$ 也可以通过将文档中 one-hot vectors of the words 相加，然后转置来获得
 - Weight the vectors
-  collapsed:: true
 	- 引入 Weight the vectors 是为了解决什么问题? [[card]]
 	  collapsed:: true
 		- Frequent words (articles, pronouns, etc.) dominate contexts without being informative
@@ -136,7 +135,6 @@
 		- Positive values quantify relatedness. Use PMI instead of counts.
 		- Negative values? Usually ignored (positive PMI) $\operatorname{PPMI}\left(w_i, w_j\right)=\max \left(P M I\left(w_i, w_j\right), 0\right)$
 	- What is TF.IDF [[card]]
-	  collapsed:: true
 		- 对出现在许多文档中的词进行惩罚 将词的频率与其倒置的文档频率相乘
 			- Penalise words appearing in many documents
 			- Multiply word frequencies with their inverted document frequencies:
