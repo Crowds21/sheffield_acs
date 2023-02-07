@@ -48,7 +48,8 @@
 - What is Tokenisation [[card]]
   collapsed:: true
 	- Tokenisation to obtain tokens from raw text. Simplest form: split text on whitespaces or use regular expressions
-- TODO ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
+- TODO  
+  ref:: ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
 - Distributional Hypothesis in NLP [[card]]
 	- ((63dfaf8c-1ffc-4ee4-9fbe-92b341b1bff3))
 - Word-Word Matrix
