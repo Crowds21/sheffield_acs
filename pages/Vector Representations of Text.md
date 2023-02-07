@@ -162,8 +162,8 @@
 		- 详细说明见[本教程](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
 		- $U^{n\times k}$ represents document embeddings
 		- $V^{k \times m}$ represents word embeddings
-		- You can obtain an embedding $\mathbf{u}_{\text {new }}$ for a new document $\mathbf{x}_{\text {new }}$ by projecting its count vector to the latent space$
-		  \mathbf{u}_{\text {new }}=\mathbf{x}_{\text {new }} v_k^{\top}$
+		- You can obtain an embedding $\mathbf{u}_{\text {new }}$ for a new document $\mathbf{x}_{\text {new }}$ by projecting its count vector to the latent space
+		  $\mathbf{u}_{\text {new }}=\mathbf{x}_{\text {new }} v_k^{\top}$
 - TODO Evaluation
 	- Evaluation: Word Vectors
 	- Limitations: Word Vectors
