@@ -162,6 +162,7 @@
 		- 详细说明见[本教程](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
 		- $U^{n\times k}$ represents document embeddings
 		- represents word embeddings
+		- $\mathbf{u}_{\text {new }}=\mathbf{x}_{\text {new }} v_k^{\top}$
 - TODO Evaluation
 	- Evaluation: Word Vectors
 	- Limitations: Word Vectors
