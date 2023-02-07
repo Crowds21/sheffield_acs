@@ -134,7 +134,9 @@
 		- Positive values quantify relatedness. Use PMI instead of counts.
 		- Negative values? Usually ignored (positive PMI) $\operatorname{PPMI}\left(w_i, w_j\right)=\max \left(P M I\left(w_i, w_j\right), 0\right)$
 	- TF.IDF
-		-
+		- $$
+		  $i d f_w=\log _{10} \frac{N}{d f_w}$
+		  $$
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
