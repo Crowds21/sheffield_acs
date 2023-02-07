@@ -127,7 +127,8 @@
 		- 一个窗口的大小为 $\pm k$, 则该词语的上下文权重为$\frac{k-d i s t a n c e}{k}$
 		- 例如当$k=3$时 $\left[\frac{1}{3}, \frac{2}{3}, \frac{3}{3}, \text { word }, \frac{3}{3}, \frac{2}{3}, \frac{1}{3}\right]$
 	- What is Pointwise Mutual Information
-		- 点间互信息, 两个词$w_i$, 和 $w_j$
+		- 点间互信息, 两个词$w_i$, 和 $w_j$, 相对独立出现的频率
+		-
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
