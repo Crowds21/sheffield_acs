@@ -154,12 +154,13 @@
 	- 非常稀疏：词只与少量的词共同出现；文档只包含词汇的一个非常小的子集
 	- 解决办法 ((63e263b5-0126-4973-8998-cecb1129f979))
 - Truncated Singular Value Decomposition
-	- 什么是 Truncated Singular Value Decomposition 截断的奇异值分解
+	- 什么是 Truncated Singular Value Decomposition 截断的奇异值分解 [[card]]
 		- 一种寻找数据集最重要维度的方法，即通过将矩阵分解为潜在因素，找到数据变化最大的那些维度
 		- Truncated Singular Value Decomposition (truncated-SVD):
 		  $X^{n \times m} \approx U^{n \times k} S^{k \times k} V^{k \times m}$
 		- 近似性好：利用冗余性，通过学习低维潜伏空间来消除噪音
 		- 详细说明见[本教程](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
+	-
 - TODO Evaluation
 	- Evaluation: Word Vectors
 	- Limitations: Word Vectors
