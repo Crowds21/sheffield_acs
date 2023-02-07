@@ -156,7 +156,8 @@
 	- 一种寻找数据集最重要维度的方法，即通过将矩阵分解为潜在因素，找到数据变化最大的那些维度
 	- Truncated Singular Value Decomposition (truncated-SVD):
 	  $X^{n \times m} \approx U^{n \times k} S^{k \times k} V^{k \times m}$
-	-
+	- 近似性好：利用冗余性，通过学习低维潜伏空间来消除噪音
+	- 详细说明见本教程。
 - TODO Evaluation
 	- Evaluation: Word Vectors
 	- Limitations: Word Vectors
