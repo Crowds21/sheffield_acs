@@ -155,7 +155,8 @@
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 	- 一种寻找数据集最重要维度的方法，即通过将矩阵分解为潜在因素，找到数据变化最大的那些维度
 	- Truncated Singular Value Decomposition (truncated-SVD):
-		- $X^{n \times m} \approx U^{n \times k} S^{k \times k} V^{k \times m}$
+	  $X^{n \times m} \approx U^{n \times k} S^{k \times k} V^{k \times m}$
+	-
 - TODO Evaluation
 	- Evaluation: Word Vectors
 	- Limitations: Word Vectors
