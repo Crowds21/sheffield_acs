@@ -51,3 +51,8 @@ file-path:: ../assets/SpareFoodShare.docx_1675790974813_0.pdf
   hl-page:: 2
   hl-color:: yellow
   id:: 63e28d8e-3541-499b-b705-939f01e7eb8d
+- to request a small fee
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63e28da8-b6a9-46f3-b1dd-c3efc6599fa0
