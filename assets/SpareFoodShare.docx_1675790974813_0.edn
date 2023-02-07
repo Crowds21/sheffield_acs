@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "63e28a98-5ec7-447c-ab00-10071c630709", :page 1, :position {:bounding {:x1 355.09686279296875, :y1 1058.9921875, :x2 476.78790283203125, :y2 1081.4921875, :width 874.1333333333334, :height 1234.9333333333334}, :rects ({:x1 355.09686279296875, :y1 1058.9921875, :x2 476.78790283203125, :y2 1081.4921875, :width 874.1333333333334, :height 1234.9333333333334}), :page 1}, :content {:text "register and log in "}, :properties {:color "yellow"}}]}
