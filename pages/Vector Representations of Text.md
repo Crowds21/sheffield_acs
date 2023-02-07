@@ -161,7 +161,8 @@
 		- 近似性好：利用冗余性，通过学习低维潜伏空间来消除噪音
 		- 详细说明见[本教程](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
 		- $U^{n\times k}$ represents document embeddings
-		- represents word embeddings
+		- $V^{k \times m}$ represents word embeddings
+		-
 		- $\mathbf{u}_{\text {new }}=\mathbf{x}_{\text {new }} v_k^{\top}$
 - TODO Evaluation
 	- Evaluation: Word Vectors
