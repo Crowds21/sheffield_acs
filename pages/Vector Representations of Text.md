@@ -150,7 +150,7 @@
 	- 基于计数的矩阵（针对词和文档）通常效果很好，但是
 	- 高维：词汇量可能是数百万！
 	- 非常稀疏：词只与少量的词共同出现；文档只包含词汇的一个非常小的子集
-	- 解决办法 Dimensionality Reduction to the rescue
+	- 解决办法 ((63e263b5-0126-4973-8998-cecb1129f979))
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
 	- Evaluation: Word Vectors
