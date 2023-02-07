@@ -75,7 +75,7 @@
 	- Use contextual information.
 - Distributional Hypothesis in NLP [[card]]
 	- ((63dfaf8c-1ffc-4ee4-9fbe-92b341b1bff3))
-- TODO Word-Word Matrix中的相关术语 [[card]]
+- Word-Word Matrix中的相关术语 [[card]]
   ref:: ((63dfafb3-3d18-4d8d-8a33-e7e6db41c3e8))
   collapsed:: true
 	- 矩阵$X$,维度为$n\times m$,$n=|\mathcal{V}|$ (目标词汇) , $m=\left|\mathcal{V}_c\right|$ (context 词汇)
