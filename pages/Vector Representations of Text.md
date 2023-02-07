@@ -123,7 +123,7 @@
 		- 导致两个不相关的文本最后计算结果是相关的
 	- What is Weight the vectors
 		- 根据单词之间的距离,来确定词汇的权重,距离越远,权重越小
-		- 例如一个窗口的大小为 $\pm k$, 则
+		- 例如一个窗口的大小为 $\pm k$, 则该词语的上下文权重为
 		- Weighting the Word-Word Matrix
 			- Distance discount
 			- Pointwise Mutual Information
