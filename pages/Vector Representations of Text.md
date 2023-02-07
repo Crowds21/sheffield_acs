@@ -18,7 +18,8 @@
 		- Machine leanring
 			- to evolution: just learn from new data
 			- to different applications: just learn with the appropriate target representation
-- Vectors and Vector Spaces
+- Vectors and Vector Spaces [[card]]
+  collapsed:: true
 	- ((63dfa75a-3616-4992-8703-6c1f7b2f58ae))
 	- ((63dfa760-9d6f-4e6d-9938-6fbd0d1eaac7))
 - Calculate Vector Similarity [[card]] 
@@ -30,7 +31,6 @@
 		- $\operatorname{cosine}\left(\mathbf{x}_1, \mathbf{x}_2\right)=\frac{\mathbf{x}_1 \cdot \mathbf{x}_2}{\left|\mathbf{x}_1\right|\left|\mathbf{x}_2\right|}=\frac{\sum_{i=1}^d x_{1, i} \cdot x_{2, i}}{\sqrt{\sum_{i=1}^d\left(x_{1, d}\right)^2} \sqrt{\sum_{i=1}^d\left(x_{2, d}\right)^2}}$
 		-
 - Types of Vector Spaces of Text
-  collapsed:: true
 	- word-word (term-context)
 	- document-word (bag-of-words)
 - Its purpose of vector representations of text
