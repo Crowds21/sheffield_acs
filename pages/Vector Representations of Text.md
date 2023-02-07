@@ -36,6 +36,7 @@
 	- TODO document-word (bag-of-words)
 - Its purpose of vector representations of text [[card]] 
   ref:: ((63dfa9b7-0b0a-408b-9350-fcf02cf32525))
+  collapsed:: true
 	- Encode the meaning of words so we can compute ==semantic similarity== between them
 	- Document retrieval
 	- Apply Machine Learning on textual data
