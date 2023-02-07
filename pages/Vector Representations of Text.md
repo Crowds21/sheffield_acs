@@ -124,7 +124,7 @@
 	- What is Weight the vectors
 		- 根据单词之间的距离,来确定词汇的权重,距离越远,权重越小
 		- 一个窗口的大小为 $\pm k$, 则该词语的上下文权重为$\frac{k-d i s t a n c e}{k}$
-		- 例如当
+		- 例如当$k=3$时
 		- Weighting the Word-Word Matrix
 			- Distance discount
 			- Pointwise Mutual Information
