@@ -167,6 +167,7 @@
 		- You can obtain an embedding $\mathbf{u}_{\text {new }}$ for a new document $\mathbf{x}_{\text {new }}$ by projecting its count vector to the latent space
 		  $\mathbf{u}_{\text {new }}=\mathbf{x}_{\text {new }} v_k^{\top}$
 - TODO Evaluation
+  collapsed:: true
 	- Evaluation: Word Vectors
 	- Limitations: Word Vectors
 	- Evaluation: Document Vectors
