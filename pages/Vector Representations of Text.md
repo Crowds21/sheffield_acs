@@ -143,7 +143,7 @@
 		  $$
 		- $N$ is the number of documents in the corpus, $df_w$ is document frequency of word $w$
 		- $x_{i d}=t f_{i d} \log _{10} \frac{N}{d f_{i d}}$
-		- 也可以使用 $tf=\log_{10}(count(d,t)+1)$
+		- $tf$tf=\log_{10}(count(d,t)+1)$
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
