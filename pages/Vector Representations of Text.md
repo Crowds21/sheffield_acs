@@ -128,6 +128,7 @@
 		- 例如当$k=3$时 $\left[\frac{1}{3}, \frac{2}{3}, \frac{3}{3}, \text { word }, \frac{3}{3}, \frac{2}{3}, \frac{1}{3}\right]$
 	- What is Pointwise Mutual Information
 		- 点间互信息, 两个词$w_i$, 和 $w_j$, 相对独立出现的频率
+		- $P M I\left(w_i, w_j\right)=\log _2 \frac{P\left(w_i, w_j\right)}{P\left(w_i\right) P\left(w_j\right)}=\frac{\#\left(w_i, w_j\right)|D|}{\#\left(w_1\right) \cdot \#\left(w_j\right)}$
 		-
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
