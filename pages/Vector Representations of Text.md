@@ -48,7 +48,7 @@
 - What is Tokenisation [[card]]
   collapsed:: true
 	- Tokenisation to obtain tokens from raw text. Simplest form: split text on whitespaces or use regular expressions
-- TODO  One-hot encoding
+- What is one-hot encoding
   ref:: ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
   $\mathcal{V}=\{\text { apple, apricot, chocolate, love, pie, pineapple }\}$
 	- $|\mathcal{V}|=6$
