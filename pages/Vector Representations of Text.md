@@ -50,7 +50,6 @@
 	- Tokenisation to obtain tokens from raw text. Simplest form: split text on whitespaces or use regular expressions
 - What is one-hot encoding, what’s the problem in one-hot encoding? And how to fix it?
   ref:: ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
-  collapsed:: true
   $\mathcal{V}=\{\text { apple, apricot, chocolate, love, pie, pineapple }\}$ [[card]]
 	- $|\mathcal{V}|=6$
 	- $\begin{aligned}\text { apricot } & =\mathbf{x}_2=[0,1,0,0,0,0] \\ \text { pineapple } & =\mathbf{x}_3=[0,0,0,0,0,1]\end{aligned}$
