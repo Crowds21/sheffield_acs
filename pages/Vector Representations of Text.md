@@ -100,8 +100,9 @@
 	  & \operatorname{cosine}(\text { apricot, digital })=0
 	  \end{aligned}
 	  $$
-- Document-Word Matrix
+- Document-Word Matrix 中的相关术语 [[card]]
   ref:: ((63dfb2cb-18ed-421b-89c5-0a46bf1cef41))
+  collapsed:: true
 	- 一个矩阵 $X$,$|D| \times|\mathcal{V}|$, 其中行是语料库$D$中的文档，列是$V$中的词汇
 	- 对于每一个文档,确定单词$w \in \mathcal{V}$出现的次数
 	- $$
