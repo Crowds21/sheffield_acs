@@ -31,6 +31,7 @@
 		- $\operatorname{cosine}\left(\mathbf{x}_1, \mathbf{x}_2\right)=\frac{\mathbf{x}_1 \cdot \mathbf{x}_2}{\left|\mathbf{x}_1\right|\left|\mathbf{x}_2\right|}=\frac{\sum_{i=1}^d x_{1, i} \cdot x_{2, i}}{\sqrt{\sum_{i=1}^d\left(x_{1, d}\right)^2} \sqrt{\sum_{i=1}^d\left(x_{2, d}\right)^2}}$
 		-
 - DONE Types of Vector Spaces of Text [[card]]
+  collapsed:: true
 	- word-word (term-context)
 	- document-word (bag-of-words)
 - Its purpose of vector representations of text [[card]] 
