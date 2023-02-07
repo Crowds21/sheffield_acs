@@ -115,12 +115,14 @@
 	  \end{array}
 	  $$
 	- $X$ 也可以通过将文档中 one-hot vectors of the words 相加，然后转置来获得
-- TODO Weight the vectors
-	- Weighting the Word-Word Matrix
-		- Distance discount
-		- Pointwise Mutual Information
-	- Weighting the Document-Word Matri
-		- TF.IDF
+- Weight the vectors
+	-
+	- TODO Weight the vectors
+		- Weighting the Word-Word Matrix
+			- Distance discount
+			- Pointwise Mutual Information
+		- Weighting the Document-Word Matri
+			- TF.IDF
 - TODO Problems with Dimensionality
 - TODO Truncated Singular Value Decomposition 截断的奇异值分解
 - TODO Evaluation
