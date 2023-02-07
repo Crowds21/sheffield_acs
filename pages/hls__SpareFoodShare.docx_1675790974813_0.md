@@ -36,3 +36,13 @@ file-path:: ../assets/SpareFoodShare.docx_1675790974813_0.pdf
   hl-page:: 2
   hl-color:: yellow
   id:: 63e28d2a-5c60-41a3-b134-e2d8d06f779f
+- send voice notes
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63e28d6f-1d65-486c-849c-dacfc56e71e7
+- o see it as a text or listen to the message.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 63e28d75-ae05-4c33-98c8-eb894b8f839c
