@@ -122,7 +122,7 @@
 		- Frequent words (articles, pronouns, etc.) dominate contexts without being informative
 		- 导致两个不相关的文本最后计算结果是相关的
 	- What is Weight the vectors
-		- 根据单词之间的距离,
+		- 根据单词之间的距离,来确定词汇的权重
 		- Weighting the Word-Word Matrix
 			- Distance discount
 			- Pointwise Mutual Information
