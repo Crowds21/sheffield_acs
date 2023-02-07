@@ -117,6 +117,7 @@
 	- $X$ 也可以通过将文档中 one-hot vectors of the words 相加，然后转置来获得
 - Weight the vectors
 	- Weight the vectors 是为了解决什么问题?
+		- Frequent words (articles, pronouns, etc.) dominate contexts without being informative
 		-
 	- TODO Weight the vectors
 	  collapsed:: true
