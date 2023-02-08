@@ -5,4 +5,4 @@
 	- Kanban
 	- Scrum
 	- Feature driven development
--
+- The Agile Manifesto
