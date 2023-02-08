@@ -1,12 +1,12 @@
 - Find all files with a name that matches a given pattern in some target directory.
   
-  ```
+  ```sh
   find <target directory> -name <pattern>
   ```
   
   example:
   
-  ```
+  ```sh
   find zxing -name '*.java'
   ```
 ###### wc command
