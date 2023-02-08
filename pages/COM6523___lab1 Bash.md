@@ -39,14 +39,14 @@
   ```
   
   The '|' operator above takes the output from the find command and feeds that as input into the grep command.
-- ###### Piping
+- ### Piping
   
   pipe ('>') send output into text file
   
   ```sh
   find zxing -name '*.java' > javaFiles.txt
   ```
-- ###### head command 
+- ### head command 
   
   ```sh
   head -<number of lines> <target file>
