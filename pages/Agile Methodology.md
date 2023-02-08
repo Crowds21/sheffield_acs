@@ -28,3 +28,5 @@
 		- A representative of the stakeholder/client
 		- acts as a go-between for the team and the stakeholders
 		- Helps generate the initial user stories
+	- Product backlog
+		- A list of every user story or feature to complete development of a system or product
