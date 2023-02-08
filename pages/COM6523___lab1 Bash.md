@@ -39,24 +39,24 @@ find zxing -name '*.java' | grep -i qr
 ```
 
 The '|' operator above takes the output from the find command and feeds that as input into the grep command.
-###### Piping
-
-pipe ('>') send output into text file
-
-```
-find zxing -name '*.java' > javaFiles.txt
-```
-###### head command 
-
-```
-head -<number of lines> <target file>
-```
-
-example:
-
-```
-head -50 zxing/pom.xml
-```
+- ###### Piping
+  
+  pipe ('>') send output into text file
+  
+  ```sh
+  find zxing -name '*.java' > javaFiles.txt
+  ```
+- ###### head command 
+  
+  ```sh
+  head -<number of lines> <target file>
+  ```
+  
+  example:
+  
+  ```sh
+  head -50 zxing/pom.xml
+  ```
 - ###### Combining Bash commands in a Bash script
   
   Bash commands can be combined into a script (commonly in a text file with a ".sh" suffix). Here is an example:
