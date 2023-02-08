@@ -22,23 +22,23 @@
   ```sh
   wc -l zxing/pom.xml
   ```
-######  `grep command ` 
-
-Search and list the occurrence(s) of some pattern within a file (or several files). The '-i' flag means "ignore case".
-
-```
-grep -i <pattern> <target>
-```
-
-The target can be a file or a stream of text output from other commands (as is the case with wc).
-
-example:
-
-```
-find zxing -name '*.java' | grep -i qr
-```
-
-The '|' operator above takes the output from the find command and feeds that as input into the grep command.
+- ######  `grep command ` 
+  
+  Search and list the occurrence(s) of some pattern within a file (or several files). The '-i' flag means "ignore case".
+  
+  ```sh
+  grep -i <pattern> <target>
+  ```
+  
+  The target can be a file or a stream of text output from other commands (as is the case with wc).
+  
+  example:
+  
+  ```sh
+  find zxing -name '*.java' | grep -i qr
+  ```
+  
+  The '|' operator above takes the output from the find command and feeds that as input into the grep command.
 - ###### Piping
   
   pipe ('>') send output into text file
