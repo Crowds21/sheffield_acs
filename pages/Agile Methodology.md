@@ -19,6 +19,4 @@
 		- self-organize while working on a problem
 		- reflect on their wins and losses to continuously improve
 		- Deliver shippable software in quickly
-### Scrum Terms
-[
-](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_102860_1&content_id=_6518308_1#)
+- Scrum Terms
