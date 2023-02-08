@@ -12,7 +12,5 @@
 		- Customer collaboration over contract negotiation
 		- Responding to change over following a plan
 	- ... while there is value in the items on the right, we value the items on the left more."
-### The Scrum Framework
-[
-](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_102860_1&content_id=_6518308_1#)
--
+- The Scrum Framework
+	-
