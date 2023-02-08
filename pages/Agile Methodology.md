@@ -13,10 +13,10 @@
 		- Responding to change over following a plan
 	- ... while there is value in the items on the right, we value the items on the left more."
 - The Scrum Framework
-	- "a process framework used to manage product development and other knowledge work"
-	- Agile Alliance
+	- "a process framework used to manage product development and other knowledge work
 	- an agile framework used primarily for software development projects with the goal of delivering new software capability every $2-4$ weeks.
 	- With Scrum Teams can
-	- self-organize while working on a problem
-	  reflect on their wins and losses to continuously improve
-	  Deliver shippable software in quickly
+		- self-organize while working on a problem
+		- reflect on their wins and losses to continuously improve
+		- Deliver shippable software in quickly
+	-
