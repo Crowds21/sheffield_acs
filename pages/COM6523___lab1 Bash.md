@@ -9,19 +9,19 @@
   ```sh
   find zxing -name '*.java'
   ```
-###### wc command
-
-Count the number of lines (or words, or characters, depending on parameters) in some target file.
-
-```
-wc -l <target file>
-```
-
-example:
-
-```
-wc -l zxing/pom.xml
-```
+- ###### wc command
+  
+  Count the number of lines (or words, or characters, depending on parameters) in some target file.
+  
+  ```sh
+  wc -l <target file>
+  ```
+  
+  example:
+  
+  ```sh
+  wc -l zxing/pom.xml
+  ```
 ######  `grep command ` 
 
 Search and list the occurrence(s) of some pattern within a file (or several files). The '-i' flag means "ignore case".
