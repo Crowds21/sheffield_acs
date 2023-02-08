@@ -20,3 +20,11 @@
 		- reflect on their wins and losses to continuously improve
 		- Deliver shippable software in quickly
 - Scrum Terms
+	- User Stories
+		- a high-level definition of a requirement or feature from a user perspective
+			- As a ..., I want ..., so that ....
+			- As a user, I want to be able to login with my staff email, so that i can book my leave
+	- Product owner
+		- A representative of the stakeholder/client
+		- acts as a go-between for the team and the stakeholders
+		- Helps generate the initial user stories
