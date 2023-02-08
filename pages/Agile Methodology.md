@@ -1,0 +1,3 @@
+- What is Agile
+	- An iterative approach to project management and software development that helps teams deliver value to customers faster.
+	-
