@@ -4,4 +4,4 @@
 - Several Methodologies/Frameworks
 	- Kanban
 	- Scrum
-	- Fea
+	- Feature driven development
