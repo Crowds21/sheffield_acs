@@ -57,19 +57,19 @@ example:
 ```
 head -50 zxing/pom.xml
 ```
-###### Combining Bash commands in a Bash script
-
-Bash commands can be combined into a script (commonly in a text file with a ".sh" suffix). Here is an example:
-
-```
-#!/bin/bash
-
-for file in `find $1 -name $2`
-do
-	total=$(wc -l < $file)
-	echo "$file,$total"
-done
-```
+- ###### Combining Bash commands in a Bash script
+  
+  Bash commands can be combined into a script (commonly in a text file with a ".sh" suffix). Here is an example:
+  
+  ```sh
+  #!/bin/bash
+  
+  for file in `find $1 -name $2`
+  do
+  	total=$(wc -l < $file)
+  	echo "$file,$total"
+  done
+  ```
 - The first line is the "shebang" - a directive that shows which interpreter needs to be used for this script.
 - In the for loop, $1 and $2 refer to arguments given when calling the script file. So in this case, $1 contains the name of the location in which we want the find command to execute, and $2 contains the pattern that we're looking for.
 - The results are stored as a variable `file'. For each value of `file', the loop is run.
@@ -80,13 +80,13 @@ done
   
   In the Bash prompt, run the following command to make the script executable:
   
-  ```
+  ```sh
   chmod +x lineCount.sh
   ```
   
   Then try to run it.
   
-  ```
+  ```sh
   ./lineCount.sh zxing *.java > fileSizes.csv
   ```
   
