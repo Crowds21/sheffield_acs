@@ -1,3 +1,4 @@
 - What is Agile
 	- An iterative approach to project management and software development that helps teams deliver value to customers faster.
+	- A group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
 	-
