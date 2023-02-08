@@ -19,6 +19,9 @@
  {:block/name "adaboost",
   :block/created-at 1675272569239,
   :block/updated-at 1675272569239}
+ {:block/name "agile methodology",
+  :block/created-at 1675857518700,
+  :block/updated-at 1675857518700}
  {:block/name "auto-encoders",
   :block/created-at 1675272425583,
   :block/updated-at 1675272425583}
@@ -51,7 +54,7 @@
   :block/updated-at 1675272425583}
  {:block/name "com6103",
   :block/created-at 1675854229629,
-  :block/updated-at 1675854262655}
+  :block/updated-at 1675857518700}
  {:block/name "com6509",
   :block/created-at 1675272425324,
   :block/updated-at 1675366657369}
@@ -291,7 +294,7 @@
   :block/updated-at 1675774685817}
  {:block/name "feb 8th, 2023",
   :block/created-at 1675814431295,
-  :block/updated-at 1675857205881}
+  :block/updated-at 1675857505521}
  {:block/name "file",
   :block/created-at 1673803786874,
   :block/updated-at 1673803786874}
