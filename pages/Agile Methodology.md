@@ -36,5 +36,5 @@
 		- keep track of roadblocks and who is attempting to deal with them
 		  Sprint
 	- a time-boxed period during which specific work is completed and made ready for review. In our case this will be three weeks
-	  Sprint Backlog
-	- A list of items taken from the product backlog which are to be completed in a sprint.
+	- Sprint Backlog
+		- A list of items taken from the product backlog which are to be completed in a sprint.
