@@ -30,3 +30,11 @@
 		- Helps generate the initial user stories
 	- Product backlog
 		- A list of every user story or feature to complete development of a system or product
+	- Scrum masters
+		- coach the team through the project
+		- protect the team from distractions
+		- keep track of roadblocks and who is attempting to deal with them
+		  Sprint
+	- a time-boxed period during which specific work is completed and made ready for review. In our case this will be three weeks
+	  Sprint Backlog
+	- A list of items taken from the product backlog which are to be completed in a sprint.
