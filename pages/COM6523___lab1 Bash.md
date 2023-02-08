@@ -1,4 +1,3 @@
--
 - Find all files with a name that matches a given pattern in some target directory.
   
   ```sh
