@@ -1,3 +1,4 @@
+-
 - Find all files with a name that matches a given pattern in some target directory.
   
   ```sh
@@ -57,7 +58,7 @@
   ```sh
   head -50 zxing/pom.xml
   ```
-- ###### Combining Bash commands in a Bash script
+- ### Combining Bash commands in a Bash script
   
   Bash commands can be combined into a script (commonly in a text file with a ".sh" suffix). Here is an example:
   
