@@ -8,4 +8,5 @@
 		- Examine control and data-flow within a function.
 		- Useful for identifying information-flow vulnerabilities.
 	- System-level analysis
-		-
+		- More useful for obtaining a high-level overview
+- Intra-procedural Analysis
