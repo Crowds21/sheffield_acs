@@ -50,6 +50,7 @@
 				- ~~node 1 是所有 node的 control dependence~~ 2 一定会被 1 执行,所以不是 control dependece
 			-
 	- Data Flow
+	  collapsed:: true
 		- A “define-use” relationship exists between statements $A$ and $B$ for variable $v$
 		- 画出下图代码的 data flow [[card]]
 		  ((63ea4204-282d-4ecb-974e-59576639ac29))
