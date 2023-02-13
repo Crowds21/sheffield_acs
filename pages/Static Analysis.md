@@ -1,3 +1,5 @@
 - The source code analysis process
 	- Parsing from source text into abstract syntax tree.
+	- Decompilation, reflection, byte-code analysis.
+	- Dependence graphs, call graphs, def-use chains, ..
 	-
