@@ -39,5 +39,5 @@
 		  ((63ea3b4f-b5d2-4338-8ae1-e737a60bdc23)) [[card]]
 			- 从 3 到出口的每一条路径都经过了 7 
 			  node 7 post-dominate node3
-			-
+			- 2 决定了 3 是否会被决定,所以
 			-
