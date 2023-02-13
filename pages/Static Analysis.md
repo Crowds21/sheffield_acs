@@ -15,7 +15,8 @@
 	- Post-dominates and control dependence
 		-
 	- Control Flow Graph
-- <img src="https://www.plantuml.com/plantuml/png/HOon4e8m44Jx-uehoQIm3_eBDCxO1rpWPc9WBWSgNoyKQhF5lhVBN2ogaVJL2fN-VOjfGN5i8pA5Lnkr9iMCQ1J4-vf2DwcYCvao-yiNydEKX8hbt6AGdN127cnq51IsQERZobV_yQd8OqxOhhB1rOHKm3-vYSrUvRlqHz87" />
+- <img src="https://www.plantuml.com/plantuml/png/JSon3e9048JXVfzYIyZ5s1_w2ZGczWSEiCbvaBq5bQSNATHcYZzVXZbRK2FfYWKgtUiQuenSiWr8v9zDq8eK4uAH5-SgykseYjPaJEpElEoU3_nF-J58HC5oQj3BvZWYzJQKv1KsQzgrAtvNnoptAMAzo8go8iGC_k8wr5jAD-a-Isy0" />
+  collapsed:: true
   {{renderer :plantuml_rukfkaee}}
 	- ```plantuml 
 	  start
@@ -23,7 +24,7 @@
 	  :xbar;
 	  repeat
 	  :i++;
-	  :correction +=;
+	  :correction += values - xbar;
 	  repeat while( i<begin + length)
 	  :return xbar+(correction/simplezSize);
 	  else 
