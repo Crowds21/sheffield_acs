@@ -18,7 +18,7 @@
 			- ```plantuml 
 			  start
 			  if(verifyValues) then
-			  :xbar;
+			  :xbar=evaluate (递归);
 			  repeat
 			  :i++;
 			  :correction += values - xbar;
