@@ -15,14 +15,16 @@
 	- Post-dominates and control dependence
 		-
 	- Control Flow Graph
-- <img src="https://www.plantuml.com/plantuml/png/5SWn3eCm30NGtQVm2EeDGdi5nkw6_X1BaQaS0-tjWUKDZxc5U93cReTh_h-bRcWzHu5H-atY0pc-aE2ZQ4N7-fomgF63Aso9qbEQLtVCeUkrhu5G6vYI8pOt7cMyoZwQR-a4" />
+- <img src="https://www.plantuml.com/plantuml/png/5SWn3eCm30NGtQVu8uWRG7i5nkw6_e2bA237LEtjIPStFA26UeYbxaEtz7jflbXxnCuYutTHdyHvKWFeO8-5cnKCo2nRx3raN0zthc57w-Sap9LjdN5vmQnpg_Asz5Tk" />
   {{renderer :plantuml_rukfkaee}}
 	- ```plantuml 
 	  start
 	  if(verifyValues) then
 	  :xbar;
-	  repeat  ( i<begin + length) 
+	  repeat
+	  :i++;
 	  :correction +=;
+	  repeat while( i<begin + length)
 	  else 
 	  :return NaN;
 	  endif
