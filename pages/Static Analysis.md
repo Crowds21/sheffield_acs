@@ -41,7 +41,7 @@
 			  node 7 post-dominate node3
 			- 从 node7 到 exit 不是一定会经过 node 8 
 			  node 8 not post-dominate node7
-			-
+			- 距离 node7 最近的 post-dominate
 			- 2 决定了 3 是否会被执行,
 			  所以node 3 以及后面的所有节点,都有 control dependence
 			-
