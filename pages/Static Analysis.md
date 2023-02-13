@@ -1,2 +1,3 @@
 - The source code analysis process
+	- Parsing from source text into abstract syntax tree.
 	-
