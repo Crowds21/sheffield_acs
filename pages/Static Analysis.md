@@ -17,4 +17,6 @@
 	- ```plantuml 
 	  
 	  
+	  (*) --> "First Activity"
+	  "First Activity" --> (*)
 	  ```
