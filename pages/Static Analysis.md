@@ -37,4 +37,5 @@
 		  What is the immediate post-dominator for node 7? 
 		  Draw out the Control Dependence tree for this CFG.
 		  ((63ea3b4f-b5d2-4338-8ae1-e737a60bdc23)) [[card]]
-			- node 3 post=domin+te
+			- node 3 post-dominate node 7
+			-
