@@ -15,7 +15,11 @@
 	- Post-dominates and control dependence
 		-
 	- Control Flow Graph
-- {{renderer :plantuml_rukfkaee}}
+- <img src="https://www.plantuml.com/plantuml/png/Kr0eBaaiAk6oChJYiZAouW80" />
+  {{renderer :plantuml_rukfkaee}}
 	- ```plantuml 
+	  start
+	  :1:
+	  :2:
 	  ```
 -
