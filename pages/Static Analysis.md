@@ -4,4 +4,5 @@
 	- Dependence graphs, call graphs, def-use chains, ..
 	- Metrics, slices, dead code, dependence relations, ...
 - Two levels of analysis
-	- Function
+	- Function-level analysis
+	-
