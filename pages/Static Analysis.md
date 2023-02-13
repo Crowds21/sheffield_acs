@@ -5,5 +5,7 @@
 	- Metrics, slices, dead code, dependence relations, ...
 - Two levels of analysis
 	- Function-level analysis
+		- Examine control and data-flow within a function.
+		- Useful for identifying information-flow vulnerabilities.
 	- System-level analysis
--
+		-
