@@ -43,3 +43,8 @@ file-path:: ../assets/1_1_StaticAnalysis_1676293011676_0.pdf
   id:: 63ea475c-938f-484e-98a3-d1dced9ab6a7
   hl-type:: area
   hl-stamp:: 1676298087202
+- Intra-procedural Analysis
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: yellow
+  id:: 63ea48b7-c559-45f5-8904-852dc1699b3e
