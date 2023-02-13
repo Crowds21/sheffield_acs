@@ -52,3 +52,4 @@
 	- Data Flow
 		- A “define-use” relationship exists between statements $A$ and $B$ for variable $v$
 	- Code Slicing
+		- A slice is a way of eliminating statements that are irrelevant to a slicing criterion.
