@@ -53,4 +53,4 @@
 		- A “define-use” relationship exists between statements $A$ and $B$ for variable $v$
 	- Code Slicing
 		- A slice is a way of eliminating statements that are irrelevant to a slicing criterion(切片标准).
-		-
+		- A slicing criterion consists of a statement and a set of variables at that statement.
