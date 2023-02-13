@@ -13,10 +13,10 @@
 		- More useful for obtaining a high-level overview
 - Intra-procedural Analysis
 	- Control Flow Graph
-- {{renderer :plantuml_rukfkaee}}
+- <img src="https://www.plantuml.com/plantuml/png/Kr3GqD9KqDMrKr1ooomgBb5mJ2x9BCiigLJYGXS0gmAgvW80" />
+  {{renderer :plantuml_rukfkaee}}
 	- ```plantuml 
-	  
-	  
 	  (*) --> "First Activity"
 	  "First Activity" --> (*)
 	  ```
+-
