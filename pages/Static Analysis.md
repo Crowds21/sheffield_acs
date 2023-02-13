@@ -25,7 +25,6 @@
 	  else 
 	  :return NaN;
 	  endif
-	  
 	  end
 	  ```
 -
