@@ -61,3 +61,4 @@
 		- A slice is a way of eliminating statements that are irrelevant to a slicing criterion(切片标准).
 		- A slicing criterion consists of a statement and a set of variables at that statement.
 		- A forward slice is computed by identifying all outgoing paths from the criterion node in the PDG.
+	-
