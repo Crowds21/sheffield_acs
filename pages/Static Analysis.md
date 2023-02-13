@@ -45,7 +45,7 @@
 			- ((63ea3e06-d244-4f3b-bdb7-1cbd5bb98336))
 				- 2 决定了 3 是否会被执行,
 				  所以node 3 以及后面的所有节点,都有 control dependence
-				-
+				- 2 对 3 有
 				- node2 同样对 node 10 有 control dependence
 				- ~~node 1 是所有 node的 control dependence~~ 2 一定会被 1 执行,所以不是 control dependece
 			-
