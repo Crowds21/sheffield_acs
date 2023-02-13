@@ -16,6 +16,7 @@
 		-
 	- Control Flow Graph
 - {{renderer :plantuml_rukfkaee}}
+  collapsed:: true
 	- ```plantuml 
 	  ```
 -
