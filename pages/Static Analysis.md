@@ -46,7 +46,7 @@
 				- 2 决定了 3 是否会被执行,
 				  所以node 3 以及后面的所有节点,都有 control dependence
 				- node2 同样对 node 10 有 control dependence
-				- node 1 是所有 node的 control dependence
+				- ~~node 1 是所有 node的 control dependence~~
 			-
 	- Data Flow
 		-
