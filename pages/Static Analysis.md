@@ -12,7 +12,7 @@
 	- System-level analysis
 		- More useful for obtaining a high-level overview
 - Intra-procedural Analysis
-	-
+	- Post-dominates and
 	- Control Flow Graph
 - {{renderer :plantuml_rukfkaee}}
 	- ```plantuml 
