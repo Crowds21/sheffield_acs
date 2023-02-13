@@ -19,7 +19,7 @@
   {{renderer :plantuml_rukfkaee}}
 	- ```plantuml 
 	  start
-	  :1:
-	  :2:
+	  :1;
+	  :2;
 	  ```
 -
