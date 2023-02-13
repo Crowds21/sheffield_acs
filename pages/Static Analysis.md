@@ -20,8 +20,9 @@
 	- ```plantuml 
 	  start
 	  :1;
-	  if(2)then(10);
-	  
+	  if(2)
+	  :then(10);
+	  :else
 	  stop
 	  ```
 -
