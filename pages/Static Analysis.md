@@ -32,6 +32,7 @@
 			  end
 			  ```
 	- Post-dominates and control dependence
+	  collapsed:: true
 		- Does node 7 post-dominate node 3?
 		  Does node 8 post-dominate node 7?
 		  What is the immediate post-dominator for node 7? 
@@ -53,7 +54,7 @@
 		- 画出下图代码的 data flow [[card]]
 		  ((63ea4204-282d-4ecb-974e-59576639ac29))
 			- ((63ea422d-35fa-4da3-987d-237633cf2bc9))
-			- Put it together with
+			-
 	- Code Slicing
 		- A slice is a way of eliminating statements that are irrelevant to a slicing criterion(切片标准).
 		- A slicing criterion consists of a statement and a set of variables at that statement.
