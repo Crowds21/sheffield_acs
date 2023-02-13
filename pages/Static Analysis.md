@@ -82,3 +82,4 @@
 	  collapsed:: true
 		- The ability of a program to inspect itself at runtime.
 	- Reverse-engineering a class diagram with Reflection
+	- Decompilation
