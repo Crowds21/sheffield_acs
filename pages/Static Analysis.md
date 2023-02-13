@@ -38,6 +38,6 @@
 		  Draw out the Control Dependence tree for this CFG.
 		  ((63ea3b4f-b5d2-4338-8ae1-e737a60bdc23)) [[card]]
 			- 从 3 到出口的每一条路径都经过了 7 
-			  node 7 node3 post-dominate
+			  node 7 post-dominate node3
 			-
 			-
