@@ -40,5 +40,5 @@
 			- 从 3 到出口的每一条路径都经过了 7 
 			  node 7 post-dominate node3
 			- 2 决定了 3 是否会被执行,
-			  所以node 3 以及后面
+			  所以node 3 以及后面的所有节点,都有 control dependence
 			-
