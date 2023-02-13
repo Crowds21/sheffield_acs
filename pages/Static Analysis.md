@@ -32,6 +32,7 @@
 			  end
 			  ```
 	- Post-dominates and control dependence
+	  collapsed:: true
 		- Does node 7 post-dominate node 3?
 		  Does node 8 post-dominate node 7?
 		  What is the immediate post-dominator for node 7? 
@@ -47,3 +48,4 @@
 			- node2 同样对 node 10 有 control dependence
 			- node 1 是所有 node的 control dependence
 			-
+	-
