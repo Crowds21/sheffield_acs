@@ -70,4 +70,5 @@
 		- Debug - find the code that might be responsible for a faulty variable value.
 		- Check for vulnerabilities.
 			- Could this variable possibly affect critical code?
-			- Compute metrics from graph. Overlap between slices for the same code indicates cohesion.
+		- Compute metrics from graph.
+			- Overlap between slices for the same code indicates cohesion.
