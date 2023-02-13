@@ -21,7 +21,7 @@
 	  start
 	  if(verifyValues) then
 	  :xbar;
-	  repeat while( i<begin + length) 
+	  repeat  ( i<begin + length) 
 	  :correction +=;
 	  else 
 	  :return NaN;
