@@ -72,3 +72,4 @@
 			- Could this variable possibly affect critical code?
 		- Compute metrics from graph.
 			- Overlap between slices for the same code indicates cohesion.
+- Inter-procedural analysis
