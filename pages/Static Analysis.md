@@ -66,6 +66,7 @@
 		  collapsed:: true
 			- ((63ea475c-938f-484e-98a3-d1dced9ab6a7))
 	- The role of Intra-procedural Analysis
+	  collapsed:: true
 		- Detect code clones (by identifying patterns in the PDG).
 		- Debug - find the code that might be responsible for a faulty variable value.
 		- Check for vulnerabilities.
