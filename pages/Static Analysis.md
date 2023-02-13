@@ -32,5 +32,5 @@
 			  end
 			  ```
 	- Post-dominates and control dependence
-		- 下图中的
+		- Does node 7 post-dominate node 3?
 -
