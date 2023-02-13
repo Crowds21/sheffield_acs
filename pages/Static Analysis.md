@@ -13,7 +13,8 @@
 		- More useful for obtaining a high-level overview
 - Intra-procedural Analysis
 	- Control Flow Graph
-		- <img src="https://www.plantuml.com/plantuml/png/JSon3e9048JXVfzYIyZ5s1_w2ZGczWSEiCbvaBq5bQSNATHcYZzVXZbRK2FfYWKgtUiQuenSiWr8v9zDq8eK4uAH5-SgykseYjPaJEpElEoU3_nF-J58HC5oQj3BvZWYzJQKv1KsQzgrAtvNnoptAMAzo8go8iGC_k8wr5jAD-a-Isy0" />
+		- <img src="https://www.plantuml.com/plantuml/png/HOqn3e9044NxFSMKIpR6Vf4hq9ZOBpZ09Ej2PWTKAi_0VJoEXRTm8L6RNxoy_pz05CUYgD4JCZNta_CZnWoamw3ihN9Su9IO4mJzVYolvvBbYd509ygICRcoTS-CjL0Vm1GmRGkmWxNyLU7QaKSDTAYmfUI1nz1AbodBA2E7pJRwFxMFT1aypaUQCJsYZmW_kNHbGk5CpPhg0m00" />
+		  collapsed:: true
 		  {{renderer :plantuml_rukfkaee}}
 			- ```plantuml 
 			  start
