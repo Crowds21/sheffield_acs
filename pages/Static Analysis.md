@@ -22,6 +22,7 @@
 	  if(verifyValues) then
 	  :xbar;
 	  repeat
+	  :correction +=;
 	  else 
 	  :return NaN;
 	  endif
