@@ -44,4 +44,4 @@
 			- 距离 node7 最近的 post-dominate 是 node 9
 			- 2 决定了 3 是否会被执行,
 			  所以node 3 以及后面的所有节点,都有 control dependence
-			- 1 决定了所有 node
+			- node 1 是所有 node的 control
