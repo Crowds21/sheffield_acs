@@ -33,4 +33,5 @@
 			  ```
 	- Post-dominates and control dependence
 		- Does node 7 post-dominate node 3?
+		  Does node 8 post-dominate node 7?
 -
