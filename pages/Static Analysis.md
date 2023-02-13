@@ -12,3 +12,4 @@
 	- System-level analysis
 		- More useful for obtaining a high-level overview
 - Intra-procedural Analysis
+	- Control Flow Graph
