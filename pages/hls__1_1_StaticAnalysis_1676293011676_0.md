@@ -48,3 +48,8 @@ file-path:: ../assets/1_1_StaticAnalysis_1676293011676_0.pdf
   hl-page:: 14
   hl-color:: yellow
   id:: 63ea48b7-c559-45f5-8904-852dc1699b3e
+- Inter-procedural analysis
+  ls-type:: annotation
+  hl-page:: 48
+  hl-color:: yellow
+  id:: 63ea48c7-2865-441e-92e3-89825400da1f
