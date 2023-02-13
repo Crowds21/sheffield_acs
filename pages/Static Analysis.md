@@ -54,7 +54,8 @@
 		- 画出下图代码的 data flow [[card]]
 		  ((63ea4204-282d-4ecb-974e-59576639ac29))
 			- ((63ea422d-35fa-4da3-987d-237633cf2bc9))
-			- put it all together , we can get the pro
+			- put it all together , we can get  program dependence graph
+				- ((63ea424b-3729-40a8-9afa-26e98523d969))
 	- Code Slicing
 		- A slice is a way of eliminating statements that are irrelevant to a slicing criterion(切片标准).
 		- A slicing criterion consists of a statement and a set of variables at that statement.
