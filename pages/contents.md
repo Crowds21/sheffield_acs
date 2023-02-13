@@ -1,5 +1,4 @@
 - 本地合并分支
-  collapsed:: true
 	- ```sh
 	  git fetch --all
 	  git reset --hard origin/main
