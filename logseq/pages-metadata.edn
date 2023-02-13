@@ -55,6 +55,9 @@
  {:block/name "com6103",
   :block/created-at 1675854229629,
   :block/updated-at 1675857518700}
+ {:block/name "com6504",
+  :block/created-at 1675935017177,
+  :block/updated-at 1675935036278}
  {:block/name "com6509",
   :block/created-at 1675272425324,
   :block/updated-at 1675366657369}
@@ -207,7 +210,7 @@
   :block/updated-at 1673803785166}
  {:block/name "contents",
   :block/created-at 1673803742579,
-  :block/updated-at 1675635630146}
+  :block/updated-at 1675935028223}
  {:block/name "contract law",
   :block/created-at 1674913857735,
   :block/updated-at 1674913857735}
@@ -498,6 +501,9 @@
  {:block/name "in-progress",
   :block/created-at 1673803742579,
   :block/updated-at 1673803742579}
+ {:block/name "intelligent web",
+  :block/created-at 1675935036277,
+  :block/updated-at 1675935036277}
  {:block/name "investigatory powers act",
   :block/created-at 1673803785455,
   :block/updated-at 1673803785455}
