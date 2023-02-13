@@ -36,3 +36,10 @@ file-path:: ../assets/1_1_StaticAnalysis_1676293011676_0.pdf
   id:: 63ea424b-3729-40a8-9afa-26e98523d969
   hl-type:: area
   hl-stamp:: 1676296778094
+- [:span]
+  ls-type:: annotation
+  hl-page:: 45
+  hl-color:: yellow
+  id:: 63ea475c-938f-484e-98a3-d1dced9ab6a7
+  hl-type:: area
+  hl-stamp:: 1676298075240
