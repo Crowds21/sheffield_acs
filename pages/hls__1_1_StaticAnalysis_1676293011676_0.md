@@ -53,3 +53,8 @@ file-path:: ../assets/1_1_StaticAnalysis_1676293011676_0.pdf
   hl-page:: 48
   hl-color:: yellow
   id:: 63ea48c7-2865-441e-92e3-89825400da1f
+- Points-To Analysis
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: yellow
+  id:: 63ea4cf7-6a5f-4e1f-9d10-d1248ca6804d
