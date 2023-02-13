@@ -21,6 +21,7 @@
 	  start
 	  if(verifyValues) then
 	  :xbar;
+	  
 	  else 
 	  :return NaN;
 	  endif
