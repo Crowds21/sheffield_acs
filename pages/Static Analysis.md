@@ -16,6 +16,7 @@
 		-
 	- Control Flow Graph
 - <img src="https://www.plantuml.com/plantuml/png/HOon4e8m44Jx-uehoQIm3_eBDCxO1rpWPc9WBWSgNoyKQhF5lhVBN2ogaVJL2fN-VOjfGN5i8pA5Lnkr9iMCQ1J4-vf2DwcYCvao-yiNydEKX8hbt6AGdN127cnq51IsQERZobV_yQd8OqxOhhB1rOHKm3-vYSrUvRlqHz87" />
+  collapsed:: true
   {{renderer :plantuml_rukfkaee}}
 	- ```plantuml 
 	  start
