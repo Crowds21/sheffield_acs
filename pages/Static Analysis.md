@@ -53,6 +53,7 @@
 		- A “define-use” relationship exists between statements $A$ and $B$ for variable $v$
 		- 画出下图代码的 data flow [[card]]
 		  ((63ea4204-282d-4ecb-974e-59576639ac29))
+			- ((63ea422d-35fa-4da3-987d-237633cf2bc9))
 			-
 	- Code Slicing
 		- A slice is a way of eliminating statements that are irrelevant to a slicing criterion(切片标准).
