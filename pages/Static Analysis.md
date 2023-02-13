@@ -20,8 +20,7 @@
 	- ```plantuml 
 	  start
 	  :1;
-	  :2;
-	  if()
+	  if(2)then(10)
 	  stop
 	  ```
 -
