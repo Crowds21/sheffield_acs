@@ -7,5 +7,5 @@
 - Sprint
 	- provide something to coustomer
 - user stories
-	- who want to do xxx,  so That xxx
+	- safety director  want to do xxx,  so That xxx
 -
