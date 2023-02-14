@@ -39,20 +39,29 @@ file-path:: ../assets/Week_2-_Simulation_1676392583769_0.pdf
 - STEEL CITY
   ls-type:: annotation
   hl-page:: 11
-  hl-color:: yellow
+  hl-color:: red
   id:: 63ebba85-fe91-45fd-b7f2-5a8c29c352c3
+  hl-stamp:: 1676393148503
 - WEST STREET 
   ls-type:: annotation
   hl-page:: 11
-  hl-color:: yellow
+  hl-color:: red
   id:: 63ebba87-e30a-4e49-b807-097d58ec2813
+  hl-stamp:: 1676393149722
 - CITY HALL 
   ls-type:: annotation
   hl-page:: 11
-  hl-color:: yellow
+  hl-color:: red
   id:: 63ebba8e-b121-4647-b4fd-b47b6189454f
+  hl-stamp:: 1676393151372
 - ”PLANT A TREE"
   ls-type:: annotation
   hl-page:: 11
-  hl-color:: yellow
+  hl-color:: red
   id:: 63ebbab6-2a89-4f3e-80be-c41eaa0b6cef
+  hl-stamp:: 1676393154361
+- e 'SHEFF'
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: red
+  id:: 63ebbabb-1c94-4fb2-be41-dc642835fe52
