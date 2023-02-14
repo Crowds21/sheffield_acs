@@ -70,3 +70,8 @@ file-path:: ../assets/Week_2-_Simulation_1676392583769_0.pdf
   hl-page:: 11
   hl-color:: red
   id:: 63ebbacb-de9a-44b1-909e-cbcec92ba81e
+- In our case this will be three weeks
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 63ebbdac-bd7a-45a7-aef6-dceee280a0b5
