@@ -46,3 +46,8 @@ file-path:: ../assets/Week_2-_Simulation_1676392583769_0.pdf
   hl-page:: 11
   hl-color:: yellow
   id:: 63ebba87-e30a-4e49-b807-097d58ec2813
+- CITY HALL 
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 63ebba8e-b121-4647-b4fd-b47b6189454f
