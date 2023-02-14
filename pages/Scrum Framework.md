@@ -1,4 +1,3 @@
--
 - backlog
 	- A list of every user story or feature to complete development of a system or product
 - sprint planning
