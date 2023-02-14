@@ -36,3 +36,13 @@ file-path:: ../assets/Week_2-_Simulation_1676392583769_0.pdf
   hl-page:: 11
   hl-color:: yellow
   id:: 63ebba31-11b0-467c-90d5-24326109233e
+- STEEL CITY
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 63ebba85-fe91-45fd-b7f2-5a8c29c352c3
+- WEST STREET 
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 63ebba87-e30a-4e49-b807-097d58ec2813
