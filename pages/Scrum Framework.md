@@ -6,3 +6,5 @@
 	- what we are going to do next stage
 - Sprint backlong
 	- subset of backlog
+- Sprint
+	- provide something to coustomer
