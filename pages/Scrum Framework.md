@@ -1,7 +1,6 @@
 -
 - backlog
-	- list of features
-	- uers' needs
+	- A list of every user story or feature to complete development of a system or product
 - sprint planning
 	- what we are going to do next stage
 - Sprint backlong
