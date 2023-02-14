@@ -75,3 +75,8 @@ file-path:: ../assets/Week_2-_Simulation_1676392583769_0.pdf
   hl-page:: 13
   hl-color:: yellow
   id:: 63ebbdac-bd7a-45a7-aef6-dceee280a0b5
+- Complete the tasks/user stories in your sprint 1 backlog
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 63ebc03a-252d-4545-935e-09b8bb4079f9
