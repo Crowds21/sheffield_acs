@@ -31,3 +31,8 @@ file-path:: ../assets/Week_2-_Simulation_1676392583769_0.pdf
   hl-page:: 11
   hl-color:: yellow
   id:: 63ebba0f-bcc1-43b7-ac47-1900c691ac27
+- The safety director
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 63ebba31-11b0-467c-90d5-24326109233e
