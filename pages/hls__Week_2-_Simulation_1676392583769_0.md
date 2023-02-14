@@ -51,3 +51,8 @@ file-path:: ../assets/Week_2-_Simulation_1676392583769_0.pdf
   hl-page:: 11
   hl-color:: yellow
   id:: 63ebba8e-b121-4647-b4fd-b47b6189454f
+- ”PLANT A TREE"
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 63ebbab6-2a89-4f3e-80be-c41eaa0b6cef
