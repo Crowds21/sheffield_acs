@@ -65,3 +65,8 @@ file-path:: ../assets/Week_2-_Simulation_1676392583769_0.pdf
   hl-page:: 11
   hl-color:: red
   id:: 63ebbabb-1c94-4fb2-be41-dc642835fe52
+- "GREEN CITY" 
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: red
+  id:: 63ebbacb-de9a-44b1-909e-cbcec92ba81e
