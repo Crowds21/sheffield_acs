@@ -2,3 +2,7 @@
 - backlog
 	- list of features
 	- uers' needs
+- sprint planning
+	- what we are going to do next stage
+- Sprint backlong
+	- subset of backlog
