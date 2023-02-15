@@ -1,2 +1,6 @@
 - [DOT Language | Graphviz](https://graphviz.org/doc/info/lang.html)
--
+- Maven
+	- ```
+	  mvn package -DskipTests -Drat.skip=true
+	  ```
+	-
