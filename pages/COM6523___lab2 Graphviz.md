@@ -3,4 +3,4 @@
 	- ```
 	  mvn package -DskipTests -Drat.skip=true
 	  ```
-	-
+	- 打包,并
