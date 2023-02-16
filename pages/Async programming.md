@@ -5,4 +5,5 @@
 	- 当使用一个函数作为回调时,只需要传入函数的名字,而不需要`()`
 - Time events
 	- js 中,允许在指定的时间范围内执行函数
-	- setTimeout()
+	- setTimeout(functionName, time) 指定时间后运行函数
+-
