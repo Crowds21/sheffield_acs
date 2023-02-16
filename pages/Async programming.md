@@ -28,4 +28,4 @@
 			- it declares the functions actual functions to be used for success/error
 		- Execution
 			- it runs the promise code and calls the actual success/reject function
--
+	-
