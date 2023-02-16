@@ -17,6 +17,7 @@
 	- A Promise can be:
 		- pending: initial state
 		- fulfilled: the operation was completed successfully.
-		- Returns a value
+			- Returns a value
 		- rejected: the operation failed.
-		- Returns an error
+			- Returns an error
+	-
