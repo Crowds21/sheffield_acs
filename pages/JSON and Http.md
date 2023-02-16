@@ -22,4 +22,5 @@ title:: JSON and Http
 		- 使用浏览器内建的 XMLHttpRequest 以及 JS  HTML DOM
 		- 实现不刷新网页的情况下更新网页内容
 	- Axios
+	- Fetch
 		-
