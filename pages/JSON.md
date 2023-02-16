@@ -1,4 +1,4 @@
 - parse json in nodejs
 	- `JSON.parse(jsonText)`
--
-	-
+	- JSON.stringify(ibjce)
+		-
