@@ -11,5 +11,5 @@
 		- It is repeatedly executed until stopped
 			- clearInterval()
 			- Window is closed
-- JS
+- JS函数修改一个已经定义的变量,不需要 return
 	-
