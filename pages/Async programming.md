@@ -30,4 +30,4 @@
 			- it runs the promise code and calls the actual success/reject function
 	- Promises methods
 		- `promise.then()`
-			-
+		-
