@@ -13,4 +13,5 @@
 			- Window is closed
 - JS函数修改一个}外部已经定义的变量,不需要 return
 - JAVASCRIPT PROMISES
+	- Promises are a way to create asynchronous code that allows easy sequencing of async processes
 	-
