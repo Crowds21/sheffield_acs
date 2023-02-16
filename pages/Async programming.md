@@ -35,4 +35,5 @@
 		- Promise.catch()
 			- deal with the rejected promise
 		- chain promises
-			-
+- ES6
+-
