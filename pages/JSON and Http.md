@@ -7,4 +7,6 @@ title:: JSON and Http
 		- JSON.stringify(object)
 - Http
 	- Three main popular methods
-		-
+		- Ajax
+		- Axios
+		- Fetch
