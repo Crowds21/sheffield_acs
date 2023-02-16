@@ -1,9 +1,12 @@
 - Async programming
+  collapsed:: true
 	- 一个JS程序只有一个线程,因此需要异步来执行
 - CALLBACKS
+  collapsed:: true
 	- Callbacks can be used to perform an action at the end of an asynchronous action
 	- 当使用一个函数作为回调时,只需要传入函数的名字,而不需要`()`
 - Time events
+  collapsed:: true
 	- js 中,允许在指定的时间范围内执行函数
 	- setTimeout(functionName, time) 指定时间后运行函数
 	- setInterval()在指定的时间间隔中调用函数或表达式
@@ -13,6 +16,7 @@
 			- Window is closed
 - JS函数修改一个}外部已经定义的变量,不需要 return
 - JAVASCRIPT PROMISES
+  collapsed:: true
 	- Promises are a way to create asynchronous code that allows easy sequencing of async processes
 	- A Promise can be:
 	  collapsed:: true
