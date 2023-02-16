@@ -1,5 +1,5 @@
 - parse json in nodejs
 	- `JSON.parse(jsonText)`
-- Transer
+- object To json
 	- JSON.stringify(objct)
 		-
