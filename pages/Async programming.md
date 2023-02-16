@@ -11,5 +11,5 @@
 		- It is repeatedly executed until stopped
 			- clearInterval()
 			- Window is closed
--
+- JS
 	-
