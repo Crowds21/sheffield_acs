@@ -4,4 +4,5 @@
 	- Callbacks can be used to perform an action at the end of an asynchronous action
 	- 当使用一个函数作为回调时,只需要传入函数的名字,而不需要`()`
 - Time events
-	- js 中指定
+	- js 中,允许在指定的时间范围内执行函数
+	- setTimeout()
