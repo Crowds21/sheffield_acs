@@ -20,4 +20,5 @@
 			- Returns a value
 		- rejected: the operation failed.
 			- Returns an error
-	-
+	- How promises work•
+-
