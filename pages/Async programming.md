@@ -15,12 +15,14 @@
 - JAVASCRIPT PROMISES
 	- Promises are a way to create asynchronous code that allows easy sequencing of async processes
 	- A Promise can be:
+	  collapsed:: true
 		- pending: initial state
 		- fulfilled: the operation was completed successfully.
 			- Returns a value
 		- rejected: the operation failed.
 			- Returns an error
 	- How promises work
+	  collapsed:: true
 		- Declaration
 			- it declares a long running computation
 			- it declares placeholders for the behaviour to adopt in case of success and in case of error(resolve and reject represent functions passed as parameters
@@ -29,6 +31,7 @@
 		- Execution
 			- it runs the promise code and calls the actual success/reject function
 	- Promises methods
+	  collapsed:: true
 		- `promise.then()`
 			- takes two arguments
 			- callback for success and failure
@@ -36,4 +39,4 @@
 			- deal with the rejected promise
 		- chain promises
 - ES6
--
+- Async and await
