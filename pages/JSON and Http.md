@@ -15,5 +15,7 @@ title:: JSON and Http
 		  collapsed:: true
 			- Axios is not a replacement of Ajax, it facilitates the way to build “Ajaxbased” web applications
 		- Fetch
-		- ((63ee055e-4eb3-495f-899f-45ab46f26e53))
-	-
+	- Ajax
+		- 图示
+			- ((63ee055e-4eb3-495f-899f-45ab46f26e53))
+		-
