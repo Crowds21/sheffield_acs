@@ -1,4 +1,4 @@
 - Async programming
-	- 一个JS
+	- 一个JS程序只有一个线程,这就是为什么需要异步
 - CALLBACKS
 -
