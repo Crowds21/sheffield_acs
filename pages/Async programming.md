@@ -7,4 +7,5 @@
 	- js 中,允许在指定的时间范围内执行函数
 	- setTimeout(functionName, time) 指定时间后运行函数
 	- setInterval()在指定的时间间隔中调用函数或表达式
+		- It is a method of the window object• It is repeatedly executed until stopped• clearInterval()• Window is closed
 	-
