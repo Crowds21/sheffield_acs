@@ -1,3 +1,4 @@
 - parse json in nodejs
-	- `JSON.parse()`
+	- `JSON.parse(jsonText)`
+-
 	-
