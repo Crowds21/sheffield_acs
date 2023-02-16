@@ -14,4 +14,9 @@
 - JS函数修改一个}外部已经定义的变量,不需要 return
 - JAVASCRIPT PROMISES
 	- Promises are a way to create asynchronous code that allows easy sequencing of async processes
-	-
+	- A Promise can be:
+		- pending: initial state
+		- fulfilled: the operation was completed successfully.
+		- Returns a value
+		- rejected: the operation failed.
+		- Returns an error
