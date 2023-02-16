@@ -33,4 +33,5 @@
 			- takes two arguments
 			- callback for success and failure
 		- Promise.catch()
-		-
+			- deal with
+		- chain promises
