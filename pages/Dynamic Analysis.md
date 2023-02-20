@@ -24,5 +24,6 @@
 	  健全但不精确与不健全但精确的对比
 	  ref:: ((63f37e65-7486-4834-80e4-02ddd42ea51c))
 - Automatically Instrumenting Java Code
-	- Aspects
+	- Aspects (切片)
 		- A way to modularise software in terms of “cross-cutting concerns”.
+		-
