@@ -48,3 +48,5 @@
 	- Gauging Importance
 	- Identifying bottlenecks
 	- Phase analysis
+	- Feature Identification
+	- Key Takeaways
