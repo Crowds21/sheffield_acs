@@ -96,6 +96,6 @@
 	- Decompilation
 	- Static analysis is conservative
 		- Returns everything by default.
-		- 但是对于很大的系统来说这种办法不方便
+		- 但是对于很大的系统来说这种办法不方便, 一般来说会:
 			- For visual outputs (e.g. class diagrams) - focus on specific packages / classes.
 			- For non-visual outputs (e.g. call graphs) - summarise data into key metrics.
