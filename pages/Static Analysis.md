@@ -105,4 +105,5 @@
 			- Dominance, data-flow, control dependence, slicing.
 		- Inter-procedural analysis 关注函数之间的依赖关系
 			- Call graphs
-		-
+		- Two useful technologies
+			- Reflection and Bytecode analysis.
