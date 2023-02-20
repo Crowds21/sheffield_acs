@@ -46,8 +46,8 @@
 		- 好像有通过字节码和反射两种aop的方式??
 - Answering Questions with Dynamic Analysis
 	- Gauging Importance
+	  collapsed:: true
 		- Count the number of occurrences of a class or a method in a trace.
-		-
 		- 可以绘制的图形
 			- Name of method / class versus number of occurrences in the trace.
 	- Identifying bottlenecks

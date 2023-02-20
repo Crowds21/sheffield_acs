@@ -28,3 +28,8 @@ file-path:: ../assets/3_1_DynamicAnalysis_1676898412263_0.pdf
   id:: 63f3818b-fe18-4efb-981a-391a73bdf9d4
   hl-type:: area
   hl-stamp:: 1676902794559
+- Answering Questions with Dynamic Analysis
+  ls-type:: annotation
+  hl-page:: 31
+  hl-color:: yellow
+  id:: 63f38565-b677-4dc1-8459-6a947f5612c2
