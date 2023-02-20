@@ -1,4 +1,8 @@
 - Limitations of  static analysis
 - 目的
-	- Run the code,
-	- Testing Profiling Logging Debugging
+	- Run the code
+	- 常用办法
+	- Testing
+	- Profiling
+	- Logging
+	- Debugging
