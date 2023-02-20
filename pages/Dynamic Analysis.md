@@ -53,7 +53,8 @@
 			- Name of method / class versus number of occurrences in the trace.
 	- Identifying bottlenecks
 		- Which methods might be inefficient CPU / Memory hoggers?
-		  哪些方法
+		  哪些方法可能是低效的CPU/内存占用者？
+		-
 	- Phase analysis
 	- Feature Identification
 	- Key Takeaways
