@@ -21,4 +21,5 @@
 	- A bug that disappears / alters its behaviour when you attempt to observe it. (量子bug)
 - Sound but imprecise - unsound but precise
   健全但不精确与不健全但精确的对比
-	-
+	- Static analysis:
+		-
