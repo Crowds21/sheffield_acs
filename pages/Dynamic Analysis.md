@@ -68,4 +68,5 @@
 			- and one set that definitely doesn’t (N).
 			- Subtract all of the elements in N from P.
 	- Key Takeaways
--
+		- Dynamic analysis is the process of recording runtime data.
+		- Commonly operates on “execution traces”. Recordings of software executions, captured as sequences of events. Can be much more precise than static analysis, but can also be less sound. Relies on the analyst “covering” all of the relevant software behaviour. Traces can be very large.
