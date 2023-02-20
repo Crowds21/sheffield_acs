@@ -39,4 +39,4 @@
 		- Write “Transformers”
 			- modify classes during execution.
 		- Deployed as “agents”
-			-
+			- “Attached” to a Java program when it is run, have the ability to alter a class when it is loaded.
