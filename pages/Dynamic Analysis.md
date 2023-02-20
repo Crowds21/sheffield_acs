@@ -8,4 +8,4 @@
 		- Logging
 		- Debugging
 - Execution Traces
-	-
+	- A Trace is a “record” of an execution.
