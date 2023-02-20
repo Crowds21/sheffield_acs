@@ -1,4 +1,3 @@
 - Limitations of  static analysis
 - 目的
-	- Run the code
-	-
+	- Run the code,
