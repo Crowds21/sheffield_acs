@@ -58,3 +58,8 @@ file-path:: ../assets/1_1_StaticAnalysis_1676293011676_0.pdf
   hl-page:: 51
   hl-color:: yellow
   id:: 63ea4cf7-6a5f-4e1f-9d10-d1248ca6804d
+- Tools for Static Analysis
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 63f372f7-5955-41f5-b788-b2c747612b1d
