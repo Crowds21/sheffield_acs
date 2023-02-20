@@ -82,7 +82,8 @@
 	- Fan-in and Fan-out metrics
 		- Fan-in
 			- ==Number of incoming calls== to a method or a class.
-			- Provides an idea of how “critical” or “useful” a class or method is.
+			- Provides an idea of ==how “critical” or “useful” a class or method is==.
+		-
 - ((63f372f7-5955-41f5-b788-b2c747612b1d))
 	- Reflection
 	  collapsed:: true
