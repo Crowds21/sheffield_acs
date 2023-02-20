@@ -37,4 +37,6 @@
 		- Aspect-Oriented Programming Libraries
 			- AspectJ
 		- Write “Transformers”
+			- modify classes during execution.
+		- Deployed as “agents”
 			-
