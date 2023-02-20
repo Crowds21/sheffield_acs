@@ -101,4 +101,6 @@
 			- For visual outputs (e.g. class diagrams) - focus on specific packages / classes.
 			- For non-visual outputs (e.g. call graphs) - summarise data into key metrics.
 	- Key take-aways
-		- Intra-procedural analysis 关注的是
+		- Intra-procedural analysis 关注的是单个函数的分析
+			- Dominance, data-flow, control dependence, slicing.
+		-
