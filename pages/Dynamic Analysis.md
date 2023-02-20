@@ -25,7 +25,9 @@
 	  ref:: ((63f37e65-7486-4834-80e4-02ddd42ea51c))
 - Automatically Instrumenting Java Code
 	- Aspects (切片)
+	  collapsed:: true
 		- A way to modularise software (模块化软件) in terms of “==cross-cutting concerns==”.
+			- Motivated by the high amount of duplicate code in systems.
 		- Capture code that deals with a particular ‘aspect’ (known as an “==advice==”).
 			- E.g. File-handling, data-base management, logging...
 		- Advice is “==woven==” into software execution via “==join points==”
