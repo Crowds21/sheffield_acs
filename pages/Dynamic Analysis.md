@@ -47,8 +47,9 @@
 - Answering Questions with Dynamic Analysis
 	- Gauging Importance
 		- Count the number of occurrences of a class or a method in a trace.
+		-
 		- 可以绘制的图形
-			-
+			- Name of method / class versus number of occurrences in the trace.
 	- Identifying bottlenecks
 	- Phase analysis
 	- Feature Identification
