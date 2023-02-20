@@ -41,7 +41,8 @@
 		- Deployed as “agents”
 			- “Attached” to a Java program when it is run, have the ability to alter a class when it is loaded.
 	- Aspects 的工作方式
+	  collapsed:: true
 		- ((63f3818b-fe18-4efb-981a-391a73bdf9d4))
-		-
+		- 好像有通过字节码和反射两种aop的方式??
 - Answering Questions with Dynamic Analysis
 	-
