@@ -79,7 +79,9 @@
 	  collapsed:: true
 		- When a method invokes another method.
 	- ((63ea4cf7-6a5f-4e1f-9d10-d1248ca6804d))
-	-
+	- Fan-in and Fan-out metrics
+		- Fan-in
+			-
 - ((63f372f7-5955-41f5-b788-b2c747612b1d))
 	- Reflection
 	  collapsed:: true
