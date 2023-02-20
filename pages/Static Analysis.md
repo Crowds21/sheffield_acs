@@ -95,3 +95,4 @@
 		- Reverse-engineering a class diagram with Reflection
 	- Decompilation
 	- Static analysis is conservative
+		- Returns everything by default.
