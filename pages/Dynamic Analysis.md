@@ -1,7 +1,7 @@
 - 简介
 	- Limitations of  static analysis
 	- 目的
-		- Run the code
+		- Run the code. Extracting information from program executions.
 	- 常用方法
 		- Testing
 		- Profiling
