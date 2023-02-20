@@ -14,4 +14,4 @@
 	- automate the collection of runtime data
 - Precision
 	- The size of a trace file is impossible to predict in general.
-	-
+	- Large traces are harder to analyse and manage.
