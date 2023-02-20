@@ -92,6 +92,6 @@
 - ((63f372f7-5955-41f5-b788-b2c747612b1d))
 	- TODO Reflection
 		- The ability of a program to inspect itself at runtime.
-	- Reverse-engineering a class diagram with Reflection
+		- Reverse-engineering a class diagram with Reflection
 	- Decompilation
 	- Static analysis is conservative
