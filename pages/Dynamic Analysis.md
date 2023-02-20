@@ -7,4 +7,5 @@
 		- Profiling
 		- Logging
 		- Debugging
+- Execution Traces
 	-
