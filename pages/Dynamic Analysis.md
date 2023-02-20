@@ -12,4 +12,5 @@
 	- A Trace is a “record” of an execution.
 - Tools to use
 	- Loggers
-		- automate the collection
+		- automate the collection of runtime data
+		-
