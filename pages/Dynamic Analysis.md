@@ -13,4 +13,5 @@
 - Loggers
 	- automate the collection of runtime data
 - Precision
+	- The size of a trace file is impossible to predict in general.
 	-
