@@ -107,5 +107,7 @@
 			- Call graphs
 		- Two useful technologies
 			- Reflection
+				- Reflection is useful for structural analysis - e.g. class diagrams.
 			- Bytecode analysis
-			-
+				- Byte code analysis is more useful for detailed analysis - e.g. call graphs.
+		-
