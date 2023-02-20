@@ -52,9 +52,12 @@
 		- 可以绘制的图形
 			- Name of method / class versus number of occurrences in the trace.
 	- Identifying bottlenecks
+	  collapsed:: true
 		- Which methods might be inefficient CPU / Memory hoggers?
 		  哪些方法可能是低效的CPU/内存占用者？
-		-
+		- 可绘制的图像
+			- Method vs. average resource consumption.
 	- Phase analysis
+		-
 	- Feature Identification
 	- Key Takeaways
