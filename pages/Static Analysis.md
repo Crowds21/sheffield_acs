@@ -103,4 +103,6 @@
 	- Key take-aways
 		- Intra-procedural analysis 关注的是单个函数的分析
 			- Dominance, data-flow, control dependence, slicing.
-		- Inter-procedural analysis 关注
+		- Inter-procedural analysis 关注函数之间的依赖关系
+			- Call graphs
+		-
