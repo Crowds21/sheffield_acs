@@ -26,4 +26,5 @@
 - Automatically Instrumenting Java Code
 	- Aspects (切片)
 		- A way to modularise software (模块化软件) in terms of “==cross-cutting concerns==”.
+		- Capture code that deals with a particular ‘aspect’ (known as an “==advice==”).
 		-
