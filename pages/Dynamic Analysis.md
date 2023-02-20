@@ -63,5 +63,7 @@
 	- Feature Identification
 		- 哪些方法与特定的运行时功能有关
 		- “Software Reconnaissance”
+			- Two sets of traces:
+			- One set that involves the feature (P), and one set that definitely doesn’t (N). Subtract all of the elements in N from P.
 	- Key Takeaways
 -
