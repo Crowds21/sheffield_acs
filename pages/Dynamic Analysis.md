@@ -58,6 +58,6 @@
 		- 可绘制的图像
 			- Method vs. average resource consumption.
 	- Phase analysis
-		-
+		- Identify distinctive “phases” of execution.
 	- Feature Identification
 	- Key Takeaways
