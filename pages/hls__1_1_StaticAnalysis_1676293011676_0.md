@@ -63,3 +63,8 @@ file-path:: ../assets/1_1_StaticAnalysis_1676293011676_0.pdf
   hl-page:: 58
   hl-color:: yellow
   id:: 63f372f7-5955-41f5-b788-b2c747612b1d
+- Static analysis is conservative
+  ls-type:: annotation
+  hl-page:: 64
+  hl-color:: yellow
+  id:: 63f3755c-9220-4e43-bd26-c86d70b391ca
