@@ -80,6 +80,7 @@
 		- When a method invokes another method.
 	- ((63ea4cf7-6a5f-4e1f-9d10-d1248ca6804d))
 	- Fan-in and Fan-out metrics
+		- Can be computed at a method / function level, or at an entire class level
 		- Fan-in
 			- ==Number of incoming calls== to a method or a class.
 			- Provides an idea of ==how “critical” or “useful” a class or method is==.
