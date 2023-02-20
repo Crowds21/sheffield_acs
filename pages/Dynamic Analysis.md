@@ -72,4 +72,5 @@
 		- Commonly operates on “execution traces”.
 			- Recordings of software executions, captured as sequences of events.
 		- Can be much more precise than static analysis, but can also be less sound.
-			- Relies on the analyst “covering” all of the relevant software behaviour. Traces can be very large.
+			- Relies on the analyst “covering” all of the relevant software behaviour.
+		- Traces can be very large.
