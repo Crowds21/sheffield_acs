@@ -18,5 +18,5 @@
 	- 所以需要挑选有用的信息来收集
 - The Heisenbug
   ref:: ((63f37da1-718b-48f2-a9c5-3e8abb63b419))
-	- A bug that disappears / alters its behaviour when you attempt to observe it. (量子 bug)
+	- A bug that disappears / alters its behaviour when you attempt to observe it. (量子bug)
 	-
