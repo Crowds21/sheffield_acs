@@ -96,4 +96,5 @@
 	- Decompilation
 	- Static analysis is conservative
 		- Returns everything by default.
-		- 但是
+		- 但是对于很大的系统来说这种办法不方便
+			-
