@@ -34,5 +34,7 @@
 			- E.g. method entry or exit points, field accesses, etc.
 		- A specification that links advice to a join-point is known as a “==point cut==”.
 	- Aspects in Java
+		- Aspect-Oriented Programming Libraries
+			- AspectJ
 		-
 		-
