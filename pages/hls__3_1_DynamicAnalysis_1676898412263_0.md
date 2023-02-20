@@ -21,3 +21,10 @@ file-path:: ../assets/3_1_DynamicAnalysis_1676898412263_0.pdf
   hl-page:: 23
   hl-color:: yellow
   id:: 63f37f43-b037-42b8-8360-ac11f634f1b7
+- [:span]
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 63f3818b-fe18-4efb-981a-391a73bdf9d4
+  hl-type:: area
+  hl-stamp:: 1676902794559
