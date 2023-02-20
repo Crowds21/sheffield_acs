@@ -75,6 +75,7 @@
 		- Compute metrics from graph.
 			- Overlap between slices for the same code indicates cohesion.
 - ((63ea48c7-2865-441e-92e3-89825400da1f))
+  collapsed:: true
 	- Calls
 	  collapsed:: true
 		- When a method invokes another method.
