@@ -81,6 +81,8 @@
 	- ((63ea4cf7-6a5f-4e1f-9d10-d1248ca6804d))
 	- Fan-in and Fan-out metrics
 		- Can be computed at a method / function level, or at an entire class level
+			- For a class, sum of number of incoming / outgoing edges for all methods
+			- Call must come from (or go to) a different class.
 		- Fan-in
 			- ==Number of incoming calls== to a method or a class.
 			- Provides an idea of ==how “critical” or “useful” a class or method is==.
