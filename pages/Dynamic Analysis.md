@@ -15,4 +15,4 @@
 - Precision
 	- The size of a trace file is impossible to predict in general.
 	- Large traces are harder to analyse and manage.
-	-
+	- 所以需要挑选有
