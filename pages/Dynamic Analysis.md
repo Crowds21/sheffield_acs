@@ -24,6 +24,7 @@
 	  健全但不精确与不健全但精确的对比
 	  ref:: ((63f37e65-7486-4834-80e4-02ddd42ea51c))
 - Automatically Instrumenting Java Code
+  collapsed:: true
 	- Aspects (切片)
 	  collapsed:: true
 		- A way to modularise software (模块化软件) in terms of “==cross-cutting concerns==”.
@@ -42,4 +43,5 @@
 			- “Attached” to a Java program when it is run, have the ability to alter a class when it is loaded.
 	- Aspects 的工作方式
 		- ((63f3818b-fe18-4efb-981a-391a73bdf9d4))
+- Answering Questions with Dynamic Analysis
 	-
