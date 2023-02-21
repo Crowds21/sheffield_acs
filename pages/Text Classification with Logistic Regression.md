@@ -6,3 +6,4 @@
 	- Real number
 - Text types
 - Supervised Learning
+- Multiclass Logistic Regression
