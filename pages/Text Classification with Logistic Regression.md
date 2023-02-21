@@ -2,4 +2,5 @@
 - Label Types
 	- Binary
 	- Multi-class
-	-
+	- Multi-label
+-
