@@ -3,4 +3,5 @@
 	- Binary
 	- Multi-class
 	- Multi-label
--
+	- Real number
+	-
