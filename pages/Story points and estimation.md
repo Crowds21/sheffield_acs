@@ -6,3 +6,4 @@
 	- 用 story points 来作为进度的评估,而不是使用时长和日期
 - planning poker
 	- 任何单个任务的工作时间都不应超过 16 小时
+- Learn from past estimates
