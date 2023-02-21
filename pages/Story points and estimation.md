@@ -1,3 +1,4 @@
 - the [product owner](https://www.atlassian.com/agile/product-management)
-	- 确定
+	- 确定 backlog
+	- 并对优先级进行排序
 -
