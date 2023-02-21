@@ -1,2 +1,4 @@
 - TF.IDF
--
+- Label Types
+	- Binary
+	-
