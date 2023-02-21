@@ -4,4 +4,5 @@
 	- Multi-class
 	- Multi-label
 	- Real number
+- Text types
 	-
