@@ -1,4 +1,5 @@
 - TF.IDF
 - Label Types
 	- Binary
+	- Multi-class
 	-
