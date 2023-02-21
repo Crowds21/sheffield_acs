@@ -1,0 +1,2 @@
+- the [product owner](https://www.atlassian.com/agile/product-management)
+	- is tasked with prioritizing the [backlog](https://www.atlassian.com/agile/scrum/backlogs) — the ordered list of work that contains short descriptions of all desired features and fixes for a product.
