@@ -4,5 +4,5 @@
 - story points
 	- 完全实现 backlog 或任何其他工作所需的总体工作量的估计
 	- 用 story points 来作为进度的评估,而不是使用时长和日期
--
+- planning poker
 -
