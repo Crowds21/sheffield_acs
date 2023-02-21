@@ -5,4 +5,4 @@
 	- Multi-label
 	- Real number
 - Text types
-	-
+- Supervised Learning
