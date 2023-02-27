@@ -26,4 +26,5 @@
 	- Graph Store
 - MongonDB
 	- MongonDB 的结构
-		-
+		- 每个数据库都包含集合
+		- 其中反过来又包含文件
