@@ -53,4 +53,6 @@ title:: JSON and Http
 					- `const fetch = require("node-fetch")`
 					- `import fetch from "node-fetch"`
 			- It’s lower level, so might be more difficult to use
-		-
+		- Fetch Get
+			- ```js
+			  ```
