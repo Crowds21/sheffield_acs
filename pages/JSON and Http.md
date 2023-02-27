@@ -4,7 +4,7 @@ title:: JSON and Http
 	- Json 的两种数据结构
 		- k-v 对
 		- array [1,2,3]
-	- parse json in nodejs
+	- parse json in nodejs [[card]]
 		- `JSON.parse(jsonText)`
 	- object To json
 		- JSON.stringify(object)
