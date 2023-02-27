@@ -49,5 +49,6 @@ title:: JSON and Http
 			- Promise-based HTTP client
 			- Has a broader scope than Axios
 			- No need to import if you are using node >18
-				- Otherwise
+				- Otherwise `const fetch = require("node-fetch")`
+				-
 			- It’s lower level, so might be more difficult to use
