@@ -87,4 +87,6 @@
 - Async and await
 	- The role of async
 		- takes as input a function and makes it asynchronous
+		- returns a promise
+	- The role of await
 		-
