@@ -62,7 +62,8 @@ title:: JSON and Http
 			  });
 			  
 			  fetch(URL,{
-			    
+			    	method: "POST",
+			  	headers: customHeaders
 			  })
 			  .then((response) => response.text()) // extracts the text from the response
 			  .then((body) => { 
