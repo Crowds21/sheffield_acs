@@ -11,4 +11,6 @@
 		- There are several engines that can be used in Node.Js to 
 		  render the views
 	- models
+		- The model represents the structure of data, the format, how 
+		  data is handled
 		-
