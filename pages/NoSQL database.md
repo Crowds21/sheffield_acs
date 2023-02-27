@@ -1,2 +1,3 @@
 - NoSQL database
-	-
+	- NoSQL databases are characterised by
+		-
