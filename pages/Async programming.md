@@ -47,11 +47,6 @@
 			- 它会重复执行,直到停止,停止的方式有
 				- `clearInterval()`
 				- 关闭网页窗口
-	-
-		- It is a method of the window object
-		- It is repeatedly executed until stopped
-			- clearInterval()
-			- Window is closed
 - JS函数修改一个}外部已经定义的变量,不需要 return
 - JAVASCRIPT PROMISES
   collapsed:: true
