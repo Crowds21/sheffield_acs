@@ -5,4 +5,5 @@
 		- easy to make significant application changes in real- time
 		- Relational databases require schemas to be defined before you can add data
 			- Changes require downtime
-	- NoSQL 的有点
+	- TODO NoSQL 的优点
+	-
