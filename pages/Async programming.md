@@ -80,7 +80,6 @@
 		- `promise.then()` 接收两个参数
 			- callback for success and failure
 		- Promise.catch() 处理被拒绝的 promies
-			- deal with the rejected promise
 		- chain promises
 	-
 - ES6
