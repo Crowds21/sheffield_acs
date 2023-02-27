@@ -67,4 +67,5 @@ title:: Socket.io
 		  ```
 	- Broadcasting
 		- Create rooms
-			- 一个房间就是一个子通道,套接字
+			- 一个房间就是一个子通道,套接字可以加入或者离开
+			- 信息只能够发送给连接到
