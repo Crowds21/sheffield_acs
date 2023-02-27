@@ -28,4 +28,4 @@
 		- Especially useful for routing
 	- Main functionalities
 		- Easy routing
-		- Int
+		- Integration with view
