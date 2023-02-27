@@ -45,6 +45,7 @@ title:: JSON and Http
 			    .catch((err) => console.log(err));
 			  ```
 	- Fetch
+		- Fetch API
 		- 简介
 			- Promise-based HTTP client
 			- Has a broader scope than Axios
