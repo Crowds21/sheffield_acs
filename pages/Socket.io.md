@@ -33,3 +33,4 @@ title:: Socket.io
 	- Socket.io的组成
 		- a client-side library that runs in the browser
 		- a server-side library
+		- Both components have a nearly identical AP
