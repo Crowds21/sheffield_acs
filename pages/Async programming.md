@@ -84,10 +84,12 @@
 		- Promise.catch() 处理被拒绝的 promies
 		- TODO chain promises
 - ES6
-- Async and await
+- Async and await [[card]]
+  collapsed:: true
 	- The role of async
 		- takes as input a function and makes it asynchronous
 		- returns a promise
 	- The role of await
 		- The keyword await before a function makes the function wait for  a promise
 	-
+-
