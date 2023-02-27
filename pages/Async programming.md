@@ -1,4 +1,4 @@
-- Async programming
+- 为什么需要 Async programming
 	- 一个JS程序只有一个线程,因此需要异步来执行
 - callbacks
 	- What is callbacks [[card]]
