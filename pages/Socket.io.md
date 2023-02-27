@@ -39,5 +39,6 @@ title:: Socket.io
 		- ```js
 		  //create socket.io instance
 		  const io = require('socket.io')(server);
+		  // create a server that listens to socket.io connections
 		  
 		  ```
