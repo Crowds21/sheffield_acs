@@ -6,9 +6,10 @@ title:: JSON and Http
 		- array [1,2,3]
 	- nodejs 解析 json 对象 [[card]]
 		- `JSON.parse(jsonText)`
-	- nodejs 将
+	- nodejs 将一个对象转换为 json 对象
+		- `JSON.stringify(object)`
 	- object To json
-		- JSON.stringify(object)
+		-
 - Http
 	- Three main popular methods
 		- Ajax
