@@ -107,4 +107,5 @@
 		  });
 		  ```
 	- Querying a document
-		-
+		- ```js
+		  ```
