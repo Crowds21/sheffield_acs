@@ -17,5 +17,8 @@ title:: Socket.io
 				- 客户端向服务器打开一个HTTP
 				- 服务器发送HTTP头信息，不关闭连接
 				- 当新的数据到达时，服务器在响应体中发送它
-		-
+		- Websockets是一种通过TCP的全双工通信协议
+			- 与HTTP兼容
+			- 设计用于在HTTP端口80和443上运行
+			- WebSocket握手使用HTTP升级头，从HTTP协议切换到WebSocket协议
 		-
