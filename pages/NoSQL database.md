@@ -61,6 +61,7 @@
 		  MongoClient.connect(url, function(err, db) {
 		  	if (err) throw err;
 		  	var dbo = db.db("mydb");
+		    
 		    	// 创建 collection
 		  	dbo.createCollection("cats", function(err, res) { 
 		        if (err) throw err;
@@ -77,6 +78,8 @@
 		    if (err) throw err;
 		    var dbo = db.db("mydb");
 		    var myobj = { name: "Neve", breed: "Angora" };
+		    
+		    // Inser Document
 		    dbo.collection("cats").insertOne(myobj, function(err, res) {
 		      if (err) throw err;
 		      console.log("1 document inserted"); 
@@ -84,3 +87,4 @@
 		    });
 		  })
 		  ```
+-
