@@ -12,8 +12,8 @@ title:: JSON and Http
 	  collapsed:: true
 		- `JSON.stringify(object)`
 - Http
-	- Three main popular methods for reuse old data and  only receiving the missing data
-		- Ajax
+	- Three main popular methods for reusing old data and  only receiving the missing data [[card]]
+		- What is Ajax
 			- Ajax is a concept
 			- You do not have to reload a whole HTML page to update its content
 		- Axios
