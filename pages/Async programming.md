@@ -85,4 +85,6 @@
 		- TODO chain promises
 - ES6
 - Async and await
-	-
+	- The role of async
+		- takes as input a function and makes it asynchronous
+		-
