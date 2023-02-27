@@ -20,4 +20,5 @@ title:: Socket.io
 			- 设计用于在HTTP端口80和443上运行
 			- WebSocket 握手使用HTTP Upgrade header, 从HTTP协议切换到WebSocket协议.
 	- 工作原理
+		- A socket is a channel of communication between processes (on the  same or different computers)
 		-
