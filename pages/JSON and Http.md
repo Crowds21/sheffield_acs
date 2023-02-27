@@ -55,6 +55,7 @@ title:: JSON and Http
 					- `import fetch from "node-fetch"`
 			- It’s lower level, so might be more difficult to use
 		- Fetch Get [[card]]
+		  collapsed:: true
 			- ```js
 			  fetch(URL)
 			  .then((response) => response.text()) // extracts the text from the response
@@ -73,6 +74,7 @@ title:: JSON and Http
 			  
 			  ```
 		- Fetch 定义 Header [[card]]
+		  collapsed:: true
 			- 可以使用fetch 中的第二个参数中,设定 `headers`来发送带有自定义请求头信息
 			- 响应对象中的`response.headers` 包含了所有的响应 header 信息
 		- Fetch Post
