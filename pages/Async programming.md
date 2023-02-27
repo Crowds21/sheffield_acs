@@ -23,7 +23,8 @@
 		- Callbacks can be used to perform an action at the end of an asynchronous action
 		- 当使用一个函数作为回调时,只需要传入函数的名字,而不需要`()`
 	- Example of using callbacks
-		-
+		- ```js
+		  ```
 - Time events
   collapsed:: true
 	- js 中,允许在指定的时间范围内执行函数
