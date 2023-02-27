@@ -51,21 +51,20 @@
 	- JS函数修改一个外部已经定义的变量,不需要 return
 - Javascript Promises
 	- What is Promises [[card]]
+	  collapsed:: true
 		- Promises are a way to create asynchronous code that allows easy sequencing of async processes
 		- Promises 是创建异步代码的一种方式，可以轻松地对异步进程进行排序
 	- Status of Promises [[card]]
+	  collapsed:: true
 		- pending
-		  collapsed:: true
 			- initial state
 		- fulfilled
-		  collapsed:: true
 			- the operation was completed successfully.
 			- Returns a value
 		- rejected
-		  collapsed:: true
 			- the operation failed.
 			- Returns an error
-	- How promises work
+	- How promises work [[card]]
 		- Declaration
 			- it declares a long running computation
 			- it declares placeholders for the behaviour to adopt in case of success and in case of error(resolve and reject represent functions passed as parameters
