@@ -30,6 +30,10 @@ title:: JSON and Http
 	- Axios
 		- Axios get call
 			- ```js
+			  axios.get(url) 
+			  .then((response) => { displayOutput(response) }) 
+			  .catch((err) => console.log(err));
 			  ```
+		-
 	- Fetch
 -
