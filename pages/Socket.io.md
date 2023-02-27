@@ -37,6 +37,8 @@ title:: Socket.io
 		- It is possible to send any data
 	- How to use socket.io
 		- ```js
+		  //Server 
+		  
 		  //create socket.io instance
 		  const io = require('socket.io')(server);
 		  // create a server that listens to socket.io connections
@@ -49,6 +51,7 @@ title:: Socket.io
 		  });
 		  //  the server can send other messages to all clients by using the broadcast event
 		  
+		  
 		  ```
-		- `io.on` event handler handles connection, disconnection, etc., events in it,  using the socket object.
+		-
 		-
