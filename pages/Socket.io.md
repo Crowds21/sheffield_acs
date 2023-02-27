@@ -31,4 +31,5 @@ title:: Socket.io
 		- 基于 WebSocket 协议的一个库
 		- There are [alternatives](https://github.com/websockets/ws)
 	- Socket.io的组成
-		-
+		- a client-side library that runs in the browser
+		- a server-side library
