@@ -19,9 +19,10 @@
 - callbacks
 	- What is callbacks [[card]]
 		- A callback is a function that is called only when another function is performed AND  finished
-	- How can we use callbacks
+	- How can we use callbacks [[card]]
 		- Callbacks can be used to perform an action at the end of an asynchronous action
 		- 当使用一个函数作为回调时,只需要传入函数的名字,而不需要`()`
+	- E
 - Time events
   collapsed:: true
 	- js 中,允许在指定的时间范围内执行函数
