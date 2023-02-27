@@ -81,4 +81,8 @@ title:: Socket.io
 				  socket.to("roomID").emit
 				  ```
 			- 一旦当前套接字在一个房间中,那么他的`emit`就只会发送给同一个房间的人
-		- Server 和 Client
+		- Server 和 Client 如何加入一个房间
+			- ```js
+			  // Client
+			  
+			  ```
