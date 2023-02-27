@@ -29,6 +29,7 @@ title:: JSON and Http
 		- 实现不刷新网页的情况下更新网页内容
 	- Axios
 		- Axios get call
-			-
+			- ```js
+			  ```
 	- Fetch
 -
