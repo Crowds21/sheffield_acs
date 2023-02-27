@@ -28,4 +28,5 @@
 		- Especially useful for routing
 	- Main functionalities
 		- Easy routing
-		- Integration with view
+		- Integration with view rendering engines
+		- Set once common web application
