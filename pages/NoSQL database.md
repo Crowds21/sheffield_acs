@@ -131,14 +131,15 @@
 		    });
 		  });
 		  ```
-	- Sort() [[card]]
-	  collapsed:: true
-		- ```js
-		  var mysort = { name: 1 };
-		  dbo.collection("customers").find().sort(mysort).toArray(function(e rr, result)
-		  ```
-	- deleteOne() [[card]]
-		- defining which document to delete.
-		- ```js
-		  ```
-	-
+	- Other commands
+		- Sort() [[card]]
+		  collapsed:: true
+			- ```js
+			  var mysort = { name: 1 };
+			  dbo.collection("customers").find().sort(mysort).toArray(function(e rr, result)
+			  ```
+		- deleteOne() [[card]]
+			- defining which document to delete.
+			- ```js
+			  ```
+		-
