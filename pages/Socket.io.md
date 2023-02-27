@@ -53,11 +53,9 @@ title:: Socket.io
 		    description: "Hello and Welcome to the Server"
 		  });
 		  //  the server can send other messages to all clients by using the broadcast event
-		  
-		  // Client
-		  
 		  ```
 	- How to use socket.io (Clien)
 		- ```html
+		  <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
 		  ```
 		-
