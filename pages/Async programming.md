@@ -1,7 +1,8 @@
 - Real-time communication
 	- What is Real-time communication
 		- Ability to get resources when they are available and add new ones when we want to
-	-
+	- To build a real-time web application it is important to consider
+		-
 - 为什么需要 Async programming
 	- 因为一个JS程序只有一个线程,因此需要异步来执行一些任务
 -
