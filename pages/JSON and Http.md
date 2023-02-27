@@ -77,7 +77,8 @@ title:: JSON and Http
 		  collapsed:: true
 			- 可以使用fetch 中的第二个参数中,设定 `headers`来发送带有自定义请求头信息
 			- 响应对象中的`response.headers` 包含了所有的响应 header 信息
-		- Fetch Post
+		- Fetch Post [[card]]
+		  collapsed:: true
 			- ```js
 			  fetch(url, {
 			  	method: "POST",
