@@ -44,6 +44,9 @@ title:: Socket.io
 		    console.log("New Client is Connected!");
 		  });
 		  // send messages
+		  io.sockets.emit("welcome", {
+		    description: "Hello and Welcome to the Server"
+		  });
 		  
 		  ```
 		- `io.on` event handler handles connection, disconnection, etc., events in it,  using the socket object.
