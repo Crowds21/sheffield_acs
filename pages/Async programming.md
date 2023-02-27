@@ -7,6 +7,7 @@
 		- Async programming
 		- Data Format
 		- Bi-directional communication
+- Async programmin
 - 为什么需要 Async programming
 	- 因为一个JS程序只有一个线程,因此需要异步来执行一些任务
 -
