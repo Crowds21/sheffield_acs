@@ -10,7 +10,7 @@
 - Async programming
 	- 为什么需要 Async programming
 		- 因为一个JS程序只有一个线程,因此需要异步来执行一些任务
-	- JS 中实现 Async programming 的方式
+	- JS 中实现 Async programming 的方式 [[card]]
 		- Callbacks (classic)
 		- Timeouts and Intervals (delayed and repeated execution)
 		- Promises (new)
