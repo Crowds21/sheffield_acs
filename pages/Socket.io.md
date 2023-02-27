@@ -37,4 +37,7 @@ title:: Socket.io
 		- It is possible to send any data
 	- How to use socket.io
 		- ```js
+		  //create socket.io instance
+		  const io = require('socket.io')(server);
+		  
 		  ```
