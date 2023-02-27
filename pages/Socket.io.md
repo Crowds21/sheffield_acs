@@ -21,4 +21,4 @@ title:: Socket.io
 			- WebSocket 握手使用HTTP Upgrade header, 从HTTP协议切换到WebSocket协议.
 	- 工作原理
 		- A socket is a channel of communication between processes (on the  same or different computers)
-		-
+		- 它们在客户端和服务器之间建立一个持久的连接，双方可以在任何时候开始发送数据
