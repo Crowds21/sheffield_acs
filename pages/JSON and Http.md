@@ -55,4 +55,9 @@ title:: JSON and Http
 			- It’s lower level, so might be more difficult to use
 		- Fetch Get
 			- ```js
+			  fetch(URL)
+			  .then((response) => response.text()) # 
+			  .then((body) => { 
+			    res.send(body);
+			  });
 			  ```
