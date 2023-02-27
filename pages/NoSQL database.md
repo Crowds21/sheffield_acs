@@ -116,6 +116,8 @@
 		    var query = { breed: "Angora" };
 		    
 		    // Query
+		    // query - an object containing the query
+		    // 
 		    dbo.collection("cats").find(query).toArray(function(err, result) {
 		      if (err) throw err; 
 		      console.log(result); 
