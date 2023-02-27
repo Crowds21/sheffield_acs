@@ -1,4 +1,4 @@
-- node.js main components
+- node.js main components[[card]]
 	- routes
 		- A route is the endpoint the user wants to reach
 		- defines the way in which the client requests are handled by the 
