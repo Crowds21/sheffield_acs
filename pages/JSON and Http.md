@@ -17,9 +17,9 @@ title:: JSON and Http
 			- Ajax is a concept
 			- You do not have to reload a whole HTML page to update its content
 			- First Ajax implementation was using `XMLHttpRequest`
-			- • Ajax uses a combination of
-			  • A browser built-in XMLHttpRequest object (to request data)
-			  • Javascript + HTML DOM to display the data
+			- Ajax uses a combination of
+				- A browser built-in XMLHttpRequest object (to request data)
+				- Javascript + HTML DOM to display the data
 		- Axios
 			- Axios is not a replacement of Ajax, it facilitates the way to build “Ajaxbased” web applications
 		- Fetch
