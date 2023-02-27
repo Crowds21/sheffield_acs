@@ -37,7 +37,8 @@
 		  ```
 - Time events
 	- js 中,允许在指定的时间范围内执行函数
-	- Time events 中常用函数
+	- Time events 中常用函数 [[card]]
+	  collapsed:: true
 		- `setTimeout(functionName, time)`
 			- 指定时间后运行函数
 		- `setInterval()`
@@ -47,7 +48,7 @@
 			- 它会重复执行,直到停止,停止的方式有
 				- `clearInterval()`
 				- 关闭网页窗口
-- JS函数修改一个}外部已经定义的变量,不需要 return
+	- JS函数修改一个}外部已经定义的变量,不需要 return
 - JAVASCRIPT PROMISES
   collapsed:: true
 	- Promises are a way to create asynchronous code that allows easy sequencing of async processes
