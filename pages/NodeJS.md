@@ -8,4 +8,7 @@
 		- Generate appropriate responses
 	- views
 		- Visualisation of data that gets sent back to a user
+		- There are several engines that can be used in Node.Js to 
+		  render the views
 	- models
+		-
