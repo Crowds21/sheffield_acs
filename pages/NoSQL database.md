@@ -142,4 +142,6 @@
 			- defining which document to delete.
 			- ```js
 			  ```
+		- drop()
+		- updateOne()
 		-
