@@ -1,6 +1,6 @@
 - node.js main components
 	- routes
-		-
+		- A route is the
 	- controllers
 	- views
 	- models
