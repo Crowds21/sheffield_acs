@@ -53,11 +53,14 @@
 	- What is Promises [[card]]
 		- Promises are a way to create asynchronous code that allows easy sequencing of async processes
 		- Promises 是创建异步代码的一种方式，可以轻松地对异步进程进行排序
-	- A Promise can be:
-		- pending: initial state
-		- fulfilled: the operation was completed successfully.
+	- Status of Promises
+		- pending
+			- initial state
+		- fulfilled
+			- the operation was completed successfully.
 			- Returns a value
-		- rejected: the operation failed.
+		- rejected
+			- the operation failed.
 			- Returns an error
 	- How promises work
 		- Declaration
