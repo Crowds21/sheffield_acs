@@ -40,7 +40,8 @@
 	- Time events 中常用函数
 		- `setTimeout(functionName, time)`
 			- 指定时间后运行函数
-		- ````
+		- `setInterval()`
+			-
 	- setTimeout(functionName, time)
 	- 在指定的时间间隔中调用函数或表达式
 		- It is a method of the window object
