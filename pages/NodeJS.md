@@ -4,5 +4,7 @@
 		- defines the way in which the client requests are handled by the 
 		  application endpoints
 	- controllers
+		- Controllers control the requests
+		-
 	- views
 	- models
