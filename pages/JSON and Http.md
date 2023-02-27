@@ -45,7 +45,7 @@ title:: JSON and Http
 			    .catch((err) => console.log(err));
 			  ```
 	- Fetch
-		- Fetch API
+		- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 		- 简介
 			- Promise-based HTTP client
 			- Has a broader scope than Axios
