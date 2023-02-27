@@ -5,6 +5,7 @@
 		  application endpoints
 	- controllers
 		- Controllers control the requests
-		-
+		- Generate appropriate responses
 	- views
+		- Visualisation of data that gets sent back to a user
 	- models
