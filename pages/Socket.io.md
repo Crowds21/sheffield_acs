@@ -89,5 +89,7 @@ title:: Socket.io
 			  }
 			  
 			  // Server
-			  
+			  socket.on('create or join', function (room, userId) {
+			  	socket.join(room);
+			  })
 			  ```
