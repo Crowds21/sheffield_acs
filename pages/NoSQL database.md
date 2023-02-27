@@ -42,8 +42,11 @@
 - Commands of MongonDB
 	- Create a database
 		- ```js
+		  // 创建一个 MongoClient 对象
 		  var MongoClient = require( 'mongodb').MongoClient;
+		  // 指定链接 URL IP,端口,数据库名称
 		  var url = "mongodb://localhost:27017/mydb";
+		  // 只有数据库得到数据之后,他才会真正创建他!!!
 		  MongoClient. connect(url, function(err, db) {
 		  	if (err) throw err;
 		  	console.log ("Database created!");
