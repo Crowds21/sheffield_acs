@@ -81,7 +81,7 @@
 			- callback for success and failure
 		- Promise.catch() 处理被拒绝的 promies
 		- chain promises
-			-
+			- `promise.then().catch()`
 	-
 - ES6
 - Async and await
