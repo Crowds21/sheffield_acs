@@ -166,3 +166,4 @@
 	- Validation
 	- Instances
 	- Searching
+- HOW SHOULD A PROJECT LOOK LIKE AT THE END
