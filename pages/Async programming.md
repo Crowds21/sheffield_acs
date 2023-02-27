@@ -74,7 +74,7 @@
 			- 它声明了将用于成功/错误的实际函数
 		- Execution
 			- it runs the promise code and calls the actual success/reject function
-			-
+			- 它运行 promise code  并调用实际的成功/拒绝函数
 	- Promises methods
 		- `promise.then()`
 			- takes two arguments
