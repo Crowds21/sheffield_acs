@@ -47,6 +47,7 @@ title:: Socket.io
 		  io.sockets.emit("welcome", {
 		    description: "Hello and Welcome to the Server"
 		  });
+		  //  the server can send other messages to all clients by using the broadcast event
 		  
 		  ```
 		- `io.on` event handler handles connection, disconnection, etc., events in it,  using the socket object.
