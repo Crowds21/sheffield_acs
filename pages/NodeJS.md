@@ -13,4 +13,6 @@
 	- models
 		- The model represents the structure of data, the format, how 
 		  data is handled
-		-
+		- There are various ways to build models depending on the Db 
+		  used
+	-
