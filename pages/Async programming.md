@@ -37,7 +37,8 @@
 		  ```
 - Time events
 	- js 中,允许在指定的时间范围内执行函数
-	- Time events
+	- Time events 中常用函数
+		- `setTimeout(functionName, time) `
 	- setTimeout(functionName, time) 指定时间后运行函数
 	- setInterval()在指定的时间间隔中调用函数或表达式
 		- It is a method of the window object
