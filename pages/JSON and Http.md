@@ -37,6 +37,7 @@ title:: JSON and Http
 			  	.catch((err) => console.log(err));
 			  ```
 		- Axios POST
-			-
+			- ```js
+			  ```
 	- Fetch
 -
