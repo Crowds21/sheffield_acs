@@ -44,7 +44,7 @@
 			- 在指定的时间间隔中调用函数或表达式
 			- calls a function or evaluates an expression at 
 			  specified intervals (in milliseconds)
-			-
+			- 它会重复执行,直到停止
 	-
 		- It is a method of the window object
 		- It is repeatedly executed until stopped
