@@ -117,7 +117,8 @@
 		    
 		    // Query
 		    // query - an object containing the query
-		    // 
+		    // Can use regular expressions
+		    // And a 
 		    dbo.collection("cats").find(query).toArray(function(err, result) {
 		      if (err) throw err; 
 		      console.log(result); 
