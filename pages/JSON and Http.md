@@ -34,7 +34,7 @@ title:: JSON and Http
 			  	.then((response) => { 
 			  		displayOutput(response) 
 			  	}) 
-			  	.catch((err) => console.log(err));
+			  	.catch((err) => console.log(err)); // 处理被拒绝的请求
 			  ```
 		- Axios POST [[card]]
 			- ```js
@@ -43,4 +43,4 @@ title:: JSON and Http
 			    .catch((err) => console.log(err));
 			  ```
 	- Fetch
--
+		-
