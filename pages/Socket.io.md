@@ -19,7 +19,9 @@ title:: Socket.io
 			- 与HTTP兼容
 			- 设计用于在HTTP端口80和443上运行
 			- WebSocket 握手使用HTTP Upgrade header, 从HTTP协议切换到WebSocket协议.
-	- 工作原理
+	- 工作原理 [[card]]
 		- A socket is a channel of communication between processes (on the  same or different computers)
 		- 它们在客户端和服务器之间建立一个持久的连接，双方可以在任何时候开始发送数据
 		- Websocket通过TCP协议在不同网络连接的机器上的两个进程之间建立通信
+		- 在初始握手请求/响应之后
+			- 客户端和服务器可以在任何时候发送消息，必须异步处理消息的接收
