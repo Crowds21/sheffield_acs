@@ -60,6 +60,8 @@ title:: JSON and Http
 			  .then((body) => { 
 			    res.send(body); // send back the response HTML
 			  });
+			  
+			  
 			  ```
 		- Fetch 定义 Header [[card]]
 			- 可以使用fetch 中的第二个参数中,设定 `headers`来发送带有自定义请求头信息
@@ -72,4 +74,4 @@ title:: JSON and Http
 			  	body: JSON.stringify(data),
 			  })
 			  ```
-	-
+		-
