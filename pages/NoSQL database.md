@@ -6,6 +6,7 @@
 		- Relational databases require schemas to be defined before you can add data
 			- Changes require downtime
 	- TODO NoSQL 的优点和缺点
+	  collapsed:: true
 		- NoSQL数据库的问题
 			- 没有标准化的数据关系
 				- 自由，但如果过度使用也是一个有害的特征
@@ -14,6 +15,7 @@
 				- 例如，当多个交易同时进行时
 			- 最终的一致性并不适合每个应用
 	- Document stores
+	  collapsed:: true
 		- 数据存储在列中(SQL 数据库存储在行)
 		- 可以对数据进行
 		- 对存储的数据进行快速读/写访问
@@ -22,3 +24,4 @@
 		- 例如Cassandra和HBase
 			- 对大型数据集的查询进行了优化
 	- Graph Store
+- MONGONDB
