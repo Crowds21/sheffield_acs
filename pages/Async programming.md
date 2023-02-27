@@ -1,5 +1,5 @@
 - 为什么需要 Async programming
-	- 一个JS程序只有一个线程,因此需要异步来执行
+	- 因为一个JS程序只有一个线程,因此需要异步来执行一些任务
 - callbacks
 	- What is callbacks [[card]]
 		- Callbacks can be used to perform an action at the end of an asynchronous action
