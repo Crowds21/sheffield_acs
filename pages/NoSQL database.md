@@ -161,5 +161,5 @@
 	- Connect MongoDB
 		- MongoDB
 		- Driver
-		- Mongoose (类似用 js 模拟)
+		- Mongoose (类似用 js 模拟 mongodb 模型?)
 -
