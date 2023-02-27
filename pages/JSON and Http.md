@@ -28,7 +28,7 @@ title:: JSON and Http
 		- 使用浏览器内建的 XMLHttpRequest 以及 JS  HTML DOM
 		- 实现不刷新网页的情况下更新网页内容
 	- Axios
-		- Axios get call
+		- Axios get call [[card]]
 			- ```js
 			  axios.get(url) 
 			  	.then((response) => { 
@@ -36,8 +36,12 @@ title:: JSON and Http
 			  	}) 
 			  	.catch((err) => console.log(err));
 			  ```
-		- Axios POST
+		- Axios POST [[card]]
 			- ```js
+			  axios.post(url,
+			  {id: 11, name: ”XXX", username: ”YYY", email: 
+			  ”XXXYYY@gmail.com", }) .then((response) => 
+			  displayOutput(response)) .catch((err) => console.log(err));
 			  ```
 	- Fetch
 -
