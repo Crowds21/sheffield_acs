@@ -7,14 +7,15 @@ title:: Socket.io
 		- Allows to push data from the server to the client
 	- 简介
 		- Websockets是TCP上的全双工通信协议，与HTTP兼容，设计用于在HTTP端口80和443上运行，WebSocket握手使用HTTP升级头，从HTTP协议切换到WebSocket协议
-	- 与 Ajax / Http 之间的区别 [[card]]
+	- Websockets 与 Ajax / Http 之间的区别 [[card]]
 		- Ajax和HTTP请求允许模拟双向通信
-		- Polling 轮询
-			- 客户端定期发送AJAX请求（例如，每隔几秒钟）
-			- 如果有新的数据，服务器会在响应中发送
-		- Streaming 流式传输
-			- 各种技术（多部分/分块响应），允许服务器对单个客户端请求发送一个以上的响应
-			- 客户端向服务器打开一个HTTP
-			- 服务器发送HTTP头信息，不关闭连接
-			- 当新的数据到达时，服务器在响应体中发送它
-	- Websockets
+			- Polling 轮询
+				- 客户端定期发送AJAX请求（例如，每隔几秒钟）
+				- 如果有新的数据，服务器会在响应中发送
+			- Streaming 流式传输
+				- 各种技术（多部分/分块响应），允许服务器对单个客户端请求发送一个以上的响应
+				- 客户端向服务器打开一个HTTP
+				- 服务器发送HTTP头信息，不关闭连接
+				- 当新的数据到达时，服务器在响应体中发送它
+		-
+		-
