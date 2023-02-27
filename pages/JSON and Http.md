@@ -2,14 +2,14 @@ title:: JSON and Http
 
 - Json
 	- Json 的两种数据结构
+	  collapsed:: true
 		- k-v 对
 		- array [1,2,3]
 	- nodejs 解析 json 对象 [[card]]
+	  collapsed:: true
 		- `JSON.parse(jsonText)`
-	- nodejs 将一个对象转换为 json 对象
+	- nodejs 将一个对象转换为 json 对象 [[card]]
 		- `JSON.stringify(object)`
-	- object To json
-		-
 - Http
 	- Three main popular methods
 		- Ajax
