@@ -60,8 +60,10 @@ title:: Socket.io
 		  ```
 		- ```js
 		  var socket = io()
-		  // 
+		  // create an event listener that write into an element of my  `index.ejs` page
 		  socket.on('welcome',function(data){
 		  	document.getElementById('Welcome').innerHTML = data.description;
 		  });
 		  ```
+	- Broadcasting
+		-
