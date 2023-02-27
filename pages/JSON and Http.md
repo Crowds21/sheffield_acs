@@ -66,4 +66,9 @@ title:: JSON and Http
 			- 响应对象中的`response.headers` 包含了所有的响应 header 信息
 		- Fetch Post
 			- ```js
+			  fetch(url, {
+			  	method: "POST",
+			  	headers: customHeaders,
+			  	body: JSON.stringify(data),
+			  })
 			  ```
