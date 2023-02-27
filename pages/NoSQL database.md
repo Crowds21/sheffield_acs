@@ -165,3 +165,4 @@
 	- TODO Compiling a schema into a model
 	- Validation
 	- Instances
+	- Searching
