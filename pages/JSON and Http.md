@@ -51,6 +51,6 @@ title:: JSON and Http
 			- No need to import if you are using node >18
 				- Otherwise
 					- `const fetch = require("node-fetch")`
-					- ``
-					- import fetch from "node-fetch"
+					-
+					- `import fetch from "node-fetch"
 			- It’s lower level, so might be more difficult to use
