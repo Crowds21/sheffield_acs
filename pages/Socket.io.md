@@ -94,4 +94,5 @@ title:: Socket.io
 			  	socket.join(room);
 			  })
 			  ```
-		- Socket.io
+		- Socket.io [Cheatsheet]( https://socket.io/docs/v3/emit-cheatsheet/)
+	-
