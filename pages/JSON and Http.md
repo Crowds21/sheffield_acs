@@ -9,6 +9,7 @@ title:: JSON and Http
 	  collapsed:: true
 		- `JSON.parse(jsonText)`
 	- nodejs 将一个对象转换为 json 对象 [[card]]
+	  collapsed:: true
 		- `JSON.stringify(object)`
 - Http
 	- Three main popular methods
