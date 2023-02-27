@@ -7,4 +7,4 @@
 			- Changes require downtime
 	- TODO NoSQL 的优点
 	- Document stores (数据存储)
-		-
+		- 数据存储在列中(SQL 数据库存储在行)
