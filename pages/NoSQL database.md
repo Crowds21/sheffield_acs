@@ -138,5 +138,7 @@
 		  dbo.collection("customers").find().sort(mysort).toArray(function(e rr, result)
 		  ```
 	- deleteOne() [[card]]
+		- defining which document to delete.
 		- ```js
 		  ```
+	-
