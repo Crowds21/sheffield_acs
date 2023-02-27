@@ -22,3 +22,4 @@ title:: Socket.io
 	- 工作原理
 		- A socket is a channel of communication between processes (on the  same or different computers)
 		- 它们在客户端和服务器之间建立一个持久的连接，双方可以在任何时候开始发送数据
+		- Websocket通过TCP协议在不同网络连接的机器上的两个进程之间建立通信
