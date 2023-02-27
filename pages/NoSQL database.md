@@ -41,6 +41,7 @@
 		- 最终保存的是二进制的json字符串
 - Commands of MongonDB
 	- Create a database [[card]]
+	  collapsed:: true
 		- ```js
 		  // 创建一个 MongoClient 对象
 		  var MongoClient = require( 'mongodb').MongoClient;
@@ -55,6 +56,7 @@
 		  
 		  ```
 	- Create a collection [[card]]
+	  collapsed:: true
 		- ```js
 		  var MongoClient = require('mongodb').MongoClient;
 		  var url = "mongodb://localhost:27017/mydb";
@@ -71,6 +73,7 @@
 		  })
 		  ```
 	- Inserting a document [[card]]
+	  collapsed:: true
 		- ```js
 		  var MongoClient = require('mongodb').MongoClient;
 		  var url ="mongodb://localhost:27017/";
@@ -87,7 +90,8 @@
 		    });
 		  })
 		  ```
-	- Finding a document
+	- Finding a document [[card]]
+	  collapsed:: true
 		- ```js
 		  var MongoClient =
 		  require('mongodb').MongoClient;
@@ -106,7 +110,8 @@
 		    });
 		  });
 		  ```
-	- Querying a document
+	- Querying a document [[card]]
+	  collapsed:: true
 		- ```js
 		  var MongoClient = require('mongodb').MongoClient;
 		  var url ="mongodb://localhost:27017/";
