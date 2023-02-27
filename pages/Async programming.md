@@ -18,15 +18,23 @@
 		- Await/async (newer)
 - callbacks
 	- What is callbacks [[card]]
+	  collapsed:: true
 		- A callback is a function that is called only when another function is performed AND  finished
 	- How can we use callbacks [[card]]
 		- Callbacks can be used to perform an action at the end of an asynchronous action
 		- 当使用一个函数作为回调时,只需要传入函数的名字,而不需要`()`
 	- Example of using callbacks
+	  collapsed:: true
 		- ```js
+		  var myVar;
+		  function myFunction() {
+		  	myVar = setTimeout(alertFunc, 3000);
+		  }
+		  function alertFunc() {
+		  	alert("Hello!");
+		  }
 		  ```
 - Time events
-  collapsed:: true
 	- js 中,允许在指定的时间范围内执行函数
 	- setTimeout(functionName, time) 指定时间后运行函数
 	- setInterval()在指定的时间间隔中调用函数或表达式
