@@ -27,4 +27,5 @@ title:: Socket.io
 		- 在初始握手请求/响应之后
 			- 客户端和服务器可以在任何时候发送消息，必须异步处理消息的接收
 - Socket.io
-	- 基于 WebSocket
+	- 什么是 socket.io
+		- 基于 WebSocket 协议的一个库
