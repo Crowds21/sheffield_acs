@@ -2,7 +2,7 @@ title:: JSON and Http
 
 - Json
 	- Json 的两种数据结构
-		- k-v
+		- k-v 对
 		- array [1,2,3]
 	- parse json in nodejs
 		- `JSON.parse(jsonText)`
