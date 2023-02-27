@@ -53,7 +53,7 @@ title:: JSON and Http
 					- `const fetch = require("node-fetch")`
 					- `import fetch from "node-fetch"`
 			- It’s lower level, so might be more difficult to use
-		- Fetch Get
+		- Fetch Get [[card]]
 			- ```js
 			  fetch(URL)
 			  .then((response) => response.text()) // extracts the text from the response
@@ -61,4 +61,4 @@ title:: JSON and Http
 			    res.send(body); // send back the response HTML
 			  });
 			  ```
--
+		- Header
