@@ -40,5 +40,7 @@ title:: Socket.io
 		  //create socket.io instance
 		  const io = require('socket.io')(server);
 		  // create a server that listens to socket.io connections
-		  
+		  io.on("connection", (socket) => {
+		    console.log("New Client is Connected!");
+		  });
 		  ```
