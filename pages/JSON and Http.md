@@ -56,7 +56,7 @@ title:: JSON and Http
 		- Fetch Get
 			- ```js
 			  fetch(URL)
-			  .then((response) => response.text()) # 
+			  .then((response) => response.text()) # extracts the text from the response
 			  .then((body) => { 
 			    res.send(body);
 			  });
