@@ -68,9 +68,10 @@
 		- Declaration
 			- it declares a long running computation
 			- it declares placeholders for the behaviour to adopt in case of success and in case of error(resolve and reject represent functions passed as parameters
-			- 声明了一个需要长期运行的计算,以及成功和错误时,
+			- 声明了一个需要长期运行的计算,以及成功和错误时,需要传递的函数?
 		- Consumption
 			- it declares the functions actual functions to be used for success/error
+				-
 		- Execution
 			- it runs the promise code and calls the actual success/reject function
 	- Promises methods
