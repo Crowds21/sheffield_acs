@@ -46,4 +46,5 @@ title:: JSON and Http
 			  ```
 	- Fetch
 		- 简介
+			- Promise-based HTTP client
 			-
