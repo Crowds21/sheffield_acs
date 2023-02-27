@@ -48,7 +48,7 @@
 			- 它会重复执行,直到停止,停止的方式有
 				- `clearInterval()`
 				- 关闭网页窗口
-	- JS函数修改一个}外部已经定义的变量,不需要 return
+	- JS函数修改一个外部已经定义的变量,不需要 return
 - JAVASCRIPT PROMISES
   collapsed:: true
 	- Promises are a way to create asynchronous code that allows easy sequencing of async processes
