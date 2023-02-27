@@ -50,6 +50,7 @@
 				- 关闭网页窗口
 	- JS函数修改一个外部已经定义的变量,不需要 return
 - Javascript Promises
+  collapsed:: true
 	- What is Promises [[card]]
 	  collapsed:: true
 		- Promises are a way to create asynchronous code that allows easy sequencing of async processes
@@ -77,10 +78,11 @@
 			- it runs the promise code and calls the actual success/reject function
 			- 它运行 promise code  并调用实际的成功/拒绝函数
 	- Promises 中的函数 [[card]]
+	  collapsed:: true
 		- `promise.then()` 接收两个参数
 			- callback for success and failure
 		- Promise.catch() 处理被拒绝的 promies
 		- TODO chain promises
-	-
 - ES6
 - Async and await
+	-
