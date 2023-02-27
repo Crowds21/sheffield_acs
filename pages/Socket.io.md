@@ -77,4 +77,6 @@ title:: Socket.io
 				  ```
 			- 给一个房间中的每个人都发送消息
 				- ```js
+				  socket.to("roomID").emit
 				  ```
+			-
