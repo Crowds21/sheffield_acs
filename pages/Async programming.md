@@ -68,6 +68,7 @@
 		- Declaration
 			- it declares a long running computation
 			- it declares placeholders for the behaviour to adopt in case of success and in case of error(resolve and reject represent functions passed as parameters
+			-
 		- Consumption
 			- it declares the functions actual functions to be used for success/error
 		- Execution
