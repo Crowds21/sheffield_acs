@@ -3,3 +3,5 @@
 		- Dynamic schemas动态模式
 		- to allow the insertion of data without a predefined schema
 		- easy to make significant application changes in real- time
+		- Relational databases require schemas to be defined before you can add data
+			- Changes require downtime
