@@ -38,10 +38,9 @@ title:: JSON and Http
 			  ```
 		- Axios POST [[card]]
 			- ```js
-			  axios.post(url,
-			  {id: 11, name: ”XXX", username: ”YYY", email: 
-			  ”XXXYYY@gmail.com", }) .then((response) => 
-			  displayOutput(response)) .catch((err) => console.log(err));
+			  axios.post(url,jsonObject)
+			    .then((response) => displayOutput(response))
+			    .catch((err) => console.log(err));
 			  ```
 	- Fetch
 -
