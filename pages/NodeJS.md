@@ -26,4 +26,6 @@
 	- What is express
 		- A minimal and flexible node.js web application  framework with a set of features for web applications
 		- Especially useful for routing
-	-
+	- Main functionalities
+		- Easy routing
+		- Int
