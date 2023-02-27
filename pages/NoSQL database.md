@@ -162,4 +162,5 @@
 		- MongoDB
 		- Driver
 		- Mongoose (类似用 js 模拟 mongodb 模型?)
-	-
+	- Compiling a schema into a model
+	- Validation
