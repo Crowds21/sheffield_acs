@@ -143,7 +143,7 @@
 			- ```js
 			  ```
 		- drop()
-		- updateOne()
+		- updateOne() [[card]]
 			- ```js
 			  MongoClient.connect(url, function(err, db) {
 			    if (err) throw err;
