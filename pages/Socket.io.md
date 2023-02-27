@@ -67,7 +67,6 @@ title:: Socket.io
 		  ```
 	- Broadcasting
 		- Rooms 是什么, 如何加入一个 Room 并发送广播 [[card]]
-		  collapsed:: true
 			- 一个房间就是一个子通道,套接字可以加入或者离开
 			- 信息只能够发送给连接到该房间的客户端
 			- 加入一个房间
@@ -81,7 +80,7 @@ title:: Socket.io
 				  socket.to("roomID").emit
 				  ```
 			- 一旦当前套接字在一个房间中,那么他的`emit`就只会发送给同一个房间的人
-		- Server 和 Client 如何加入一个房间
+		- Server 和 Client 如何加入一个房间 [[card]]
 			- ```js
 			  // Client
 			  function connectToRoom(roomNo, name) {
