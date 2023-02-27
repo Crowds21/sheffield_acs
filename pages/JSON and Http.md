@@ -62,4 +62,5 @@ title:: JSON and Http
 			  });
 			  ```
 		- Fetch 定义 Header
-			- 可以使用fetch 中的第二个参数来
+			- 可以使用fetch 中的第二个参数来发送自定义请求头信息
+			-
