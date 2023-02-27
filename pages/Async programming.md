@@ -71,7 +71,7 @@
 			- 声明了一个需要长期运行的计算,以及成功和错误时,需要传递的函数?
 		- Consumption
 			- it declares the functions actual functions to be used for success/error
-				-
+			- 它声明了将用于成功/错误的实际函数
 		- Execution
 			- it runs the promise code and calls the actual success/reject function
 	- Promises methods
