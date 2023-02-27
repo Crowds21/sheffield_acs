@@ -75,4 +75,6 @@ title:: Socket.io
 				    socket.join("some room");
 				  });
 				  ```
-			-
+			- 给一个房间中的每个人都发送消息
+				- ```js
+				  ```
