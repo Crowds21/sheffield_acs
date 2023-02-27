@@ -1,7 +1,6 @@
 - Async programming
 	- 一个JS程序只有一个线程,因此需要异步来执行
 - CALLBACKS
-  collapsed:: true
 	- Callbacks can be used to perform an action at the end of an asynchronous action
 	- 当使用一个函数作为回调时,只需要传入函数的名字,而不需要`()`
 - Time events
