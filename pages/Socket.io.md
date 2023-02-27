@@ -60,6 +60,7 @@ title:: Socket.io
 		  ```
 		- ```js
 		  var socket = io()
+		  // 
 		  socket.on('welcome',function(data){
 		  	document.getElementById('Welcome').innerHTML = data.description;
 		  });
