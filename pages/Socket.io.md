@@ -79,4 +79,5 @@ title:: Socket.io
 				- ```js
 				  socket.to("roomID").emit
 				  ```
-			- 一旦当前套接字在一个房间中,那么他的`emit`
+			- 一旦当前套接字在一个房间中,那么他的`emit`就只会发送给同一个房间的人
+		-
