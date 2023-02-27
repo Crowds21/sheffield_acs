@@ -52,7 +52,7 @@
 - Javascript Promises
 	- What is Promises [[card]]
 		- Promises are a way to create asynchronous code that allows easy sequencing of async processes
-		- Promises是创建异步代码的一种方式，可以轻松地对异步进程进行排序
+		- Promises 是创建异步代码的一种方式，可以轻松地对异步进程进行排序
 	- A Promise can be:
 		- pending: initial state
 		- fulfilled: the operation was completed successfully.
