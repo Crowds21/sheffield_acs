@@ -68,12 +68,13 @@
 		- Declaration
 			- it declares a long running computation
 			- it declares placeholders for the behaviour to adopt in case of success and in case of error(resolve and reject represent functions passed as parameters
-			- 它声明了在成功和错误情况下所采取的行为的占位符（解析和拒绝代表作为参数传递的函数）。
+			- 它声明了在成功和错误情况下所采取的行为的占位符（解析和拒绝代表作为参数传递的函数）
 		- Consumption
 			- it declares the functions actual functions to be used for success/error
 			- 它声明了将用于成功/错误的实际函数
 		- Execution
 			- it runs the promise code and calls the actual success/reject function
+			-
 	- Promises methods
 		- `promise.then()`
 			- takes two arguments
