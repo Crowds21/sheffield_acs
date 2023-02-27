@@ -83,4 +83,4 @@ title:: JSON and Http
 			  })
 			  ```
 - JQuery
-	-
+	- jQuery Ajax Methods: ajax()
