@@ -79,4 +79,4 @@ title:: Socket.io
 				- ```js
 				  socket.to("roomID").emit
 				  ```
-			-
+			- 一旦当前套接字在一个房间中,那么他的`emit`
