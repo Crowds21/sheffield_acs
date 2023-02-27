@@ -161,5 +161,5 @@
 	- Connect MongoDB
 		- MongoDB
 		- Driver
-		- Mongos
+		- Mongoose
 -
