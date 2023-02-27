@@ -1,3 +1,5 @@
 - NoSQL database
 	- NoSQL databases are characterised by
+		- Dynamic schemas动态模式
+		- to allow the insertion of data without a predefined schema
 		-
