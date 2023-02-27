@@ -6,5 +6,5 @@
 		- Relational databases require schemas to be defined before you can add data
 			- Changes require downtime
 	- TODO NoSQL 的优点
-	- Document stores
-	-
+	- Document stores (数据存储)
+		-
