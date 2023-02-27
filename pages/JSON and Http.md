@@ -61,5 +61,5 @@ title:: JSON and Http
 			    res.send(body); // send back the response HTML
 			  });
 			  ```
-		- Header
-			- 可以使用
+		- Fetch 定义 Header
+			- 可以使用fetch 中的第二个参数来
