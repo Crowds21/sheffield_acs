@@ -50,6 +50,8 @@
 				- 关闭网页窗口
 	- JS函数修改一个外部已经定义的变量,不需要 return
 - Javascript Promises
+	- What is Promises
+		-
 	- Promises are a way to create asynchronous code that allows easy sequencing of async processes
 	- A Promise can be:
 		- pending: initial state
