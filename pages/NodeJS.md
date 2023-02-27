@@ -29,4 +29,5 @@
 	- Main functionalities
 		- Easy routing
 		- Integration with view rendering engines
-		- Set once common web application
+		- Set once common web application settings
+	-
