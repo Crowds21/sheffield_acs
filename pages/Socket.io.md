@@ -43,6 +43,8 @@ title:: Socket.io
 		  io.on("connection", (socket) => {
 		    console.log("New Client is Connected!");
 		  });
+		  // send messages
+		  
 		  ```
 		- `io.on` event handler handles connection, disconnection, etc., events in it,  using the socket object.
 		-
