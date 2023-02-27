@@ -84,5 +84,10 @@ title:: Socket.io
 		- Server 和 Client 如何加入一个房间
 			- ```js
 			  // Client
+			  function connectToRoom(roomNo, name) {
+			    socket.emit('create or join', roomNo, name);
+			  }
+			  
+			  // Server
 			  
 			  ```
