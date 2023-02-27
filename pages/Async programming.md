@@ -77,8 +77,7 @@
 			- it runs the promise code and calls the actual success/reject function
 			- 它运行 promise code  并调用实际的成功/拒绝函数
 	- Promises 中的函数 [[card]]
-		- `promise.then()`
-			- takes two arguments
+		- `promise.then()` 接收两个参数
 			- callback for success and failure
 		- Promise.catch()
 			- deal with the rejected promise
