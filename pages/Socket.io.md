@@ -57,5 +57,7 @@ title:: Socket.io
 		  // Client
 		  
 		  ```
-	- How to use socket
+	- How to use socket.io (Clien)
+		- ```html
+		  ```
 		-
