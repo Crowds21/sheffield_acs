@@ -24,4 +24,5 @@
 		- 例如Cassandra和HBase
 			- 对大型数据集的查询进行了优化
 	- Graph Store
-- MONGONDB
+- MongonDB
+	-
