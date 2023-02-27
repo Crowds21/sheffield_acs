@@ -61,6 +61,13 @@ title:: JSON and Http
 			    res.send(body); // send back the response HTML
 			  });
 			  
+			  fetch(URL,{
+			    
+			  })
+			  .then((response) => response.text()) // extracts the text from the response
+			  .then((body) => { 
+			    res.send(body); // send back the response HTML
+			  });
 			  
 			  ```
 		- Fetch 定义 Header [[card]]
