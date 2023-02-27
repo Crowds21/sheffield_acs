@@ -40,7 +40,7 @@
 	- BSON
 		- 最终保存的是二进制的json字符串
 - Commands of MongonDB
-	- Create a database
+	- Create a database [[card]]
 		- ```js
 		  // 创建一个 MongoClient 对象
 		  var MongoClient = require( 'mongodb').MongoClient;
