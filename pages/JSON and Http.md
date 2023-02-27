@@ -62,7 +62,7 @@ title:: JSON and Http
 			  });
 			  ```
 		- Fetch 定义 Header [[card]]
-			- 可以使用fetch 中的第二个参数来发送自定义请求头信息
+			- 可以使用fetch 中的第二个参数中,设定 `headers`来发送自定义请求头信息
 			- 响应对象中的`response.headers` 包含了所有的响应 header 信息
 		- Fetch Post
 			- ```js
