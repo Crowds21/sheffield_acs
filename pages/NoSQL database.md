@@ -70,4 +70,5 @@
 		  })
 		  ```
 	- Inserting a document [[card]]
-		-
+		- ```js
+		  ```
