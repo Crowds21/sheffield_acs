@@ -132,6 +132,7 @@
 		  });
 		  ```
 	- Sort() [[card]]
+	  collapsed:: true
 		- ```js
 		  var mysort = { name: 1 };
 		  dbo.collection("customers").find().sort(mysort).toArray(function(e rr, result)
