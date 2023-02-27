@@ -66,4 +66,5 @@ title:: Socket.io
 		  });
 		  ```
 	- Broadcasting
-		-
+		- Create rooms
+			-
