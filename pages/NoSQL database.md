@@ -61,6 +61,7 @@
 		  MongoClient.connect(url, function(err, db) {
 		  	if (err) throw err;
 		  	var dbo = db.db("mydb");
+		    	// 创建 collection
 		  	dbo.createCollection("cats", function(err, res) { 
 		        if (err) throw err;
 		        console.log("Collection created!"); 
@@ -68,3 +69,5 @@
 		  	});
 		  })
 		  ```
+	- Inserting a document [[card]]
+		-
