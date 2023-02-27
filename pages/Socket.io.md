@@ -1,7 +1,7 @@
 title:: Socket.io
 
 - BI- directional server communication
-	- Advantages
+	- Advantages of  directional server communication [[card]]
 		- This enables the server to send real-time updates asynchronously
 		- without requiring the client to submit a request each time
 		- Allows to push data from the server to the client
