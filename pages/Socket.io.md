@@ -35,7 +35,7 @@ title:: Socket.io
 		- a server-side library
 		- Both components have a nearly identical API
 		- It is possible to send any data
-	- How to use socket.io
+	- How to use socket.io (Server)
 		- ```js
 		  //Server 
 		  
@@ -57,5 +57,5 @@ title:: Socket.io
 		  // Client
 		  
 		  ```
-		-
+	- How to use socket
 		-
