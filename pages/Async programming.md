@@ -89,4 +89,5 @@
 		- takes as input a function and makes it asynchronous
 		- returns a promise
 	- The role of await
-		-
+		- The keyword await before a function makes the function wait for  a promise
+	-
