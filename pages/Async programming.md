@@ -78,6 +78,12 @@
 			- it runs the promise code and calls the actual success/reject function
 			- 它运行 promise code  并调用实际的成功/拒绝函数
 	- Promises 中的函数 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-03-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-28T19:56:56.057Z
+	  card-last-score:: 1
 	  collapsed:: true
 		- `promise.then()` 接收两个参数
 			- callback for success and failure
