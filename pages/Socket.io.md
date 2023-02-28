@@ -35,7 +35,7 @@ title:: Socket.io
 		- a server-side library
 		- Both components have a nearly identical API
 		- It is possible to send any data
-	- How to use socket.io (Server)
+	- How to use socket.io (Server) [[card]]
 		- ```js
 		  //Server 
 		  
@@ -54,7 +54,7 @@ title:: Socket.io
 		  });
 		  //  the server can send other messages to all clients by using the broadcast event
 		  ```
-	- How to use socket.io (Clien)
+	- How to use socket.io (Clien) [[cards]]
 		- ```html
 		  <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
 		  ```
@@ -67,7 +67,6 @@ title:: Socket.io
 		  ```
 	- Broadcasting
 		- Rooms 是什么, 如何加入一个 Room 并发送广播 [[card]]
-		  collapsed:: true
 			- 一个房间就是一个子通道,套接字可以加入或者离开
 			- 信息只能够发送给连接到该房间的客户端
 			- 加入一个房间
