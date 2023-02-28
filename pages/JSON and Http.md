@@ -6,6 +6,12 @@ title:: JSON and Http
 		- k-v 对
 		- array [1,2,3]
 	- nodejs 解析 json 对象 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-03-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-28T20:46:29.599Z
+	  card-last-score:: 1
 	  collapsed:: true
 		- `JSON.parse(jsonText)`
 	- nodejs 将一个对象转换为 json 对象 [[card]]
@@ -19,6 +25,12 @@ title:: JSON and Http
 		- `JSON.stringify(object)`
 - Http
 	- Three main popular methods for reusing old data and  only receiving the missing data [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-03-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-28T20:46:25.074Z
+	  card-last-score:: 1
 		- Ajax
 		  collapsed:: true
 			- Ajax is a concept
