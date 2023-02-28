@@ -87,7 +87,6 @@ title:: Socket.io
 		  card-next-schedule:: 2023-03-01T00:00:00.000Z
 		  card-last-reviewed:: 2023-02-28T22:04:42.853Z
 		  card-last-score:: 1
-		  collapsed:: true
 			- ```js
 			  // Client
 			  function connectToRoom(roomNo, name) {
