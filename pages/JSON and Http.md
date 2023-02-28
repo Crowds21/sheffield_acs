@@ -9,6 +9,12 @@ title:: JSON and Http
 	  collapsed:: true
 		- `JSON.parse(jsonText)`
 	- nodejs 将一个对象转换为 json 对象 [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-03-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-28T20:46:20.642Z
+	  card-last-score:: 1
 	  collapsed:: true
 		- `JSON.stringify(object)`
 - Http
