@@ -55,6 +55,12 @@ title:: JSON and Http
 					- `import fetch from "node-fetch"`
 			- It’s lower level, so might be more difficult to use
 		- Fetch Get [[card]]
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2023-03-01T00:00:00.000Z
+		  card-last-reviewed:: 2023-02-28T20:45:17.246Z
+		  card-last-score:: 1
 		  collapsed:: true
 			- ```js
 			  fetch(URL)
