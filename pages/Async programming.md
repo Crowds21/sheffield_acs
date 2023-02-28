@@ -85,6 +85,12 @@
 		- TODO chain promises
 - ES6
 - Async and await [[card]]
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-03-01T00:00:00.000Z
+  card-last-reviewed:: 2023-02-28T19:55:18.680Z
+  card-last-score:: 1
   collapsed:: true
 	- The role of async
 		- takes as input a function and makes it asynchronous
