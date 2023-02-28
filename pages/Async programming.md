@@ -76,10 +76,22 @@
 - Javascript Promises
   collapsed:: true
 	- What is Promises [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-03-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-28T20:14:38.078Z
+	  card-last-score:: 1
 	  collapsed:: true
 		- Promises are a way to create asynchronous code that allows easy sequencing of async processes
 		- Promises 是创建异步代码的一种方式，可以轻松地对异步进程进行排序
 	- Status of Promises [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-03-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-28T20:14:40.341Z
+	  card-last-score:: 1
 	  collapsed:: true
 		- pending
 			- initial state
@@ -90,6 +102,12 @@
 			- the operation failed.
 			- Returns an error
 	- How promises work [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-03-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-28T20:14:32.310Z
+	  card-last-score:: 1
 	  collapsed:: true
 		- Declaration
 			- it declares a long running computation
