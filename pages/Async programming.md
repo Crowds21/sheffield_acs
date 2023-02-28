@@ -18,6 +18,12 @@
 		- Await/async (newer)
 - callbacks
 	- What is callbacks [[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-03-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-28T19:57:02.586Z
+	  card-last-score:: 1
 	  collapsed:: true
 		- A callback is a function that is called only when another function is performed AND  finished
 	- How can we use callbacks [[card]]
