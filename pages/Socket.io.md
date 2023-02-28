@@ -82,6 +82,12 @@ title:: Socket.io
 				  ```
 			- 一旦当前套接字在一个房间中,那么他的`emit`就只会发送给同一个房间的人
 		- Server 和 Client 如何加入一个房间 [[card]]
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2023-03-01T00:00:00.000Z
+		  card-last-reviewed:: 2023-02-28T22:04:42.853Z
+		  card-last-score:: 1
 		  collapsed:: true
 			- ```js
 			  // Client
