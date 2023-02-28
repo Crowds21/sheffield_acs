@@ -1,6 +1,12 @@
 -
 - Nodejs
 	- node.js main components[[card]]
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2023-03-01T00:00:00.000Z
+	  card-last-reviewed:: 2023-02-28T19:54:52.173Z
+	  card-last-score:: 1
 		- routes
 			- A route is the endpoint the user wants to reach
 			- defines the way in which the client requests are handled by the 
