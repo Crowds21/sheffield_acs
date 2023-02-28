@@ -78,6 +78,12 @@ title:: JSON and Http
 			- 可以使用fetch 中的第二个参数中,设定 `headers`来发送带有自定义请求头信息
 			- 响应对象中的`response.headers` 包含了所有的响应 header 信息
 		- Fetch Post [[card]]
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2023-03-01T00:00:00.000Z
+		  card-last-reviewed:: 2023-02-28T20:17:49.676Z
+		  card-last-score:: 1
 		  collapsed:: true
 			- ```js
 			  fetch(url, {
