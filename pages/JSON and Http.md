@@ -31,6 +31,12 @@ title:: JSON and Http
 	- Axios
 	  collapsed:: true
 		- Axios get call [[card]]
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2023-03-01T00:00:00.000Z
+		  card-last-reviewed:: 2023-02-28T20:45:30.697Z
+		  card-last-score:: 1
 			- ```js
 			  axios.get(url) 
 			  	.then((response) => { 
@@ -39,6 +45,12 @@ title:: JSON and Http
 			  	.catch((err) => console.log(err)); // 处理被拒绝的请求
 			  ```
 		- Axios POST [[card]]
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2023-03-01T00:00:00.000Z
+		  card-last-reviewed:: 2023-02-28T20:45:26.474Z
+		  card-last-score:: 1
 			- ```js
 			  axios.post(url,jsonObject)
 			    .then((response) => displayOutput(response))
