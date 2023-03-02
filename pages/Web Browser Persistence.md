@@ -3,3 +3,4 @@
 - WebStorage
 - ~~WebSQL~~ Deprecated
 - IndexedDB
+-
