@@ -8,4 +8,5 @@
 - ~~WebSQL~~ Deprecated
 - IndexedDB
 	- Transactions and async
-		- Can
+		- Can not do any async during transaction
+		-
