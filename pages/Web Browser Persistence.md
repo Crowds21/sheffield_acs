@@ -1,4 +1,4 @@
 - Cookies
 - Cache
 - WebStorage
--
+- IndexedDB
