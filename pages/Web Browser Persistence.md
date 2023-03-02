@@ -7,4 +7,4 @@
 	- sessionStorage
 - ~~WebSQL~~ Deprecated
 - IndexedDB
--
+	-
