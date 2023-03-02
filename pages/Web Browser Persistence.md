@@ -1,5 +1,5 @@
 - Cookies (Rubbish)
-	- Do use it in
+	- Do use it in the assignment
 - Cache
 - WebStorage
 	- localStorage
