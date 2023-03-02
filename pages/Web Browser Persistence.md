@@ -1,5 +1,5 @@
 - Cookies (Rubbish)
-	- Do use it in the assignment. 但是 Quiz要考
+	- Do not use it in the assignment. 但是 Quiz要考
 - Cache
 	-
 - WebStorage
