@@ -1,4 +1,5 @@
 - Cookies (Rubbish)
+	- Do use it in
 - Cache
 - WebStorage
 	- localStorage
