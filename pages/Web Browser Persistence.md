@@ -1,5 +1,5 @@
 - Cookies
 - Cache
 - WebStorage
--
+- ~~WebSQL~~ Deprecated
 - IndexedDB
