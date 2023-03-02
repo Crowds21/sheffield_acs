@@ -1,6 +1,8 @@
 - Cookies (Rubbish)
 - Cache
 - WebStorage
+	- localStorage
+	-
 - ~~WebSQL~~ Deprecated
 - IndexedDB
 -
