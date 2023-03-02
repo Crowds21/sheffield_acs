@@ -2,7 +2,7 @@
 - Cache
 - WebStorage
 	- localStorage
-	-
+	- sessionStorage
 - ~~WebSQL~~ Deprecated
 - IndexedDB
 -
