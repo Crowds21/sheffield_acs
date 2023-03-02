@@ -7,4 +7,5 @@
 	- sessionStorage
 - ~~WebSQL~~ Deprecated
 - IndexedDB
-	-
+	- Transactions and async
+		- Can
