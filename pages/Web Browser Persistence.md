@@ -1,2 +1,4 @@
 - Cookies
+- Cache
+- WebStorage
 -
