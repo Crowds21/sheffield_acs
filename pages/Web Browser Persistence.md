@@ -1,4 +1,4 @@
-- Cookies ()
+- Cookies (Rubbish)
 - Cache
 - WebStorage
 - ~~WebSQL~~ Deprecated
