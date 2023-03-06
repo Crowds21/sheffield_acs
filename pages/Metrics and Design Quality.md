@@ -3,5 +3,6 @@
 	- A further ~25% of their time is spent on navigation.
 	- ((6405ed49-b8dd-424e-adee-684137fb6217))
 		- Save time to understanding what is already there
-		-
+		- Reduces risk of misunderstandings
+	- Modularity
 	-
