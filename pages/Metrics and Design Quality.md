@@ -7,5 +7,5 @@
 	- Modularity 模块化
 - Good Modularity
 	- Coupling
-	-
+	- Cohesion
 	-
