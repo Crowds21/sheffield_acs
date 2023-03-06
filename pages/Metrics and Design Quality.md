@@ -43,15 +43,18 @@
 - ((6405f14d-a2f3-4f21-8ce2-ba4703573d16))
 	- **You can not control what you can not measure**
 		- TODO Measuring Coupling and Cohesion
+		  collapsed:: true
 			- Fan-in
 			- Fan-out
 			- Response set For a Class (RFC)
 			- Lack of Cohesion of Methods (LCOM)
 		- TODO Measuring Size
+		  collapsed:: true
 			- Lines of code
 			- Number of Methods
 			- Number of Data Members
 		- TODO ((6405f782-4c3f-4149-bef9-8dd294b743e2))
+		  collapsed:: true
 			- Weighted Methods per Class
 			- Depth of Inheritance
 			- Number of Children
@@ -60,8 +63,10 @@
 			- Lack of Cohesion in Methods (LCOM)
 				- 访问至少一个相同的实例变量的方法对的数量
 		- TODO ((6405f788-0d9e-469c-8f76-06de48d39698))
+		  collapsed:: true
 			- 随着时间推移发生的变化量.  对于每个新版本，"流失 "是指在一定时期内增加或改变的代码行的总数
 			-
 		- ((6405f804-14bc-4603-a4ba-dbf6210c655d))
 			- "一旦一项措施成为目标，它就不再是一个好的措施。就不再是一个好的措施"
 			- 谨慎对待衡量标准, 不要作为目标使用, 只用来作为大局的一部分提供信息
+- ((6405faaa-eb33-4733-bf5a-fa4fbeb9990e))

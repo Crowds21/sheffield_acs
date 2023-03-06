@@ -86,3 +86,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 16
   hl-color:: yellow
   id:: 6405f804-14bc-4603-a4ba-dbf6210c655d
+- Metrics in Practice
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 6405faaa-eb33-4733-bf5a-fa4fbeb9990e
