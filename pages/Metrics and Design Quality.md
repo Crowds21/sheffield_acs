@@ -6,6 +6,7 @@
 		- Reduces risk of misunderstandings
 	- Modularity 模块化
 - Good Modularity
-	- Coupling
-	- Cohesion
+	-
+	- Coupling 耦合
+	- Cohesion 内聚
 	-
