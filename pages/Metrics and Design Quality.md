@@ -51,7 +51,7 @@
 			- Lines of code
 			- Number of Methods
 			- Number of Data Members
-		- ((6405f782-4c3f-4149-bef9-8dd294b743e2))
+		- TODO ((6405f782-4c3f-4149-bef9-8dd294b743e2))
 			- Weighted Methods per Class
 			- Depth of Inheritance
 			- Number of Children
@@ -59,7 +59,7 @@
 			- Response for Class
 			- Lack of Cohesion in Methods (LCOM)
 				- 访问至少一个相同的实例变量的方法对的数量
-		- ((6405f788-0d9e-469c-8f76-06de48d39698))
+		- TODO ((6405f788-0d9e-469c-8f76-06de48d39698))
 			- 随着时间推移发生的变化量.  对于每个新版本，"流失 "是指在一定时期内增加或改变的代码行的总数
 			-
 		- ((6405f804-14bc-4603-a4ba-dbf6210c655d))
