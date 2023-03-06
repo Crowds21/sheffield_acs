@@ -11,4 +11,4 @@
 		- Loose coupling encouraged by encapsulation - good use of public interfaces.
 	- Cohesion 内聚
 		- A single file or module is “cohesive” if the code within it is highly interdependent.
-	-
+	- 目标:
