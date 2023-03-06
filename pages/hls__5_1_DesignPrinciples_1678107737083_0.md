@@ -51,3 +51,13 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 5
   hl-color:: yellow
   id:: 6405f08f-8302-494b-a4ad-5bb60cdc794f
+- Interface Segregation Principle
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6405f095-fb72-4058-9fcc-4ce132fade11
+- Dependency Inversion Principle
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6405f09a-ee38-4cbd-b604-9fb29823b827

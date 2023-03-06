@@ -24,4 +24,5 @@
 	- Single Responsibility Principle (SRP)
 	- Open-Closed Principle
 	- Liskov Substitution Principle
-	-
+	- Interface Segregation Principle
+	- Dependency Inversion Principle
