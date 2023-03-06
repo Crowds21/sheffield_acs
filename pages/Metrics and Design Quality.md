@@ -1,3 +1,4 @@
+-
 - Make your design is easy to understand
   collapsed:: true
 	- Research found
@@ -8,6 +9,7 @@
 		- Reduces risk of misunderstandings
 	- Modularity 模块化
 - Good Modularity
+  collapsed:: true
 	- Coupling 耦合
 		- “Tightly coupled” if there are lots of calls or data-accesses across file / module boundaries.
 		- Loose coupling encouraged by encapsulation - good use of public interfaces.
@@ -15,6 +17,7 @@
 		- A single file or module is “cohesive” if the code within it is highly interdependent.
 	- 目标: 高内聚,低耦合
 - Class / Module Size
+  collapsed:: true
 	- Single Responsibility Principle.
 		- 一个的类应该只负责一个功能
 	- Do Not Repeat Yourself (DRY)
@@ -26,6 +29,7 @@
 		- Defect prone
 		- “God classes”.
 - ((6405f07a-ca4e-4fad-8fcc-37bef5be3853))
+  collapsed:: true
 	- Do not repeat yourself (DRY)
 	- Single Responsibility Principle (SRP)
 	- Open-Closed Principle
