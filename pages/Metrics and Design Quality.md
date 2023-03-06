@@ -1,1 +1,2 @@
-- Design that is eas
+- Design that is easy to understand
+	-
