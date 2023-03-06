@@ -41,4 +41,6 @@
 		- Dependency Inversion Principle
 			- 依靠抽象的东西，而不是具体的东西。
 - ((6405f14d-a2f3-4f21-8ce2-ba4703573d16))
-	- You can not
+	- **You can not control what you can not measure**
+		-
+-
