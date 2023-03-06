@@ -81,3 +81,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 12
   hl-color:: yellow
   id:: 6405f788-0d9e-469c-8f76-06de48d39698
+- Goodhart’s Law
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 6405f804-14bc-4603-a4ba-dbf6210c655d
