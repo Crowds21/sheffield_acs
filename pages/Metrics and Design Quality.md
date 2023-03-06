@@ -7,7 +7,8 @@
 	- Modularity 模块化
 - Good Modularity
 	- Coupling 耦合
-		- “Tightly coupled” if there are lots of calls or data-accesses across file / module boundaries. Loose coupling encouraged by encapsulation - good use of public interfaces.
+		- “Tightly coupled” if there are lots of calls or data-accesses across file / module boundaries.
+		- Loose coupling encouraged by encapsulation - good use of public interfaces.
 	- Cohesion 内聚
 		- A single file or module is “cohesive” if the code within it is highly interdependent.
 	-
