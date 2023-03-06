@@ -44,5 +44,6 @@
 	- **You can not control what you can not measure**
 		- Fan-in
 		- Fan-out
-		-
+		- Response set For a Class (RFC)
+		- Lack of Cohesion of Methods (LCOM)
 -
