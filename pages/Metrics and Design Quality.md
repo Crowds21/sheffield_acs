@@ -20,7 +20,8 @@
 	- Do Not Repeat Yourself (DRY)
 		- 应该减少重复代码
 	- Big classes ( lots of methods, high lines of code)  suggest that these principles have been violated.
-	  违反了
+	  一个很庞大的类可能违反了以下原则
+		-
 - ((6405f07a-ca4e-4fad-8fcc-37bef5be3853))
 	- Do not repeat yourself (DRY)
 	- Single Responsibility Principle (SRP)
