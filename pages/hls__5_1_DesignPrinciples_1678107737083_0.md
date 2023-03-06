@@ -106,3 +106,10 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 27
   hl-color:: yellow
   id:: 6405fafb-7c7d-4b11-9a43-de2eebd7fd60
+- [:span]
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: yellow
+  id:: 6405fbf7-435f-473c-9539-73e1623861f3
+  hl-type:: area
+  hl-stamp:: 1678113782514
