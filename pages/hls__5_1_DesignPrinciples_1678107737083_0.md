@@ -91,3 +91,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 17
   hl-color:: yellow
   id:: 6405faaa-eb33-4733-bf5a-fa4fbeb9990e
+- The Pareto Principle
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: yellow
+  id:: 6405fab9-16f6-48c0-b97f-367f1f35411d
