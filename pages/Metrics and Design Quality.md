@@ -29,6 +29,7 @@
 	- Do not repeat yourself (DRY)
 	- Single Responsibility Principle (SRP)
 	- Open-Closed Principle
+		- Objects should be open for extension, but closed for modification.
 	- Liskov Substitution Principle
 	- Interface Segregation Principle
 	- Dependency Inversion Principle
