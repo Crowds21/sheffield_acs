@@ -14,4 +14,5 @@
 	- Cohesion 内聚
 		- A single file or module is “cohesive” if the code within it is highly interdependent.
 	- 目标: 高内聚,低耦合
-- Class
+- Class / Module Size
+	-
