@@ -61,3 +61,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 5
   hl-color:: yellow
   id:: 6405f09a-ee38-4cbd-b604-9fb29823b827
+- Objects should be open for extension, but closed for modification.
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6405f0ed-ed97-49e9-82d9-9e97c048de4f

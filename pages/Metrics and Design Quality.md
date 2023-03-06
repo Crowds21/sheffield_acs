@@ -23,7 +23,8 @@
 	  一个很庞大的类可能违反了以下原则
 		- Tend to lack cohesion, and incur high coupling.
 		- Hard for developers to fully understand - difficult to maintain.
-		- Defect prone.“God classes”.
+		- Defect prone
+		- “God classes”.
 - ((6405f07a-ca4e-4fad-8fcc-37bef5be3853))
 	- Do not repeat yourself (DRY)
 	- Single Responsibility Principle (SRP)
