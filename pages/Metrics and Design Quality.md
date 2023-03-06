@@ -22,4 +22,6 @@
 - ((6405f07a-ca4e-4fad-8fcc-37bef5be3853))
 	- Do not repeat yourself (DRY)
 	- Single Responsibility Principle (SRP)
--
+	- Open-Closed Principle
+	- Liskov Substitution Principle
+	-

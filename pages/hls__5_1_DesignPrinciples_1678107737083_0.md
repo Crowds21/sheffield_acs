@@ -46,3 +46,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 5
   hl-color:: yellow
   id:: 6405f07a-ca4e-4fad-8fcc-37bef5be3853
+- Liskov Substitution Principle
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6405f08f-8302-494b-a4ad-5bb60cdc794f
