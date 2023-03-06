@@ -62,8 +62,8 @@
 				- 访问至少一个相同的实例变量的方法对的数量
 				- The extent to which methods within a class use data-members within that class
 		- TODO ((6405f788-0d9e-469c-8f76-06de48d39698))
-			- 随着时间推移发生的变化量.  对于每个新版本，"流失 "是指在一定时期内增加或改变的代码行的总数
-			-
+			- 随着时间推移发生的变化量.  对于每个新版本，"流失 "是指在一定时期内增加或改变的代码行的总数, 评价的是一个文件,而不是整个系统
+			- The number of changes that are made to a file over a period of time.
 		- ((6405f804-14bc-4603-a4ba-dbf6210c655d))
 		  collapsed:: true
 			- "一旦一项措施成为目标，它就不再是一个好的措施。就不再是一个好的措施"
