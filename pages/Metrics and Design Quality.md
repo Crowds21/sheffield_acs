@@ -57,7 +57,7 @@
 			- Number of Children
 			- Coupling between Object Classes
 			- Response for Class
-			- Lcak fo
+			- Lack of Cohesioin in
 		- ((6405f788-0d9e-469c-8f76-06de48d39698))
 			- 随着时间推移发生的变化量.  对于每个新版本，"流失 "是指在一定时期内增加或改变的代码行的总数
 			-
