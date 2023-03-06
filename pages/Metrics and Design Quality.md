@@ -42,12 +42,12 @@
 			- 依靠抽象的东西，而不是具体的东西。
 - ((6405f14d-a2f3-4f21-8ce2-ba4703573d16))
 	- **You can not control what you can not measure**
-		- Measuring Coupling and Cohesion
+		- TODO Measuring Coupling and Cohesion
 			- Fan-in
 			- Fan-out
 			- Response set For a Class (RFC)
 			- Lack of Cohesion of Methods (LCOM)
-		- Measuring Size
+		- TODO Measuring Size
 			- Lines of code
 			- Number of Methods
 			- Number of Data Members
