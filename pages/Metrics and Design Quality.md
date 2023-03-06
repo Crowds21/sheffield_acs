@@ -49,3 +49,4 @@
 			- Lack of Cohesion of Methods (LCOM)
 		- Measuring Size
 		- ((6405f782-4c3f-4149-bef9-8dd294b743e2))
+		- ((6405f788-0d9e-469c-8f76-06de48d39698))
