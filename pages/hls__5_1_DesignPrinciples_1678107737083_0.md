@@ -96,3 +96,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 18
   hl-color:: yellow
   id:: 6405fab9-16f6-48c0-b97f-367f1f35411d
+- Java Dependencies
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 6405fad0-fc5f-47e8-9dbc-872eae444a55
