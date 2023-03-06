@@ -17,6 +17,6 @@
 - Class / Module Size
 	- Single Responsibility Principle.
 		- 一个的类应该只负责一个功能
-	-
+	- Do Not Repeat Yourself (DRY)
 		- 应该减少重复代码
 	-

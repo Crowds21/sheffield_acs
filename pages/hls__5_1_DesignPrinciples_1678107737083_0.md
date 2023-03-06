@@ -36,3 +36,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 4
   hl-color:: yellow
   id:: 6405f064-3f01-429d-b18d-4f9563a576ec
+- Do Not Repeat Yourself (DRY)
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 6405f06f-edd4-4678-a8a4-d3da03c483cc
