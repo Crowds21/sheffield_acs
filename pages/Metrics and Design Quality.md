@@ -76,4 +76,5 @@
 		- 只需要关注百分之 20 最关键的代码, 不管你用的是那种评判方法
 		- ((6405fad0-fc5f-47e8-9dbc-872eae444a55))
 	- ((6405fafb-7c7d-4b11-9a43-de2eebd7fd60))
-	-
+	- Proximity of Data and Behaviour
+		-
