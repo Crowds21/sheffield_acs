@@ -101,3 +101,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 20
   hl-color:: yellow
   id:: 6405fad0-fc5f-47e8-9dbc-872eae444a55
+- Defects in Files
+  ls-type:: annotation
+  hl-page:: 27
+  hl-color:: yellow
+  id:: 6405fafb-7c7d-4b11-9a43-de2eebd7fd60
