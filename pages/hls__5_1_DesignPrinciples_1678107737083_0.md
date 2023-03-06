@@ -11,3 +11,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 2
   hl-color:: yellow
   id:: 6405ed49-b8dd-424e-adee-684137fb6217
+- Key to good design: Modularity
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6405ed4c-97e2-4e8a-b9f7-cbb3a9164639
