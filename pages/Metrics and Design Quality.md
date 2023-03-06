@@ -31,5 +31,6 @@
 	- Open-Closed Principle
 		- Objects should be open for extension, but closed for modification.
 	- Liskov Substitution Principle
+		- 对象应该可以用其子类型的实例替换，而不影响程序的正确性。
 	- Interface Segregation Principle
 	- Dependency Inversion Principle
