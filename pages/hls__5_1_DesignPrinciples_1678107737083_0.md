@@ -66,3 +66,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 5
   hl-color:: yellow
   id:: 6405f0ed-ed97-49e9-82d9-9e97c048de4f
+- Detecting Problem Areas with Metrics
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 6405f14d-a2f3-4f21-8ce2-ba4703573d16
