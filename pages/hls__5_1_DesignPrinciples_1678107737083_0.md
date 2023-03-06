@@ -71,3 +71,13 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 6
   hl-color:: yellow
   id:: 6405f14d-a2f3-4f21-8ce2-ba4703573d16
+- Chidamber & Kemerer’s OO Metrics
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 6405f782-4c3f-4149-bef9-8dd294b743e2
+- Code Churn
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 6405f788-0d9e-469c-8f76-06de48d39698

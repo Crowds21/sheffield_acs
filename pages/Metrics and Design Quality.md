@@ -48,3 +48,4 @@
 			- Response set For a Class (RFC)
 			- Lack of Cohesion of Methods (LCOM)
 		- Measuring Size
+		- ((6405f782-4c3f-4149-bef9-8dd294b743e2))
