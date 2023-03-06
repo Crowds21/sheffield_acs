@@ -1,44 +1,44 @@
--
-- Make your design is easy to understand
-  collapsed:: true
-	- Research found
-		- Developers spend ~60% of their time on “program comprehension”.
-		- A further ~25% of their time is spent on navigation.
-	- ((6405ed49-b8dd-424e-adee-684137fb6217))
-		- Save time to understanding what is already there
-		- Reduces risk of misunderstandings
-	- Modularity 模块化
-- Good Modularity
-  collapsed:: true
-	- Coupling 耦合
-		- “Tightly coupled” if there are lots of calls or data-accesses across file / module boundaries.
-		- Loose coupling encouraged by encapsulation - good use of public interfaces.
-	- Cohesion 内聚
-		- A single file or module is “cohesive” if the code within it is highly interdependent.
-	- 目标: 高内聚,低耦合
-- Class / Module Size
-  collapsed:: true
-	- Single Responsibility Principle.
-		- 一个的类应该只负责一个功能
-	- Do Not Repeat Yourself (DRY)
-		- 应该减少重复代码
-	- Big classes ( lots of methods, high lines of code)  suggest that these principles have been violated.
-	  一个很庞大的类可能违反了以下原则
-		- Tend to lack cohesion, and incur high coupling.
-		- Hard for developers to fully understand - difficult to maintain.
-		- Defect prone
-		- “God classes”.
-- ((6405f07a-ca4e-4fad-8fcc-37bef5be3853))
-  collapsed:: true
-	- Do not repeat yourself (DRY)
-	- Single Responsibility Principle (SRP)
-	- Open-Closed Principle
-		- Objects should be open for extension, but closed for modification.
-	- Liskov Substitution Principle
-		- 对象应该可以用其子类型的实例替换，而不影响程序的正确性。
-	- Interface Segregation Principle
-		- 许多针对客户的接口比一个通用的接口要好。
-	- Dependency Inversion Principle
-		- 依靠抽象的东西，而不是具体的东西。
+- Good Design
+	- Make your design is easy to understand
+	  collapsed:: true
+		- Research found
+			- Developers spend ~60% of their time on “program comprehension”.
+			- A further ~25% of their time is spent on navigation.
+		- ((6405ed49-b8dd-424e-adee-684137fb6217))
+			- Save time to understanding what is already there
+			- Reduces risk of misunderstandings
+		- Modularity 模块化
+	- Good Modularity
+	  collapsed:: true
+		- Coupling 耦合
+			- “Tightly coupled” if there are lots of calls or data-accesses across file / module boundaries.
+			- Loose coupling encouraged by encapsulation - good use of public interfaces.
+		- Cohesion 内聚
+			- A single file or module is “cohesive” if the code within it is highly interdependent.
+		- 目标: 高内聚,低耦合
+	- Class / Module Size
+	  collapsed:: true
+		- Single Responsibility Principle.
+			- 一个的类应该只负责一个功能
+		- Do Not Repeat Yourself (DRY)
+			- 应该减少重复代码
+		- Big classes ( lots of methods, high lines of code)  suggest that these principles have been violated.
+		  一个很庞大的类可能违反了以下原则
+			- Tend to lack cohesion, and incur high coupling.
+			- Hard for developers to fully understand - difficult to maintain.
+			- Defect prone
+			- “God classes”.
+	- ((6405f07a-ca4e-4fad-8fcc-37bef5be3853))
+	  collapsed:: true
+		- Do not repeat yourself (DRY)
+		- Single Responsibility Principle (SRP)
+		- Open-Closed Principle
+			- Objects should be open for extension, but closed for modification.
+		- Liskov Substitution Principle
+			- 对象应该可以用其子类型的实例替换，而不影响程序的正确性。
+		- Interface Segregation Principle
+			- 许多针对客户的接口比一个通用的接口要好。
+		- Dependency Inversion Principle
+			- 依靠抽象的东西，而不是具体的东西。
 - ((6405f14d-a2f3-4f21-8ce2-ba4703573d16))
 	-
