@@ -33,4 +33,5 @@
 	- Liskov Substitution Principle
 		- 对象应该可以用其子类型的实例替换，而不影响程序的正确性。
 	- Interface Segregation Principle
+		- 许多针对客户的接口比一个通用的接口要好。
 	- Dependency Inversion Principle
