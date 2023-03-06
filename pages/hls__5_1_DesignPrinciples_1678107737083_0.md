@@ -41,3 +41,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 4
   hl-color:: yellow
   id:: 6405f06f-edd4-4678-a8a4-d3da03c483cc
+- SOLID Object-Oriented Design Principles
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6405f07a-ca4e-4fad-8fcc-37bef5be3853
