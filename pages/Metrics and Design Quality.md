@@ -7,5 +7,7 @@
 	- Modularity 模块化
 - Good Modularity
 	- Coupling 耦合
+		-
 	- Cohesion 内聚
+		- A single file or module is “cohesive” if the code within it is highly interdependent.
 	-
