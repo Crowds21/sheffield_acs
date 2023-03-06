@@ -35,3 +35,4 @@
 	- Interface Segregation Principle
 		- 许多针对客户的接口比一个通用的接口要好。
 	- Dependency Inversion Principle
+		- 依靠抽象的东西，而不是具体的东西。
