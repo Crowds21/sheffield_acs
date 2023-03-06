@@ -1,4 +1,5 @@
 - Make your design is easy to understand
+  collapsed:: true
 	- Research found
 		- Developers spend ~60% of their time on “program comprehension”.
 		- A further ~25% of their time is spent on navigation.
