@@ -15,6 +15,8 @@
 		- A single file or module is “cohesive” if the code within it is highly interdependent.
 	- 目标: 高内聚,低耦合
 - Class / Module Size
-	- 一个的类应该只负责一个功能
-	- 应该减少重复代码
+	- Single Responsibility Principle.
+		- 一个的类应该只负责一个功能
+	-
+		- 应该减少重复代码
 	-

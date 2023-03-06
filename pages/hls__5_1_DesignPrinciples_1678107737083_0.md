@@ -31,3 +31,8 @@ file-path:: ../assets/5_1_DesignPrinciples_1678107737083_0.pdf
   hl-page:: 3
   hl-color:: yellow
   id:: 6405ee16-b812-4380-920b-9e569b65ecdd
+- Single Responsibility Principle.
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 6405f064-3f01-429d-b18d-4f9563a576ec
