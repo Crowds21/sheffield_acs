@@ -39,6 +39,6 @@
 			- $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{x} \mid \mathbf{y}) P(\mathbf{y})$
 		- $\hat{\mathbf{y}} \approx \underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
 		-
-	- ((64073d02-d1a6-4663-b936-77b3472e2156))
+	- ((64073e47-8618-4cc8-be69-a3548fff1581))
 		- Maximum likelihood estimation
 	-
