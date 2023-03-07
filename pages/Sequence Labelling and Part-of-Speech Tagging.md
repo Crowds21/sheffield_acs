@@ -23,4 +23,5 @@
 	- $$
 	  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } f(\mathbf{x}, \mathbf{y})
 	  $$
--
+- Markov model
+	-
