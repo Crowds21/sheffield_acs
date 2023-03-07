@@ -7,7 +7,7 @@
 			- syntactic parsing
 			- named entity recognition
 			- question answering
-			-
+		- Most used
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
 -
