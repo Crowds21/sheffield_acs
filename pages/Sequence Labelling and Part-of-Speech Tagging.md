@@ -28,4 +28,5 @@
 	- $$
 	  P(\mathbf{y})=\prod_{n=1}^N P\left(y_n \mid y_{n-1}\right)
 	  $$
--
+- Hidden Markov Model (HMM)
+  ref:: ((64073a20-f69f-432b-9eb8-77099c627b10))
