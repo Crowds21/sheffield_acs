@@ -41,7 +41,7 @@
 		-
 	- ((64073e47-8618-4cc8-be69-a3548fff1581))
 		- Maximum likelihood estimation
-	- ((64073e4e-0723-437b-8dbb-ee5abcf78b70))
+	- ((64073ead-7e23-445d-9f0c-81604e15b073))
 		- $$
 		  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)
 		  $$
