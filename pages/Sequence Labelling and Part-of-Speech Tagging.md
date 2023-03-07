@@ -12,4 +12,6 @@
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
 - Sequence labelling
-	-
+	- $$
+	  
+	  $$
