@@ -32,7 +32,7 @@
   ref:: ((64073a20-f69f-432b-9eb8-77099c627b10))
 	- ((64073cfb-8b18-43e0-b4b3-5fcf7435615e))
 		- Bayes rule
-		- $
-		  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{y} \mid \mathbf{x})$
+			- $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{y} \mid \mathbf{x})$
+		- word probabilities are constant
 	- ((64073d02-d1a6-4663-b936-77b3472e2156))
 	-
