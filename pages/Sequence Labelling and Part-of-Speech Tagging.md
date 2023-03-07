@@ -19,7 +19,7 @@
 	  \mathbf{y}^m & =\left[y_1, \ldots y_N\right]
 	  \end{aligned}
 	  $$
-	- $x$ is word. And $y$ is the POS tag
+	- $x$ is the sequence of words. And $y$ is the sequence of POS tag
 	- $$
 	  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } f(\mathbf{x}, \mathbf{y})
 	  $$
