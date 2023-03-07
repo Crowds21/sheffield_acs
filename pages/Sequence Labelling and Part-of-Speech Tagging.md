@@ -1,2 +1,2 @@
-- The first problem of modeling: Language Modelling
+- The first problem of modeling: Language Modeling
 	-
