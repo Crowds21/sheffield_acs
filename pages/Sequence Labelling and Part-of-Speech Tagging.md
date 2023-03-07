@@ -19,4 +19,7 @@
 	  \mathbf{y}^m & =\left[y_1, \ldots y_N\right]
 	  \end{aligned}
 	  $$
-	- $x$ is word. And $y$ is the
+	- $x$ is word. And $y$ is the POS tag
+	- $$
+	  
+	  $$
