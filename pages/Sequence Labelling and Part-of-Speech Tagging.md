@@ -1,7 +1,10 @@
 - The first problem of modeling: Language Modeling
 - Assign a label to each word in a sequence
 	- Part-of-Speech (POS) Tagging
-		-
+		- Usage
+			- text classification
+			- language modelling
+			- syntactic parsing named entity recognition question answering
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
 -
