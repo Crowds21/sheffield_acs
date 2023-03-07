@@ -45,5 +45,6 @@
 		- $$
 		  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)
 		  $$
-	-
+	- ((64073eda-c8b2-4f78-9531-8d8fefbaf4b6))
+		-
 -
