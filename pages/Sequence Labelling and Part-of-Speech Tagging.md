@@ -11,4 +11,5 @@
 			- Also we can use [Universal POS tags (universaldependencies.org)](https://universaldependencies.org/u/pos/)
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
--
+- Sequence labelling
+	-
