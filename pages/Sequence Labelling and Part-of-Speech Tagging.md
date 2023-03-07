@@ -4,7 +4,9 @@
 		- Usage
 			- text classification
 			- language modelling
-			- syntactic parsing named entity recognition question answering
+			- syntactic parsing
+			- named entity recognition
+			- question answering
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
 -
