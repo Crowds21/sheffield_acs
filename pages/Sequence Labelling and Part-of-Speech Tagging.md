@@ -54,3 +54,4 @@
 	- ((64074707-ea47-4d02-85e4-eb00b3494ac0))
 - ((64074700-35a9-4304-9f3e-adad07046319))
 - ((640749d5-1510-4229-b719-eb976e71e2ee))
+	- [如何通俗的理解beam search？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/82829880)
