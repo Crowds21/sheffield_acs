@@ -23,7 +23,7 @@
 	- $$
 	  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } f(\mathbf{x}, \mathbf{y})
 	  $$
-- Markov model
+- Markov model 存在的问题
 	- 使用 tags $y$ 而不是单词
 	- $$
 	  P(\mathbf{y})=\prod_{n=1}^N P\left(y_n \mid y_{n-1}\right)
