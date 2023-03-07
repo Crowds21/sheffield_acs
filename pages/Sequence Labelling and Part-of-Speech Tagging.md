@@ -7,7 +7,7 @@
 			- syntactic parsing
 			- named entity recognition
 			- question answering
-		- Most used
+		- Most used tag set [Penn Treebank P.O.S. Tags (upenn.edu)](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
 -
