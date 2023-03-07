@@ -19,4 +19,4 @@
 	  \mathbf{y}^m & =\left[y_1, \ldots y_N\right]
 	  \end{aligned}
 	  $$
-	- $x#
+	- $x$ is word. And $y$ is the
