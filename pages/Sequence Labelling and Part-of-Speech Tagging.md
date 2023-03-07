@@ -13,5 +13,10 @@
 	- Machine Translation (reconstruct word alignments)
 - Sequence labelling
 	- $$
-	  
+	  \begin{aligned}
+	  D_{\text {train }} & =\left\{\left(\mathbf{x}^1, \mathbf{y}^1\right) \ldots\left(\mathbf{x}^M, \mathbf{y}^M\right)\right\} \\
+	  \mathbf{x}^m & =\left[x_1, \ldots x_N\right] \\
+	  \mathbf{y}^m & =\left[y_1, \ldots y_N\right]
+	  \end{aligned}
 	  $$
+	-
