@@ -68,3 +68,13 @@ file-path:: ../assets/1_1_StaticAnalysis_1676293011676_0.pdf
   hl-page:: 64
   hl-color:: yellow
   id:: 63f3755c-9220-4e43-bd26-c86d70b391ca
+- Reverse-engineering a class diagram.
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: red
+  id:: 640b8953-0fd9-4d09-8576-335da670069d
+- The ability of a program to inspect itself at runtime. Very useful for analysis tasks, e.g. reverse-engineering.
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: red
+  id:: 640b8957-8b50-4879-8720-424cf9b84f66
