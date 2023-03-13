@@ -2,7 +2,7 @@
 	- Understanding Legacy Software
 	- Restructuring Legacy Software
 - Consistent of Restructuring Legacy Software
-	- Testing for Reengineering
+	- Testing for Reengineering (With s)
 	- Redistribute Responsibilities
 	- Manage Code Clones
 	- Remove Dead Code
