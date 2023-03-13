@@ -2,4 +2,5 @@
 	- Understanding Legacy Software
 	- Restructuring Legacy Software
 - Consistent of Restructuring Legacy Software
-	- Testing
+	- Testing for Reengineering
+	- Redistribute Responsibilities
