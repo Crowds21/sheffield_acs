@@ -6,3 +6,4 @@
 	- Redistribute Responsibilities
 	- Manage Code Clones
 	- Remove Dead Code
+- CI
