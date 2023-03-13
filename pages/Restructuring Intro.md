@@ -9,7 +9,8 @@
 	- Manage Code Clones
 		-
 	- Remove Dead Code
-- CI / CD
+- CI / CD This Week
+  background-color:: red
 	- Plan Measure Operate Deploy Release Test Build Code
 - Patterns
 	- Book: A Pattern Language
