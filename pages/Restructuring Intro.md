@@ -7,4 +7,4 @@
 	- Manage Code Clones
 	- Remove Dead Code
 - CI / CD
-	-
+	- Pal
