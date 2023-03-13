@@ -4,3 +4,5 @@
 - Consistent of Restructuring Legacy Software
 	- Testing for Reengineering
 	- Redistribute Responsibilities
+	- Manage Code Clones
+	- Remove Dead Code
