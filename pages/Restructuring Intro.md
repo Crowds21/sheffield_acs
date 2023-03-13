@@ -11,7 +11,7 @@
 - CI / CD This Week
   background-color:: red
 	- Plan Measure Operate Deploy Release Test Build Code
-- Pur
+- Learning objectives
 	- To learn frequent reengineering problems and solutions as “patterns”.
 	- To understand the objectives and tradeoffs for individual reengineering patterns.
 	- To restructure legacy software with educated decisions.
