@@ -2,3 +2,4 @@
 	- Understanding Legacy Software
 	- Restructuring Legacy Software
 - Consistent of Restructuring Legacy Software
+	- Testing
