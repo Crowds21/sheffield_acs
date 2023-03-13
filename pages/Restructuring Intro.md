@@ -3,7 +3,9 @@
 	- Restructuring Legacy Software
 - Consistent of Restructuring Legacy Software
 	- Testing for Reengineering (With specific purpose)
-	- Redistribute Responsibilities. (Redistribute between classes)
+	- Redistribute Responsibilities.
+		- Redistribute between classes
+		- Reduce the unnecessary
 	- Manage Code Clones
 	- Remove Dead Code
 - CI / CD
