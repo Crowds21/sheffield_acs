@@ -23,6 +23,8 @@
 		- Let us discuss recurring issues and tradeoffs in reengineering legacy systems.
 		- Help in diagnosing problems, identifying weaknesses, and finding solutions.
 	- Different between reengineering and refactoring
+		- Refactoring is a technique to resolve specific reengineering patterns.
+		- Reengineering patterns entail more than refactoring (e.g., test automation).
 		-
 - What you will learn
   collapsed:: true
