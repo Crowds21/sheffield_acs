@@ -22,7 +22,9 @@
 	- Reengineering patterns
 		- Let us discuss recurring issues and tradeoffs in reengineering legacy systems.
 		- Help in diagnosing problems, identifying weaknesses, and finding solutions.
+	-
 - What you will learn
+  collapsed:: true
 	- Problem
 	- Solution
 	- Related techniques
