@@ -20,7 +20,8 @@
 	- Architect Christopher Alexander and his colleagues ==introduced patterns as a literary==  form in his book.
 	- They present a systematic method for ==architecting various physical structures==, from rooms to buildings and towns.
 	- Reengineering patterns
-		-
+		- Let us discuss recurring issues and tradeoffs in reengineering legacy systems.
+		- Help in diagnosing problems, identifying weaknesses, and finding solutions.
 - What you will learn
 	- Problem
 	- Solution
