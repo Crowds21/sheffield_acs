@@ -5,8 +5,9 @@
 	- Testing for Reengineering (With specific purpose)
 	- Redistribute Responsibilities.
 		- Redistribute between classes
-		- Reduce the unnecessary
+		- Reduce the unnecessary dependency
 	- Manage Code Clones
+		-
 	- Remove Dead Code
 - CI / CD
 	- Plan Measure Operate Deploy Release Test Build Code
