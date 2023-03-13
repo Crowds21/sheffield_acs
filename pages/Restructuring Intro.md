@@ -9,6 +9,6 @@
 - CI / CD
 	- Plan Measure Operate Deploy Release Test Build Code
 - Patterns
-	- A Pattern Language
+	- Book: A Pattern Language
 	- Architect Christopher Alexander and his colleagues introduced patterns as a literary form in his book.
 	- They present a systematic method for architecting various physical structures, from rooms to buildings and towns.
