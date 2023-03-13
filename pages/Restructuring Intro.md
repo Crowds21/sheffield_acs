@@ -25,7 +25,7 @@
 	- Different between reengineering and refactoring
 		- Refactoring is a technique to resolve specific reengineering patterns.
 		- Reengineering patterns entail more than refactoring (e.g., test automation).
-		-
+		- ((640f359e-8ff7-448f-96bb-dba2f97af66e))
 - What you will learn
   collapsed:: true
 	- Problem
