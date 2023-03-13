@@ -7,4 +7,5 @@
 	- Manage Code Clones
 	- Remove Dead Code
 - CI / CD
-	- Plan Measure Operate Deploy Release Test
+	- Plan Measure Operate Deploy Release Test Build Code
+-
