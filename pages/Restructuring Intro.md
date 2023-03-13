@@ -11,6 +11,7 @@
 - CI / CD This Week
   background-color:: red
 	- Plan Measure Operate Deploy Release Test Build Code
+-
 - Patterns
 	- Book: A Pattern Language
 	- Architect Christopher Alexander and his colleagues introduced patterns as a literary form in his book.
