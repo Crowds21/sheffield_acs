@@ -1,4 +1,4 @@
 - ((640f31da-1a25-4251-967a-11427bbc84fc))
 	- Understanding Legacy Software
 	- Restructuring Legacy Software
-- Consistant of
+- Consistent of Restructuring Legacy Software
