@@ -28,4 +28,4 @@
 	- Related techniques
 	- Examples
 	- Tradeoffs (pros, cons, difficulties)
-	- Advanced topics
+	- Advanced topics (Group a)
