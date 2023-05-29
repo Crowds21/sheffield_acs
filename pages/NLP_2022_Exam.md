@@ -14,5 +14,7 @@
 	  Describe using equations how add-1 smoothing is applied to the bigram language model.
 		- ((6474c77a-1b93-4040-8061-6f5f2ce83f7b)) and ((6474c766-79af-4101-a653-808ac220a86e))
 			- Add-1 (or Laplace) smoothing adds one to all bigram counts to avoid probabilities being 0.
-			-
+			- $$
+			  P_{a d d-1}\left(x_n \mid x_{n-1}\right)=\frac{c\left(x_{n-1}, x_n\right)+1}{c\left(x_{n-1}\right)+|V|}
+			  $$
 			-
