@@ -13,4 +13,4 @@
 	  Why is it important for language modelling? 
 	  Describe using equations how add-1 smoothing is applied to the bigram language model.
 		- ((6474c77a-1b93-4040-8061-6f5f2ce83f7b)) and ((6474c766-79af-4101-a653-808ac220a86e))
-			- Add-1 (or Laplace) smoothing adds one to all bigram counts, to avoid the
+			- Add-1 (or Laplace) smoothing adds one to all bigram counts, to avoid the probability is
