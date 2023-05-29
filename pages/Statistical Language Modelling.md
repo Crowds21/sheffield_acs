@@ -4,5 +4,5 @@
 	- ((6474c8c0-a054-4922-b58b-b5df4d0468f1))
 	- ((6474c8c9-c1c5-47f3-aa64-7522a5b47354))
 - The background of the problem
-	- Training data: sen
+	- Training data: sentences $x^m$ with words
 	-
