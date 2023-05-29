@@ -5,5 +5,10 @@
 	- ((6474c8c9-c1c5-47f3-aa64-7522a5b47354))
 - The background of the problem
 	- Training data: sentences $x^m$ with words $x_n$
-	-
+	- $$
+	  \begin{aligned}
+	  D_{\text {train }} & =\left\{\mathbf{x}^1, \ldots, \mathbf{x}^M\right\} \\
+	  \mathbf{x} & =\left[x_1, \ldots x_N\right]
+	  \end{aligned}
+	  $$
 	-
