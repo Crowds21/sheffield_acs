@@ -7,6 +7,4 @@
 		- The data: Train set, test set, validation set. Text
 		- They are expected to generate coherent and contextually appropriate text given a prompt or partial sentence. It uses the knowledge it gained during training to predict the most probable next words or phrases. The model aims to produce text that is fluent, grammatically correct, and semantically meaningful. The output of a trained language model can be used for various tasks, including text completion, summarization, translation, question answering, and more.
 	- What is the equation for the probability of a sentence?
-	- How is this probability approx-
-	  imated in an n-gram language model? Explain the equation and the approximation
-	  terms.
+	  How is this probability approximated in an n-gram language model?
