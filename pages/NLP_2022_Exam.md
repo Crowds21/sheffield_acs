@@ -12,5 +12,5 @@
 	- What is add-1 smoothing? 
 	  Why is it important for language modelling? 
 	  Describe using equations how add-1 smoothing is applied to the bigram language model.
-		- ((6474c766-79af-4101-a653-808ac220a86e))
+		- a((6474c766-79af-4101-a653-808ac220a86e))
 			-
