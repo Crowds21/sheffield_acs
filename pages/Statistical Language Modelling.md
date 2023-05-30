@@ -63,4 +63,4 @@
 	- From counts to probabilities
 		- Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
--
+		-
