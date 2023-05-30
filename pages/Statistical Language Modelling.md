@@ -46,6 +46,7 @@
 		  $$
 	- Problems of MLE
 		- As we condition on more words, the counts become sparser(稀疏)
+		- 我们假设训练数据是从真实分布中独立采样得到的，但在实际情况下，很多单词序列并不是等概率出现的
 - ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型
   collapsed:: true
 	- Introduction
