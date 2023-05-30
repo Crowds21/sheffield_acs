@@ -45,7 +45,7 @@
 		  P\left(x_n \mid x_{n-1 \ldots x_1}\right)=\frac{c\left(x_1 \ldots x_{n-1}, x_n\right)}{c\left(x_1 \ldots x_{n-1}\right)}
 		  $$
 	- Problems of MLE
-		- As we condition on more words, the counts become sparser))
+		- As we condition on more words, the counts become sparser(稀疏)
 - ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型
   collapsed:: true
 	- Introduction
