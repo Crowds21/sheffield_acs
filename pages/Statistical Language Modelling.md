@@ -65,4 +65,4 @@
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
 		- ((64762be9-a3ab-4b89-b655-b660780b382f))
 			- For example $P(monkeys) = \dfrac{monkeys\ bigram\ counts}{arctic\ unigram\ counts}=0.1$
-		- The
+		- The result of the
