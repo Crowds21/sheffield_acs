@@ -31,7 +31,6 @@
 	- The potential problem
 		- ((64760aa9-2bea-44e7-8921-ec223848b18f))
 - ((64760ab2-3fe6-4586-802b-fbf77162f98d))
-  collapsed:: true
 	- Introduction
 		- Assume that each word is dependent on all previous ones:
 		- $$
@@ -47,6 +46,7 @@
 		  $$
 		-
 - ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型
+  collapsed:: true
 	- Introduction
 		- ((64760be5-a928-44da-a374-313cc7af7da7))
 		- $$
