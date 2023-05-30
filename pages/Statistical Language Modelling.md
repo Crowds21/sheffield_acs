@@ -61,5 +61,5 @@
 			  $$
 			-
 	- From counts to probabilities
-		- row
+		- rows is $x_{i}
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
