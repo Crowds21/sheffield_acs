@@ -66,7 +66,7 @@
 		- ((64762be9-a3ab-4b89-b655-b660780b382f))
 			- For example $P(monkeys) = \dfrac{monkeys\ bigram\ counts}{arctic\ unigram\ counts}=0.1$
 		- The result of the Bigram language model in this example
-			- $\mathbf{x}=[$ arctic, monkeys, are, my, favourite, band$]$
+			- $\mathbf{x}=[arctic, monkeys, are, my, favourite, band]$
 			- $$
 			  \begin{aligned}
 			  P(\mathbf{x}) & =P(\text { monkeys } \mid \text { arctic }) P(\text { are } \mid \text { monkeys }) P(\text { my } \mid \text { are }) \\
@@ -76,3 +76,4 @@
 			  & =0.00006255
 			  \end{aligned}
 			  $$
+-
