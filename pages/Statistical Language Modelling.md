@@ -46,7 +46,7 @@
 		  P\left(x_n \mid x_{n-1 \ldots x_1}\right)=\frac{c\left(x_1 \ldots x_{n-1}, x_n\right)}{c\left(x_1 \ldots x_{n-1}\right)}
 		  $$
 		-
-- ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781))
+- ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型
 	- Introduction
 		- ((64760be5-a928-44da-a374-313cc7af7da7))
 		- $$
@@ -57,3 +57,4 @@
 			  P\left(x_n \mid x_{n-1}, \ldots, x_1\right) \approx P\left(x_n \mid x_{n-1}, \ldots, x_{n-k}\right)
 			  $$
 			-
+-
