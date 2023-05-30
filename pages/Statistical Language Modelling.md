@@ -53,4 +53,7 @@
 		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n \mid x_{n-1}\right)=\prod_{n=1}^N \frac{c\left(x_{n-1}, x_n\right)}{c\left(x_{n-1}\right)}
 		  $$
 		- ((64760bfd-7e58-45b0-b4d0-a26a95bac7b5))
+			- $$
+			  P\left(x_n \mid x_{n-1}, \ldots, x_1\right) \approx P\left(x_n \mid x_{n-1}, \ldots, x_{n-k}\right)
+			  $$
 			-
