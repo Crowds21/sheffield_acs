@@ -64,5 +64,5 @@
 		- Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
 		- ((64762be9-a3ab-4b89-b655-b660780b382f))
-			- For example $P(monkeys) = \dfra{unigram\ counts}{bigram\ counts}$
+			- For example $P(monkeys) = \dfrac{unigram\ counts}{bigram\ counts}$
 			-
