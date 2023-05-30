@@ -17,7 +17,7 @@
 	  P(\mathbf{x})=P\left(x_1, \ldots, x_n\right), \text { for } \forall \mathbf{x} \in V^{\max N}
 	  $$
 	- $V$ is the vocabulary and $V^{maxN}$ all possible sentences.
-- ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a))
+- ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a)) Unigram语言模型
   collapsed:: true
 	- Introduction
 		- Multiply $P$(each word appearing in the sentence x)
