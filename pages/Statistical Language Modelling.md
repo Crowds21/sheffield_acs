@@ -16,4 +16,5 @@
 	- $$
 	  P(\mathbf{x})=P\left(x_1, \ldots, x_n\right), \text { for } \forall \mathbf{x} \in V^{\max N}
 	  $$
-	- $V$ is the vocabulary and $V^{maxN}$ all
+	- $V$ is the vocabulary and $V^{maxN}$ all possible sentences.
+	-
