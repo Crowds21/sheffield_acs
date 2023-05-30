@@ -18,7 +18,7 @@
 	  $$
 	- $V$ is the vocabulary and $V^{maxN}$ all possible sentences.
 - ((647606a0-2bdf-43d4-ba77-d33bee8c4bca))
-	- Multiply the probability of each word appearing in the sentence x computed over the entire corpus:
+	- P(each word appearing in the sentence x computed over the entire corpus:
 	- $$
 	  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n\right)=\prod_{n=1}^N \frac{c\left(x_n\right)}{\sum_{x \in V} c(x)}
 	  $$
