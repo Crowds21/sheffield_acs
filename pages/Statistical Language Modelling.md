@@ -22,5 +22,6 @@
 	- $$
 	  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n\right)=\prod_{n=1}^N \frac{c\left(x_n\right)}{\sum_{x \in V} c(x)}
 	  $$
-	- The total number of occurrences of the word $x_n$ in the document.
-	-
+	- $c_n$
+		- The total number of occurrences of the word $x_n$ in the document.
+	- $
