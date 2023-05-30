@@ -11,4 +11,5 @@
 	  \mathbf{x} & =\left[x_1, \ldots x_N\right]
 	  \end{aligned}
 	  $$
-- Sentence pro
+- Sentence probabilities
+	-
