@@ -26,4 +26,5 @@
 		- The total number of occurrences of the word $x_n$ in the document.
 	- $c(x)$
 		- The number of words in the sentence. (include `<s> </s>`)
-- The protential problem
+- The potential problem
+	-
