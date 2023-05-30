@@ -24,4 +24,5 @@
 	  $$
 	- $c(x_n)$
 		- The total number of occurrences of the word $x_n$ in the document.
-	- $c
+	- $c(x)$
+		-
