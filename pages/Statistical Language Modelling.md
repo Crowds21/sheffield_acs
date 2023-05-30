@@ -21,3 +21,4 @@
 	- $$
 	  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n\right)=\prod_{n=1}^N \frac{c\left(x_n\right)}{\sum_{x \in V} c(x)}
 	  $$
+	-
