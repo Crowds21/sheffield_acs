@@ -18,14 +18,14 @@
 	  $$
 	- $V$ is the vocabulary and $V^{maxN}$ all possible sentences.
 - ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a))
-	- ntroduction
-	- Multiply $P$(each word appearing in the sentence x)
-	- $$
-	  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n\right)=\prod_{n=1}^N \frac{c\left(x_n\right)}{\sum_{x \in V} c(x)}
-	  $$
-	- $c(x_n)$
-		- The total number of occurrences of the word $x_n$ in the document.
-	- $c(x)$
-		- The number of words in the sentence. (include `<s> </s>`)
-- The potential problem
-	-
+	- Introduction
+		- Multiply $P$(each word appearing in the sentence x)
+		- $$
+		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n\right)=\prod_{n=1}^N \frac{c\left(x_n\right)}{\sum_{x \in V} c(x)}
+		  $$
+		- $c(x_n)$
+			- The total number of occurrences of the word $x_n$ in the document.
+		- $c(x)$
+			- The number of words in the sentence. (include `<s> </s>`)
+	- The potential problem
+		-
