@@ -49,4 +49,6 @@
 - ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781))
 	- Introduction
 		- ((64760be5-a928-44da-a374-313cc7af7da7))
-		-
+		- $$
+		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n \mid x_{n-1}\right)=\prod_{n=1}^N \frac{c\left(x_{n-1}, x_n\right)}{c\left(x_{n-1}\right)}
+		  $$
