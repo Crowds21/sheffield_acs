@@ -18,6 +18,7 @@
 	  $$
 	- $V$ is the vocabulary and $V^{maxN}$ all possible sentences.
 - ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a))
+  collapsed:: true
 	- Introduction
 		- Multiply $P$(each word appearing in the sentence x)
 		- $$
@@ -29,3 +30,6 @@
 			- The number of words in the sentence. (include `<s> </s>`)
 	- The potential problem
 		- ((64760aa9-2bea-44e7-8921-ec223848b18f))
+- ((64760ab2-3fe6-4586-802b-fbf77162f98d))
+	- Introduction
+	-
