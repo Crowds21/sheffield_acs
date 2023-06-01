@@ -91,4 +91,5 @@
 		- the more likely to capture long-range dependencies:
 		- the sparser the counts (zero probabilities)
 	- Normarlly 5-grams and training sets with billions of tokens are common.
-- Handle
+- Handle unknown words
+	-
