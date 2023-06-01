@@ -12,8 +12,6 @@
 	- ((6478ca45-d231-4659-849e-7ae837d08dbd))
 		- Most used tag set [Penn Treebank P.O.S. Tags (upenn.edu)](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 		- Also we can use [Universal POS tags (universaldependencies.org)](https://universaldependencies.org/u/pos/)
-	- Named Entity Recognition
-	- Machine Translation (reconstruct word alignments)
 - Sequence labelling
 	- $$
 	  \begin{aligned}
