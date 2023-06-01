@@ -13,7 +13,15 @@
 		  $$
 		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n\right)=\prod_{n=1}^N \frac{c\left(x_n\right)}{\sum_{x \in V} c(x)}
 		  $$
-		-
+		- Likehood
+		  $$
+		  \begin{aligned}
+		  P(\mathbf{x}) & =P\left(x_1, \ldots, x_N\right) \\
+		  & =P\left(x_1\right) P\left(x_2 \ldots x_N \mid x_1\right) \\
+		  & =P\left(x_1\right) P\left(x_2 \mid x_1\right) \ldots P\left(x_N \mid x_1, \ldots, x_{N-1}\right) \\
+		  & =\prod_{n=1}^N P\left(x_n \mid x_1, \ldots x_{n-1}\right) \quad \text { (chain rule) }
+		  \end{aligned}
+		  $$
 	- What is add-1 smoothing? 
 	  Why is it important for language modelling? 
 	  Describe using equations how add-1 smoothing is applied to the bigram language model. [[card]]
