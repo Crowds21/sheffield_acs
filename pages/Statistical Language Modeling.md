@@ -88,7 +88,7 @@
 			  \end{aligned}
 			  $$
 - Longer contexts ((6478ab0c-ca0f-410d-bd37-799b7a7f525c)) [[card]]
-  Influence and normally
+  Influence and in general, what is the value of N?
 	- $$
 	  P(x \mid \text { context })=\frac{P(\text { context }, x)}{P(\text { context })}=\frac{c(\text { context }, x)}{c(\text { context })}
 	  $$
