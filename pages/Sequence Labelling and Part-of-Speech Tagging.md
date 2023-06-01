@@ -1,4 +1,5 @@
 - Applications
+  collapsed:: true
 	- Part-of-Speech (POS) Tagging
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
