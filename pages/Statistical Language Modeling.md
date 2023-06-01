@@ -98,7 +98,6 @@
 			  \end{aligned}
 			  $$
 - Longer contexts ((6478ab0c-ca0f-410d-bd37-799b7a7f525c)) 
-  collapsed:: true
   What is it? Influence and in general, what is the value of N?[[card]]
 	- $$
 	  P(x \mid \text { context })=\frac{P(\text { context }, x)}{P(\text { context })}=\frac{c(\text { context }, x)}{c(\text { context })}
@@ -108,7 +107,6 @@
 		- the sparser the counts (zero probabilities)
 	- Normarlly 5-grams and training sets with billions of tokens are common.
 - Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab)) 
-  collapsed:: true
   How it happens, what is the solution[[card]]
 	- If a word was never encountered in training, any sentence containing it will have probability 0
 	- Unknown words problems happen when
