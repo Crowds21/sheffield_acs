@@ -26,7 +26,8 @@
   collapsed:: true
 	- N-gram language model
 	- ((64760ab5-4060-42a1-b1bf-cbbeba83054a))
-- ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a)) 一元语言模型
+- ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a)) 一元语言模型 
+  Introduction and [[card]]
 	- Introduction
 		- Multiply $P$(each word appearing in the sentence x)
 		- $$
