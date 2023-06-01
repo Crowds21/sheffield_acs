@@ -548,5 +548,22 @@
                                    :height 453.54333333333324}),
                           :page 45},
                :content {:text "Interpolation"},
+               :properties {:color "yellow"}}
+              {:id #uuid "6478b92f-613f-4350-8cf6-8f8b40115b86",
+               :page 50,
+               :position {:bounding {:x1 14.171875,
+                                     :y1 19.203125,
+                                     :x2 277.7721252441406,
+                                     :y2 52.703125,
+                                     :width 604.7249999999999,
+                                     :height 453.54333333333324},
+                          :rects ({:x1 14.171875,
+                                   :y1 19.203125,
+                                   :x2 277.7721252441406,
+                                   :y2 52.703125,
+                                   :width 604.7249999999999,
+                                   :height 453.54333333333324}),
+                          :page 50},
+               :content {:text "Simple Linear Interpolation"},
                :properties {:color "yellow"}}],
- :extra {:page 49}}
+ :extra {:page 50}}
