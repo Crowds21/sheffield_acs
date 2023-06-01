@@ -74,6 +74,8 @@
 		- ((64762be9-a3ab-4b89-b655-b660780b382f))
 			- For example $P(monkeys) = \dfrac{monkeys\ bigram\ counts}{arctic\ unigram\ counts}=0.1$
 		- The result of the Bigram language model in this example
+		  
+		  [[card]]
 			- $\mathbf{x}=[ arctic, monkeys, are, my, favourite, band ]$
 			- $$
 			  \begin{aligned}
