@@ -94,5 +94,6 @@
 - Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab))
 	- If a word was never encountered in training, any sentence containing it will have probability 0
 	- Trigger conditions
-		- all corpora are finite
+		- all corpora are finite(有限的)
 		- new words emerging
+	-
