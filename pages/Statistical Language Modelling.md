@@ -94,8 +94,10 @@
 - Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab))
 	- If a word was never encountered in training, any sentence containing it will have probability 0
 	- Unknown words problems happen when
+	  collapsed:: true
 		- all corpora are finite(有限的)
 		- new words emerging
 	- Solutions
+	  collapsed:: true
 		- replacing low-frequency words with a special UNKNOWN token
 		- TODO Use classes of unknown words, e.g. names and numbers
