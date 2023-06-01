@@ -198,6 +198,8 @@
 		- > Absolute Discounting（绝对减值）是一种用于平滑统计语言模型的技术之一
 		- held-out set = validation set
 		- average count
-		-
+		- $$
+		  P_{\text {AbsDiscount }}\left(x_n \mid x_{n-1}\right)=\frac{c\left(x_n, x_{n-1}\right)-d}{c\left(x_{n-1}\right)}+\lambda_{x_{n-1}} P\left(x_n\right)
+		  $$
 	- ((6478be02-ad50-44a1-a047-05ed3d247746))
 -
