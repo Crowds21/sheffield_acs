@@ -35,6 +35,7 @@
 		  $$
 		  P(x \mid \text { context })=\frac{P(\text { context }, x)}{P(\text { context })}=\frac{c(\text { context }, x)}{c(\text { context })}
 		  $$
+		-
 	- What is add-1 smoothing? 
 	  Why is it important for language modelling? 
 	  Describe using equations how add-1 smoothing is applied to the bigram language model. [[card]]
