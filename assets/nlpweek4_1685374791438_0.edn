@@ -599,5 +599,22 @@
                                    :height 453.54333333333324}),
                           :page 54},
                :content {:text "Absolute Discounting"},
+               :properties {:color "yellow"}}
+              {:id #uuid "6478be02-ad50-44a1-a047-05ed3d247746",
+               :page 59,
+               :position {:bounding {:x1 14.171875,
+                                     :y1 19.203125,
+                                     :x2 158.1970977783203,
+                                     :y2 52.703125,
+                                     :width 604.7249999999999,
+                                     :height 453.54333333333324},
+                          :rects ({:x1 14.171875,
+                                   :y1 19.203125,
+                                   :x2 158.1970977783203,
+                                   :y2 52.703125,
+                                   :width 604.7249999999999,
+                                   :height 453.54333333333324}),
+                          :page 59},
+               :content {:text "Stupid Backoff"},
                :properties {:color "yellow"}}],
- :extra {:page 59}}
+ :extra {:page 60}}
