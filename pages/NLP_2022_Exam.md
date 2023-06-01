@@ -11,6 +11,6 @@
 	  Explain the equation and the approximation terms.
 	- What is add-1 smoothing? 
 	  Why is it important for language modelling? 
-	  Describe using equations how add-1 smoothing is applied to the bigram language model.
+	  Describe using equations how add-1 smoothing is applied to the bigram language model. [[card]]
 		- {{embed ((6478b78a-05e0-4e22-9076-ab0f9eb8c33f))}}
-			-
+		- {{embed ((6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5))}}
