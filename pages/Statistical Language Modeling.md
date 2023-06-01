@@ -75,6 +75,7 @@
 			  $$
 			- 在前几个单词是 xxx 的条件下, 后一个单词是 x_n 的概率
 	- From counts to probabilities
+	  collapsed:: true
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
 		  collapsed:: true
 		  Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
