@@ -15,7 +15,6 @@
   [[card]]
 	- Training data: sentences $x^m$ with words $x_n$
 - What does the statistical language model return? [[card]]
-  collapsed:: true
 	- Sentence probabilities
 	- ((6475fb63-c2bd-4da8-a17a-584b52efef94))
 	- $$
@@ -23,7 +22,6 @@
 	  $$
 	- $V$ is the vocabulary and $V^{maxN}$ all possible sentences.
 - How many different kinds of Statistical Language Modeling [[card]]
-  collapsed:: true
 	- N-gram language model
 	- ((64760ab5-4060-42a1-b1bf-cbbeba83054a))
 - ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a)) 一元语言模型 
