@@ -20,7 +20,7 @@
 	  P(\mathbf{x})=P\left(x_1, \ldots, x_n\right), \text { for } \forall \mathbf{x} \in V^{\max N}
 	  $$
 	- $V$ is the vocabulary and $V^{maxN}$ all possible sentences.
--
+- How many diff
 - ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a)) 一元语言模型
   collapsed:: true
 	- Introduction
