@@ -40,7 +40,7 @@
 		- 1st order Markov
 			- $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{x} \mid \mathbf{y}) P(\mathbf{y})$
 		- $\hat{\mathbf{y}} \approx \underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
-		- 能够使得该改概率公式结果最大的那个 $y$ 即为对应的 TOS
+		- 能够使得该改概率公式结果最大的那个 $y$ 即为对应的 POS (Tag)
 	- ((64073e47-8618-4cc8-be69-a3548fff1581))
 		- Maximum likelihood estimation
 	- ((64073ead-7e23-445d-9f0c-81604e15b073))
