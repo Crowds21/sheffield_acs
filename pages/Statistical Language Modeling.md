@@ -175,4 +175,4 @@
 		  & +\lambda_1 P\left(x_n\right) \quad \lambda_i>0, \sum \lambda_i=1
 		  \end{aligned}
 		  $$
--
+		-
