@@ -97,7 +97,6 @@
 		- the sparser the counts (zero probabilities)
 	- Normarlly 5-grams and training sets with billions of tokens are common.
 - Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab))
-  collapsed:: true
 	- If a word was never encountered in training, any sentence containing it will have probability 0
 	- Unknown words problems happen when
 	  collapsed:: true
@@ -118,6 +117,7 @@
 	  collapsed:: true
 		- How often the LM predicts the correct word, the higher the better
 	- ((6478b043-df43-44f2-be12-dbb396a9dfc1)) of LMs[[card]]
+	  collapsed:: true
 		- Perplexity is the inverse probability of the test set
 		- $\mathbf{x}=\left[x_1, \ldots, x_N\right]$, normalised by the number of words $N$:
 		- $$
@@ -134,6 +134,7 @@
 		- TODO Doesn’t always correlate with application performance
 		- Can’t evaluate non probabilistic LMs
 - ((6478b40f-99d4-4611-a721-9db924fbe415)) 外部评估 [[card]]
+  collapsed:: true
 	- Sentence completion
 	- Grammatical error correction: detecting “odd” sentences and propose alternatives
 	- Natural lanuage generation: prefer more “natural” sentences
