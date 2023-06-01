@@ -9,9 +9,9 @@
 			- nouns, verbs, adjevtives
 		- Closed class (具有相对稳定、数量较少且不易增加新成员的词性类别)
 			- determiners, prepositions, conjunctions, etc
-	-
-	- Most used tag set [Penn Treebank P.O.S. Tags (upenn.edu)](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
-		- Also we can use [Universal POS tags (universaldependencies.org)](https://universaldependencies.org/u/pos/)
+	- ((6478ca31-532f-430c-988f-7cbe240a33ee))
+		- Most used tag set [Penn Treebank P.O.S. Tags (upenn.edu)](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
+			- Also we can use [Universal POS tags (universaldependencies.org)](https://universaldependencies.org/u/pos/)
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
 - Sequence labelling
