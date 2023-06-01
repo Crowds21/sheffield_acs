@@ -127,4 +127,5 @@
 		  & =\sqrt[N]{\frac{1}{\prod_{i=1}^N P\left(x_i \mid x_1, \ldots x_{i-1}\right)}}
 		  \end{aligned}
 		  $$
+		- Measures how well a probability distribution predicts a sample.
 		-
