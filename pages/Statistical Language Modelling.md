@@ -98,4 +98,4 @@
 		- new words emerging
 	- Solutions
 		- replacing low-frequency words with a special UNKNOWN token
-		- Use classes of unknown words, e.g. names and numbers
+		- TODO Use classes of unknown words, e.g. names and numbers
