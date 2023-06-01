@@ -92,8 +92,9 @@
 	- ((64073ee4-219b-4fe1-9ea6-cbbc1fa5add5)) [[card]]
 		- They generate probabilities for words and labels, we just want labels
 		- No overlapping features (e.g. unigrams+bigrams)
-		-
+			- "No overlapping features"（没有重叠特征）是指在特征表示中不允许特征之间有重叠或重复的部分。例如，如果使用了单个词的特征（unigrams）和相邻两个词的特征（bigrams），则这两种特征之间不能有重叠。
 		- No subword features (e.g. suffixes)
+			-
 - ((64073f07-fb05-4a54-b2a7-9625e591a103))
 - ((64073fe6-0f5a-4952-8a4a-4b70f50c1fea))
 - ((64074195-6461-4bbf-8d0c-9fd327b1794e))
