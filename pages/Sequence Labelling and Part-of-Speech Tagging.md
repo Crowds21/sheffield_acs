@@ -24,7 +24,6 @@
 	- $$
 	  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } f(\mathbf{x}, \mathbf{y})
 	  $$
-	- f(x,y)
 	- 在序列标注（Sequence Labeling）中，上述公式表示了一种常见的序列标注模型的形式。
 	- $D_{\text{train}}$ 表示训练数据集，其中包含 $M$ 个训练样本。每个样本由一个输入序列 $\mathbf{x}^m$ 和对应的标签序列 $\mathbf{y}^m$ 组成。
 	- $\mathbf{x}^m$ 表示第 $m$ 个训练样本的输入序列，由 $N$ 个元素 $x_1, x_2, \ldots, x_N$ 组成。这些元素可以是单词、字符或其他语言单位，根据具体任务而定。
