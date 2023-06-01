@@ -110,3 +110,10 @@
 	- ((6478b043-df43-44f2-be12-dbb396a9dfc1))
 		- Perplexity is the inverse probability of the test set
 		-
+		- $$
+		  \begin{aligned}
+		  P P(\mathbf{x}) & =P\left(x_1, \ldots, x_N\right)^{1 / N} \\
+		  & =\sqrt[N]{\frac{1}{P\left(x_1, \ldots, x_N\right)}} \\
+		  & =\sqrt[N]{\frac{1}{\prod_{i=1}^N P\left(x_i \mid x_1, \ldots x_{i-1}\right)}}
+		  \end{aligned}
+		  $$
