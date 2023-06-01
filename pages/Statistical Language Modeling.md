@@ -129,4 +129,6 @@
 		  $$
 		- Measures how well a probability distribution predicts a sample. The lower the better.
 	- ((6478b3e7-e688-410c-aa81-ba05a2c5f0de))
+		-
 		- Doesn’t always correlate with application performance
+		- Can’t evaluate non probabilistic LMs
