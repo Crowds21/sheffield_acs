@@ -49,6 +49,7 @@
 		- $P\left(x_n \mid y_n\right)=\frac{c\left(x_n, y_n\right)}{c\left(y_n\right)}$ (emission probabilities)
 			- 转移概率表示从一个标签转移到另一个标签的概率
 			- 举个例子，我们希望知道在已知前一个标签的情况下，下一个标签出现的概率是多少。继续以词性标注为例，我们希望知道在已知前一个词的词性为"noun"（名词）的情况下，下一个词的词性为"verb"（动词）的概率有多大。
+			-
 	- ((64073ead-7e23-445d-9f0c-81604e15b073))
 		- $$
 		  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)
