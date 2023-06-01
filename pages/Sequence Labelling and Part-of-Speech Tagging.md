@@ -2,6 +2,7 @@
 	- Part-of-Speech (POS) Tagging
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
+- PoS Tags
 - Assign a label to each word in a sequence
 	- Part-of-Speech (POS) Tagging
 	- Most used tag set [Penn Treebank P.O.S. Tags (upenn.edu)](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
