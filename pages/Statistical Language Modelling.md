@@ -92,4 +92,4 @@
 		- the sparser the counts (zero probabilities)
 	- Normarlly 5-grams and training sets with billions of tokens are common.
 - Handle unknown words
-	-
+	- If a word was never encountered in training, any sentence containing it will have probability 0
