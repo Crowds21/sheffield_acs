@@ -55,7 +55,7 @@
 		- 示例
 		  ((6478cf59-a798-4cce-92f7-aaf9e26a88bc))
 		  计算$P(\mathbf{y} \mid \mathbf{x})$ [[card]]
-			-
+			- $\begin{aligned} P(\mathbf{y} \mid \mathbf{x})= & P(I \mid P P S S) P(P P S S \mid S T A R T) \\ & P(\text { can } \mid M D) P(M D \mid P P S S) \\ & P(f l y \mid N N) P(N N \mid M D)\end{aligned}$
 	- ((64073ead-7e23-445d-9f0c-81604e15b073))
 		- $$
 		  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)
