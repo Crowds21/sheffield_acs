@@ -151,4 +151,5 @@
 	- Natural lanuage generation: prefer more “natural” sentences
 	- Speech recognition
 	- Machine translation
--
+- Smoothing
+	-
