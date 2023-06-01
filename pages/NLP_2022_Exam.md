@@ -9,7 +9,7 @@
 	- What is the equation for the probability of a sentence?
 	  How is this probability approximated in an n-gram language model?
 	  Explain the equation and the approximation terms.
-		-
+		- Introd
 	- What is add-1 smoothing? 
 	  Why is it important for language modelling? 
 	  Describe using equations how add-1 smoothing is applied to the bigram language model. [[card]]
