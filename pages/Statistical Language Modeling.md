@@ -165,7 +165,6 @@
 		  $$
 		- k is a hyperparameter: choose optimal value on the dev set!
 	- ((6478b83a-7291-473f-a083-d5e0581e1a4e)) (插值)
-	  collapsed:: true
 		- Longer contexts are more informative, but only if they are frequent enough
 		- Combine evidence from unigram, bigram and trigram probabilities
 		- ((6478b92f-613f-4350-8cf6-8f8b40115b86)) [[card]]
