@@ -128,4 +128,4 @@
 		  \end{aligned}
 		  $$
 		- Measures how well a probability distribution predicts a sample. The lower the better.
-	-
+	- The problem of
