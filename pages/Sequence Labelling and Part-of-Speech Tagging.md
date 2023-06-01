@@ -24,7 +24,7 @@
 	- $$
 	  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } f(\mathbf{x}, \mathbf{y})
 	  $$
-	- 模型$f()$ 应该使得 $\mathbf{y}$结果最大
+	- 模型$f()$ 应该使得 $\hat{\mathbf{y}}$结果最大
 - Markov model 存在的问题
 	- 使用 tags $y$ 而不是单词
 	- $$
