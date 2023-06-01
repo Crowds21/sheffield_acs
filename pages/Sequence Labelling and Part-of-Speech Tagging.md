@@ -44,6 +44,7 @@
 	- ((64073e47-8618-4cc8-be69-a3548fff1581))
 		- Maximum likelihood estimation
 		- $P\left(y_n \mid y_{n-1}\right)=\frac{c\left(y_n, y_{n-1}\right)}{c\left(y_{n-1}\right)}$ (transition probabilities)
+			- 举个例子，假设我们要进行词性标注任务，我们希望知道在已知一个词性标签的情况下，观察到某个单词的概率。例如，对于标签"noun"（名词），我们想知道在这个标签下，观察到单词"cat"（猫）的概率有多大。
 		- $P\left(x_n \mid y_n\right)=\frac{c\left(x_n, y_n\right)}{c\left(y_n\right)}$ (emission probabilities)
 	- ((64073ead-7e23-445d-9f0c-81604e15b073))
 		- $$
