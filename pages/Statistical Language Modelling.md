@@ -83,7 +83,7 @@
 	- $$
 	  P(x \mid \text { context })=\frac{P(\text { context }, x)}{P(\text { context })}=\frac{c(\text { context }, x)}{c(\text { context })}
 	  $$
-	-
+	- Influence of longer context
 	- The longer the context:
 		- the more likely to capture long-range dependencies:
 		- the sparser the counts (zero probabilities)
