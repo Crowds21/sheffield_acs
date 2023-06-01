@@ -14,7 +14,8 @@
   $$
   [[card]]
 	- Training data: sentences $x^m$ with words $x_n$
-- What does the model return? Sentence probabilities
+- What does the model return?
+	- Sentence probabilities
 	- ((6475fb63-c2bd-4da8-a17a-584b52efef94))
 	- $$
 	  P(\mathbf{x})=P\left(x_1, \ldots, x_n\right), \text { for } \forall \mathbf{x} \in V^{\max N}
