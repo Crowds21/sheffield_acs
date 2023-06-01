@@ -191,4 +191,5 @@
 	  $$
 	- TODO $\beta$ is the left-over probability mass for the (n-k)-gram
 - ((6478bdce-cb4f-4dad-8b8a-490e60915b1c))
+	- held-out set
 - ((6478be02-ad50-44a1-a047-05ed3d247746))
