@@ -93,4 +93,5 @@
 	- Normarlly 5-grams and training sets with billions of tokens are common.
 - Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab))
 	- If a word was never encountered in training, any sentence containing it will have probability 0
-	- Generate condition
+	- Trigger conditions
+		-
