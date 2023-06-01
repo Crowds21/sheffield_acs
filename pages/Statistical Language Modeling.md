@@ -78,7 +78,6 @@
 			- ((64762be9-a3ab-4b89-b655-b660780b382f))
 			- For example $P(monkeys) = \dfrac{monkeys\ bigram\ counts}{arctic\ unigram\ counts}=0.1$
 		- The result of the Bigram language model in this example
-		  collapsed:: true
 		  ((64762b81-265e-4037-9f4c-352dee52300e))
 		  Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
 		  [[card]]
@@ -118,7 +117,6 @@
 	- Train and evaluate the language models
 - ((6478afdc-8cb5-44c2-ac16-562350498a85)) 内部评估
 	- ((6478b049-bd2f-4c8b-b9e1-b311a70cc230)) of LMs [[card]]
-	  collapsed:: true
 		- How often the LM predicts the correct word, the higher the better
 	- ((6478b043-df43-44f2-be12-dbb396a9dfc1)) of LMs (困惑度)[[card]]
 		- Perplexity is the inverse probability of the test set
