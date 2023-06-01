@@ -9,19 +9,23 @@
 	- What is the equation for the probability of a sentence?
 	  How is this probability approximated in an n-gram language model?
 	  Explain the equation and the approximation terms.
-		- Unigram
+		- $$
+		  P(\mathbf{x})=P\left(x_1, \ldots, x_n\right), \text { for } \forall \mathbf{x} \in V^{\max N}
 		  $$
-		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n\right)=\prod_{n=1}^N \frac{c\left(x_n\right)}{\sum_{x \in V} c(x)}
-		  $$
-		- Likehood
-		  $$
-		  \begin{aligned}
-		  P(\mathbf{x}) & =P\left(x_1, \ldots, x_N\right) \\
-		  & =P\left(x_1\right) P\left(x_2 \ldots x_N \mid x_1\right) \\
-		  & =P\left(x_1\right) P\left(x_2 \mid x_1\right) \ldots P\left(x_N \mid x_1, \ldots, x_{N-1}\right) \\
-		  & =\prod_{n=1}^N P\left(x_n \mid x_1, \ldots x_{n-1}\right) \quad \text { (chain rule) }
-		  \end{aligned}
-		  $$
+		- For different models
+			- Unigram
+			  $$
+			  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n\right)=\prod_{n=1}^N \frac{c\left(x_n\right)}{\sum_{x \in V} c(x)}
+			  $$
+			- Likehood
+			  $$
+			  \begin{aligned}
+			  P(\mathbf{x}) & =P\left(x_1, \ldots, x_N\right) \\
+			  & =P\left(x_1\right) P\left(x_2 \ldots x_N \mid x_1\right) \\
+			  & =P\left(x_1\right) P\left(x_2 \mid x_1\right) \ldots P\left(x_N \mid x_1, \ldots, x_{N-1}\right) \\
+			  & =\prod_{n=1}^N P\left(x_n \mid x_1, \ldots x_{n-1}\right) \quad \text { (chain rule) }
+			  \end{aligned}
+			  $$
 		- Bigram
 		  $$
 		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n \mid x_{n-1}\right)=\prod_{n=1}^N \frac{c\left(x_{n-1}, x_n\right)}{c\left(x_{n-1}\right)}
