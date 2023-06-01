@@ -128,7 +128,8 @@
 		  \end{aligned}
 		  $$
 		- Measures how well a probability distribution predicts a sample. The lower the better.
-	- ((6478b3e7-e688-410c-aa81-ba05a2c5f0de))
+	- ((6478b3e7-e688-410c-aa81-ba05a2c5f0de)) [[card]]
+	  collapsed:: true
 		- ((6478b405-2b23-4210-b208-e37b9d39c465))
 		- TODO Doesn’t always correlate with application performance
 		- Can’t evaluate non probabilistic LMs
@@ -138,3 +139,4 @@
 	- Natural lanuage generation: prefer more “natural” sentences
 	- Speech recognition
 	- Machine translation
+-
