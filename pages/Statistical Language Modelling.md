@@ -59,7 +59,7 @@
 			- $$
 			  P\left(x_n \mid x_{n-1}, \ldots, x_1\right) \approx P\left(x_n \mid x_{n-1}, \ldots, x_{n-k}\right)
 			  $$
-			-
+			- 在
 	- From counts to probabilities
 		- Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
