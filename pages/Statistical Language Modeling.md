@@ -96,14 +96,12 @@
 		- the more likely to capture long-range dependencies:
 		- the sparser the counts (zero probabilities)
 	- Normarlly 5-grams and training sets with billions of tokens are common.
-- Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab))
+- Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab)) [[card]]
 	- If a word was never encountered in training, any sentence containing it will have probability 0
 	- Unknown words problems happen when
-	  collapsed:: true
 		- all corpora are finite(有限的)
 		- new words emerging
 	- Solutions
-	  collapsed:: true
 		- replacing low-frequency words with a special UNKNOWN token
 		- TODO Use classes of unknown words, e.g. names and numbers
 - ((6478ae8e-e02e-4d7d-97c7-af9e1e956c76)) of LM
