@@ -71,8 +71,8 @@
 	- From counts to probabilities
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
 		  Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
-		  How to calculate
-		- ((64762be9-a3ab-4b89-b655-b660780b382f))
+		  How to calculate  $P(monkeys)$
+			- ((64762be9-a3ab-4b89-b655-b660780b382f))
 			- For example $P(monkeys) = \dfrac{monkeys\ bigram\ counts}{arctic\ unigram\ counts}=0.1$
 		- The result of the Bigram language model in this example
 		  ((64762b81-265e-4037-9f4c-352dee52300e))
