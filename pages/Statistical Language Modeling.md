@@ -57,7 +57,6 @@
 		- 我们假设训练数据是从真实分布中独立采样得到的，但在实际情况下，很多单词序列并不是等概率出现的
 		- 最大似然估计在面对数据稀疏的情况下，可能会高估或低估某些事件的概率，从而影响模型的性能和预测准确性。
 - ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型 (Markov assumption:)
-  collapsed:: true
 	- Introduction
 	  collapsed:: true
 		- ((64760be5-a928-44da-a374-313cc7af7da7))
@@ -88,7 +87,8 @@
 			  \end{aligned}
 			  $$
 - Longer contexts ((6478ab0c-ca0f-410d-bd37-799b7a7f525c)) 
-  What is it Influence and in general, what is the value of N?[[card]]
+  collapsed:: true
+  What is it? Influence and in general, what is the value of N?[[card]]
 	- $$
 	  P(x \mid \text { context })=\frac{P(\text { context }, x)}{P(\text { context })}=\frac{c(\text { context }, x)}{c(\text { context })}
 	  $$
