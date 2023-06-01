@@ -203,4 +203,11 @@
 		  P_{\text {AbsDiscount }}\left(x_n \mid x_{n-1}\right)=\frac{c\left(x_n, x_{n-1}\right)-d}{c\left(x_{n-1}\right)}+\lambda_{x_{n-1}} P\left(x_n\right)
 		  $$
 	- ((6478be02-ad50-44a1-a047-05ed3d247746))
--
+		-
+		- $$
+		  \begin{aligned}
+		  & \operatorname{SBO}\left(x_n \mid x_{n-1} \ldots x_{n-k}\right)= \\
+		  & \qquad \begin{cases}P\left(x_n \mid x_{n-1} \ldots x_{n-k}\right), & \text { if } c\left(x_n \ldots x_{n-k}\right)>0 \\
+		  \lambda S B O\left(x_n \mid x_{n-1} \ldots x_{n-k+1}\right), & \text { otherwise }\end{cases}
+		  \end{aligned}
+		  $$
