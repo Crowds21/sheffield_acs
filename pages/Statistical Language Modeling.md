@@ -109,8 +109,8 @@
 		- TODO Use classes of unknown words, e.g. names and numbers
 - ((6478ae8e-e02e-4d7d-97c7-af9e1e956c76)) of LM
 	- Dealing with large datasets requires efficiency [[card]]
-		- use log probabilities to avoid underflows (small numbers)
-		- efficient data structures for sparse counts, e.g. lossy data structures Bloom filters)
+		- Use log probabilities to avoid underflows (small numbers)
+		- Efficient data structures for sparse counts, e.g. lossy data structures Bloom filters)
 	- Train and evaluate the language models
 - ((6478afdc-8cb5-44c2-ac16-562350498a85)) 内部评估
 	- ((6478b049-bd2f-4c8b-b9e1-b311a70cc230)) of LMs [[card]]
