@@ -6,7 +6,6 @@
 		- Language model is
 		- The data: Train set, test set, validation set. Text
 		- They are expected to return the probability of a given sequence of words in a particular language (e.g. English).
-		- We want to learn a model that returns the probability of an unseen sentence x:
 	- What is the equation for the probability of a sentence?
 	  How is this probability approximated in an n-gram language model?
 	  Explain the equation and the approximation terms.
