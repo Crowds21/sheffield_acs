@@ -1,4 +1,4 @@
-- Applications
+- Applications of Sequence Labelling  []
 	- Part-of-Speech (POS) Tagging
 	- Named Entity Recognition
 	- Machine Translation (reconstruct word alignments)
