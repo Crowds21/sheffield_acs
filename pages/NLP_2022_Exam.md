@@ -5,7 +5,7 @@
 	  and what a trained model is expected to return
 		- Language model is:
 		- The data: Train set, test set, validation set. Text
-		- They are expected to return
+		- They are expected to return the probability of a given sequence of words in a particular language (e.g. English)
 	- What is the equation for the probability of a sentence?
 	  How is this probability approximated in an n-gram language model?
 	  Explain the equation and the approximation terms.
