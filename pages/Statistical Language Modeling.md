@@ -184,7 +184,7 @@
 	  B O\left(x_n \mid x_{n-1} \ldots x_{n-k+1}\right), & \text { otherwise }\end{cases}
 	  \end{aligned}
 	  $$
-	- This is not a probability distribution
+	- This is not a probability distribution. Must discount probabilities for contexts with counts P? and distribute the mass to the shorter context ones:
 	- $$
 	  \alpha^{x_{n-1} \ldots x_{n-k}}=\frac{\beta^{x_{n-1} \ldots x_{n-k}}}{\sum P_{B O}\left(x_n \mid x_{n-1} \ldots x_{n-k+1}\right)}
 	  $$
