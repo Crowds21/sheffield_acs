@@ -92,6 +92,7 @@
 	- ((64073ee4-219b-4fe1-9ea6-cbbc1fa5add5)) [[card]]
 		- They generate probabilities for words and labels, we just want labels
 		- No overlapping features (e.g. unigrams+bigrams)
+		-
 		- No subword features (e.g. suffixes)
 - ((64073f07-fb05-4a54-b2a7-9625e591a103))
 - ((64073fe6-0f5a-4952-8a4a-4b70f50c1fea))
