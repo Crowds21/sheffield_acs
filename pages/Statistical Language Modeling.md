@@ -108,7 +108,7 @@
 		- replacing low-frequency words with a special UNKNOWN token
 		- TODO Use classes of unknown words, e.g. names and numbers
 - ((6478ae8e-e02e-4d7d-97c7-af9e1e956c76)) of LM
-	- Dealing with large datasets requires efficiency [[card]]
+	- How to increase the efficiency of processing a dataset.y [[card]]
 		- Use log probabilities to avoid underflows (small numbers)
 		- Efficient data structures for sparse counts, e.g. lossy data structures Bloom filters)
 	- Train and evaluate the language models
