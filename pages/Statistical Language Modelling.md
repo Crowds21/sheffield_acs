@@ -96,4 +96,5 @@
 	- Unknown words problems happen when
 		- all corpora are finite(有限的)
 		- new words emerging
-	-
+	- Solutions
+		-
