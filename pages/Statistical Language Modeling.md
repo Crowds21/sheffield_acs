@@ -184,7 +184,7 @@
 	  B O\left(x_n \mid x_{n-1} \ldots x_{n-k+1}\right), & \text { otherwise }\end{cases}
 	  \end{aligned}
 	  $$
-	- T
+	- This is not a probability distribution
 	- $$
 	  \alpha^{x_{n-1} \ldots x_{n-k}}=\frac{\beta^{x_{n-1} \ldots x_{n-k}}}{\sum P_{B O}\left(x_n \mid x_{n-1} \ldots x_{n-k+1}\right)}
 	  $$
