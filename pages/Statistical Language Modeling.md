@@ -114,6 +114,7 @@
 		- Efficient data structures for sparse counts, e.g. lossy data structures Bloom filters)
 	- Train and evaluate the language models
 - ((6478afdc-8cb5-44c2-ac16-562350498a85)) 内部评估
+  collapsed:: true
 	- ((6478b049-bd2f-4c8b-b9e1-b311a70cc230)) of LMs [[card]]
 	  collapsed:: true
 		- How often the LM predicts the correct word, the higher the better
@@ -132,3 +133,4 @@
 		- ((6478b405-2b23-4210-b208-e37b9d39c465))
 		- Doesn’t always correlate with application performance
 		- Can’t evaluate non probabilistic LMs
+-

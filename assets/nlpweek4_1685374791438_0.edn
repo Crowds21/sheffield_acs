@@ -497,5 +497,22 @@
                           :rects (),
                           :page 36},
                :content {:text "[:span]", :image 1685632004278},
+               :properties {:color "yellow"}}
+              {:id #uuid "6478b40f-99d4-4611-a721-9db924fbe415",
+               :page 37,
+               :position {:bounding {:x1 14.171875,
+                                     :y1 19.203125,
+                                     :x2 207.72640991210938,
+                                     :y2 52.703125,
+                                     :width 604.7249999999999,
+                                     :height 453.54333333333324},
+                          :rects ({:x1 14.171875,
+                                   :y1 19.203125,
+                                   :x2 207.72640991210938,
+                                   :y2 52.703125,
+                                   :width 604.7249999999999,
+                                   :height 453.54333333333324}),
+                          :page 37},
+               :content {:text "Extrinsic Evaluation"},
                :properties {:color "yellow"}}],
- :extra {:page 37}}
+ :extra {:page 36}}
