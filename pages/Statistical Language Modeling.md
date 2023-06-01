@@ -163,4 +163,5 @@
 		  P_{a d d-k}\left(x_n \mid x_{n-1}\right)=\frac{\operatorname{counts}\left(x_{n-1}, x_n\right)+k}{\operatorname{counts}\left(x_{n-1}\right)+k|V|}
 		  $$
 		- k is a hyperparameter: choose optimal value on the dev set!
--
+- ((6478b83a-7291-473f-a083-d5e0581e1a4e)) (插值)
+	-
