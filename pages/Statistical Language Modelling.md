@@ -32,7 +32,7 @@
 			- The number of words in the sentence. (include `<s> </s>`)
 	- The potential problem
 		- ((64760aa9-2bea-44e7-8921-ec223848b18f))
-- ((64760ab2-3fe6-4586-802b-fbf77162f98d))
+- ((64760ab2-3fe6-4586-802b-fbf77162f98d)) 最大似然估计
   collapsed:: true
 	- Introduction
 		- Assume that each word is dependent on all previous ones:
@@ -91,4 +91,4 @@
 		- the more likely to capture long-range dependencies:
 		- the sparser the counts (zero probabilities)
 	- Normarlly 5-grams and training sets with billions of tokens are common.
--
+- Handle
