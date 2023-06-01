@@ -1,4 +1,5 @@
-- The first problem of modeling: Language Modeling
+- Applications
+	-
 - Assign a label to each word in a sequence
 	- Part-of-Speech (POS) Tagging
 		- Usage
