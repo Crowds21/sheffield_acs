@@ -41,7 +41,33 @@
 			- $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{x} \mid \mathbf{y}) P(\mathbf{y})$
 		- $\hat{\mathbf{y}} \approx \underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
 		- 能够使得该改概率公式结果最大的那个 $y$ 即为对应的 POS (Tag)
-			-
+			- To derive the approximation, let's break down the equation step by step:
+			  The joint probability of the tag sequence y and the word sequence x is denoted as P(y, x). We want to find the best tag sequence that maximizes this joint probability given the word sequence, i.e., ˆy = argmax y∈YN P(y|x).
+			  Using the chain rule of probability, we can express P(y, x) as the product of conditional probabilities:
+			  
+			  P(y, x) = P(x|y)P(y).
+			  
+			  Applying the approximation, we assume that the word probabilities P(x|y) can be factorized as a product of individual word probabilities:
+			  
+			  P(x|y) = ∏n=1P(xn|yn).
+			  
+			  This assumes that the probability of observing each word in the sequence depends only on its corresponding tag and is independent of other tags and words.
+			  
+			  Similarly, we assume that the tag probabilities P(y) can be factorized as a product of conditional tag probabilities:
+			  
+			  P(y) = ∏n=1P(yn|yn−1).
+			  
+			  This assumes that the probability of each tag in the sequence only depends on the previous tag and is independent of other tags and words.
+			  
+			  Combining the above equations, we have:
+			  
+			  P(y, x) ≈ P(x|y)P(y) ≈ ∏n=1P(xn|yn)P(yn|yn−1).
+			  
+			  Therefore, the approximation for the best tag sequence ˆy becomes:
+			  
+			  ˆy = argmax y∈YN ∏n=1P(xn|yn)P(yn|yn−1).
+			  
+			  By making these simplifying assumptions, the computation of the best tag sequence can be approximated as the product of individual word probabilities and conditional tag probabilities. This approximation allows for more efficient and tractable calculations in practice, although it may not capture all possible dependencies in the data.
 	- ((64073e47-8618-4cc8-be69-a3548fff1581))
 		- Maximum likelihood estimation
 		- $P\left(y_n \mid y_{n-1}\right)=\frac{c\left(y_n, y_{n-1}\right)}{c\left(y_{n-1}\right)}$ (transition probabilities)
