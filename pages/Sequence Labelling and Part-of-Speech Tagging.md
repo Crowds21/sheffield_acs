@@ -41,7 +41,6 @@
 			- $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{x} \mid \mathbf{y}) P(\mathbf{y})$
 		- $\hat{\mathbf{y}} \approx \underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
 		- 能够使得该改概率公式结果最大的那个 $y$ 即为对应的 POS (Tag)
-		  collapsed:: true
 			- To derive the approximation, let's break down the equation step by step:
 			  The joint probability of the tag sequence y and the word sequence x is denoted as P(y, x). We want to find the best tag sequence that maximizes this joint probability given the word sequence, i.e., ˆy = argmax y∈YN P(y|x).
 			  Using the chain rule of probability, we can express P(y, x) as the product of conditional probabilities:
