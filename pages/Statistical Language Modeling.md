@@ -175,5 +175,6 @@
 		  & +\lambda_1 P\left(x_n\right) \quad \lambda_i>0, \sum \lambda_i=1
 		  \end{aligned}
 		  $$
-		- How to choose the value of $\lambda$s
+		- How to choose the value of $\lambda$s ->  Parameter tuning on the dev set!
 			-
+-
