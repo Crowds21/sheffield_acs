@@ -24,7 +24,7 @@
 	- $$
 	  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } f(\mathbf{x}, \mathbf{y})
 	  $$
-	- f
+	- f(x,y)
 - Markov model 存在的问题
 	- 使用 tags $y$ 而不是单词
 	- $$
