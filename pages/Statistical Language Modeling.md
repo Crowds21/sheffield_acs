@@ -166,7 +166,7 @@
 - ((6478b83a-7291-473f-a083-d5e0581e1a4e)) (插值)
 	- Longer contexts are more informative, but only if they are frequent enough
 	- Combine evidence from unigram, bigram and trigram probabilities
-		- For a trigram LM:
+		- For a trigram LM
 		- $$
 		  \begin{aligned}
 		  P_{S L I}\left(x_n \mid x_{n-1}, x_{n-2}\right) & =\lambda_3 P\left(x_n \mid x_{n-1}, x_{n-2}\right) \\
@@ -174,3 +174,4 @@
 		  & +\lambda_1 P\left(x_n\right) \quad \lambda_i>0, \sum \lambda_i=1
 		  \end{aligned}
 		  $$
+-
