@@ -176,7 +176,7 @@
 		  $$
 		- How to choose the value of $\lambda$s ->  Parameter tuning on the dev set!
 - ((6478b966-7915-46dd-b12a-6fcfb726a0a5))
-	- > Backoff 是一种策略，用于处理上下文中某个 n-gram（例如，trigram）不存在的情况。当需要计算某个 n-gram 的概率时，如果该 n-gram 在训练数据中没有出现过，就会使用 Backoff 策略。
+	- > Backoff 是一种策略，用于处理上下文中某个 n-gram（例如，trigram）不存在的情况。当需要计算某个 n-gram 的概率时，如果该 n-gram 在训练数据中没有出现过，就会使用 Backoff 策略
 	- Start with n-gram order of $k$  but if the counts are 0 use $k − 1$:
 	- $$
 	  \begin{aligned}
