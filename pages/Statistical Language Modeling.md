@@ -96,7 +96,8 @@
 		- the more likely to capture long-range dependencies:
 		- the sparser the counts (zero probabilities)
 	- Normarlly 5-grams and training sets with billions of tokens are common.
-- Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab)) [[card]]
+- Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab)) 
+  How it happens[[card]]
 	- If a word was never encountered in training, any sentence containing it will have probability 0
 	- Unknown words problems happen when
 		- all corpora are finite(有限的)
