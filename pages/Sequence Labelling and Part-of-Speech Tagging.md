@@ -97,6 +97,7 @@
 - ((64073f07-fb05-4a54-b2a7-9625e591a103))
 	- 使用逻辑回归表示概率
 - ((64073fe6-0f5a-4952-8a4a-4b70f50c1fea)) 条件随机场 CRF
+  ref:: [从隐马尔科夫到条件随机场 | MaxMa Blog (anxiang1836.github.io)](https://anxiang1836.github.io/2019/11/05/NLP_From_HMM_to_CRF/)
 	- > 与传统的隐马尔可夫模型（Hidden Markov Models，HMM）相比，CRF在建模能力和表达能力上更强大。CRF能够建模更复杂的特征依赖关系，不仅考虑当前观测到的特征，还能利用上下文信息进行预测。
 - ((64074195-6461-4bbf-8d0c-9fd327b1794e))
 	-
