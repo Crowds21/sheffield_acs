@@ -22,6 +22,7 @@
 		  & =\prod_{n=1}^N P\left(x_n \mid x_1, \ldots x_{n-1}\right) \quad \text { (chain rule) }
 		  \end{aligned}
 		  $$
+		- Bigram
 	- What is add-1 smoothing? 
 	  Why is it important for language modelling? 
 	  Describe using equations how add-1 smoothing is applied to the bigram language model. [[card]]
