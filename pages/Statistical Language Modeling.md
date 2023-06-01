@@ -176,7 +176,7 @@
 		  $$
 		- How to choose the value of $\lambda$s ->  Parameter tuning on the dev set!
 - ((6478b966-7915-46dd-b12a-6fcfb726a0a5))
-	-
+	- Start with n-gram order of k but if the counts are 0 use k − 1:
 	- $$
 	  \begin{aligned}
 	  & B O\left(x_n \mid x_{n-1} \ldots x_{n-k}\right)= \\
