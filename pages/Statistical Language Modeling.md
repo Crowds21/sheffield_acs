@@ -72,7 +72,7 @@
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
 		  collapsed:: true
 		  Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
-		  How to calculate  $P(monkeys)$
+		  How to calculate  $P(monkeys)$ [[card]]
 			- ((64762be9-a3ab-4b89-b655-b660780b382f))
 			- For example $P(monkeys) = \dfrac{monkeys\ bigram\ counts}{arctic\ unigram\ counts}=0.1$
 		- The result of the Bigram language model in this example
