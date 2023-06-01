@@ -1,4 +1,5 @@
 - Applications
+	- Part-of-Speech (POS) Tagging
 	-
 - Assign a label to each word in a sequence
 	- Part-of-Speech (POS) Tagging
