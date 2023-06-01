@@ -4,11 +4,12 @@
 	- Machine Translation (reconstruct word alignments)
 - Classes of PoS Tags
 - Assign a label to each word in a sequence
-	- Part-of-Speech (POS) Tagging
+	- Part-of-Speech (POS) Tagging [[card]]
 		- Open class (具有较高的词汇变化和词汇增长能力的词性类别)
 			- nouns, verbs, adjevtives
 		- Closed class (具有相对稳定、数量较少且不易增加新成员的词性类别)
 			- determiners, prepositions, conjunctions, etc
+	-
 	- Most used tag set [Penn Treebank P.O.S. Tags (upenn.edu)](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 		- Also we can use [Universal POS tags (universaldependencies.org)](https://universaldependencies.org/u/pos/)
 	- Named Entity Recognition
