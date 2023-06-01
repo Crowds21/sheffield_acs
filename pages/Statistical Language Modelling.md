@@ -51,6 +51,7 @@
 		- 最大似然估计在面对数据稀疏的情况下，可能会高估或低估某些事件的概率，从而影响模型的性能和预测准确性。
 - ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型 (Markov assumption:)
 	- Introduction
+	  collapsed:: true
 		- ((64760be5-a928-44da-a374-313cc7af7da7))
 		- $$
 		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n \mid x_{n-1}\right)=\prod_{n=1}^N \frac{c\left(x_{n-1}, x_n\right)}{c\left(x_{n-1}\right)}
@@ -61,6 +62,7 @@
 			  $$
 			- 在前几个单词是 xxx 的条件下, 后一个单词是 x_n 的概率
 	- From counts to probabilities
+	  collapsed:: true
 		- Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
 		- ((64762be9-a3ab-4b89-b655-b660780b382f))
