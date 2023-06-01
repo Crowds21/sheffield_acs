@@ -152,7 +152,7 @@
 	- Machine translation
 - ((6478b791-8fa8-4615-963f-b29f36978aaf))
 	- ((6474c77a-1b93-4040-8061-6f5f2ce83f7b)) [[card]]
-	  collapsed:: true
+	  id:: 6478b78a-05e0-4e22-9076-ab0f9eb8c33f
 		- Add-1 (or Laplace) smoothing adds one to all bigram counts to avoid probabilities being 0. Pretend we have seen all bigrams at least once.
 		- $$
 		  P_{a d d-1}\left(x_n \mid x_{n-1}\right)=\frac{c\left(x_{n-1}, x_n\right)+1}{c\left(x_{n-1}\right)+|V|}
