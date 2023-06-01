@@ -13,6 +13,7 @@
 	  \end{aligned}
 	  $$
 - Sentence probabilities
+  collapsed:: true
 	- ((6475fb63-c2bd-4da8-a17a-584b52efef94))
 	- $$
 	  P(\mathbf{x})=P\left(x_1, \ldots, x_n\right), \text { for } \forall \mathbf{x} \in V^{\max N}
@@ -90,3 +91,4 @@
 		- the more likely to capture long-range dependencies:
 		- the sparser the counts (zero probabilities)
 	- Normarlly 5-grams and training sets with billions of tokens are common.
+-
