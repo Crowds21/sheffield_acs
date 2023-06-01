@@ -190,4 +190,5 @@
 	  \alpha^{x_{n-1} \ldots x_{n-k}}=\frac{\beta^{x_{n-1} \ldots x_{n-k}}}{\sum P_{B O}\left(x_n \mid x_{n-1} \ldots x_{n-k+1}\right)}
 	  $$
 	- TODO $\beta$ is the left-over probability mass for the (n-k)-gram
--
+- ((6478bdce-cb4f-4dad-8b8a-490e60915b1c))
+	-
