@@ -177,4 +177,11 @@
 		- How to choose the value of $\lambda$s ->  Parameter tuning on the dev set!
 - ((6478b966-7915-46dd-b12a-6fcfb726a0a5))
 	-
+	- $$
+	  \begin{aligned}
+	  & B O\left(x_n \mid x_{n-1} \ldots x_{n-k}\right)= \\
+	  & \qquad \begin{cases}P\left(x_n \mid x_{n-1} \ldots x_{n-k}\right), & \text { if } c\left(x_n \ldots x_{n-k}\right)>0 \\
+	  B O\left(x_n \mid x_{n-1} \ldots x_{n-k+1}\right), & \text { otherwise }\end{cases}
+	  \end{aligned}
+	  $$
 -
