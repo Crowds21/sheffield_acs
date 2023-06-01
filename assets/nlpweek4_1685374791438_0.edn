@@ -485,5 +485,17 @@
                                    :height 453.54333333333324}),
                           :page 36},
                :content {:text "The problem with perplexity"},
+               :properties {:color "yellow"}}
+              {:id #uuid "6478b405-2b23-4210-b208-e37b9d39c465",
+               :page 36,
+               :position {:bounding {:x1 111,
+                                     :y1 91,
+                                     :x2 503,
+                                     :y2 358,
+                                     :width 604.7249999999999,
+                                     :height 453.54333333333324},
+                          :rects (),
+                          :page 36},
+               :content {:text "[:span]", :image 1685632004278},
                :properties {:color "yellow"}}],
- :extra {:page 36}}
+ :extra {:page 37}}
