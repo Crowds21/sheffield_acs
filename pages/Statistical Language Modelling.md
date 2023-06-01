@@ -49,9 +49,8 @@
 		- As we condition on more words, the counts become sparser(稀疏)
 		- 我们假设训练数据是从真实分布中独立采样得到的，但在实际情况下，很多单词序列并不是等概率出现的
 		- 最大似然估计在面对数据稀疏的情况下，可能会高估或低估某些事件的概率，从而影响模型的性能和预测准确性。
-- ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型
+- ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型 (马尔科夫)
 	- Introduction
-	  collapsed:: true
 		- ((64760be5-a928-44da-a374-313cc7af7da7))
 		- $$
 		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n \mid x_{n-1}\right)=\prod_{n=1}^N \frac{c\left(x_{n-1}, x_n\right)}{c\left(x_{n-1}\right)}
