@@ -23,6 +23,9 @@
 		  \end{aligned}
 		  $$
 		- Bigram
+		  $$
+		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n \mid x_{n-1}\right)=\prod_{n=1}^N \frac{c\left(x_{n-1}, x_n\right)}{c\left(x_{n-1}\right)}
+		  $$
 	- What is add-1 smoothing? 
 	  Why is it important for language modelling? 
 	  Describe using equations how add-1 smoothing is applied to the bigram language model. [[card]]
