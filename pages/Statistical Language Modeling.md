@@ -73,6 +73,7 @@
 			- For example $P(monkeys) = \dfrac{monkeys\ bigram\ counts}{arctic\ unigram\ counts}=0.1$
 		- The result of the Bigram language model in this example
 		  ((64762b81-265e-4037-9f4c-352dee52300e))
+		  Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
 		  [[card]]
 			- $\mathbf{x}=[ arctic, monkeys, are, my, favourite, band ]$
 			- $$
