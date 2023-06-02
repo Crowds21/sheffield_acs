@@ -221,5 +221,17 @@
                                    :height 452.2495845218901}),
                           :page 51},
                :content {:text "Backward Pass"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a0afc-ac36-45a8-82a4-992b48f2a9b3",
+               :page 51,
+               :position {:bounding {:x1 50,
+                                     :y1 142,
+                                     :x2 578,
+                                     :y2 449,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects (),
+                          :page 51},
+               :content {:text "[:span]", :image 1685719803499},
                :properties {:color "yellow"}}],
  :extra {:page 51}}
