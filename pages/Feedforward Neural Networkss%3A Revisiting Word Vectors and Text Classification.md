@@ -48,3 +48,4 @@
 	- Output
 		- Softmax over the vocabulary to predict the correct context/target words respectively
 	- Evaluation: standard approaches for word representation (see Lecture 1)
+-
