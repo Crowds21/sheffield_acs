@@ -145,5 +145,22 @@
                                    :height 452.2495845218901}),
                           :page 23},
                :content {:text "Named Entity Tagger"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a295e-b734-4ff4-8c32-cec02073c71e",
+               :page 26,
+               :position {:bounding {:x1 14.1328125,
+                                     :y1 8.0078125,
+                                     :x2 271.52337646484375,
+                                     :y2 41.5078125,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects ({:x1 14.1328125,
+                                   :y1 8.0078125,
+                                   :x2 271.52337646484375,
+                                   :y2 41.5078125,
+                                   :width 603,
+                                   :height 452.2495845218901}),
+                          :page 26},
+               :content {:text "Relation Extraction (RE)"},
                :properties {:color "yellow"}}],
- :extra {:page 26}}
+ :extra {:page 28}}
