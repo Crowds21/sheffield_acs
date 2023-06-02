@@ -1,5 +1,7 @@
 - Feedforward neural networks
 - ((647a0766-f61b-4090-8682-450c120927ba))
-	- Sigmoid: $g(z)=\sigma(z)$
-	- Hyperbolic Tangent:
+	- Sigmoid
+		- $g(z)=\sigma(z)$
+	- Hyperbolic Tangent
+		- $g(z)=\tanh (z)=\frac{e^{2 z}-1}{e^{2 z}+1}$
 -
