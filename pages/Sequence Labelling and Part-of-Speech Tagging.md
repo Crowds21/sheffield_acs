@@ -137,6 +137,7 @@
 		  $$
 			- > 回溯指针矩阵（backpointer matrix）是一个大小为$|\mathcal{Y}| \times N$的矩阵，其中$|\mathcal{Y}|$表示标签集合$\mathcal{Y}$的大小，$N$表示输入序列的长度。在维特比算法中，回溯指针矩阵用于记录在计算最优路径的过程中，每个时刻每个标签的最优路径中的前一个标签。
 		- instead of the max score, keep the previous tag that got it
+		  > 通常情况下，维特比算法会记录每个时刻每个标签的最大分数，即到达该标签的最优路径的分数。但在这种情况下，我们不仅记录最大分数，还记录了获得最大分数的前一个标签。这是为了在后续的回溯过程中能够恢复整个最优路径。
 		- argmax instead of max
 		  $$
 		  \text { backptr }[y, n]=\arg \max _{y^{\prime} \in \mathcal{Y}} V\left[y^{\prime}, n-1\right] \times P\left(y \mid y^{\prime}\right) \times P\left(x_n \mid y\right)
