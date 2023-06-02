@@ -1,3 +1,4 @@
 - What is Information Extraction (IE)?
 	- a practically-motivated engineering discipline (models not necessarily inspired by nature)
-	- the extraction of structured information from unstructured (= textual) sources. its significance is connected to the growing amount of information in text and its potential use in systems (e.g. question answering)
+	- the extraction of structured information from unstructured (= textual) sources.
+	- its significance is connected to the growing amount of information in text and its potential use in systems (e.g. question answering)
