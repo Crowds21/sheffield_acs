@@ -40,7 +40,7 @@
 		- the **cat** sat → cat, {the, sat}
 	- Continuous BOW (CBOW)
 		- Given context words predict the current word
-		- the cat sat → {the, sat}, cat
+		- the **cat** sat → {the, sat}, cat
 	- Input
 		- A word, represented as a one-hot vector over vocabulary (or the vocabulary index for memory efficiency!)
 	- Hidden layer
