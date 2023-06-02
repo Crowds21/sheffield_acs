@@ -33,4 +33,4 @@
 	- 有许多开放的库可供使用：PyTorch、Tensorflow、MxNet、Keras等等。
 - ((647a1150-f35f-43a6-9995-57bea646eaac))
 	- 单词向量
-	-
+	- Word2Vec
