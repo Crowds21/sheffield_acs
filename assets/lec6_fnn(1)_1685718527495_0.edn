@@ -192,5 +192,17 @@
                                    :height 452.2495845218901}),
                           :page 46},
                :content {:text "Forward Pass"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a0ae1-c00e-494b-b8aa-95ce70c85849",
+               :page 46,
+               :position {:bounding {:x1 55,
+                                     :y1 175,
+                                     :x2 350,
+                                     :y2 373,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects (),
+                          :page 46},
+               :content {:text "[:span]", :image 1685719776201},
                :properties {:color "yellow"}}],
- :extra {:page 46}}
+ :extra {:page 52}}
