@@ -23,10 +23,12 @@
 		- The use of Supervised and Unsupervised learning techniques for feature learning.
 - ((647a262a-1308-4f05-b93c-49681fc48b2b))
 	- Rule-based: [[card]]
+	  collapsed:: true
 		- Human experts (computational linguists) write general linguistic rules and task-specific extraction rules.
 		- Example, trigger keywords, regular expressions and patterns.
 		- Rule-based rules are language dependent, suffer from human ingenuity, time consuming, difficult to adapt to changes.
-	- ((647a2940-87ab-478d-ac24-71f2a551480c))
+	- ((647a2940-87ab-478d-ac24-71f2a551480c)) [[card]]
+	  collapsed:: true
 		- Humans (domain experts) manually annotate text spans indicating entities, relations, facts, etc. in a training corpus;
 		  人类（领域专家）在训练语料库中手动注释文本片段，指示实体、关系、事实等；
 		- features are manually or automatically engineered (or a mixture of the two, e.g. using neural networks and dependency trees);
