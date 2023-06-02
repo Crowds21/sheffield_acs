@@ -1,3 +1,4 @@
+- X
 - Applications of Sequence Labelling [[card]]
 	- Part-of-Speech (POS) Tagging
 	- Named Entity Recognition
