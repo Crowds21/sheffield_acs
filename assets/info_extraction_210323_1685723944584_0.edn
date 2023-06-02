@@ -77,5 +77,22 @@
                                    :height 452.2495845218901}),
                           :page 19},
                :content {:text "Feature Learning"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a262a-1308-4f05-b93c-49681fc48b2b",
+               :page 20,
+               :position {:bounding {:x1 14.1328125,
+                                     :y1 8.0078125,
+                                     :x2 406.2733459472656,
+                                     :y2 41.5078125,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects ({:x1 14.1328125,
+                                   :y1 8.0078125,
+                                   :x2 406.2733459472656,
+                                   :y2 41.5078125,
+                                   :width 603,
+                                   :height 452.2495845218901}),
+                          :page 20},
+               :content {:text "Fundamental Methods Used for IE I"},
                :properties {:color "yellow"}}],
- :extra {:page 20}}
+ :extra {:page 19}}
