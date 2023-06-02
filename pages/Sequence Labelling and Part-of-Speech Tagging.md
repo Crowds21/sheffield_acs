@@ -146,7 +146,8 @@
 		  $$
 	- ((64074700-35a9-4304-9f3e-adad07046319))
 		- ((647a01a6-a60c-46a0-b4c4-ebb2955d2c13))
-- ((640749d5-1510-4229-b719-eb976e71e2ee)) 束搜索
+- ((640749d5-1510-4229-b719-eb976e71e2ee)) 束搜索 [[card]]
+  collapsed:: true
 	- [如何通俗的理解beam search？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/82829880)
 	- 贪心搜索每次只要最优的一个解. Beam Search 可以理解为每次保留最优的 k 个解. 贪心即为 k=1 的 Beam Search
 	- ((647a038b-e682-4843-a7f6-2c0d78bbc986))
