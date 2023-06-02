@@ -27,9 +27,11 @@
 		- Example, trigger keywords, regular expressions and patterns.
 		- Rule-based rules are language dependent, suffer from human ingenuity, time consuming, difficult to adapt to changes.
 	- ((647a2940-87ab-478d-ac24-71f2a551480c))
-		- 人类（领域专家）在训练语料库中手动注释文本片段，指示实体、关系、事实等；
-		  • 特征可以手动或自动进行工程化（或两者的混合，例如使用神经网络和依存树）；
-		  • 这些特征用于提取与实体、关系等类别统计相关的信息
+		- Humans (domain experts) manually annotate text spans indicating
+		  entities, relations, facts, etc. in a training corpus;
+		  人类（领域专家）在训练语料库中手动注释文本片段，指示实体、关系、事实等；
+		- 特征可以手动或自动进行工程化（或两者的混合，例如使用神经网络和依存树）；
+		- 这些特征用于提取与实体、关系等类别统计相关的信息
 - ((647a2948-85ec-4f60-8954-0127f6fedc26))
 - ((647a294e-e5ed-463f-8c69-5dd7aa933314))
 - ((647a295e-b734-4ff4-8c32-cec02073c71e))
