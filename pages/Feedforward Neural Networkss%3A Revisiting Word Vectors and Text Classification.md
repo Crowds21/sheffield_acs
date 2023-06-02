@@ -6,3 +6,4 @@
 		- $g(z)=\tanh (z)=\frac{e^{2 z}-1}{e^{2 z}+1}$
 	- Rectified Linear Unit (ReLU)
 		- $g(z)=\max (0, z)$
+-
