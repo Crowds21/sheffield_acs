@@ -132,7 +132,7 @@
 		- Backpointer matrix
 		  $$
 		  \begin{equation}
-		  \text { backptr }|\mathcal{Y}| \times N
+		  \text { backptr }^{|\mathcal{Y}| \times N}
 		  \end{equation}
 		  $$
 		- instead of the max score, keep the previous tag that got it
