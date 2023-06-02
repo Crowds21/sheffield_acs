@@ -119,6 +119,7 @@
 		- $$
 		  \mathbf{w}=\underset{\mathbf{w} \in \Re^d}{\arg \min } \sum_{m=1}^M-\log P_{C R F}\left(\mathbf{y}^{\mathbf{m}} \mid \mathbf{x}^{\mathbf{m}} ; \mathbf{w}\right)
 		  $$
+		- 使用 Stochastic Gradient Descent
 		-
 - ((640746f7-d2bf-4f45-9723-d7942db3509f))
 	- [维特比算法 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/zh-hans/%E7%BB%B4%E7%89%B9%E6%AF%94%E7%AE%97%E6%B3%95)
