@@ -31,5 +31,17 @@
                                    :height 452.2495845218901}),
                           :page 16},
                :content {:text "Information Extraction System Architecture"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a24b2-eb4b-416a-9c73-843672998864",
+               :page 16,
+               :position {:bounding {:x1 44,
+                                     :y1 46,
+                                     :x2 539,
+                                     :y2 393,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects (),
+                          :page 16},
+               :content {:text "[:span]", :image 1685726385499},
                :properties {:color "yellow"}}],
- :extra {:page 16}}
+ :extra {:page 17}}
