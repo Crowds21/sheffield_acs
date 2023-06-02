@@ -135,6 +135,7 @@
 		  \text { backptr }^{|\mathcal{Y}| \times N}
 		  \end{equation}
 		  $$
+			- > 回溯指针矩阵（backpointer matrix）是一个大小为$|\mathcal{Y}| \times N$的矩阵，其中$|\mathcal{Y}|$表示标签集合$\mathcal{Y}$的大小，$N$表示输入序列的长度。在维特比算法中，回溯指针矩阵用于记录在计算最优路径的过程中，每个时刻每个标签的最优路径中的前一个标签。
 		- instead of the max score, keep the previous tag that got it
 		- argmax instead of max
 		  $$
