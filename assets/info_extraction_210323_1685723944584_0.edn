@@ -128,5 +128,22 @@
                                    :height 452.2495845218901}),
                           :page 22},
                :content {:text "Experimental Methodology"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a294e-e5ed-463f-8c69-5dd7aa933314",
+               :page 23,
+               :position {:bounding {:x1 14.1328125,
+                                     :y1 8.0078125,
+                                     :x2 246.38699340820312,
+                                     :y2 41.5078125,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects ({:x1 14.1328125,
+                                   :y1 8.0078125,
+                                   :x2 246.38699340820312,
+                                   :y2 41.5078125,
+                                   :width 603,
+                                   :height 452.2495845218901}),
+                          :page 23},
+               :content {:text "Named Entity Tagger"},
                :properties {:color "yellow"}}],
- :extra {:page 22}}
+ :extra {:page 23}}
