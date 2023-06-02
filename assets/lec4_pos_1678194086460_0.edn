@@ -634,4 +634,4 @@
                           :page 40},
                :content {:text "How to construct a feature vector φ(xn, yn, yn−1, n)?"},
                :properties {:color "yellow"}}],
- :extra {:page 41}}
+ :extra {:page 40}}
