@@ -28,7 +28,7 @@
 :italic false
 :text "Given a wrod"}}
 :block/updated-at 1685715280251} 
-{:block/created-at 1685715311383
+{:block/created-at 1685715320390
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -49,14 +49,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-936.21171875 260.10468749999995]
+:point [-967.075 294.05390624999995]
 :lineHeight 1.2
 :fontSize 20
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715302373
+:nonce 1685715302458
 :italic false
 :text "A a candidate label of the current"}}
-:block/updated-at 1685715311383})
+:block/updated-at 1685715320390})
 :pages (
 {:block/uuid #uuid "6479f923-0802-4d13-93b9-2aa2938a04a3"
 :block/properties 
@@ -69,7 +69,7 @@
 :nonce 1
 :assets []
 :shapes-index ("cb2de1d0-014f-11ee-904a-f3733a0caf70" "dd667e70-014f-11ee-904a-f3733a0caf70")}}
-:block/updated-at 1685715311383
+:block/updated-at 1685715320390
 :block/created-at 1685715235251
 :block/type "whiteboard"
 :block/name "nlp_week5"
