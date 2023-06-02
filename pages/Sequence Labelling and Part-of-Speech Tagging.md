@@ -130,7 +130,8 @@
 	- [维特比算法 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/zh-hans/%E7%BB%B4%E7%89%B9%E6%AF%94%E7%AE%97%E6%B3%95)
 	- ((64074707-ea47-4d02-85e4-eb00b3494ac0))
 		-
-		- $$
+		- argmax instead of max
+		  $$
 		  \text { backptr }[y, n]=\arg \max _{y^{\prime} \in \mathcal{Y}} V\left[y^{\prime}, n-1\right] \times P\left(y \mid y^{\prime}\right) \times P\left(x_n \mid y\right)
 		  $$
 - ((64074700-35a9-4304-9f3e-adad07046319))
