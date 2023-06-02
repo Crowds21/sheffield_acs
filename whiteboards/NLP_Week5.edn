@@ -85,7 +85,36 @@
 :nonce 1685715333679
 :italic false
 :text "Label of the previous word"}}
-:block/updated-at 1685715343502})
+:block/updated-at 1685715343502} 
+{:block/created-at 1685715367431
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [319 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fb4bff50-014f-11ee-904a-f3733a0caf70"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [-596.6617187499985 296.615625]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
+:nonce 1685715352571
+:italic false
+:text "Predict by using a mulit-calss LR"}}
+:block/updated-at 1685715367431})
 :pages (
 {:block/uuid #uuid "6479f923-0802-4d13-93b9-2aa2938a04a3"
 :block/properties 
@@ -97,8 +126,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("cb2de1d0-014f-11ee-904a-f3733a0caf70" "dd667e70-014f-11ee-904a-f3733a0caf70" "f00b9880-014f-11ee-904a-f3733a0caf70")}}
-:block/updated-at 1685715347917
+:shapes-index ("cb2de1d0-014f-11ee-904a-f3733a0caf70" "dd667e70-014f-11ee-904a-f3733a0caf70" "f00b9880-014f-11ee-904a-f3733a0caf70" "fb4bff50-014f-11ee-904a-f3733a0caf70")}}
+:block/updated-at 1685715367431
 :block/created-at 1685715235251
 :block/type "whiteboard"
 :block/name "nlp_week5"
