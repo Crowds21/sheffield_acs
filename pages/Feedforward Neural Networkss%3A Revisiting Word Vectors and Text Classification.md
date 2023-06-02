@@ -37,9 +37,10 @@
 - ((647a117a-a516-4fe5-ae82-94638ac7d9dd))
 	- Skip-gram model
 		- Given a word predict its context words
-		-
+		- the **cat** sat → cat, {the, sat}
 	- Continuous BOW (CBOW)
 		- Given context words predict the current word
+		- the cat sat → {the, sat}, cat
 	- Input
 		- A word, represented as a one-hot vector over vocabulary (or the vocabulary index for memory efficiency!)
 	- Hidden layer
