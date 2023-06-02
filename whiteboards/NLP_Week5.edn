@@ -273,7 +273,7 @@
 :nonce 1
 :assets []
 :shapes-index ("cb2de1d0-014f-11ee-904a-f3733a0caf70" "dd667e70-014f-11ee-904a-f3733a0caf70" "f00b9880-014f-11ee-904a-f3733a0caf70" "fb4bff50-014f-11ee-904a-f3733a0caf70" "077da3f2-0150-11ee-904a-f3733a0caf70" "0b7cbe02-0150-11ee-904a-f3733a0caf70" "0e1c2102-0150-11ee-904a-f3733a0caf70")}}
-:block/updated-at 1685715397489
+:block/updated-at 1685715445130
 :block/created-at 1685715235251
 :block/type "whiteboard"
 :block/name "nlp_week5"
