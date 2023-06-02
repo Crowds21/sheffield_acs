@@ -1,5 +1,5 @@
 - X(Input) Sequence of words
--
+- Y(Output) Sequence of POS
 - Applications of Sequence Labelling [[card]]
 	- Part-of-Speech (POS) Tagging
 	- Named Entity Recognition
