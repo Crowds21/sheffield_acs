@@ -10,5 +10,8 @@
 	- ((647a07fd-0668-4c98-ab16-d85ae74623b3))
 - ((647a083e-d402-48fe-88c8-a6eb85ab9f4a)) [[card]]
 	- Forward Pass
-		-
+		- Compute and store all the output values of all the hidden units (for each hidden layer) and the output layer
 	- Backward Pass
+		- Compute the gradients for the output and
+		  hidden layers with respect to the cost function L and update
+		  the weights for each layer
