@@ -129,7 +129,7 @@
 		- 动态规划的思想是跟踪每个单词的每个词性标签达到的最高概率以及如何到达这个最高概率的路径。
 	- [维特比算法 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/zh-hans/%E7%BB%B4%E7%89%B9%E6%AF%94%E7%AE%97%E6%B3%95)
 	- ((64074707-ea47-4d02-85e4-eb00b3494ac0))
-	-
+	- $$
 - ((64074700-35a9-4304-9f3e-adad07046319))
 - ((640749d5-1510-4229-b719-eb976e71e2ee))
 	- [如何通俗的理解beam search？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/82829880)
