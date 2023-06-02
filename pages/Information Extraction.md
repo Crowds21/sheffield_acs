@@ -6,3 +6,7 @@
 	- ((647a24b2-eb4b-416a-9c73-843672998864))
 - ((647a24c5-956b-4830-8bd6-79e5d0ded39c))
 	- > Text Classification Example
+	- Feature extraction/engineering: using domain knowledge to extract
+	  features from data.
+	- Feature: a piece of evidence intended to help the classifier map the
+	  input to the right target class
