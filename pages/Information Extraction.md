@@ -9,8 +9,11 @@
 	- Feature extraction/engineering:
 		- using domain knowledge to extract features from data.
 	- Feature:
-		- a piece of evidence intended to help the classifier map the
-		  input to the right target class
-	- Feature vector: a vector $\vec{F}$ , the components $F_j=\phi_j\left(d_j\right)$ , of which are
-	  results applying a feature function to the data point $d_j$.
-	-
+		- a piece of evidence intended to help the classifier map the input to the right target class
+	- Feature vector:
+		- a vector $\vec{F}$ , the components $F_j=\phi_j\left(d_j\right)$ , of which are
+		  results applying a feature function to the data point $d_j$.
+	- Example: “Spam vrs Ham” email?
+	  • number of “!” included in email body
+	  • length of the email in characters
+	  • occurrence of the word “cash” in the title or body.
