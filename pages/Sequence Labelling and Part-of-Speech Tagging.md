@@ -103,7 +103,8 @@
 	- $\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P_{C R F}(\mathbf{y} \mid \mathbf{x} ; \mathbf{w})=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \sum_{n=1}^N \mathbf{w} \cdot \phi\left(y_n, y_{n-1}, \mathbf{x}, n\right)$
 	- 这个公式是条件随机场（Conditional Random Field，CRF）模型的目标函数，用于对给定输入序列 $\mathbf{x}$ 的输出序列 $\mathbf{y}$ 进行预测
 	- $\mathcal{Y}$ 表示可能的标签集合
-	- $\mathcal{N}$ 表示输入序列 $\mathbf{x}$ 的长度。目标是找到使得条件随机场模型的概率 $P_{CRF}(\mathbf{y} \mid \mathbf{x}; \mathbf{w})$ 最大化的输出序列 $\mathbf{y}$。
+	- $\mathcal{N}$ 表示输入序列 $\mathbf{x}$ 的长度
+	- 目标是找到使得条件随机场模型的概率 $P_{CRF}(\mathbf{y} \mid \mathbf{x}; \mathbf{w})$ 最大化的输出序列 $\mathbf{y}$。
 	- 公式中的 $\mathbf{w}$ 是参数向量，它用于对特征函数 $\phi(y_n, y_{n-1}, \mathbf{x}, n)$ 进行加权求和。特征函数 $\phi(y_n, y_{n-1}, \mathbf{x}, n)$ 是一组根据当前标签 $y_n$、前一个标签 $y_{n-1}$、输入序列 $\mathbf{x}$ 和位置 $n$ 计算得到的特征。这些特征可以根据具体的问题和任务进行设计，用于捕捉输入序列和输出标签之间的关联关系。
 	- 目标函数的含义是，通过调整参数向量 $\mathbf{w}$ 的取值，使得特征函数的加权求和最大化，从而获得最大可能的输出序列 $\mathbf{y}$。通常，为了实现这个目标，会使用一些优化算法（如随机梯度下降）来对参数向量 $\mathbf{w}$ 进行学习和优化。
 	- 总结起来，上述公式表示了条件随机场模型中的目标函数，通过最大化特征函数的加权求和，来预测给定输入序列 $\mathbf{x}$ 的最佳输出序列 $\mathbf{y}$
