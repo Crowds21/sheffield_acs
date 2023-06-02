@@ -100,6 +100,7 @@
   ref:: [从隐马尔科夫到条件随机场 | MaxMa Blog (anxiang1836.github.io)](https://anxiang1836.github.io/2019/11/05/NLP_From_HMM_to_CRF/)
 	- > 与传统的隐马尔可夫模型（Hidden Markov Models，HMM）相比，CRF在建模能力和表达能力上更强大。CRF能够建模更复杂的特征依赖关系，不仅考虑当前观测到的特征，还能利用上下文信息进行预测。
 	- 每一次预测都进行多类别判断的逻辑回归
+	- /白班
 - ((64074195-6461-4bbf-8d0c-9fd327b1794e))
 	-
 - ((640746f7-d2bf-4f45-9723-d7942db3509f))
