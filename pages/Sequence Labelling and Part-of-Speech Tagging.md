@@ -100,6 +100,7 @@
 - ((64073fe6-0f5a-4952-8a4a-4b70f50c1fea)) 条件随机场 CRF
   ref:: [从隐马尔科夫到条件随机场 | MaxMa Blog (anxiang1836.github.io)](https://anxiang1836.github.io/2019/11/05/NLP_From_HMM_to_CRF/)
 	- > 与传统的隐马尔可夫模型（Hidden Markov Models，HMM）相比，CRF在建模能力和表达能力上更强大。CRF能够建模更复杂的特征依赖关系，不仅考虑当前观测到的特征，还能利用上下文信息进行预测。
+	- $\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P_{C R F}(\mathbf{y} \mid \mathbf{x} ; \mathbf{w})=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \sum_{n=1}^N \mathbf{w} \cdot \phi\left(y_n, y_{n-1}, \mathbf{x}, n\right)$
 	- 每一次预测都进行多类别判断的逻辑回归
 	- 这个公式是条件随机场（Conditional Random Field，CRF）模型的目标函数，用于对给定输入序列 $\mathbf{x}$ 的输出序列 $\mathbf{y}$ 进行预测。
 	- 在该公式中，$\mathcal{Y}$ 表示可能的标签集合，$\mathcal{N}$ 表示输入序列 $\mathbf{x}$ 的长度。目标是找到使得条件随机场模型的概率 $P_{CRF}(\mathbf{y} \mid \mathbf{x}; \mathbf{w})$ 最大化的输出序列 $\mathbf{y}$。
