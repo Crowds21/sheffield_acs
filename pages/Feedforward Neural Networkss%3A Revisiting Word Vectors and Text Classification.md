@@ -54,13 +54,8 @@
 	- Negative Sampling
 	- Subsampling frequent words
 - ((647a14f7-ebd1-4ecd-8ed5-466272642e58))
-	- Approach 1: Pass BOW vectors into a series of hidden layers
-	  (extending the LR model in Lecture 2)
-	- Approach 2: Pass one-hot word vectors through an
-	  embedding layer to obtain embeddings for each word in a
-	  document which are subsequently concatenated (or
-	  added/averaged) and passed through a series of hidden
-	  layers
+	- Approach 1: Pass BOW vectors into a series of hidden layers (extending the LR model in Lecture 2)
+	- Approach 2: Pass one-hot word vectors through an embedding layer to obtain embeddings for each word in a document which are subsequently concatenated (or added/averaged) and passed through a series of hidden layers
 	- Approach 2 is more contemporary and usually the embedding
 	  layer is pre-trained (e.g. using Word2Vec) and is not updated
 	  during training
