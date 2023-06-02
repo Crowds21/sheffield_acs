@@ -22,7 +22,7 @@
 		- automatically extract features from data - replaces manual feature engineering that is prone to human errors.
 		- The use of Supervised and Unsupervised learning techniques for feature learning.
 - ((647a262a-1308-4f05-b93c-49681fc48b2b))
-	- Rule-based:
+	- Rule-based: [[card]]
 		- Human experts (computational linguists) write general linguistic rules and task-specific extraction rules.
 		- Example, trigger keywords, regular expressions and patterns.
 		- Rule-based rules are language dependent, suffer from human ingenuity, time consuming, difficult to adapt to changes.
