@@ -130,6 +130,11 @@
 	- [维特比算法 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/zh-hans/%E7%BB%B4%E7%89%B9%E6%AF%94%E7%AE%97%E6%B3%95)
 	- ((64074707-ea47-4d02-85e4-eb00b3494ac0))
 		- Backpointer matrix
+		  $$
+		  \begin{equation}
+		  \text { backptr }|\mathcal{Y}| \times N
+		  \end{equation}
+		  $$
 		- instead of the max score, keep the previous tag that got it
 		- argmax instead of max
 		  $$
