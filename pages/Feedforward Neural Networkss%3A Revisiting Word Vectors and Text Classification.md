@@ -53,3 +53,5 @@
 - ((647a14df-d0e7-421f-beaa-95ce1c63d85c))
 	- Negative Sampling
 	- Subsampling frequent words
+- ((647a14f7-ebd1-4ecd-8ed5-466272642e58))
+-
