@@ -50,3 +50,6 @@
 		- Softmax over the vocabulary to predict the correct context/target words respectively
 	- Evaluation: standard approaches for word representation (see Lecture 1)
 	- Pre-trained word embeddings are widely re-used in other NLP tasks, i.e. transfer learning (more in Lecture 10)
+- ((647a14df-d0e7-421f-beaa-95ce1c63d85c))
+	- Negative Sampling
+	-
