@@ -146,4 +146,4 @@
 		- ((647a01a6-a60c-46a0-b4c4-ebb2955d2c13))
 - ((640749d5-1510-4229-b719-eb976e71e2ee))
 	- [如何通俗的理解beam search？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/82829880)
-	- 贪心搜索每次只要最优的一个解.
+	- 贪心搜索每次只要最优的一个解. Beam Search 可以理解为
