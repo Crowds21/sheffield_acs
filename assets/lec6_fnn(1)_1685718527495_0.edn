@@ -204,5 +204,22 @@
                           :rects (),
                           :page 46},
                :content {:text "[:span]", :image 1685719776201},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a0aec-6eb0-4c2e-8d2a-59344e9a4670",
+               :page 51,
+               :position {:bounding {:x1 14.1328125,
+                                     :y1 21.2890625,
+                                     :x2 159.21791076660156,
+                                     :y2 54.7890625,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects ({:x1 14.1328125,
+                                   :y1 21.2890625,
+                                   :x2 159.21791076660156,
+                                   :y2 54.7890625,
+                                   :width 603,
+                                   :height 452.2495845218901}),
+                          :page 51},
+               :content {:text "Backward Pass"},
                :properties {:color "yellow"}}],
- :extra {:page 52}}
+ :extra {:page 51}}
