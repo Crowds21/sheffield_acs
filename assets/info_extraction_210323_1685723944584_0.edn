@@ -213,5 +213,22 @@
                                    :height 452.2495845218901}),
                           :page 31},
                :content {:text "Question Answering"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a380e-40ef-4218-a7d9-989e65998251",
+               :page 33,
+               :position {:bounding {:x1 14.1328125,
+                                     :y1 39.6875,
+                                     :x2 204.42625427246094,
+                                     :y2 58.1875,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects ({:x1 14.1328125,
+                                   :y1 39.6875,
+                                   :x2 204.42625427246094,
+                                   :y2 58.1875,
+                                   :width 603,
+                                   :height 452.2495845218901}),
+                          :page 33},
+               :content {:text "Multimodal Relation Extraction"},
                :properties {:color "yellow"}}],
- :extra {:page 32}}
+ :extra {:page 31}}
