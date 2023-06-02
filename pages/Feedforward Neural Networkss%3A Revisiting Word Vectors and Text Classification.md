@@ -1,4 +1,5 @@
 - Feedforward neural networks
 - ((647a0766-f61b-4090-8682-450c120927ba))
-	- Sigmoid:
+	- Sigmoid: $g(z)=\sigma(z)$
+	-
 -
