@@ -121,7 +121,7 @@
 		  $$
 		- 使用 Stochastic Gradient Descent
 		-
-- ((640746f7-d2bf-4f45-9723-d7942db3509f))
+- ((640746f7-d2bf-4f45-9723-d7942db3509f)) 使用维特比算法进行解码
 	- [维特比算法 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/zh-hans/%E7%BB%B4%E7%89%B9%E6%AF%94%E7%AE%97%E6%B3%95)
 	- ((64074707-ea47-4d02-85e4-eb00b3494ac0))
 - ((64074700-35a9-4304-9f3e-adad07046319))
