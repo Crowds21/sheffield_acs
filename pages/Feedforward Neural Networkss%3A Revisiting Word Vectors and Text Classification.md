@@ -32,5 +32,5 @@
 	- 更大的学习容量会增加过拟合的可能性：需要进行正则化
 	- 有许多开放的库可供使用：PyTorch、Tensorflow、MxNet、Keras等等。
 - ((647a1150-f35f-43a6-9995-57bea646eaac))
-	- 单词向量
+	- Word vectors
 	- Word2Vec
