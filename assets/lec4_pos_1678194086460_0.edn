@@ -684,5 +684,17 @@
                                    :height 452.2495845218901}),
                           :page 45},
                :content {:text "Decoding with Viterbi"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a01a6-a60c-46a0-b4c4-ebb2955d2c13",
+               :page 54,
+               :position {:bounding {:x1 54,
+                                     :y1 111,
+                                     :x2 561,
+                                     :y2 403,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects (),
+                          :page 54},
+               :content {:text "[:span]", :image 1685717413014},
                :properties {:color "yellow"}}],
  :extra {:page 54}}
