@@ -25,3 +25,4 @@
 		- Human experts (computational linguists) write general linguistic rules and task-specific extraction rules.
 		- Example, trigger keywords, regular expressions and patterns.
 		- Rule-based rules are language dependent, suffer from human ingenuity, time consuming, difficult to adapt to changes.
+- ((647a2940-87ab-478d-ac24-71f2a551480c))
