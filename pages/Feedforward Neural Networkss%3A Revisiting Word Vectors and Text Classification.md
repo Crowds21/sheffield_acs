@@ -38,5 +38,6 @@
 	- Skip-gram model
 		- Given a word predict its context words
 	- Continuous BOW (CBOW)
-		- Given context words predict
-		  the current word
+		- Given context words predict the current word
+	- Input: A word, represented as a one-hot vector over
+	  vocabulary (or the vocabulary index for memory efficiency!)
