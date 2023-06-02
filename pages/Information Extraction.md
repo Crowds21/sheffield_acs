@@ -10,3 +10,5 @@
 	  features from data.
 	- Feature: a piece of evidence intended to help the classifier map the
 	  input to the right target class
+	- Feature vector: a vector , the components Fj = φj (dj ), of which are
+	  results applying a feature function to the data point dj .
