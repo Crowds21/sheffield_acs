@@ -12,5 +12,5 @@
 	- Forward Pass
 		- Compute and store all the output values of all the hidden units (for each hidden layer) and the output layer
 	- Backward Pass
-		- Compute the gradients for the output and hidden layers with respect to the cost function L and update the weights for each layer
+		- Compute the gradients for the output and hidden layers with respect to the cost function $L$ and update the weights for each layer
 -
