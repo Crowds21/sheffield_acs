@@ -292,4 +292,4 @@
                           :page 54},
                :content {:text "Dropout: randomly ignore a percentage (e.g. 20% or 50%) of layer outputs during training"},
                :properties {:color "yellow"}}],
- :extra {:page 56}}
+ :extra {:page 57}}
