@@ -14,4 +14,5 @@
 	- Backward Pass
 		- Compute the gradients for the output and hidden layers with respect to the cost function $L$ and update the weights for each layer
 - ((647a08ef-a0ed-4120-9599-f9482b39b5fa))
+	- ((647a090b-f14c-4938-96eb-3cd58f9cd746))
 	-
