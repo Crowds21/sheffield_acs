@@ -142,6 +142,7 @@
 		  $$
 		  \text { backptr }[y, n]=\arg \max _{y^{\prime} \in \mathcal{Y}} V\left[y^{\prime}, n-1\right] \times P\left(y \mid y^{\prime}\right) \times P\left(x_n \mid y\right)
 		  $$
+			-
 - ((64074700-35a9-4304-9f3e-adad07046319))
 - ((640749d5-1510-4229-b719-eb976e71e2ee))
 	- [如何通俗的理解beam search？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/82829880)
