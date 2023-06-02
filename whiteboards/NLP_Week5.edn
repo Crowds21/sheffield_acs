@@ -28,7 +28,7 @@
 :italic false
 :text "Given a wrod"}}
 :block/updated-at 1685715280251} 
-{:block/created-at 1685715347917
+{:block/created-at 1685715377824
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -49,15 +49,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-967.075 294.05390624999995]
+:point [-1028.215625 326.79609374999995]
 :lineHeight 1.2
 :fontSize 20
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715302464
+:nonce 1685715302580
 :italic false
 :text "A candidate label of the current"}}
-:block/updated-at 1685715347917} 
-{:block/created-at 1685715343502
+:block/updated-at 1685715377824} 
+{:block/created-at 1685715376581
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -78,15 +78,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-951.6093749999989 358.44921875]
+:point [-954.5078124999989 424.4609375]
 :lineHeight 1.2
 :fontSize 20
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715333679
+:nonce 1685715333727
 :italic false
 :text "Label of the previous word"}}
-:block/updated-at 1685715343502} 
-{:block/created-at 1685715367431
+:block/updated-at 1685715376581} 
+{:block/created-at 1685715371539
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -111,10 +111,116 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715352571
+:nonce 1685715352573
 :italic false
 :text "Predict by using a mulit-calss LR"}}
-:block/updated-at 1685715367431})
+:block/updated-at 1685715371539} 
+{:block/created-at 1685715376583
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "077da3f2-0150-11ee-904a-f3733a0caf70"
+:fontWeight 400
+:noFill true
+:point [-812.03 243.72]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "077da3f0-0150-11ee-904a-f3733a0caf70"}
+:end 
+{:id "end"
+:canBind true
+:point [211.37 59.33]
+:bindingId "077da3f1-0150-11ee-904a-f3733a0caf70"}}
+:decorations 
+{:end "arrow"}
+:parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
+:nonce 1685715373048
+:italic false}}
+:block/updated-at 1685715376583} 
+{:block/created-at 1685715386037
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0b7cbe02-0150-11ee-904a-f3733a0caf70"
+:fontWeight 400
+:noFill true
+:point [-710.88 324.39]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 21.06]}
+:end 
+{:id "end"
+:canBind true
+:point [110.22 0]
+:bindingId "0b7cbe01-0150-11ee-904a-f3733a0caf70"}}
+:decorations 
+{:end "arrow"}
+:parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
+:nonce 1685715379757
+:italic false}}
+:block/updated-at 1685715386037} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0e1c2102-0150-11ee-904a-f3733a0caf70"
+:fontWeight 400
+:noFill true
+:point [-780.12 343.41]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 80.05]
+:bindingId "0e1c2100-0150-11ee-904a-f3733a0caf70"}
+:end 
+{:id "end"
+:canBind true
+:point [190.71 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
+:nonce 1685715384232
+:italic false}}
+:block/updated-at 1685715386039})
 :pages (
 {:block/uuid #uuid "6479f923-0802-4d13-93b9-2aa2938a04a3"
 :block/properties 
@@ -123,11 +229,50 @@
 {:id "6479f923-0802-4d13-93b9-2aa2938a04a3"
 :name "nlp_week5"
 :bindings 
-{}
+{:077da3f0-0150-11ee-904a-f3733a0caf70 
+{:id "077da3f0-0150-11ee-904a-f3733a0caf70"
+:type "line"
+:fromId "077da3f2-0150-11ee-904a-f3733a0caf70"
+:toId "cb2de1d0-014f-11ee-904a-f3733a0caf70"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:077da3f1-0150-11ee-904a-f3733a0caf70 
+{:id "077da3f1-0150-11ee-904a-f3733a0caf70"
+:type "line"
+:fromId "077da3f2-0150-11ee-904a-f3733a0caf70"
+:toId "fb4bff50-014f-11ee-904a-f3733a0caf70"
+:handleId "end"
+:point [0.17 0.62]
+:distance 4}
+:0b7cbe01-0150-11ee-904a-f3733a0caf70 
+{:id "0b7cbe01-0150-11ee-904a-f3733a0caf70"
+:type "line"
+:fromId "0b7cbe02-0150-11ee-904a-f3733a0caf70"
+:toId "fb4bff50-014f-11ee-904a-f3733a0caf70"
+:handleId "end"
+:point [0.28 0.34]
+:distance 4}
+:0e1c2100-0150-11ee-904a-f3733a0caf70 
+{:id "0e1c2100-0150-11ee-904a-f3733a0caf70"
+:type "line"
+:fromId "0e1c2102-0150-11ee-904a-f3733a0caf70"
+:toId "f00b9880-014f-11ee-904a-f3733a0caf70"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:0e1c2101-0150-11ee-904a-f3733a0caf70 
+{:id "0e1c2101-0150-11ee-904a-f3733a0caf70"
+:type "line"
+:fromId "0e1c2102-0150-11ee-904a-f3733a0caf70"
+:toId "fb4bff50-014f-11ee-904a-f3733a0caf70"
+:handleId "end"
+:point [0.13 0.49]
+:distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("cb2de1d0-014f-11ee-904a-f3733a0caf70" "dd667e70-014f-11ee-904a-f3733a0caf70" "f00b9880-014f-11ee-904a-f3733a0caf70" "fb4bff50-014f-11ee-904a-f3733a0caf70")}}
-:block/updated-at 1685715367431
+:shapes-index ("cb2de1d0-014f-11ee-904a-f3733a0caf70" "dd667e70-014f-11ee-904a-f3733a0caf70" "f00b9880-014f-11ee-904a-f3733a0caf70" "fb4bff50-014f-11ee-904a-f3733a0caf70" "077da3f2-0150-11ee-904a-f3733a0caf70" "0b7cbe02-0150-11ee-904a-f3733a0caf70" "0e1c2102-0150-11ee-904a-f3733a0caf70")}}
+:block/updated-at 1685715386037
 :block/created-at 1685715235251
 :block/type "whiteboard"
 :block/name "nlp_week5"
