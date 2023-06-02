@@ -36,4 +36,7 @@
 	- Word2Vec
 - ((647a117a-a516-4fe5-ae82-94638ac7d9dd))
 	- Skip-gram model
+		- Given a word predict its context words
 	- Continuous BOW (CBOW)
+		- Given context words predict
+		  the current word
