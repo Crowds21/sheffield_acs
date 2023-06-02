@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1685715280251
+{:block/created-at 1685715397489
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -20,15 +20,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-944.15703125 208.72187499999993]
+:point [-1288.1378024053654 -236.64679143661922]
 :lineHeight 1.2
 :fontSize 20
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715271816
+:nonce 1685715271858
 :italic false
 :text "Given a wrod"}}
-:block/updated-at 1685715280251} 
-{:block/created-at 1685715377824
+:block/updated-at 1685715397489} 
+{:block/created-at 1685715397492
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -49,15 +49,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-1028.215625 326.79609374999995]
+:point [-1372.1963961553654 -118.5725726866192]
 :lineHeight 1.2
 :fontSize 20
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715302580
+:nonce 1685715302622
 :italic false
 :text "A candidate label of the current"}}
-:block/updated-at 1685715377824} 
-{:block/created-at 1685715376581
+:block/updated-at 1685715397492} 
+{:block/created-at 1685715397492
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -78,15 +78,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-954.5078124999989 424.4609375]
+:point [-1298.4885836553642 -20.90772893661915]
 :lineHeight 1.2
 :fontSize 20
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715333727
+:nonce 1685715333769
 :italic false
 :text "Label of the previous word"}}
-:block/updated-at 1685715376581} 
-{:block/created-at 1685715371539
+:block/updated-at 1685715397492} 
+{:block/created-at 1685715397492
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -107,15 +107,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-596.6617187499985 296.615625]
+:point [-940.6424899053638 -148.75304143661913]
 :lineHeight 1.2
 :fontSize 20
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715352573
+:nonce 1685715352615
 :italic false
 :text "Predict by using a mulit-calss LR"}}
-:block/updated-at 1685715371539} 
-{:block/created-at 1685715376583
+:block/updated-at 1685715397492} 
+{:block/created-at 1685715397492
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -132,7 +132,7 @@
 :id "077da3f2-0150-11ee-904a-f3733a0caf70"
 :fontWeight 400
 :noFill true
-:point [-812.03 243.72]
+:point [-1156.0107711553653 -201.64866643661915]
 :fontSize 20
 :handles 
 {:start 
@@ -148,10 +148,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715373048
+:nonce 1685715373090
 :italic false}}
-:block/updated-at 1685715376583} 
-{:block/created-at 1685715386037
+:block/updated-at 1685715397492} 
+{:block/created-at 1685715397492
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -168,7 +168,7 @@
 :id "0b7cbe02-0150-11ee-904a-f3733a0caf70"
 :fontWeight 400
 :noFill true
-:point [-710.88 324.39]
+:point [-1054.8607711553655 -120.97866643661916]
 :fontSize 20
 :handles 
 {:start 
@@ -183,10 +183,11 @@
 :decorations 
 {:end "arrow"}
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715379757
+:nonce 1685715379799
 :italic false}}
-:block/updated-at 1685715386037} 
-{:block/properties 
+:block/updated-at 1685715397492} 
+{:block/created-at 1685715397492
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -202,7 +203,7 @@
 :id "0e1c2102-0150-11ee-904a-f3733a0caf70"
 :fontWeight 400
 :noFill true
-:point [-780.12 343.41]
+:point [-1124.1007711553652 -101.95866643661913]
 :fontSize 20
 :handles 
 {:start 
@@ -218,9 +219,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "6479f923-0802-4d13-93b9-2aa2938a04a3"
-:nonce 1685715384232
+:nonce 1685715384274
 :italic false}}
-:block/updated-at 1685715386039})
+:block/updated-at 1685715397492})
 :pages (
 {:block/uuid #uuid "6479f923-0802-4d13-93b9-2aa2938a04a3"
 :block/properties 
@@ -272,7 +273,7 @@
 :nonce 1
 :assets []
 :shapes-index ("cb2de1d0-014f-11ee-904a-f3733a0caf70" "dd667e70-014f-11ee-904a-f3733a0caf70" "f00b9880-014f-11ee-904a-f3733a0caf70" "fb4bff50-014f-11ee-904a-f3733a0caf70" "077da3f2-0150-11ee-904a-f3733a0caf70" "0b7cbe02-0150-11ee-904a-f3733a0caf70" "0e1c2102-0150-11ee-904a-f3733a0caf70")}}
-:block/updated-at 1685715386037
+:block/updated-at 1685715397489
 :block/created-at 1685715235251
 :block/type "whiteboard"
 :block/name "nlp_week5"
