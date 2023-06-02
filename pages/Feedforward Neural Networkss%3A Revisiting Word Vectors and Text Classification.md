@@ -43,5 +43,5 @@
 		- A word, represented as a one-hot vector over vocabulary (or the vocabulary index for memory efficiency!)
 	- Hidden layer
 		- One hidden layer of size vocabulary × hidden size (usually 300), linear activation function
-	- Output: softmax over the vocabulary to predict the correct
-	  context/target words respectively
+	- Output
+		- Softmax over the vocabulary to predict the correct context/target words respectively
