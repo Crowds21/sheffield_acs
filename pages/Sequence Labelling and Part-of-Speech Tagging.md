@@ -114,7 +114,7 @@
 		- 总结起来，上述公式表示了条件随机场模型中的目标函数，通过最大化特征函数的加权求和，来预测给定输入序列 $\mathbf{x}$ 的最佳输出序列 $\mathbf{y}$
 	- ((64074195-6461-4bbf-8d0c-9fd327b1794e))
 	- ((6479fc61-4061-4454-9e81-e0b8cb43d0be))
-		-
+		- 通过最小化负对数似然目标进行训练
 		- $$
 		  \mathbf{w}=\underset{\mathbf{w} \in \Re^d}{\arg \min } \sum_{m=1}^M-\log P_{C R F}\left(\mathbf{y}^{\mathbf{m}} \mid \mathbf{x}^{\mathbf{m}} ; \mathbf{w}\right)
 		  $$
