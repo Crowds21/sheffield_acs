@@ -100,5 +100,17 @@
                                    :height 452.2495845218901}),
                           :page 38},
                :content {:text "Training: Stochastic Gradient Descent (SGD) "},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a07fd-0668-4c98-ab16-d85ae74623b3",
+               :page 39,
+               :position {:bounding {:x1 35,
+                                     :y1 107,
+                                     :x2 591,
+                                     :y2 423,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects (),
+                          :page 39},
+               :content {:text "[:span]", :image 1685719036360},
                :properties {:color "yellow"}}],
  :extra {:page 39}}
