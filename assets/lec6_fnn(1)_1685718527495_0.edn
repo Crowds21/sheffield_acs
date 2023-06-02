@@ -67,4 +67,4 @@
                           :page 12},
                :content {:text "Train with SGD and Backpropagation"},
                :properties {:color "yellow"}}],
- :extra {:page 24}}
+ :extra {:page 32}}
