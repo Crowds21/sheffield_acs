@@ -196,5 +196,22 @@
                                    :height 452.2495845218901}),
                           :page 30},
                :content {:text "RE: Model Training"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647a2978-b225-4234-8317-fe70e5d05946",
+               :page 31,
+               :position {:bounding {:x1 14.1328125,
+                                     :y1 8.0078125,
+                                     :x2 238.24185180664062,
+                                     :y2 41.5078125,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects ({:x1 14.1328125,
+                                   :y1 8.0078125,
+                                   :x2 238.24185180664062,
+                                   :y2 41.5078125,
+                                   :width 603,
+                                   :height 452.2495845218901}),
+                          :page 31},
+               :content {:text "Question Answering"},
                :properties {:color "yellow"}}],
- :extra {:page 29}}
+ :extra {:page 31}}
