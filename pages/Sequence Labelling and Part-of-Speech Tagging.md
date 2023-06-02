@@ -124,7 +124,6 @@
 		  $$
 		- 使用 Stochastic Gradient Descent
 - ((6479fd90-fcb5-4d7a-94b3-fec12291047f)) 使用维特比算法进行解码
-  collapsed:: true
 	- 原理
 		- 在隐马尔可夫模型（Hidden Markov Model，HMM）和条件随机场（Conditional Random Field，CRF）中，枚举所有可能的标签序列是不可行的！
 		- 这时可以使用动态规划来存储和重复使用计算结果。
