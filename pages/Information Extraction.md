@@ -98,7 +98,7 @@
 	- $E$ denote the ((647b6649-45c5-4ee0-bfa8-de16bbde017f))
 	- The relation prediction $\hat{y}=\left\{\hat{y}_1, \ldots, \hat{y}_m\right\}$
 	- $$\hat{y}=\operatorname{softmax}(\mathbf{v W}+\mathbf{b})$$
-		- Softmax 把预测
+		- Softmax 把针对三个结果的概率转换为单一的结果
 	- we minimize the **cross-entropy loss** between the true relation label distribution and the predicted label distribution over all sentences.
 	- $$\mathcal{L}=\sum_s\left(-\frac{1}{m} \sum_{i=1}^m y_i \log \hat{y}_i\right)$$
 	- $E$ denote the input embeddings;
