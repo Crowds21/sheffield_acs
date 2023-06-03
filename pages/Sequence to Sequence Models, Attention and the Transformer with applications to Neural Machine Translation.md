@@ -1,4 +1,5 @@
 - ((647b9356-b285-4609-82b1-50e1f1bace0c))
 	- 输入是一个序列（任意序列）
 	- 输出也是一个序列（同样是任意序列，但对于我们的目标来说，这是文本）
-- Demonstrating Task Neural Machine Translation
+- Demonstrating Task Neural Machine Translation (任务型神经机器翻译)
+	-
