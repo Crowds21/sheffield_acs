@@ -71,11 +71,11 @@ alias:: 递归神经网络和神经语言模型
 			- $$
 			  \tilde{C}_t=\tanh \left(W_C\left[h_{t-1}, x_t\right]\right)
 			  $$
-		- Update memory cell (using input and output gates):
+		- Update memory cell (using input and output gates): [[card]]
 			- $$
 			  C_t=f_t * C_{t-1}+i_t * \tilde{C}_t
 			  $$
-		- Output (decide what’s the output filtered by the memory cell):
+		- Output (decide what’s the output filtered by the memory cell): [[card]]
 			- $$
 			  \begin{gathered}
 			  o_t=\sigma\left(W_o\left[h_{t-1}, x_t\right]\right) \\
