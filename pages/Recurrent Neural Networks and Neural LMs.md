@@ -48,9 +48,10 @@ alias:: 递归神经网络和神经语言模型
 	- ((647b7fd0-5beb-4ace-b593-4fcb06855814))
 		- RNNs can’t capture long-range dependencies:
 		- effectively have one layer per word in the sentence
+		  实际上每个句子中的单词都对应一层
 		- all context information has to be passed by the hidden layer
+		  所有上下文信息都必须通过隐藏层传递
 		- vanishing gradients: the gradient from the last word often never reaches the first
-		  - 所有上下文信息都必须通过隐藏层传递
 		  - 梯度消失：最后一个单词的梯度常常无法传递到第一个单词
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
