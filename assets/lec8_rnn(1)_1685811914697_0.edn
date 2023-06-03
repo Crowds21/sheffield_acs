@@ -145,5 +145,17 @@
                                    :height 452.2495845218901}),
                           :page 24},
                :content {:text "Long-Short Term Memory (LSTM) network"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647b827b-c649-4981-ae52-9fe39147b225",
+               :page 24,
+               :position {:bounding {:x1 29,
+                                     :y1 86,
+                                     :x2 493.6640625,
+                                     :y2 365,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects (),
+                          :page 24},
+               :content {:text "[:span]", :image 1685815933821},
                :properties {:color "yellow"}}],
  :extra {:page 24}}
