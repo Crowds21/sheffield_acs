@@ -39,7 +39,8 @@ alias:: 递归神经网络和神经语言模型
 	- ((647b7b86-a3bc-4aff-af09-bc40ee3f2327))
 	- We need to learn
 		- word vectors $U$
-		- hidden layer parameters $and output layer parameters W, V
+		- hidden layer parameters $W$
+		- output layer parameters W, V
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
 - RNN extensions: Gated-Recurrent Unit (GRU)
