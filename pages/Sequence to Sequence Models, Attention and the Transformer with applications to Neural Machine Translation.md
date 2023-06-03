@@ -4,4 +4,5 @@
 - Demonstrating Task Neural Machine Translation (任务型神经机器翻译)
 	- What is Machine Translation? [[card]]
 		- Machine Translation (MT) consists of translating a sentence $x$ from one language (the source) to a sentence $y$ in another language (the target)
-	-
+	- What is Neural Machine Translation Model? [[card]]
+		-
