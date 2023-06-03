@@ -10,7 +10,8 @@
 		- These models are end-to-end differentiable
 	- Task Formulation
 		- Example: We want to translate from English to Spanish
-			- We want to find best Spanish sentence y, given English sentence x
+			- We want to find best Spanish sentence $y$, given English sentence 
+			  $x
 		- How do we come up with candidate sentences?
 			- Generate sentences using a neutral network (seq2seq)
 			- We are going to teach the neural network to generate candidate sentences
