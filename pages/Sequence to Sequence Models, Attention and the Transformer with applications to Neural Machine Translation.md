@@ -13,4 +13,5 @@
 		  y^{\prime}=\arg \max _y p(y \mid x, \theta)
 		  $$
 			- p -> model
-			- $/theta$
+			- $\theta$ -> parameters
+-
