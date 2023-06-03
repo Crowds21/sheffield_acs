@@ -8,3 +8,4 @@
 		- Neural Machine Translation (NMT) is Machine Translation using neural networks (as opposed to alignment and phrase based translation).
 		- Typically we use sequence-to-sequence models (seq2seq).
 		- These models are end-to-end differentiable
+	-
