@@ -276,5 +276,17 @@
                                    :height 452.2495845218901}),
                           :page 29},
                :content {:text "RE: Representation Learning Sequence-based methods"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647b6cc7-9fee-427f-b8a4-5acbc7a9db49",
+               :page 25,
+               :position {:bounding {:x1 33.5,
+                                     :y1 87,
+                                     :x2 326.5,
+                                     :y2 370,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects (),
+                          :page 25},
+               :content {:text "[:span]", :image 1685810375065},
                :properties {:color "yellow"}}],
  :extra {:page 25}}
