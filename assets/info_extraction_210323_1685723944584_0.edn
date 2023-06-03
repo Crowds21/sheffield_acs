@@ -248,4 +248,4 @@
                           :page 25},
                :content {:text "BiLSTM Approach to NER"},
                :properties {:color "yellow"}}],
- :extra {:page 25}}
+ :extra {:page 24}}
