@@ -129,4 +129,4 @@
                           :page 23},
                :content {:text "RNNs can’t capture long-range dependencies:"},
                :properties {:color "yellow"}}],
- :extra {:page 23}}
+ :extra {:page 24}}
