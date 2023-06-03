@@ -19,9 +19,11 @@ alias:: 递归神经网络和神经语言模型
 	  s_n=\sigma\left(\mathbf{W} s_{n-1}+\mathbf{U} x_n\right)
 	  $$
 		- $s_{n-1} \in \mathcal{R}^d$
-			- ”memory” of the context until word $x_{n}
+			- ”memory” of the context until word $x_{n-1}$
 		- $\mathbf{W} \in \mathcal{R}^{d \times d}$
+			- controls how this memory is passed on
 		- $\mathbf{U} \in \mathcal{R}^{|\mathcal{V}| \times d}$
+			-
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
 - RNN extensions: Gated-Recurrent Unit (GRU)
