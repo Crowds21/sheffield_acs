@@ -18,6 +18,7 @@
 		- length of the email in characters
 		- occurrence of the word “cash” in the title or body.
 - ((647a2548-13be-4dcb-b210-d0ef1cd491e6))
+  collapsed:: true
 	- Feature learning
 		- automatically extract features from data - replaces manual feature engineering that is prone to human errors.
 		- The use of Supervised and Unsupervised learning techniques for feature learning.
@@ -37,6 +38,7 @@
 		- these are used to extract information that statistically correlates with classes of entities,relations, etc.
 		  这些特征用于提取与实体、关系等类别统计相关的信息
 - ((647a2948-85ec-4f60-8954-0127f6fedc26))
+  collapsed:: true
 	- 创建一个带有标注的参考语料库的黄金数据集:
 	- 将黄金数据集分为三个部分:
 		- 开发/训练集: 用于研究数据、训练机器学习过程，可以检查。
