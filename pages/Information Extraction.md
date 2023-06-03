@@ -91,7 +91,7 @@
 	- 使用BERT或其他语言模型来学习用于分类的文本表示。
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
 	- We have our final representation $v$
-	- $v=\operatorname{Model}(\mathbf{E})))$
+	- $$v=\operatorname{Model}(\mathbf{E})))$$$$
 	- $E$ denote the input embeddings
 	- The relation prediction $\hat{y}=\left\{\hat{y}_1, \ldots, \hat{y}_m\right\}$
 	- $\hat{y}=\operatorname{softmax}(\mathbf{v W}+\mathbf{b})$
