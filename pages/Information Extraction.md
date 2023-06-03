@@ -97,7 +97,8 @@
 	- $\hat{y}=\operatorname{softmax}(\mathbf{v W}+\mathbf{b})$
 	- we minimize the cross-entropy loss between the true relation label distribution and the predicted label distribution over all sentences.
 	- $\mathcal{L}=\sum_s\left(-\frac{1}{m} \sum_{i=1}^m y_i \log \hat{y}_i\right)$
-	-
+	- $E$ denote the input embeddings;
+	- W, b denote learnable weights and bias; m is the number of relations;
 - ((647a2978-b225-4234-8317-fe70e5d05946))
 - ((647a380e-40ef-4218-a7d9-989e65998251))
 	-
