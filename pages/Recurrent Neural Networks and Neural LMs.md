@@ -57,7 +57,7 @@ alias:: 递归神经网络和神经语言模型
 	-
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
-	- ((647b81fc-d525-492f-bed2-607fbe619408)) 简介
+	- ((647b81fc-d525-492f-bed2-607fbe619408)) 简介 [[card]]
 	  collapsed:: true
 		- ((647b827b-c649-4981-ae52-9fe39147b225))
 		- A memory cell is used in addition to the hidden layer to control what information from previous timesteps is useful in predicting.
