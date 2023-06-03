@@ -67,7 +67,6 @@
 - ((647b631b-ede2-4f5c-bca6-fb2807badfdb))
 	-
 - ((647a2966-f29c-4216-8a9a-00df89fd4036)) Input Features
-  collapsed:: true
 	- > “**John Fitzgerald Kennedy** (May 29, 1917 – November 22, 1963), often referred to by his initials JFK and the nickname Jack, was an American politician who served as the 35th president of the **United States** from1961 until his assassination in 1963.”
 	- Representation Learning 表示学习
 		- 词嵌入(Word embeddings): to represent words.
