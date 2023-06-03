@@ -88,6 +88,10 @@ alias:: 递归神经网络和神经语言模型
 		- $$
 		  z_t=\sigma\left(W_z\left[h_{t-1}, x_t\right]\right)
 		  $$
+	- Recurrent state (merges cell state with hidden state):
+		- $$
+		  r_t=\sigma\left(W_r\left[h_{t-1}, x_t\right]\right)
+		  $$
 	-
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
