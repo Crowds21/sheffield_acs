@@ -108,5 +108,7 @@
 - ((647a2978-b225-4234-8317-fe70e5d05946))
 	- Relational Facts or Knowledge base:
 		- (JFK, former president, USA) , (JFK, nickname, Jack)
+	- Question: What was Kennedy’s nickname?
+		-
 - ((647a380e-40ef-4218-a7d9-989e65998251))
 	-
