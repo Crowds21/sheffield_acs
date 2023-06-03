@@ -15,6 +15,9 @@ alias:: 递归神经网络和神经语言模型
 	- $V$ is the vocabulary and $V^{\max N}$ all possible sentences
 - Recurrent Neural Networks (RNNs)
 	- ((647b7844-7de1-433d-9c4d-5904784abda2))
+	- $$
+	  s_n=\sigma\left(\mathbf{W} s_{n-1}+\mathbf{U} x_n\right)
+	  $$
 	-
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
