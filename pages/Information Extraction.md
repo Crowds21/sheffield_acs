@@ -108,7 +108,7 @@
 - ((647a2978-b225-4234-8317-fe70e5d05946))
   > John Fitzgerald Kennedy (May 29, 1917 – November 22, 1963), often referred to by his initials JFK and the nickname Jack, was an American politician who served as the 35th president of the United States from 1961 until his assassination in 1963. He was the youngest person to assume the presidency by election and the youngest president at the end of his tenure. Jack is a common nickname for John and it is what his family called him when he was growing up.
   
-  Question: What was Kennedy’s nickname?
+  Question: What was Kennedy’s nickname? [[card]]
 	- Relational Facts or Knowledge base:
 		- (JFK, former president, USA) , (JFK, nickname, Jack)
 	- Question: What was Kennedy’s nickname?
