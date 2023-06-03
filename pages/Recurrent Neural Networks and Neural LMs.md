@@ -92,7 +92,7 @@ alias:: 递归神经网络和神经语言模型
 		- $$
 		  r_t=\sigma\left(W_r\left[h_{t-1}, x_t\right]\right)
 		  $$
-	-
+		- New output candidate values:
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
 - Improve RNNs with Attention
