@@ -15,6 +15,7 @@ alias:: 递归神经网络和神经语言模型
 	  $$
 	- $V$ is the vocabulary and $V^{\max N}$ all possible sentences
 - Recurrent Neural Networks (RNNs)
+  collapsed:: true
 	- RNN introduction [[card]]
 	  collapsed:: true
 		- ((647b7844-7de1-433d-9c4d-5904784abda2))
@@ -60,6 +61,7 @@ alias:: 递归神经网络和神经语言模型
 	-
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
+  collapsed:: true
 	- ((647b81fc-d525-492f-bed2-607fbe619408)) 简介 [[card]]
 	  collapsed:: true
 		- ((647b827b-c649-4981-ae52-9fe39147b225))
