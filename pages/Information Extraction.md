@@ -83,7 +83,12 @@
 			- $\mathbf{e}_i=\left[\mathbf{w}_i ; \mathbf{d}_i\right]$
 			- That is, for the text, we have $\mathbf{E}=\left\{\mathbf{e}_1, \mathbf{e}_2, \ldots, \mathbf{e}_n\right\}$
 - ((647b66e8-dbd7-4c2d-a6df-bd65650e9329))
-	-
+	- 基于序列的方法（例如，BiLSTM、CNN）[7]：
+	- BiLSTM可以建模长距离关系。
+	- 使用带有注意力机制的BiLSTM来捕捉与关系目标相关的重要特征（例如，“总统”是确定JFK和美国之间关系最重要的词）。
+	- CNN用于序列建模[6]。
+	- 将GNN应用于文本的依赖树，并与BiLSTM嵌入进行聚合。
+	- 使用BERT或其他语言模型来学习用于分类的文本表示。
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
 - ((647a2978-b225-4234-8317-fe70e5d05946))
 - ((647a380e-40ef-4218-a7d9-989e65998251))
