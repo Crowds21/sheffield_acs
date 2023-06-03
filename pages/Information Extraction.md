@@ -91,10 +91,10 @@
 	- 使用BERT或其他语言模型来学习用于分类的文本表示。
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
 	- We have our final representation $v$
-	- $$v=\operatorname{Model}(\mathbf{E})))$$$$
+	- $$v=\operatorname{Model}(\mathbf{E})))$$
 	- $E$ denote the input embeddings
 	- The relation prediction $\hat{y}=\left\{\hat{y}_1, \ldots, \hat{y}_m\right\}$
-	- $\hat{y}=\operatorname{softmax}(\mathbf{v W}+\mathbf{b})$
+	- $$\hat{y}=\operatorname{softmax}(\mathbf{v W}+\mathbf{b})$$
 	- we minimize the cross-entropy loss between the true relation label distribution and the predicted label distribution over all sentences.
 	- $\mathcal{L}=\sum_s\left(-\frac{1}{m} \sum_{i=1}^m y_i \log \hat{y}_i\right)$
 	- $E$ denote the input embeddings;
