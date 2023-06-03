@@ -78,7 +78,9 @@
 				- “John Fitzgerald Kennedy”  27
 			- each relative position $p$ is mapped to a vector $d^p$
 			- relative position embeddings for “president” is a concatenated vector $\mathbf{d}_i=\left[\mathbf{d}^{-3} ; \mathbf{d}^{27}\right]$
-		- 输入嵌入(Input embeddings): concatenation of Word and Position Embeddings.
+		- Input embeddings
+			- 输入嵌入
+			- concatenation of Word and Position Embeddings.
 			- $\mathbf{e}_i=\left[\mathbf{w}_i ; \mathbf{d}_i\right]$
 			- That is, for the text, we have $\mathbf{E}=\left\{\mathbf{e}_1, \mathbf{e}_2, \ldots, \mathbf{e}_n\right\}$
 - ((647b66e8-dbd7-4c2d-a6df-bd65650e9329))
