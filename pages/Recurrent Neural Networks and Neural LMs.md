@@ -47,7 +47,9 @@ alias:: 递归神经网络和神经语言模型
 		- Not as restrictive as the nth-order Markov: we still use **all previous words** through the recurrence.
 	- ((647b7fd0-5beb-4ace-b593-4fcb06855814))
 		- RNNs can’t capture long-range dependencies:
-		-
+		- effectively have one layer per word in the sentence
+		- all context information has to be passed by the hidden layer
+		- vanishing gradients: the gradient from the last word often never reaches the first
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
 - RNN extensions: Gated-Recurrent Unit (GRU)
