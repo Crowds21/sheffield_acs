@@ -144,5 +144,8 @@ alias:: 递归神经网络和神经语言模型
 			  $$
 		- $\mathbf{q} \in R^N$ is a trainable vector (learns task specific information)
 		- Additive (or tanh):
-			-
+			- $$
+			  \phi\left(h_i, \mathbf{q}\right)=\mathbf{q}^T \tanh \left(W \mathbf{h}_i\right)
+			  $$
+		-
 -
