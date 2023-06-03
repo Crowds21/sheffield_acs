@@ -98,7 +98,7 @@ alias:: 递归神经网络和神经语言模型
 		- $$
 		  \tilde{h}_t=\tanh \left(W\left[r_t * h_{t-1}, x_t\right]\right)
 		  $$
-	- Output:
+	- (GRU) Output:
 		- $$
 		  h_t=\left(1-z_t\right) * h_{t-1}+z_t * \tilde{h}_t
 		  $$
