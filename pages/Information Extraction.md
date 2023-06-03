@@ -48,7 +48,6 @@
 - ((647a294e-e5ed-463f-8c69-5dd7aa933314))
 	- 命名实体识别(NET): 通过为文本中的块分配标签来识别实体（如人物（PER）、组织（ORG）、位置（LOC）、国家（COUNTRY）、日期（DATE）和其他杂项（MISC））。
 	- BIOES encoding：
-		- 文本：“约翰·菲茨杰拉德·肯尼迪（1917年5月29日 - 1963年11月22日），常被称为JFK和绰号Jack，是一位美国政治家，从1961年至1963年担任第35任美国总统，直到遇刺身亡。”
 		- Annotate word with beginning (B), inside(I), outside(O), end (E), single (S) of class information:
 		- John（B-PER）Fitzgerald（I-PER）Kennedy（E-PER）
 		- Jack（S-PER）
