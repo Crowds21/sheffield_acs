@@ -13,8 +13,9 @@
 			- We want to find best Spanish sentence y, given English sentence x
 		- How do we come up with candidate sentences?
 			- Generate sentences using a neutral network (seq2seq)
-			  ■ We are going to teach the neural network to generate candidate
-			  sentences
+			- We are going to teach the neural network to generate candidate sentences
+		- How do we search through this large list of possible sentences?■
+			-
 		- $$
 		  y^{\prime}=\arg \max _y p(y \mid x, \theta)
 		  $$
