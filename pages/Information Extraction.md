@@ -49,6 +49,7 @@
 		- 测试集: 不能被检查；只在项目结束时用于最终评估运行。对于系统和开发人员来说是完全未知的数据。
 	- 黄金数据集分割比例: 例如80%用于训练，10%用于开发测试，10%用于测试。
 - ((647a294e-e5ed-463f-8c69-5dd7aa933314))
+  collapsed:: true
 	- 命名实体识别(NET): 通过为文本中的块分配标签来识别实体（如人物（PER）、组织（ORG）、位置（LOC）、国家（COUNTRY）、日期（DATE）和其他杂项（MISC））。
 	- BIOES encoding: [[card]] 
 	  collapsed:: true
@@ -72,6 +73,7 @@
 - ((647b631b-ede2-4f5c-bca6-fb2807badfdb))
 	-
 - ((647a2966-f29c-4216-8a9a-00df89fd4036)) Input Features
+  collapsed:: true
 	- > “**John Fitzgerald Kennedy** (May 29, 1917 – November 22, 1963), often referred to by his initials JFK and the nickname Jack, was an American politician who served as the 35th president of the **United States** from1961 until his assassination in 1963.”
 	- Representation Learning 表示学习
 		- 词嵌入(Word embeddings): to represent words.
@@ -90,6 +92,7 @@
 			- $\mathbf{e}_i=\left[\mathbf{w}_i ; \mathbf{d}_i\right]$
 			- That is, for the text, we have $\mathbf{E}=\left\{\mathbf{e}_1, \mathbf{e}_2, \ldots, \mathbf{e}_n\right\}$
 - ((647b66e8-dbd7-4c2d-a6df-bd65650e9329))
+  collapsed:: true
   基于序列的方法（例如，BiLSTM、CNN）
 	- BiLSTM可以建模长距离关系。
 	- 使用带有注意力机制的BiLSTM来捕捉与关系目标相关的重要特征（例如，“总统”是确定JFK和美国之间关系最重要的词）。
