@@ -83,7 +83,7 @@
 			- $\mathbf{e}_i=\left[\mathbf{w}_i ; \mathbf{d}_i\right]$
 			- That is, for the text, we have $\mathbf{E}=\left\{\mathbf{e}_1, \mathbf{e}_2, \ldots, \mathbf{e}_n\right\}$
 - ((647b66e8-dbd7-4c2d-a6df-bd65650e9329))
-	- 基于序列的方法（例如，BiLSTM、CNN）[7]：
+  基于序列的方法（例如，BiLSTM、CNN）
 	- BiLSTM可以建模长距离关系。
 	- 使用带有注意力机制的BiLSTM来捕捉与关系目标相关的重要特征（例如，“总统”是确定JFK和美国之间关系最重要的词）。
 	- CNN用于序列建模[6]。
