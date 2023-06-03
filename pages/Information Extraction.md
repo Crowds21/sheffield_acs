@@ -50,7 +50,7 @@
 	- BIOES encoding: [[card]] 
 	  “John Fitzgerald Kennedy (May 29, 1917 – November 22, 1963), often referred to by his initials JFK and the nickname Jack, was an American politician who served as the 35th president of the United States from 1961 until his assassination in 1963.”
 	  > person (PER), organisation (ORG), location (LOC), (COUNTRY), (DATE) miscellaneous (MISC)
-		- Annotate word with beginning (B), inside(I), outside(O), end (E), single (S) of class information:
+		- Annotate word with beginning (B), inside(I), outside(O), end (E), single (S) of class information
 		- John（B-PER）Fitzgerald（I-PER）Kennedy（E-PER）
 		- Jack（S-PER）
 		- United（B-COUNTRY）States（E-COUNTRY）
