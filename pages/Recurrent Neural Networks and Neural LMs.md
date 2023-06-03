@@ -57,6 +57,8 @@ alias:: 递归神经网络和神经语言模型
 	-
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
+	- ((647b81fc-d525-492f-bed2-607fbe619408))
+	-
 - RNN extensions: Gated-Recurrent Unit (GRU)
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
