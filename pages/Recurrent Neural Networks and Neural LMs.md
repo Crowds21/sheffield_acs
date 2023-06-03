@@ -113,8 +113,7 @@ alias:: 递归神经网络和神经语言模型
 	- ((647b8694-30c0-44c1-92ef-1c1770721fba))
 	- many to one: e.g. text classification
 	- many to many (equal): e.g. PoS tagging
-	- many to many (unequal): e.g. machine translation (coming
-	  next week), language generation, summarisation
+	- many to many (unequal): e.g. machine translation (coming next week), language generation, summarisation
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
 - Improve RNNs with Attention
