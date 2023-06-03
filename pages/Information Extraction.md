@@ -62,7 +62,8 @@
 		- 1963（S-DATE）
 		- until（O）
 		- 其他简单的方案包括BIO编码。
-	- ((647b612d-cf5d-493d-8726-1fc861ec36f3))
+	- ((647b612d-cf5d-493d-8726-1fc861ec36f3)) [[card]]
+	  collapsed:: true
 		- BiLSTM-Softmax disregards label dependencies and simply feeds the tag scores into a softmax layer to get the label classification.
 		  BiLSTM-Softmax忽略了标签之间的依赖关系，只是将标签得分输入到一个softmax层中，以获得标签分类结果。
 		- BiLSTM-CRF is more expressive, considers label dependencies, suitable for complex sequence labelling problems such as fine-grained NER (i.e., tags such as{B-ORG,I-ORG} to identify“Royal Court”).
