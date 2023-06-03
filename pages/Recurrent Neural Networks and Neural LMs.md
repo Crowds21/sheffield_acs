@@ -44,6 +44,7 @@ alias:: 递归神经网络和神经语言模型
 		- Because of the recurrence:we reuse the hidden layer parameters $W$
 	- Backpropagation Through Time
 		- unroll the graph for $n$ steps and sum the gradients in updating
+	-
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
 - RNN extensions: Gated-Recurrent Unit (GRU)
