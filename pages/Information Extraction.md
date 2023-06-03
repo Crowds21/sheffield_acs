@@ -7,6 +7,7 @@
   collapsed:: true
 	- ((647a24b2-eb4b-416a-9c73-843672998864))
 - What is ((647a24c5-956b-4830-8bd6-79e5d0ded39c)) [[card]]
+  collapsed:: true
 	- > Text Classification Example
 	- Feature extraction/engineering:
 		- using domain knowledge to extract features from data.
@@ -25,7 +26,6 @@
 		- automatically extract features from data - replaces manual feature engineering that is prone to human errors.
 		- The use of Supervised and Unsupervised learning techniques for feature learning.
 - ((647a262a-1308-4f05-b93c-49681fc48b2b))
-  collapsed:: true
 	- Rule-based: [[card]]
 	  collapsed:: true
 		- Human experts (computational linguists) write general linguistic rules and task-specific extraction rules.
