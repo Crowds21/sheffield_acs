@@ -116,7 +116,7 @@ alias:: 递归神经网络和神经语言模型
 	- many to one: e.g. text classification
 	- many to many (equal): e.g. PoS tagging
 	- many to many (unequal): e.g. machine translation (coming next week), language generation, summarisation
-- ((647b86af-6775-4a5a-89f2-16637c311e20))
+- TODO ((647b86af-6775-4a5a-89f2-16637c311e20))
 	- RNNs 学习单词和句子/文档的表示
 	- 由于RNNs的训练速度比Skip-Gram慢，所以单词的学习并不那么有趣：因此使用的数据更少
 	- 一个提示是：使用预训练的单词向量（如skipgram）来初始化RNN的单词向量
