@@ -9,4 +9,7 @@
 		- Typically we use sequence-to-sequence models (seq2seq).
 		- These models are end-to-end differentiable
 	- Task Formulation
--
+		- $$
+		  y^{\prime}=\arg \max _y p(y \mid x, \theta)
+		  $$
+			-
