@@ -32,7 +32,8 @@ alias:: 递归神经网络和神经语言模型
 			- $$
 			  \mathbf{o}_{n-1}=p\left(x_n \mid x_{n-1} \ldots x_1\right)=\operatorname{softmax}\left(\mathbf{V} s_{n-1}\right)
 			  $$
-		-
+		- $\mathbf{V} \in \mathcal{R}^{d \times|\mathcal{V}|}$
+			- output weight matrix
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
 - RNN extensions: Gated-Recurrent Unit (GRU)
