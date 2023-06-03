@@ -8,4 +8,6 @@
 		- Neural Machine Translation (NMT) is Machine Translation using neural networks (as opposed to alignment and phrase based translation).
 		- Typically we use sequence-to-sequence models (seq2seq).
 		- These models are end-to-end differentiable
-	-
+	- Task Formulation
+		- We want to translate from English to Spanish
+		- Formally, what this means is: we want to find best Spanish sentence y, given English sentence x
