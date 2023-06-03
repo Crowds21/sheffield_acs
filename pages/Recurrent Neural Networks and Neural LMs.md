@@ -113,7 +113,7 @@ alias:: 递归神经网络和神经语言模型
 		  $$
 - ((647b8680-f06c-4757-975a-17cdd535678c))
 	- ((647b8694-30c0-44c1-92ef-1c1770721fba))
-	- many to one: e.g. text classification
+	- many to one (接收一个序列作为输入，但只产生一个输出): e.g. text classification, 情感分析
 	- many to many (equal): e.g. PoS tagging
 	- many to many (unequal): e.g. machine translation (coming next week), language generation, summarisation
 - TODO ((647b86af-6775-4a5a-89f2-16637c311e20))
