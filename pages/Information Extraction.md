@@ -76,7 +76,7 @@
 			- the relative position of “president” in the text to
 				- “United States”   -3
 				- “John Fitzgerald Kennedy”  27
-			- each relative position p is mapped to a vector $d^p$
+			- each relative position $p$ is mapped to a vector $d^p$
 			- relative position embeddings for “president” is a concatenated vector
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
 - ((647a2978-b225-4234-8317-fe70e5d05946))
