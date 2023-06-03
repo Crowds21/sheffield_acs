@@ -111,5 +111,22 @@
                                    :height 452.2495845218901}),
                           :page 23},
                :content {:text "Limitations of RNNs"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647b7fe1-b30e-4e0e-a4ec-45893d52004f",
+               :page 23,
+               :position {:bounding {:x1 47.1015625,
+                                     :y1 177.890625,
+                                     :x2 392.95172119140625,
+                                     :y2 202.890625,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects ({:x1 47.1015625,
+                                   :y1 177.890625,
+                                   :x2 392.95172119140625,
+                                   :y2 202.890625,
+                                   :width 603,
+                                   :height 452.2495845218901}),
+                          :page 23},
+               :content {:text "RNNs can’t capture long-range dependencies:"},
                :properties {:color "yellow"}}],
- :extra {:page 23}}
+ :extra {:page 16}}
