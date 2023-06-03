@@ -91,7 +91,8 @@
 	- 使用BERT或其他语言模型来学习用于分类的文本表示。
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
 	- We have our final representation $v$
-		-
+	- $v=\operatorname{Model}(\mathbf{E})))$
+	-
 - ((647a2978-b225-4234-8317-fe70e5d05946))
 - ((647a380e-40ef-4218-a7d9-989e65998251))
 	-
