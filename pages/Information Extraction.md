@@ -79,7 +79,7 @@
 			- each relative position $p$ is mapped to a vector $d^p$
 			- relative position embeddings for “president” is a concatenated vector $\mathbf{d}_i=\left[\mathbf{d}^{-3} ; \mathbf{d}^{27}\right]$
 		- 输入嵌入(Input embeddings): concatenation of Word and Position Embeddings.
-			- $\mathbf{e}_i=\left[\mathbf{w}_i ; \mathbf{d}_i\right].$
+			- $\mathbf{e}_i=\left[\mathbf{w}_i ; \mathbf{d}_i\right].$, That is, for the text, we have
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
 - ((647a2978-b225-4234-8317-fe70e5d05946))
 - ((647a380e-40ef-4218-a7d9-989e65998251))
