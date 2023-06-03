@@ -51,11 +51,11 @@
 		- 文本：“约翰·菲茨杰拉德·肯尼迪（1917年5月29日 - 1963年11月22日），常被称为JFK和绰号Jack，是一位美国政治家，从1961年至1963年担任第35任美国总统，直到遇刺身亡。”
 		- 使用类别信息的开始（B）、内部（I）、外部（O）、结束（E）和单个（S）来标注单词：
 		- John（B-PER）Fitzgerald（I-PER）Kennedy（E-PER）
-			- Jack（S-PER）
-			- United（B-COUNTRY）States（E-COUNTRY）
-			- 1963（S-DATE）
-			- until（O）
-	- 其他简单的方案包括BIO编码。
+		- Jack（S-PER）
+		- United（B-COUNTRY）States（E-COUNTRY）
+		- 1963（S-DATE）
+		- until（O）
+		- 其他简单的方案包括BIO编码。
 - ((647a295e-b734-4ff4-8c32-cec02073c71e))
 - ((647a2966-f29c-4216-8a9a-00df89fd4036))
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
