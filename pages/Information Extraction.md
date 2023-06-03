@@ -74,6 +74,7 @@
 			- 用于获取每个单词相对于object和object entities 的相对位置
 			  to get the relative position of each word to the subject and object entities.
 			- the relative position of “president” in the text to “United States” and“John Fitzgerald Kennedy” are -3 and and 27, respectively.
+			-
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
 - ((647a2978-b225-4234-8317-fe70e5d05946))
 - ((647a380e-40ef-4218-a7d9-989e65998251))
