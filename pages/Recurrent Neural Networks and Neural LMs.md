@@ -20,7 +20,7 @@ alias:: 递归神经网络和神经语言模型
 	  $$
 		- $s_{n-1} \in \mathcal{R}^d$
 		- $\mathbf{W} \in \mathcal{R}^{d \times d}$
-		-
+		- $\mathbf{U} \in \mathcal{R}^{|\mathcal{V}| \times d}$
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
 - RNN extensions: Gated-Recurrent Unit (GRU)
