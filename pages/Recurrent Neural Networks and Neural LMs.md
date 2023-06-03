@@ -21,7 +21,7 @@ alias:: 递归神经网络和神经语言模型
 		- $s_{n-1} \in \mathcal{R}^d$
 			- ”memory” of the context until word $x_{n-1}$
 		- $\sigma()$
-			-
+			- 激活函数，例如常用的 Sigmoid 函数、Tanh 函数或 ReLU 函数等
 		- $\mathbf{W} \in \mathcal{R}^{d \times d}$
 			- controls how this memory is passed on
 		- $\mathbf{U} \in \mathcal{R}^{|\mathcal{V}| \times d}$
