@@ -83,7 +83,12 @@ alias:: 递归神经网络和神经语言模型
 			  \end{gathered}
 			  $$
 - RNN extensions: ((647b84b5-bd39-4dcf-8651-2c78c70df65a))
-	- LSTM variant Update gate (combines input and forget gates):
+	- LSTM variant
+	- Update gate (combines input and forget gates):
+		- $$
+		  z_t=\sigma\left(W_z\left[h_{t-1}, x_t\right]\right)
+		  $$
+	-
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
 - Improve RNNs with Attention
