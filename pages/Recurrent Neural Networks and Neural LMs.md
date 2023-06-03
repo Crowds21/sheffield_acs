@@ -126,7 +126,7 @@ alias:: 递归神经网络和神经语言模型
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
 - Improve RNNs with Attention
-	-
+	- > 传统的RNN模型会遇到长距离依赖的问题，即模型难以捕捉到序列中相隔较远的元素之间的依赖关系。通过使用注意力机制，模型可以给予这些关键信息更多的重视，从而改善其性能
 	- ((647b88b8-3252-4b3e-8620-d7de2ff0654d))
 		- 在多对一的任务中（例如，文本分类），通常每个时间步的输出会被合并（连接/平均/求和）然后传递给输出层
 		- 这种简单的组合假设所有的表示（来自每个时间步）都有相等的贡献
