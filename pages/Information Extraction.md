@@ -118,5 +118,5 @@
 		- Disambiguate the entity John in the context by linking it to JFK
 		- Detect the relationship between **Jack** and **JFK** in context to extract the fact (JFK, nickname, Jack)
 		- Answer question using relational fact.
-- ((647a380e-40ef-4218-a7d9-989e65998251))
+- Current Research: ((647a380e-40ef-4218-a7d9-989e65998251))
 	-
