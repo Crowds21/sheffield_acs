@@ -22,6 +22,7 @@
 		- automatically extract features from data - replaces manual feature engineering that is prone to human errors.
 		- The use of Supervised and Unsupervised learning techniques for feature learning.
 - ((647a262a-1308-4f05-b93c-49681fc48b2b))
+  collapsed:: true
 	- Rule-based: [[card]]
 	  collapsed:: true
 		- Human experts (computational linguists) write general linguistic rules and task-specific extraction rules.
@@ -43,6 +44,7 @@
 		- 测试集: 不能被检查；只在项目结束时用于最终评估运行。对于系统和开发人员来说是完全未知的数据。
 	- 黄金数据集分割比例: 例如80%用于训练，10%用于开发测试，10%用于测试。
 - ((647a294e-e5ed-463f-8c69-5dd7aa933314))
+	-
 - ((647a295e-b734-4ff4-8c32-cec02073c71e))
 - ((647a2966-f29c-4216-8a9a-00df89fd4036))
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
