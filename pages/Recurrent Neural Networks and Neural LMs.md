@@ -28,7 +28,7 @@ alias:: 递归神经网络和神经语言模型
 			- controls how this memory is passed on (权重)
 		- $\mathbf{U} \in \mathcal{R}^{|\mathcal{V}| \times d}$
 			- matrix containing the word vectors for all the words, $x_n$ picks one
-			- 包含所有单词的词向量矩阵, 从$x_n$ 中挑选一个
+			- 包含所有单词的词向量矩阵, 给$x_n$ 中挑选一个,然后相乘
 		- 为了得到 $x_n$ 的概率分布:
 			- $$
 			  \mathbf{o}_{n-1}=p\left(x_n \mid x_{n-1} \ldots x_1\right)=\operatorname{softmax}\left(\mathbf{V} s_{n-1}\right)
