@@ -102,6 +102,7 @@ alias:: 递归神经网络和神经语言模型
 		- $$
 		  h_t=\left(1-z_t\right) * h_{t-1}+z_t * \tilde{h}_t
 		  $$
+-
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
 - Improve RNNs with Attention
