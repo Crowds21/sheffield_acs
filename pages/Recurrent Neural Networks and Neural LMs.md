@@ -61,7 +61,7 @@ alias:: 递归神经网络和神经语言模型
 		- ((647b827b-c649-4981-ae52-9fe39147b225))
 		- A memory cell is used in addition to the hidden layer to control what information from previous timesteps is useful in predicting.
 		- 在隐藏层中,额外引入了一个记忆单元. 该记忆单元来控制上一个时步中哪些信息对于预测结果是非常有用的.
-		- Forget gate
+		- Forget gate  (what info to throw away from previous steps)
 - RNN extensions: Gated-Recurrent Unit (GRU)
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
