@@ -130,4 +130,7 @@ alias:: 递归神经网络和神经语言模型
 		- 在多对一的任务中（例如，文本分类），通常每个时间步的输出会被合并（连接/平均/求和）然后传递给输出层
 		- 这种简单的组合假设所有的表示（来自每个时间步）都有相等的贡献
 		- 但这可能并非事实！
-		- 注意力机制：计算从RNN获取的所有上下文化表示的加权线性组合。
+		- 注意力机制：
+			- 计算从RNN获取的所有上下文化表示的加权线性组合
+			- compute a weighted linear combination of all the contextualised representations obtained from the RNN:
+			-
