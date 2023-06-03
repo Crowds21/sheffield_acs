@@ -72,6 +72,7 @@
 		- 词嵌入(Word embeddings): to represent words.
 		- 相对位置嵌入(Relative position embeddings):
 			- 用于获取每个单词相对于object和object entities 的相对位置
+			  to get the relative position of each word to the subject and object entities.
 			-
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
 - ((647a2978-b225-4234-8317-fe70e5d05946))
