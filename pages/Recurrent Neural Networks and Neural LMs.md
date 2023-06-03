@@ -126,3 +126,5 @@ alias:: 递归神经网络和神经语言模型
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
 - Improve RNNs with Attention
+	- ((647b88b8-3252-4b3e-8620-d7de2ff0654d))
+		-
