@@ -83,6 +83,7 @@ alias:: 递归神经网络和神经语言模型
 			  \end{gathered}
 			  $$
 - RNN extensions: ((647b84b5-bd39-4dcf-8651-2c78c70df65a)) [[card]]
+  collapsed:: true
 	- LSTM(Long-Short Term Memor) variant
 	- (GRU) Update gate (combines input and forget gates):
 	  > 决定了当前时间步的隐藏状态应该在多大程度上保留前一时间步的隐藏状态信息
