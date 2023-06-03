@@ -9,7 +9,9 @@
 		- Typically we use sequence-to-sequence models (seq2seq).
 		- These models are end-to-end differentiable
 	- Task Formulation
-		- Example: We want to find best Spanish sentence y, given English sentence x
+		- Example: We want to translate from English to Spanish
+			- We want to find best Spanish sentence y, given English sentence x
+		-
 		- $$
 		  y^{\prime}=\arg \max _y p(y \mid x, \theta)
 		  $$
