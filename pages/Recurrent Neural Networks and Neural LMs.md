@@ -1,7 +1,13 @@
 alias:: 递归神经网络和神经语言模型
 
 - Problem setup
-	- $$$$
+	- Training data is a (large) set of word sequences:
+	- $$
+	  \begin{aligned}
+	  D_{\text {train }} & =\left\{\mathbf{x}^1, \ldots, \mathbf{x}^M\right\} \\
+	  \mathbf{x} & =\left[x_1, \ldots x_N\right]
+	  \end{aligned}
+	  $$
 - Recurrent Neural Networks (RNNs)
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
