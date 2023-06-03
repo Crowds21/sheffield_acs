@@ -203,5 +203,17 @@
                                    :height 452.2495845218901}),
                           :page 35},
                :content {:text "RNN Architecture Variants in NLP"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647b8694-30c0-44c1-92ef-1c1770721fba",
+               :page 35,
+               :position {:bounding {:x1 75,
+                                     :y1 102,
+                                     :x2 522,
+                                     :y2 295,
+                                     :width 603,
+                                     :height 452.2495845218901},
+                          :rects (),
+                          :page 35},
+               :content {:text "[:span]", :image 1685816979476},
                :properties {:color "yellow"}}],
  :extra {:page 35}}
