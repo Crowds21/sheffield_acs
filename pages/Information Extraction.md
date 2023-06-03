@@ -73,7 +73,9 @@
 		- 相对位置嵌入(Relative position embeddings):
 			- 用于获取每个单词相对于object和object entities 的相对位置
 			  to get the relative position of each word to the subject and object entities.
-			- the relative position of “president” in the text to “United States” and“John Fitzgerald Kennedy” are -3 and and 27, respectively.
+			- the relative position of “president” in the text to
+				- “United States”
+				- “John Fitzgerald Kennedy” are and and 27, respectively.
 			- each relative position p is mapped to a vector $d^p$
 			- relative position embeddings for “president” is a concatenated vector
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
