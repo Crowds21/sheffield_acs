@@ -48,6 +48,7 @@
 - ((647a294e-e5ed-463f-8c69-5dd7aa933314))
 	- 命名实体识别(NET): 通过为文本中的块分配标签来识别实体（如人物（PER）、组织（ORG）、位置（LOC）、国家（COUNTRY）、日期（DATE）和其他杂项（MISC））。
 	- BIOES encoding: [[card]] 
+	  collapsed:: true
 	  “John Fitzgerald Kennedy (May 29, 1917 – November 22, 1963), often referred to by his initials JFK and the nickname Jack, was an American politician who served as the 35th president of the United States from 1961 until his assassination in 1963.”
 	  > person (PER), organisation (ORG), location (LOC), (COUNTRY), (DATE) miscellaneous (MISC)
 		- Annotate word with beginning (B), inside(I), outside(O), end (E), single (S) of class information
@@ -58,6 +59,7 @@
 		- 1963（S-DATE）
 		- until（O）
 		- 其他简单的方案包括BIO编码。
+	-
 - ((647a295e-b734-4ff4-8c32-cec02073c71e))
 - ((647a2966-f29c-4216-8a9a-00df89fd4036))
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
