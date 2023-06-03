@@ -36,6 +36,7 @@ alias:: 递归神经网络和神经语言模型
 		- $\mathbf{V} \in \mathcal{R}^{d \times|\mathcal{V}|}$
 			- output weight matrix
 	- ((647b7b86-a3bc-4aff-af09-bc40ee3f2327))
+	  collapsed:: true
 		- We need to learn
 			- word vectors $U$
 			- hidden layer parameters $W$
