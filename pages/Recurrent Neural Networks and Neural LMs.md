@@ -142,4 +142,4 @@ alias:: 递归神经网络和神经语言模型
 			- $$
 			  a_i=\frac{\exp \left(\phi\left(\mathbf{h}_{\mathbf{i}}, \mathbf{q}\right)\right)}{\sum_{k=1}^t \exp \left(\phi\left(\mathbf{q}, \mathbf{h}_{\mathbf{k}}\right)\right)}
 			  $$
-			-
+		- $\mathbf{q} \in R^N$
