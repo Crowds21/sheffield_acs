@@ -148,5 +148,8 @@ alias:: 递归神经网络和神经语言模型
 			  \phi\left(h_i, \mathbf{q}\right)=\mathbf{q}^T \tanh \left(W \mathbf{h}_i\right)
 			  $$
 		- Scaled Dot-Product
+			- $$
+			  \phi\left(h_i, \mathbf{q}\right)=\frac{\mathbf{h}_i^T \mathbf{q}}{\sqrt{N}}
+			  $$
 			-
 -
