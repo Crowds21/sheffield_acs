@@ -29,6 +29,10 @@ alias:: 递归神经网络和神经语言模型
 			- matrix containing the word vectors for all the words, $x_n$ picks one
 			- 包含所有单词的词向量矩阵, 从$x_n$ 中挑选一个
 		- 为了得到 $x_n$ 的概率分布:
+			- $$
+			  \mathbf{o}_{n-1}=p\left(x_n \mid x_{n-1} \ldots x_1\right)=\operatorname{softmax}\left(\mathbf{V} s_{n-1}\right)
+			  $$
+		-
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
 - RNN extensions: Gated-Recurrent Unit (GRU)
