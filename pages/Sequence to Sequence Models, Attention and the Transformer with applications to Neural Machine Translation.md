@@ -2,6 +2,6 @@
 	- 输入是一个序列（任意序列）
 	- 输出也是一个序列（同样是任意序列，但对于我们的目标来说，这是文本）
 - Demonstrating Task Neural Machine Translation (任务型神经机器翻译)
-	- What is Machine Translation?
-		- Machine Translation (MT) consists of translating a sentence x from one language (the source) to a sentence y in another language (the target)
+	- What is Machine Translation? [[]
+		- Machine Translation (MT) consists of translating a sentence $x$ from one language (the source) to a sentence $y$ in another language (the target)
 -
