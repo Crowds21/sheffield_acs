@@ -82,7 +82,6 @@ alias:: 递归神经网络和神经语言模型
 			  h_t=o_t * \tanh \left(C_t\right)
 			  \end{gathered}
 			  $$
-		-
 - RNN extensions: Gated-Recurrent Unit (GRU)
 - Language modelling: return sentence probabilities as well as representations
 - Text classification: learn contextualised word representations and use them to predict a given class
