@@ -12,7 +12,7 @@ alias:: 递归神经网络和神经语言模型
 	- $$
 	  P(\mathbf{x}), \text { for } \forall \mathbf{x} \in V^{\max N}
 	  $$
-	- $V$ is the vocabulary and
+	- $V$ is the vocabulary and $V^{\max N}$
 - Recurrent Neural Networks (RNNs)
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
