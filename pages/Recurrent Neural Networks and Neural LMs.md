@@ -136,4 +136,5 @@ alias:: 递归神经网络和神经语言模型
 			- $$
 			  \mathbf{c}=\sum_i \mathbf{h}_i \alpha_i
 			  $$
-		-
+		- Pass $c$ to the output layer for classification
+	-
