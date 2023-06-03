@@ -5,4 +5,6 @@
 	- What is Machine Translation? [[card]]
 		- Machine Translation (MT) consists of translating a sentence $x$ from one language (the source) to a sentence $y$ in another language (the target)
 	- What is Neural Machine Translation Model? [[card]]
-		-
+		- Neural Machine Translation (NMT) is Machine Translation using neural networks (as opposed to alignment and phrase based translation).
+		- Typically we use sequence-to-sequence models (seq2seq).
+		- These models are end-to-end differentiable
