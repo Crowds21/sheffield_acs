@@ -18,6 +18,7 @@ alias:: 递归神经网络和神经语言模型
 	- $$
 	  s_n=\sigma\left(\mathbf{W} s_{n-1}+\mathbf{U} x_n\right)
 	  $$
+		-
 		- $s_{n-1} \in \mathcal{R}^d$
 			- ”memory” of the context until word $x_{n-1}$
 		- $\sigma()$
