@@ -24,7 +24,7 @@ alias:: 递归神经网络和神经语言模型
 		- $\sigma()$
 			- 激活函数，例如常用的 Sigmoid 函数、Tanh 函数或 ReLU 函数等
 		- $\mathbf{W} \in \mathcal{R}^{d \times d}$
-			- controls how this memory is passed on ()
+			- controls how this memory is passed on (权重)
 		- $\mathbf{U} \in \mathcal{R}^{|\mathcal{V}| \times d}$
 			- matrix containing the word vectors for all the words, $x_n$ picks one
 			- 包含所有单词的词向量矩阵, 从$x_n$ 中挑选一个
