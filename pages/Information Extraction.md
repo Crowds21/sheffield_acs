@@ -40,7 +40,8 @@
 		  特征可以手动或自动进行工程化（或两者的混合，例如使用神经网络和依存树）；
 		- these are used to extract information that statistically correlates with classes of entities,relations, etc.
 		  这些特征用于提取与实体、关系等类别统计相关的信息
-- ((647a2948-85ec-4f60-8954-0127f6fedc26))
+- ((647a2948-85ec-4f60-8954-0127f6fedc26)) [[card]]
+  collapsed:: true
 	- 创建一个带有标注的参考语料库的黄金数据集:
 	- 将黄金数据集分为三个部分:
 		- 开发/训练集: 用于研究数据、训练机器学习过程，可以检查。
