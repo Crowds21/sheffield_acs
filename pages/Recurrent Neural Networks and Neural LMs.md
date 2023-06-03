@@ -23,7 +23,7 @@ alias:: 递归神经网络和神经语言模型
 		- $\mathbf{W} \in \mathcal{R}^{d \times d}$
 			- controls how this memory is passed on
 		- $\mathbf{U} \in \mathcal{R}^{|\mathcal{V}| \times d}$
-			-
+			- matrix containing the word vectors for all the words, $x_
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
 - RNN extensions: Gated-Recurrent Unit (GRU)
