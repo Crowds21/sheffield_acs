@@ -64,7 +64,7 @@
 		  BiLSTM-Softmax忽略了标签之间的依赖关系，只是将标签得分输入到一个softmax层中，以获得标签分类结果。
 		- BiLSTM-CRF is more expressive, considers label dependencies, suitable for complex sequence labelling problems such as fine-grained NER (i.e., tags such as{B-ORG,I-ORG} to identify“Royal Court”).
 		  BiLSTM-CRF更加具有表现力，考虑了标签之间的依赖关系，适用于复杂的序列标注问题，比如细粒度的命名实体识别（例如，使用{B-ORG，I-ORG}这样的标签来识别“Royal Court”）。
-- ((647a295e-b734-4ff4-8c32-cec02073c71e))
+- Relation Extraction (RE)
 - ((647a2966-f29c-4216-8a9a-00df89fd4036))
 - ((647a296e-cff3-45c4-aa80-d1e3e68fc848))
 - ((647a2978-b225-4234-8317-fe70e5d05946))
