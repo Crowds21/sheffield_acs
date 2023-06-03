@@ -1,6 +1,7 @@
 alias:: 递归神经网络和神经语言模型
 
 - Problem setup
+  collapsed:: true
 	- Training data is a (large) set of word sequences:
 	- $$
 	  \begin{aligned}
