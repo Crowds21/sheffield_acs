@@ -40,7 +40,7 @@ alias:: 递归神经网络和神经语言模型
 		- word vectors $U$
 		- hidden layer parameters $W$
 		- output layer parameters $V$
-	- Standard backpropagation can’t work
+	- Standard backpropagation can’t work in RNN [[card]]
 		- Because of the recurrence:we reuse the hidden layer parameters $W$
 	- Backpropagation Through Time
 - Train with SGD and Backpropagation through Time
