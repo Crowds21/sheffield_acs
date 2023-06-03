@@ -94,6 +94,7 @@
 	- $v=\operatorname{Model}(\mathbf{E})))$
 	- $E$ denote the input embeddings
 	- The relation prediction $\hat{y}=\left\{\hat{y}_1, \ldots, \hat{y}_m\right\}$
+	-
 - ((647a2978-b225-4234-8317-fe70e5d05946))
 - ((647a380e-40ef-4218-a7d9-989e65998251))
 	-
