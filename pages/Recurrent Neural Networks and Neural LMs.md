@@ -133,4 +133,7 @@ alias:: 递归神经网络和神经语言模型
 		- 注意力机制：
 			- 计算从RNN获取的所有上下文化表示的加权线性组合
 			- compute a weighted linear combination of all the contextualised representations obtained from the RNN:
-			-
+			- $$
+			  \mathbf{c}=\sum_i \mathbf{h}_i \alpha_i
+			  $$
+		-
