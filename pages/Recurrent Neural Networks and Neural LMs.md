@@ -139,3 +139,7 @@ alias:: 递归神经网络和神经语言模型
 		- Pass $c$ to the output layer for classification
 	- ((647b898d-ccee-43a5-9578-ee813b44b7d0))
 		- Attention usually consists of a similarity function $\phi$ followed by softmax:
+			- $$
+			  a_i=\frac{\exp \left(\phi\left(\mathbf{h}_{\mathbf{i}}, \mathbf{q}\right)\right)}{\sum_{k=1}^t \exp \left(\phi\left(\mathbf{q}, \mathbf{h}_{\mathbf{k}}\right)\right)}
+			  $$
+			-
