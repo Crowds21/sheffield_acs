@@ -90,6 +90,7 @@ alias:: 递归神经网络和神经语言模型
 		  z_t=\sigma\left(W_z\left[h_{t-1}, x_t\right]\right)
 		  $$
 	- Recurrent state (merges cell state with hidden state):
+	  > 决定了计算新的候选隐藏状态时，应该在多大程度上使用前一时间步的隐藏状态
 		- $$
 		  r_t=\sigma\left(W_r\left[h_{t-1}, x_t\right]\right)
 		  $$
