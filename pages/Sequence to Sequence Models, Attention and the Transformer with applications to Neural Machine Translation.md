@@ -219,6 +219,12 @@
 		- ((647ce6e9-1167-43ec-98e3-584f46a9e373))
 			- > 在单头注意力机制中，我们对输入序列中的每个单词计算一个注意力分数，然后使用这些分数来生成新的上下文相关的单词表示。然而，这种方法可能会忽略输入序列中的复杂结构，因为它只从一个角度考虑了单词之间的关系。
 			- > 为了解决这个问题，多头注意力机制被提出。在多头注意力中，我们不止一次地进行这个过程，而是进行多次，每次都用不同的权重矩阵（也就是"头"）来计算注意力分数。然后，我们将所有头的输出合并成一个，以生成最终的单词表示。
+			- $$
+			  \begin{aligned}
+			  \text { MultiHead }(Q, K, V) & =\text { Concat }\left(\text { head }_1, \ldots, \text { head }_{\mathrm{h}}\right) W^O \\
+			  \text { where head } & =\text { Attention }\left(Q W_i^Q, K W_i^K, V W_i^V\right)
+			  \end{aligned}
+			  $$
 			-
 		- ((647ce6f1-d7ec-4d8f-be22-2c2b398eea2e))
 - Evaluation Human Judgements and Automatic Metrics
