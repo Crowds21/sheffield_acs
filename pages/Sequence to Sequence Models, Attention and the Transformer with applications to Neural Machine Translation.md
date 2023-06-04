@@ -98,4 +98,4 @@
 			- 当我们生成输出时,能够直接使用到 Encoder 中的一部分 representations
 			- ((647cb7fc-48e9-469c-9aa9-1ae61e12be11))
 		- Weighted sum
-			- Find out how “important” each of these are.
+			- Find out how “important” each of these repesenta.
