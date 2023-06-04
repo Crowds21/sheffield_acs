@@ -62,4 +62,5 @@
 		- Greedy Search
 			- Take the argmax (most probable word) on each step of the decoder
 			- PROBLEM The best token at the current step does not necessarily lead to the best sequence
-		- Beam Search
+		- [[Beam Search]]
+			-
