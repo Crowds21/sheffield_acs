@@ -74,5 +74,5 @@
 					- When a hypothesis produces <eos>, that hypothesis is complete
 					- Place it aside and continue exploring other hypotheses via beam search
 				- Usually we continue beam search until:
-					- We reach timestep T (where T is some pre-defined cutoff), or
+					- **We reach timestep T** (where T is some pre-defined cutoff), or
 					- We have at least n completed hypotheses (where n is pre-defined cutoff)
