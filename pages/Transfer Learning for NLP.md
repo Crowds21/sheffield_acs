@@ -8,4 +8,4 @@
 	- Task: $\mathcal{T}$ where $y \in \mathcal{Y}$
 	- Cond. Prob. Distrib.: $P(Y \mid X)$
 	- Given a source domain $\mathcal{D}_S$ and a corresponding task $T_S$, a target domain $\mathcal{D}_T$ and task $\mathcal{T}_T$, earn a new model that computes the
-	  target conditional probability distribution $P\left(Y_T \mid X_T\right)$
+	  target conditional probability distribution $P\left(Y_T \mid X_T\right)$ in $\mathcal{D}_T$
