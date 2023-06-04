@@ -90,6 +90,6 @@
 	- Usage in NLP
 		- We need a way to allow models to attend to (focus on) different parts of the input at different timesteps.
 		- 在解码器的每一步，使用与编码器的直接连接关注源序列的特定部分。
-		- 这一方法首次在 "神经机器翻译通过共同学习对齐和翻译" (Bahdanau等人，2015年) 中被提出
+			- 这一方法首次在 "神经机器翻译通过共同学习对齐和翻译" (Bahdanau等人，2015年) 中被提出
 		- 编码器不必将整个 srouce 压缩成一个单一的向量
-		- 它为所有源令牌提供表示（例如，所有的RNN状态，而不仅仅是最后一个）
+			- 它为所有源令牌提供表示（例如，所有的RNN状态，而不仅仅是最后一个）
