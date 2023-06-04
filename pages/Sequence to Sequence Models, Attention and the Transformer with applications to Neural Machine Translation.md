@@ -134,7 +134,9 @@
 					- ((647cba26-9251-498b-a939-a32e88e97e90))
 				-
 		- ((647cba59-f317-427e-a7cb-3f4a75c959b6)) [[card]]
+		  collapsed:: true
 			- Dot-product Attention
+			  id:: 647cba68-1d31-4c4e-bdda-21119d78ab50
 				- “Similarity”
 				- $$
 				  \text { score }_i=s^T h_i \in \mathbb{R}
