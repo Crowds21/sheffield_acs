@@ -717,5 +717,17 @@
                                    :height 450}),
                           :page 121},
                :content {:text "Self-Attention"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647ce66f-a9d8-4e07-89aa-a8ea68bd053c",
+               :page 121,
+               :position {:bounding {:x1 173,
+                                     :y1 95,
+                                     :x2 752,
+                                     :y2 436,
+                                     :width 800,
+                                     :height 450},
+                          :rects (),
+                          :page 121},
+               :content {:text "[:span]", :image 1685907054050},
                :properties {:color "yellow"}}],
  :extra {:page 121}}
