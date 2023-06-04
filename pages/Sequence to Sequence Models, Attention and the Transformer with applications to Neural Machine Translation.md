@@ -196,4 +196,6 @@
 			- The query is similar to the current decoder step
 			- (Query * Key) is similar to ((647cba68-1d31-4c4e-bdda-21119d78ab50)) scoring (where the key is equivalent to the encoder outputs
 			- After pushing both through a softmax we **multiply the result with the value** in self-attention before summing it In RNN attention this is again the encoder states
+			  在通过softmax后，我们将结果与自注意力中的值相乘，然后进行求和。在RNN注意力中，这再次是编码器状态。
+			-
 -
