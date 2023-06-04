@@ -86,4 +86,4 @@
 		- 随着句子长度的增加，翻译质量会下降。（注意，编码器必须将更多的信息'打包'到相同的向量表示或思维向量中）
 	- Attention: A Biological Motivation
 		- Focusing on specific information is the only way to avoid information overload.
-		-
+		- Critical to biological systems. (Only way to avoid information overload, remember information processing is expensive)
