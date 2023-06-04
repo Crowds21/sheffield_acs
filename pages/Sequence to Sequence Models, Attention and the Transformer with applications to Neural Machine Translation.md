@@ -59,5 +59,5 @@
 		- $$
 		  y^{\prime}=\arg \max _y p(y \mid x)=\arg \max _y \prod_{t=1} p\left(y_t \mid y_{<t}, x\right)
 		  $$
-		-
+		- Greedy: Take the argmax (most probable word) on each step of the decoder
 -
