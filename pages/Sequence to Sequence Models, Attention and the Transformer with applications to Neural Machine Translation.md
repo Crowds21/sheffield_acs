@@ -101,5 +101,7 @@
 			- Find out how “important” each of these representations.
 				- $\operatorname{score}\left(s_t, h_h\right), k=1 . . N$
 				- How relevant is ==source token== k for ==target step t==?
+				- $$
+				  \alpha_k^{(t)}=\frac{\exp \left(\text { score }\left(s_t, h_k\right)\right)}{\sum_{i=1}^N \exp \left(\text { score }\left(s_t, h_i\right)\right)}, k=1 . . N
+				  $$
 			-
--
