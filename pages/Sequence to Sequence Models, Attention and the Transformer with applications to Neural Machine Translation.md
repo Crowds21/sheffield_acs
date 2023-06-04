@@ -69,7 +69,7 @@
 			  \operatorname{score}\left(y_1, \ldots, y_t\right)=\log P_{\mathrm{LM}}\left(y_1, \ldots, y_t \mid x\right)=\sum_{i=1}^t \log P_{\mathrm{LM}}\left(y_i \mid y_1, \ldots, y_{i-1}, x\right)
 			  $$
 			- [#A] ((647cb3c9-a45e-4033-9d4e-00324c114c4c))
-			- ((647cb494-ca96-4d10-9f08-b320ac2f049d))
+			- ((647cb494-ca96-4d10-9f08-b320ac2f049d)) [[card]]
 				- Different hypotheses may produce <eos> tokens on different timesteps
 					- When a hypothesis produces <eos>, that hypothesis is complete
 					- Place it aside and continue exploring other hypotheses via beam search
