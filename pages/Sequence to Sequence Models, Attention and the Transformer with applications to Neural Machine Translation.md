@@ -157,4 +157,6 @@
 		- RNNs 允许我们解决这个问题：我们一次输入一个单词
 			- Embeddings是有上下文信息的
 		- 因此我们需要 an architecture that
+			- provides contextual embeddings
+			- captures semantic and syntactic information like RNNs do
 			-
