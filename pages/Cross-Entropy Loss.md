@@ -1,0 +1,1 @@
+- $\operatorname{loss}=-\log (p(\operatorname{correct}))$
