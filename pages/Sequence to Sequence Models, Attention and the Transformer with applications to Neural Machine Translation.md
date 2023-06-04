@@ -51,6 +51,6 @@
 		- ((647cb0b0-3350-4150-b87b-93d3de6768ea))
 			- Get probability distribution for the next token
 			- Find the correct next target token
-			- Evaluate loss and update $\operatorname{loss}=-\log (p( \operatorname{computadoras} ))$
+			- Evaluate loss and update  $\operatorname{loss}=-\log (p( \operatorname{computadoras} ))$
 			-
 -
