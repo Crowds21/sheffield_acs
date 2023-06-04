@@ -104,6 +104,7 @@
 				- $$
 				  \alpha_k^{(t)}=\frac{\exp \left(\text { score }\left(s_t, h_k\right)\right)}{\sum_{i=1}^N \exp \left(\text { score }\left(s_t, h_i\right)\right)}, k=1 . . N
 				  $$
+					- ((647cb8f8-c9dc-4a95-9eb0-398ddbfbb6fa))
 				- WARNING: Do not confuse attention weights with learnable weights.
 				  background-color:: red
 		-
