@@ -43,6 +43,6 @@
 	- Pretrained on language modelling task:
 		- Predict the next word in the sequence
 	- Input:
-		- BPE token embeddings
+		- BPE token embeddings (字节对编码)
 		- Token input representation: summing token, segmentation and position embeddings (similar to BERT)
 	- GPT variants: GPT-2, GPT-3.5, GPT-J, LLaMa
