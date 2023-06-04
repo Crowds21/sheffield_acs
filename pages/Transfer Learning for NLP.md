@@ -1,0 +1,3 @@
+- Transfer learning: Re-use and adapt already pre-trained supervised machine learning models on a target task
+- How we can re-use and neural LMs on target tasks (e.g. text classification, machine translation, question answering, etc.)
+-
