@@ -99,7 +99,7 @@
 			- ((647cb7fc-48e9-469c-9aa9-1ae61e12be11))
 		- Weighted sum
 			- Find out how “important” each of these representations.
-				- Definition
+				- Definition and concepts
 					- Attention Scores
 						- For each encoder state, compute its“relevance” for the current decoder state
 					- Attention Weights
