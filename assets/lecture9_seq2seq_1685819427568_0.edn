@@ -294,4 +294,4 @@
                           :page 45},
                :content {:text "Also, in practice, these units are rarely RNNs. They are either GRU or LSTMs or BiLSTMs"},
                :properties {:color "yellow"}}],
- :extra {:page 47}}
+ :extra {:page 48}}
