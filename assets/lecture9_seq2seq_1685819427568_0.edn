@@ -385,5 +385,22 @@
                                    :height 450}),
                           :page 58},
                :content {:text "Beam Search"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cb3c9-a45e-4033-9d4e-00324c114c4c",
+               :page 60,
+               :position {:bounding {:x1 34.765625,
+                                     :y1 46.375,
+                                     :x2 334.4069519042969,
+                                     :y2 88.375,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 34.765625,
+                                   :y1 46.375,
+                                   :x2 334.4069519042969,
+                                   :y2 88.375,
+                                   :width 800,
+                                   :height 450}),
+                          :page 60},
+               :content {:text "Beam Search: Example"},
                :properties {:color "yellow"}}],
- :extra {:page 59}}
+ :extra {:page 61}}

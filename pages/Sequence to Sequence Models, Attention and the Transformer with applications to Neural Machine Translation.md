@@ -68,4 +68,5 @@
 			- $$
 			  \operatorname{score}\left(y_1, \ldots, y_t\right)=\log P_{\mathrm{LM}}\left(y_1, \ldots, y_t \mid x\right)=\sum_{i=1}^t \log P_{\mathrm{LM}}\left(y_i \mid y_1, \ldots, y_{i-1}, x\right)
 			  $$
+			- ((647cb3c9-a45e-4033-9d4e-00324c114c4c))
 			-
