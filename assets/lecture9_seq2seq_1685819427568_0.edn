@@ -419,5 +419,22 @@
                                    :height 450}),
                           :page 72},
                :content {:text "Beam Search: Stopping Criteria"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cb69c-7d3f-4bc3-86a1-46cfe07b33d2",
+               :page 82,
+               :position {:bounding {:x1 34.765625,
+                                     :y1 46.375,
+                                     :x2 527.3353881835938,
+                                     :y2 88.375,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 34.765625,
+                                   :y1 46.375,
+                                   :x2 527.3353881835938,
+                                   :y2 88.375,
+                                   :width 800,
+                                   :height 450}),
+                          :page 82},
+               :content {:text "Sequence-to-Sequence with Attention"},
                :properties {:color "yellow"}}],
- :extra {:page 81}}
+ :extra {:page 82}}
