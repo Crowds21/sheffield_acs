@@ -848,5 +848,17 @@
                                    :height 450}),
                           :page 143},
                :content {:text "Human Judgements"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647ceb02-ac18-40db-86d2-c183570f96bf",
+               :page 142,
+               :position {:bounding {:x1 54,
+                                     :y1 144,
+                                     :x2 330,
+                                     :y2 226,
+                                     :width 800,
+                                     :height 450},
+                          :rects (),
+                          :page 142},
+               :content {:text "[:span]", :image 1685908225974},
                :properties {:color "yellow"}}],
  :extra {:page 142}}
