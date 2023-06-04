@@ -99,3 +99,7 @@
 			- ((647cb7fc-48e9-469c-9aa9-1ae61e12be11))
 		- Weighted sum
 			- Find out how “important” each of these representations.
+			- $$
+			  \operatorname{score}\left(s_t, h_h\right), k=1 . . N
+			  $$
+			-
