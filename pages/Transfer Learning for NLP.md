@@ -4,5 +4,6 @@
 	- A machine learning approach where models trained on a source task (or domain) are adapted to a related target task1 (or domain)
 	  一种机器学习方法，其中在源任务（或领域）上训练的模型被适应到相关的目标任务1（或领域）
 - ((647cedf1-39f5-48e9-9c45-750ea1fcf1d5))
-	-
--
+	- Domain:
+	- Task:
+	- Cond. Prob. Distrib.:
