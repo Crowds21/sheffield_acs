@@ -32,6 +32,7 @@
 	- 在目标任务数据上学习输出层的权重
 	  Learn the weights of the output layer on the target task data
 	- 解冻预训练组件的权重并进行微调(使用非常小的学习率进行额外的训练步骤)
-	  Unfreeze the weights of the pretrained components and fine-tune them (additional training steps with very small learning rate)
+	  Unfreeze the weights of the pretrained components and fine-tune them 
+	  (additional training steps with very small learning rate)
 	- 在 ULMFiT 中，LM 编码器（LSTM）在适应之前就在目标任务数据上进行了微调
 	- 这个过程基本上是一种迁移学习的策略，首先在一个大型任务（例如，语言模型）上预训练模型，然后将学习到的知识（例如，权重）迁移到目标任务上。冻结和解冻的步骤是为了在保持预训练知识的同时，让模型能够学习目标任务的特定知识。在最后的微调阶段，模型会在目标任务的数据上进行额外的训练，以进一步优化其性能。
