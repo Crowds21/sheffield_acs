@@ -214,7 +214,7 @@
 			- ((647ce66f-a9d8-4e07-89aa-a8ea68bd053c))
 			- 同一个sequence 中,当前单词的前后所有文本都会被考虑其中
 		- ((647ce6db-41c3-42a5-8683-620d98e02329))
-			- 在 Decoder 中, 我们只看当前词之前的
+			- 在 Decoder 中, 我们只看当前词之前的token,而不看之后的输入
 		- ((647ce6e9-1167-43ec-98e3-584f46a9e373))
 		- ((647ce6f1-d7ec-4d8f-be22-2c2b398eea2e))
 - Evaluation Human Judgements and Automatic Metrics
