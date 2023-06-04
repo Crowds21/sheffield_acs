@@ -185,6 +185,7 @@
 				- value of word being looked at, weighted based on context
 			- ((647cdf60-8476-45a9-8f7c-8866cd995cdf))
 		- Example of Self-Attention
+		  collapsed:: true
 			- The Query aims to establish the context, in this example, of the word “computer” (from)
 			- Done by querying each Key of all words (to)
 			- In our example, this might establish “science” as the word the provides the most informative context.
@@ -213,7 +214,8 @@
 		  collapsed:: true
 			- ((647ce66f-a9d8-4e07-89aa-a8ea68bd053c))
 			- 同一个sequence 中,当前单词的前后所有文本都会被考虑其中
-		- ((647ce6db-41c3-42a5-8683-620d98e02329))
+		- ((647ce6db-41c3-42a5-8683-620d98e02329)) [[card]]
+		  collapsed:: true
 			- 在 Decoder 中, 在预测阶段(During inference 使用阶段)我们只看当前词之前的token,而不看之后的输入
 			- 在 Decoder 中, 在训练模型的过程中,模型可以读取上下文中的 token
 		- ((647ce6e9-1167-43ec-98e3-584f46a9e373)) [[card]]
