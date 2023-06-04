@@ -542,11 +542,11 @@
                :position {:bounding {:x1 28,
                                      :y1 100,
                                      :x2 773,
-                                     :y2 424,
+                                     :y2 415.83984375,
                                      :width 800,
                                      :height 450},
                           :rects (),
                           :page 95},
-               :content {:text "[:span]", :image 1685895717793},
+               :content {:text "[:span]", :image 1685895739168},
                :properties {:color "yellow"}}],
  :extra {:page 95}}
