@@ -82,5 +82,22 @@
                                    :height 580.5354666666666}),
                           :page 18},
                :content {:text "Sequential Transfer Learning"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cef10-bec0-4d30-b061-f1aa9e4d77d8",
+               :page 27,
+               :position {:bounding {:x1 18.140625,
+                                     :y1 27.734375,
+                                     :x2 428.4525146484375,
+                                     :y2 69.734375,
+                                     :width 774.048,
+                                     :height 580.5354666666666},
+                          :rects ({:x1 18.140625,
+                                   :y1 27.734375,
+                                   :x2 428.4525146484375,
+                                   :y2 69.734375,
+                                   :width 774.048,
+                                   :height 580.5354666666666}),
+                          :page 27},
+               :content {:text "Pretraining: Language Modelling"},
                :properties {:color "yellow"}}],
- :extra {:page 18}}
+ :extra {:page 27}}
