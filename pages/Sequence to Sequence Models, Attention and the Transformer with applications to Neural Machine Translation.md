@@ -43,4 +43,4 @@
 		- ((647caf70-9f2b-49d7-a8b4-7874d3659e8a))
 		- ((647caf83-f635-4079-9ea6-0ace05511b5e))
 		- Models where information from previous time-steps is used to predict the output at the current time step are called [[Autoregressive]]
-	-
+	- Alternatives of
