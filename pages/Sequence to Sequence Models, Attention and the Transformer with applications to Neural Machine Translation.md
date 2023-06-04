@@ -225,7 +225,7 @@
 			  \text { where head } & =\text { Attention }\left(Q W_i^Q, K W_i^K, V W_i^V\right)
 			  \end{aligned}
 			  $$
-			-
+			- ((647cecef-1751-48e0-93fd-4b488c51acaa))
 		- ((647ce6f1-d7ec-4d8f-be22-2c2b398eea2e))
 - Evaluation Human Judgements and Automatic Metrics
   collapsed:: true
