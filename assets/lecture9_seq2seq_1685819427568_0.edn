@@ -688,5 +688,17 @@
                                    :height 450}),
                           :page 113},
                :content {:text "Attention vs Self-Attention"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647ce259-77ea-49af-b0dc-afa44785f728",
+               :page 113,
+               :position {:bounding {:x1 34,
+                                     :y1 89,
+                                     :x2 721.51953125,
+                                     :y2 434,
+                                     :width 800,
+                                     :height 450},
+                          :rects (),
+                          :page 113},
+               :content {:text "[:span]", :image 1685906011123},
                :properties {:color "yellow"}}],
- :extra {:page 113}}
+ :extra {:page 114}}
