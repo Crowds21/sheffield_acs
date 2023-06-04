@@ -1,7 +1,9 @@
 - ((647b9356-b285-4609-82b1-50e1f1bace0c))
+  collapsed:: true
 	- 输入是一个序列（任意序列）
 	- 输出也是一个序列（同样是任意序列，但对于我们的目标来说，这是文本）
 - Demonstrating Task Neural Machine Translation (任务型神经机器翻译)
+  collapsed:: true
 	- What is Machine Translation? [[card]]
 		- Machine Translation (MT) consists of translating a sentence $x$ from one language (the source) to a sentence $y$ in another language (the target)
 	- What is Neural Machine Translation Model? [[card]]
@@ -22,6 +24,7 @@
 			- p -> model
 			- $\theta$ -> parameters
 - The Model Encoder-Decoder Architecture(with RNNs)
+  collapsed:: true
 	- ((647cad8c-f00e-4d79-a818-c3eb62ccc86a))
 	- ((647cadad-4b6a-440d-a023-f0fc6c1c8890))
 		- Text
@@ -76,3 +79,4 @@
 				- Usually we continue beam search until:
 					- **We reach timestep T** (where T is some pre-defined cutoff), or
 					- **We have at least n completed hypotheses** (where n is pre-defined cutoff)
+-
