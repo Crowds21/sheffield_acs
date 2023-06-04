@@ -17,4 +17,5 @@
 		- Different tasks (label sets), e.g. LM as source task and sentiment analysis as target task
 	- $P\left(Y_S \mid X_S\right) \neq P\left(Y_T \mid X_T\right)$
 		- Different conditional probability distributions between source and target tasks, e.g. source and target documents are unbalanced regarding to their classes
-	-
+- ((647ceefa-4ee3-482b-8ed1-7d4d204d6561))
+- ((647cef02-fc82-4ba2-8719-9c9df57de5ae))
