@@ -169,13 +169,14 @@
 		- ((647cd671-7deb-440c-8c16-da20156f60e6))
 	- ((647cd67d-4144-4936-8327-575a6dc88f1a))
 		- 每个单词的自注意力包括哪些部分 [[card]]
-		- "查询"（Query）：可以将其视为试图建立这个单词上下文的问题
-			- $s_i$ (hidden vector for $i$ th output word)
-			- vector from which the attention is looking
-		- "键"（Key）：（Query * Key）给出了这个单词在为查询词提供上下文方面的能力的答案
-			- $h_j$ (hidden vector for $j$ th input word)
-			- vector at which the query looks to establish context
-		- "值"（Value）：每个单词的值
-			- $h_j$ (hidden vector for $j$ th input word)
-			- value of word being looked at, weighted based on context
-		-
+			- "查询"（Query）：可以将其视为试图建立这个单词上下文的问题
+				- $s_i$ (hidden vector for $i$ th output word)
+				- vector from which the attention is looking
+			- "键"（Key）：（Query * Key）给出了这个单词在为查询词提供上下文方面的能力的答案
+				- $h_j$ (hidden vector for $j$ th input word)
+				- vector at which the query looks to establish context
+			- "值"（Value）：每个单词的值
+				- $h_j$ (hidden vector for $j$ th input word)
+				- value of word being looked at, weighted based on context
+			- ((647cdf60-8476-45a9-8f7c-8866cd995cdf))
+	-
