@@ -64,4 +64,4 @@
 			- PROBLEM The best token at the current step does not necessarily lead to the best sequence
 		- [[Beam Search]]
 			- On each step of decoder, keep track of the k most probable partial translations(called hypotheses)
--
+			- Beam search is not guaranteed to find optimal solution. But it’s efficient!
