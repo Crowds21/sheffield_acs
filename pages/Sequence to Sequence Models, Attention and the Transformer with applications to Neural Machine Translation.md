@@ -106,15 +106,16 @@
 						- Apply softmax to the attention scores to obtain a probability distribution
 					- Attention Output
 						- Compute a weighted sum of the encoder hidden states with attention weights
-				- $\operatorname{score}\left(s_t, h_h\right), k=1 . . N$
-				- How relevant is ==source token== k for ==target step t==?
-				- collapsed:: true
-				  $$
-				  \alpha_k^{(t)}=\frac{\exp \left(\text { score }\left(s_t, h_k\right)\right)}{\sum_{i=1}^N \exp \left(\text { score }\left(s_t, h_i\right)\right)}, k=1 . . N
-				  $$
-					- ((647cb8f8-c9dc-4a95-9eb0-398ddbfbb6fa))
-				- WARNING: Do not confuse attention weights with learnable weights.
-				  background-color:: red
+				- Steps
+					- $\operatorname{score}\left(s_t, h_h\right), k=1 . . N$
+					- How relevant is ==source token== k for ==target step t==?
+					- collapsed:: true
+					  $$
+					  \alpha_k^{(t)}=\frac{\exp \left(\text { score }\left(s_t, h_k\right)\right)}{\sum_{i=1}^N \exp \left(\text { score }\left(s_t, h_i\right)\right)}, k=1 . . N
+					  $$
+						- ((647cb8f8-c9dc-4a95-9eb0-398ddbfbb6fa))
+					- WARNING: Do not confuse attention weights with learnable weights.
+					  background-color:: red
 				- collapsed:: true
 				  $$
 				  c^{(t)}=\alpha_1^{(t)} h_1+\alpha_2^{(l)} h_2+\ldots+\alpha_N^{(t)} h_N=\sum_{k=1}^N \alpha_k^{(t)} h_k
