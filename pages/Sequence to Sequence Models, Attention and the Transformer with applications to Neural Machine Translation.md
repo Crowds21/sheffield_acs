@@ -70,4 +70,5 @@
 			  $$
 			- [#A] ((647cb3c9-a45e-4033-9d4e-00324c114c4c))
 			- ((647cb494-ca96-4d10-9f08-b320ac2f049d))
-				-
+				- Different hypotheses may produce <eos> tokens on different timesteps○ When a hypothesis produces <eos>, that hypothesis is complete○ Place it aside and continue exploring other hypotheses via beam search
+				- Usually we continue beam search until:○ We reach timestep T (where T is some pre-defined cutoff), or○ We have at least n completed hypotheses (where n is pre-defined cutoff)
