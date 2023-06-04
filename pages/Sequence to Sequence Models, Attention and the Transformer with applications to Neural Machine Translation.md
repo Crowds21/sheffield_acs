@@ -65,3 +65,7 @@
 		- [[Beam Search]]
 			- On each step of decoder, keep track of the k most probable partial translations(called hypotheses)
 			- Beam search is not guaranteed to find optimal solution. But it’s efficient!
+			- $$
+			  \operatorname{score}\left(y_1, \ldots, y_t\right)=\log P_{\mathrm{LM}}\left(y_1, \ldots, y_t \mid x\right)=\sum_{i=1}^t \log P_{\mathrm{LM}}\left(y_i \mid y_1, \ldots, y_{i-1}, x\right)
+			  $$
+			-
