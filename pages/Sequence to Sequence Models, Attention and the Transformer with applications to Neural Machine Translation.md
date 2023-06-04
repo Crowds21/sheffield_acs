@@ -165,4 +165,4 @@
 			  可以并行处理一个句子
 			- has relatively low computational complexity per layer
 			  每层的计算复杂度相对较低
-	-
+	- Differences between Seq2Seq and
