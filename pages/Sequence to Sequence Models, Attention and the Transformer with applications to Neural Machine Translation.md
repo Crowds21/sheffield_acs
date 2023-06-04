@@ -107,4 +107,7 @@
 					- ((647cb8f8-c9dc-4a95-9eb0-398ddbfbb6fa))
 				- WARNING: Do not confuse attention weights with learnable weights.
 				  background-color:: red
-		-
+				- $$
+				  c^{(t)}=\alpha_1^{(t)} h_1+\alpha_2^{(l)} h_2+\ldots+\alpha_N^{(t)} h_N=\sum_{k=1}^N \alpha_k^{(t)} h_k
+				  $$
+				-
