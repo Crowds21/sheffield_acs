@@ -167,5 +167,22 @@
                                    :height 580.5354666666666}),
                           :page 48},
                :content {:text "BERT: Pre-training of Deep Bidirectional Transformers"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cef53-513d-4c4f-820a-d5ace756f78f",
+               :page 54,
+               :position {:bounding {:x1 18.140625,
+                                     :y1 27.734375,
+                                     :x2 156.4331512451172,
+                                     :y2 69.734375,
+                                     :width 774.048,
+                                     :height 580.5354666666666},
+                          :rects ({:x1 18.140625,
+                                   :y1 27.734375,
+                                   :x2 156.4331512451172,
+                                   :y2 69.734375,
+                                   :width 774.048,
+                                   :height 580.5354666666666}),
+                          :page 54},
+               :content {:text "Adaptation"},
                :properties {:color "yellow"}}],
- :extra {:page 49}}
+ :extra {:page 54}}
