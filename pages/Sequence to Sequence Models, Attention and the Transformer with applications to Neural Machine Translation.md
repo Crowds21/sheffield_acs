@@ -195,4 +195,4 @@
 			- ((647ce259-77ea-49af-b0dc-afa44785f728))
 			- The query is similar to the current decoder step
 			- (Query * Key) is similar to ((647cba68-1d31-4c4e-bdda-21119d78ab50)) scoring (where the key is equivalent to the encoder outputs
-			- After pushing both through a softmax we multiply the result with the value in self-attention before summing it In RNN attention this is again the encoder states
+			- After pushing both through a softmax we **multiply the result with the value** in self-attention before summing it In RNN attention this is again the encoder states
