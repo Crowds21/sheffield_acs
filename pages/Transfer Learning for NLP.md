@@ -48,3 +48,4 @@
 		  将 token，分段和位置嵌入求和（类似于 BERT）
 	- GPT variants: GPT-2, GPT-3.5, GPT-J, LLaMa
 	- ((647cf0d4-56a1-4404-8dfd-3f63310f3fa0))
+		- The prompt occupies the first N positions of the decoder, and the response is generated using the rest of the decoder positions.
