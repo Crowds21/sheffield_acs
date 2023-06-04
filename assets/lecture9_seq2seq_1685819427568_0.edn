@@ -436,5 +436,17 @@
                                    :height 450}),
                           :page 82},
                :content {:text "Sequence-to-Sequence with Attention"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cb7fc-48e9-469c-9aa9-1ae61e12be11",
+               :page 83,
+               :position {:bounding {:x1 31,
+                                     :y1 114,
+                                     :x2 465,
+                                     :y2 431,
+                                     :width 800,
+                                     :height 450},
+                          :rects (),
+                          :page 83},
+               :content {:text "[:span]", :image 1685895162584},
                :properties {:color "yellow"}}],
  :extra {:page 83}}

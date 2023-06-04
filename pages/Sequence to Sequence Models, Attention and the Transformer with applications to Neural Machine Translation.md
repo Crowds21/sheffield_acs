@@ -96,3 +96,4 @@
 	- ((647cb69c-7d3f-4bc3-86a1-46cfe07b33d2))
 		- The Goal
 			- 当我们生成输出时,能够直接使用到 Encoder 中的一部分 representations
+-
