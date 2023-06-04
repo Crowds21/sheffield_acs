@@ -179,5 +179,22 @@
                                    :height 450}),
                           :page 39},
                :content {:text "Sequence Generation"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647caec8-a82f-4485-aef6-ff268753c291",
+               :page 43,
+               :position {:bounding {:x1 34.765625,
+                                     :y1 46.375,
+                                     :x2 394.4156188964844,
+                                     :y2 88.375,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 34.765625,
+                                   :y1 46.375,
+                                   :x2 394.4156188964844,
+                                   :y2 88.375,
+                                   :width 800,
+                                   :height 450}),
+                          :page 43},
+               :content {:text "Decoder: Generating tokens"},
                :properties {:color "yellow"}}],
- :extra {:page 41}}
+ :extra {:page 43}}
