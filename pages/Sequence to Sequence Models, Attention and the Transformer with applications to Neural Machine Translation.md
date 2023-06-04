@@ -49,5 +49,6 @@
 		- Take multinomial distribution instead of making a hard choice(在多个可能结果中,选择可能性最高的一个) and taking a single word
 	- Find the parameters $\theta$
 		- ((647cb0b0-3350-4150-b87b-93d3de6768ea))
-			- (1) Get probability distribution for the next token
+			- Get probability distribution for the next token
+			- Find the correct next target token
 -
