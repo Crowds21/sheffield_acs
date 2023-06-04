@@ -181,7 +181,7 @@
 				- $h_j$ (hidden vector for $j$ th input word)
 				- value of word being looked at, weighted based on context
 			- ((647cdf60-8476-45a9-8f7c-8866cd995cdf))
-		- Example
+		- Example of Self-Attention
 			- The Query aims to establish the context, in this example, of the word “computer” (from)
 			- Done by querying each Key of all words (to)
 			- In our example, this might establish “science” as the word the provides the most informative context.
