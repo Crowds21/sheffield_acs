@@ -228,7 +228,8 @@
 			  e^{1-\frac{r}{c}} & \text { if } c \leq r
 			  \end{array} \quad B L E U=B P \times \exp \left(\sum_{n=1}^N w_n \log p_n\right)\right.
 			  $$
-		-
+		- BERTScore (Zhang et al., 2020)
+			-
 	- ((647ce715-9263-4578-9232-0bc85653ba53)) [[card]]
 	  collapsed:: true
 		- 在开发阶段，自动评估指标因其计算速度快而有用，但可能不精确。
