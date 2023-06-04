@@ -230,5 +230,22 @@
                                    :height 450}),
                           :page 44},
                :content {:text "“Thought vector”"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647caf4d-b6b6-4cac-8930-18344b86ad78",
+               :page 45,
+               :position {:bounding {:x1 34.765625,
+                                     :y1 46.375,
+                                     :x2 331.23388671875,
+                                     :y2 88.375,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 34.765625,
+                                   :y1 46.375,
+                                   :x2 331.23388671875,
+                                   :y2 88.375,
+                                   :width 800,
+                                   :height 450}),
+                          :page 45},
+               :content {:text "Seq2Seq Architectures"},
                :properties {:color "yellow"}}],
- :extra {:page 43}}
+ :extra {:page 45}}
