@@ -106,8 +106,7 @@
 						- Apply softmax to the attention scores to obtain a probability distribution
 					- Attention Output
 						- Compute a weighted sum of the encoder hidden states with attention weights
-					- Concatenate attention output with decoder hidden state,
-					  then use to compute
+					- Concatenate attention output with decoder hidden state, then use to compute $\widehat{y}_1$
 				- Steps
 					- $\operatorname{score}\left(s_t, h_h\right), k=1 . . N$
 					- How relevant is ==source token== k for ==target step t==?
