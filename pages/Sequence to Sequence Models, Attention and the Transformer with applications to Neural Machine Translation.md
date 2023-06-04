@@ -136,3 +136,7 @@
 				  \text { score }_i=s^T h_i \in \mathbb{R}
 				  $$
 			- Multiplicative Attention
+				- $$
+				  \text { score }_i=s^T W h_i \in \mathbb{R}
+				  $$
+			- Additive Attention
