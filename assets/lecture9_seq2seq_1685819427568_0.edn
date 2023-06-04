@@ -585,14 +585,14 @@
                :properties {:color "yellow"}}
               {:id #uuid "647cd671-7deb-440c-8c16-da20156f60e6",
                :page 103,
-               :position {:bounding {:x1 37,
-                                     :y1 125,
+               :position {:bounding {:x1 78.3046875,
+                                     :y1 135,
                                      :x2 763,
                                      :y2 366,
                                      :width 800,
                                      :height 450},
                           :rects (),
                           :page 103},
-               :content {:text "[:span]", :image 1685902960318},
+               :content {:text "[:span]", :image 1685902965258},
                :properties {:color "yellow"}}],
- :extra {:page 102}}
+ :extra {:page 103}}
