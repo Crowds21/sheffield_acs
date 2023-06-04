@@ -130,7 +130,7 @@
 				- ((647cba0e-bcd0-4ab3-8502-4fc3aacee521))
 					- ((647cba26-9251-498b-a939-a32e88e97e90))
 				-
-		- ((647cba59-f317-427e-a7cb-3f4a75c959b6))
+		- ((647cba59-f317-427e-a7cb-3f4a75c959b6)) [[card]]
 			- Dot-product Attention
 				- $$
 				  \text { score }_i=s^T h_i \in \mathbb{R}
