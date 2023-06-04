@@ -700,5 +700,22 @@
                           :rects (),
                           :page 113},
                :content {:text "[:span]", :image 1685906011123},
+               :properties {:color "yellow"}}
+              {:id #uuid "647ce60f-80d9-47c2-a98b-7e19f943c09f",
+               :page 121,
+               :position {:bounding {:x1 34.765625,
+                                     :y1 46.375,
+                                     :x2 219.8796844482422,
+                                     :y2 88.375,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 34.765625,
+                                   :y1 46.375,
+                                   :x2 219.8796844482422,
+                                   :y2 88.375,
+                                   :width 800,
+                                   :height 450}),
+                          :page 121},
+               :content {:text "Self-Attention"},
                :properties {:color "yellow"}}],
- :extra {:page 120}}
+ :extra {:page 121}}
