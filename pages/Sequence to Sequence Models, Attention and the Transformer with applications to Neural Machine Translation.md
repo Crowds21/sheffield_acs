@@ -153,6 +153,7 @@
 				  $$
 - Innovation The Transformer
 	- ((647cbad2-1e20-4e69-b5b1-09f0fa32b805))
+	  collapsed:: true
 		- 标准神经网络需要固定长度的输入（因此我们需要对不同长度的句子进行填充）
 			- 而且，input embeddings 不具有上下文信息
 		- RNNs 允许我们解决这个问题：我们一次输入一个单词
@@ -167,6 +168,7 @@
 			- has relatively low computational complexity per layer
 			  每层的计算复杂度相对较低
 	- Differences between Seq2Seq and Transformer
+	  collapsed:: true
 		- ((647cd671-7deb-440c-8c16-da20156f60e6))
 	- ((647cd67d-4144-4936-8327-575a6dc88f1a))
 		- 每个单词的自注意力包括哪些部分 [[card]]
@@ -208,6 +210,7 @@
 			  $$
 			-
 		- Self-attention 的流程
+		  collapsed:: true
 			- ((647ce66f-a9d8-4e07-89aa-a8ea68bd053c))
 			- 同一个sequence 中,当前单词的前后所有文本都会被考虑其中
--
+	-
