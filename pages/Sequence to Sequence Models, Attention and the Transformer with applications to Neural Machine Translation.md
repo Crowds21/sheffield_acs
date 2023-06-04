@@ -180,4 +180,5 @@
 				- value of word being looked at, weighted based on context
 			- ((647cdf60-8476-45a9-8f7c-8866cd995cdf))
 				- The Query aims to establish the context, in this example, of the word “computer” (from)
+				- Done by querying each Key of all words (to)
 	-
