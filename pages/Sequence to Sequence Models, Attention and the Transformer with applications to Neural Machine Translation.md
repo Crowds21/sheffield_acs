@@ -45,5 +45,5 @@
 		- Models where information from previous time-steps is used to predict the output at the current time step are called [[Autoregressive]]
 	- Alternatives of ((647cb00c-6bc7-4a55-88ef-fcb4ed627e92))
 		- ((647cb040-33a9-4f6f-9dac-6c208fae6b21))
-		- 应该是
+		-
 		- Take multinomial distribution instead of making a hard choice(在多个可能结果中,选择可能性最高的一个) and taking a single word
