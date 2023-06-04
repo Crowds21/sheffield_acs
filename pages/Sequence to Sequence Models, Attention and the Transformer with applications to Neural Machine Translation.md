@@ -21,4 +21,5 @@
 		  $$
 			- p -> model
 			- $\theta$ -> parameters
--
+- The Model Encoder-Decoder Architecture(with RNNs)
+	-
