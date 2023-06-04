@@ -174,3 +174,4 @@
 		- "键"（Key）：（Query * Key）给出了这个单词在为查询词提供上下文方面的能力的答案
 			- $h_j$ (hidden vector for $j$ th input word)
 		- "值"（Value）：每个单词的值
+			- $h_j$ (hidden vector for $j th input word)
