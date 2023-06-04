@@ -87,4 +87,5 @@
 	- Attention: A Biological Motivation
 		- Focusing on specific information is the only way to avoid information overload.
 		- Critical to biological systems. (Only way to avoid information overload, remember information processing is expensive)
-	-
+	- Purpose on NLP
+		- 我们需要一种方法，让模型能在不同的时间步骤关注（专注于）输入的不同部分
