@@ -30,6 +30,6 @@
 	- ((647cade4-01e9-40d5-807a-3f958524d8bd))
 		- Encoder reads the source, produces its representation, and gives it to the Decoder
 		- Decoder uses the source representation to generate the output
-		- representation 表示数据/输入 在模型中通过什么方式来
+		- representation 表示数据/输入 在模型中通过什么方式来 存储/计算 比如单词转换为 onehot.
 		- ((647cae03-5633-4cf5-ac2d-8e3ca23e62dc))
 	-
