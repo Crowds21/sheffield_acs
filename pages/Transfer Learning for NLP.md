@@ -44,4 +44,5 @@
 		- Predict the next word in the sequence
 	- Input:
 		- BPE token embeddings
-		- Token input representation: summing token, segmentation and position embeddings (similar to BERT) GPT variants: GPT-2, GPT-3.5, GPT-J, LLaMa
+		- Token input representation: summing token, segmentation and position embeddings (similar to BERT)
+	- GPT variants: GPT-2, GPT-3.5, GPT-J, LLaMa
