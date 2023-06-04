@@ -47,3 +47,4 @@
 		- ((647cb040-33a9-4f6f-9dac-6c208fae6b21))
 		- 指通过保留了初始权重,增加了远距离记忆
 		- Take multinomial distribution instead of making a hard choice(在多个可能结果中,选择可能性最高的一个) and taking a single word
+	-
