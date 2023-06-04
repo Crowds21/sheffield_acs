@@ -156,4 +156,5 @@
 			- 而且，input embeddings 不具有上下文信息
 		- RNNs 允许我们解决这个问题：我们一次输入一个单词
 			- Embeddings是有上下文信息的
-		- 因此我们需要
+		- 因此我们需要 an architecture that
+			-
