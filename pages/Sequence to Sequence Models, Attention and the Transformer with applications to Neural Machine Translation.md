@@ -79,4 +79,5 @@
 				- Usually we continue beam search until:
 					- **We reach timestep T** (where T is some pre-defined cutoff), or
 					- **We have at least n completed hypotheses** (where n is pre-defined cutoff)
--
+- Improvement Attention
+	-
