@@ -28,4 +28,5 @@
 		- Images
 		- ((647cadde-91b0-4658-a21d-be7931ca130c))
 	- ((647cade4-01e9-40d5-807a-3f958524d8bd))
-		-
+		- Encoder reads the source, produces its representation, and gives it to the Decoder
+		- Decoder uses the source representation to generate the output
