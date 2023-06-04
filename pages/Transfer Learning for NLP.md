@@ -7,4 +7,4 @@
 	- Domain: $\mathcal{D}=\{\mathcal{X}, P(X)\}$
 	- Task: $\mathcal{T}$ where $y \in \mathcal{Y}$
 	- Cond. Prob. Distrib.: $P(Y \mid X)$
-	- Given a source domain $\mathcal{D}_S$ and a corresponding task
+	- Given a source domain $\mathcal{D}_S$ and a corresponding task $T_S$,
