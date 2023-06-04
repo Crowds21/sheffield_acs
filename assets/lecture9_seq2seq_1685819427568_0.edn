@@ -310,5 +310,17 @@
                                    :height 450}),
                           :page 48},
                :content {:text "Encoder-Decoder with RNNs"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cb040-33a9-4f6f-9dac-6c208fae6b21",
+               :page 47,
+               :position {:bounding {:x1 23,
+                                     :y1 190,
+                                     :x2 701,
+                                     :y2 279,
+                                     :width 800,
+                                     :height 450},
+                          :rects (),
+                          :page 47},
+               :content {:text "[:span]", :image 1685893184062},
                :properties {:color "yellow"}}],
  :extra {:page 47}}
