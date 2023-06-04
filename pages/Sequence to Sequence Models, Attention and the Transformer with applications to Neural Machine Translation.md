@@ -81,19 +81,23 @@
 					- **We have at least n completed hypotheses** (where n is pre-defined cutoff)
 - Improvement Attention
 	- The problem we need to fix by using "Attention"
+	  collapsed:: true
 		- Translation quality drops with increase in the length of sentences.
 		- (Notice that the encoder has to“pack” more information into the same vector representation or thought vector)
 		- 随着句子长度的增加，翻译质量会下降。（注意，编码器必须将更多的信息'打包'到相同的向量表示或思维向量中）
 	- Attention: A Biological Motivation
+	  collapsed:: true
 		- Focusing on specific information is the only way to avoid information overload.
 		- Critical to biological systems. (Only way to avoid information overload, remember information processing is expensive)
 	- Usage in NLP
+	  collapsed:: true
 		- We need a way to allow models to attend to (focus on) different parts of the input at different timesteps.
 		- 在解码器的每一步，使用与编码器的直接连接关注源序列的特定部分。
 			- 这一方法首次在 "神经机器翻译通过共同学习对齐和翻译" (Bahdanau等人，2015年) 中被提出
 		- 编码器不必将整个 srouce 压缩成一个单一的向量
 			- 它为所有源令牌提供表示（例如，所有的RNN状态，而不仅仅是最后一个）
 	- ((647cb69c-7d3f-4bc3-86a1-46cfe07b33d2))
+	  collapsed:: true
 		- The Goal
 		  collapsed:: true
 			- 当我们生成输出时,能够直接使用到 Encoder 中的一部分 representations
