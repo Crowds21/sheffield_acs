@@ -194,4 +194,4 @@
 		- ((647ce249-d0e5-48aa-8d67-5df0ec807c5e))
 			- ((647ce259-77ea-49af-b0dc-afa44785f728))
 			- The query is similar to the current decoder step
-			- (Query * Key) is similar to dot product scoring (where the key is equivalent to the encoder outputs
+			- (Query * Key) is similar to ((647cba68-1d31-4c4e-bdda-21119d78ab50)) scoring (where the key is equivalent to the encoder outputs
