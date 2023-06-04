@@ -183,6 +183,7 @@
 			- The Query aims to establish the context, in this example, of the word “computer” (from)
 			- Done by querying each Key of all words (to)
 			- In our example, this might establish “science” as the word the provides the most informative context.
+				- ((647ce016-ce5f-4708-8ca7-37830a112eb0))
 			- We push the output of this through a softmax and multiply each with the values associated with each word (target word, i.e “at”)
 				- ((647ce002-0367-44a6-a15c-998d1320cbee))
 	-
