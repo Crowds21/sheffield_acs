@@ -114,4 +114,6 @@
 				  $$
 					- ((647cb95e-877b-455d-b530-d67e6d98191e))
 				- ((647cb97a-0e0b-44b1-9a19-ada9bb864712))
-			-
+				- Attention Scores
+					- For each encoder state, compute its“relevance” for the current decoder state
+-
