@@ -227,6 +227,8 @@
 		- 流畅度
 			- 适当性（也称为意义保持）
 		- 如何评估？
-			- 利克特量表（离散得分）
-			- 直接评估（连续得分）
+			- Likert Scale (discrete score) 
+			  利克特量表（离散得分）
+			- Direct Assessment (continuous score)
+			  直接评估（连续得分）
 			- 相对排名
