@@ -59,7 +59,7 @@
 		- $$
 		  y^{\prime}=\arg \max _y p(y \mid x)=\arg \max _y \prod_{t=1} p\left(y_t \mid y_{<t}, x\right)
 		  $$
-		- Greedy
+		- Greedy Search
 			- Take the argmax (most probable word) on each step of the decoder
 			- PROBLEM The best token at the current step does not necessarily lead to the best sequence
-		-
+		- Beam Search
