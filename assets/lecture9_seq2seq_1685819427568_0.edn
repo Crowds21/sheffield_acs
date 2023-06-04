@@ -116,5 +116,17 @@
                                    :height 450}),
                           :page 32},
                :content {:text "Encoder-Decoder"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cae03-5633-4cf5-ac2d-8e3ca23e62dc",
+               :page 32,
+               :position {:bounding {:x1 140,
+                                     :y1 182.65625,
+                                     :x2 666,
+                                     :y2 366,
+                                     :width 800,
+                                     :height 450},
+                          :rects (),
+                          :page 32},
+               :content {:text "[:span]", :image 1685892612781},
                :properties {:color "yellow"}}],
  :extra {:page 31}}
