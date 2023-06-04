@@ -5,5 +5,6 @@
 	  一种机器学习方法，其中在源任务（或领域）上训练的模型被适应到相关的目标任务1（或领域）
 - ((647cedf1-39f5-48e9-9c45-750ea1fcf1d5))
 	- Domain: $\mathcal{D}=\{\mathcal{X}, P(X)\}$
-	- Task:
-	- Cond. Prob. Distrib.:
+	- Task: $\mathcal{T}$ where $y \in \mathcal{Y}$
+	- Cond. Prob. Distrib.: $P(Y \mid X)$
+	-
