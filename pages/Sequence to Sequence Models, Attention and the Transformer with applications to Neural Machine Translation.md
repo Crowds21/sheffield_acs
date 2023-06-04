@@ -178,3 +178,4 @@
 		- "值"（Value）：每个单词的值
 			- $h_j$ (hidden vector for $j$ th input word)
 			- value of word being looked at, weighted based on context
+		-
