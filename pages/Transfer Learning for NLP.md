@@ -39,4 +39,7 @@
 	- 在 ULMFiT 中，LM 编码器（LSTM）在适应之前就在目标任务数据上进行了微调
 	- 这个过程基本上是一种迁移学习的策略，首先在一个大型任务（例如，语言模型）上预训练模型，然后将学习到的知识（例如，权重）迁移到目标任务上。冻结和解冻的步骤是为了在保持预训练知识的同时，让模型能够学习目标任务的特定知识。在最后的微调阶段，模型会在目标任务的数据上进行额外的训练，以进一步优化其性能。
 - ((647cf040-2d8c-42f4-aec1-f8ef25f11484))
-	- Decoder only transformer Pretrained on language modelling task: Predict the next word in the sequence
+	- Decoder only transformer
+	- Pretrained on language modelling task:
+		- Predict the next word in the sequence
+	-
