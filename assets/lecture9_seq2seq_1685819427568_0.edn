@@ -31,5 +31,22 @@
                                    :height 450}),
                           :page 13},
                :content {:text "How do we come up with candidate sentences"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cac8c-ea55-4d36-8fdb-ea6110406d04",
+               :page 13,
+               :position {:bounding {:x1 114.765625,
+                                     :y1 246.28125,
+                                     :x2 647.9426879882812,
+                                     :y2 274.28125,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 114.765625,
+                                   :y1 246.28125,
+                                   :x2 647.9426879882812,
+                                   :y2 274.28125,
+                                   :width 800,
+                                   :height 450}),
+                          :page 13},
+               :content {:text "How do we search through this large list of possible sentences"},
                :properties {:color "yellow"}}],
- :extra {:page 12}}
+ :extra {:page 13}}

@@ -14,7 +14,7 @@
 		- ((647cac80-2ad0-4fd2-ab21-eed164b5d387))
 			- Generate sentences using a neutral network (seq2seq)
 			- We are going to teach the neural network to generate candidate sentences
-		- How do we search through this large list of possible sentences?
+		- ((647cac8c-ea55-4d36-8fdb-ea6110406d04))
 			- Beam Search
 		- $$
 		  y^{\prime}=\arg \max _y p(y \mid x, \theta)
