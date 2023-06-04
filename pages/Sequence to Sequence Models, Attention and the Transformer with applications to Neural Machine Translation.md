@@ -55,5 +55,6 @@
 			  $\operatorname{loss}=-\log (p( \operatorname{computadoras} ))$
 			  Seq2seq is optimized as simultaneously. Backpropagation operates “end-to-end”.
 				- Computadoras" 是西班牙语单词, ppt 中指计算将 computer 翻译为 Computadoras 后的概率
-	-
+	- ((647cb1e1-5b3e-428f-9c52-8d47446f2aed))
+		-
 -
