@@ -140,3 +140,6 @@
 				  \text { score }_i=s^T W h_i \in \mathbb{R}
 				  $$
 			- Additive Attention
+				- $$
+				  \text { score }_i=v^T \tan h\left(W_1 h_i+W_2 s\right) \in \mathbb{R}
+				  $$
