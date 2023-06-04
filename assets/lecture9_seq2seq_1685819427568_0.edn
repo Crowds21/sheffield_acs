@@ -48,5 +48,22 @@
                                    :height 450}),
                           :page 13},
                :content {:text "How do we search through this large list of possible sentences"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cad8c-f00e-4d79-a818-c3eb62ccc86a",
+               :page 27,
+               :position {:bounding {:x1 34.765625,
+                                     :y1 46.375,
+                                     :x2 610.6500244140625,
+                                     :y2 88.375,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 34.765625,
+                                   :y1 46.375,
+                                   :x2 610.6500244140625,
+                                   :y2 88.375,
+                                   :width 800,
+                                   :height 450}),
+                          :page 27},
+               :content {:text "Language Modelling to Sequence Generation"},
                :properties {:color "yellow"}}],
- :extra {:page 29}}
+ :extra {:page 27}}
