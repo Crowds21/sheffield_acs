@@ -339,5 +339,17 @@
                                    :height 450}),
                           :page 50},
                :content {:text "Training with Cross-Entropy"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cb1bb-4cb3-47f1-92be-53a0284be6b0",
+               :page 53,
+               :position {:bounding {:x1 268,
+                                     :y1 100,
+                                     :x2 439,
+                                     :y2 439,
+                                     :width 800,
+                                     :height 450},
+                          :rects (),
+                          :page 53},
+               :content {:text "[:span]", :image 1685893562934},
                :properties {:color "yellow"}}],
  :extra {:page 53}}
