@@ -217,6 +217,7 @@
 		- ((647ce6e9-1167-43ec-98e3-584f46a9e373))
 		- ((647ce6f1-d7ec-4d8f-be22-2c2b398eea2e))
 - Evaluation Human Judgements and Automatic Metrics
+  collapsed:: true
 	- ((647ce706-e857-46d8-a5ca-5d835b536645))
 		- Is this a good translation?
 		- How does this translation compare to the other one?
