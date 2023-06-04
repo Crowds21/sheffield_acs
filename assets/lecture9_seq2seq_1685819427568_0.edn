@@ -519,5 +519,22 @@
                                    :height 450}),
                           :page 89},
                :content {:text "Now combine the attention output with the internal representation of the decoder"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cba0e-bcd0-4ab3-8502-4fc3aacee521",
+               :page 95,
+               :position {:bounding {:x1 34.765625,
+                                     :y1 46.375,
+                                     :x2 312.57977294921875,
+                                     :y2 88.375,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 34.765625,
+                                   :y1 46.375,
+                                   :x2 312.57977294921875,
+                                   :y2 88.375,
+                                   :width 800,
+                                   :height 450}),
+                          :page 95},
+               :content {:text "Computation Pipeline"},
                :properties {:color "yellow"}}],
- :extra {:page 93}}
+ :extra {:page 95}}
