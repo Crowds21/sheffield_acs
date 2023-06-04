@@ -65,5 +65,22 @@
                                    :height 450}),
                           :page 27},
                :content {:text "Language Modelling to Sequence Generation"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cadad-4b6a-440d-a023-f0fc6c1c8890",
+               :page 28,
+               :position {:bounding {:x1 34.765625,
+                                     :y1 46.375,
+                                     :x2 317.613525390625,
+                                     :y2 88.375,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 34.765625,
+                                   :y1 46.375,
+                                   :x2 317.613525390625,
+                                   :y2 88.375,
+                                   :width 800,
+                                   :height 450}),
+                          :page 28},
+               :content {:text "Encoding Information"},
                :properties {:color "yellow"}}],
- :extra {:page 28}}
+ :extra {:page 27}}

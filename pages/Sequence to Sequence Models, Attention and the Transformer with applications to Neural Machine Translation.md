@@ -23,3 +23,4 @@
 			- $\theta$ -> parameters
 - The Model Encoder-Decoder Architecture(with RNNs)
 	-
+	- ((647cadad-4b6a-440d-a023-f0fc6c1c8890))
