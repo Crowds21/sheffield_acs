@@ -99,6 +99,7 @@
 			- ((647cb7fc-48e9-469c-9aa9-1ae61e12be11))
 		- Weighted sum
 			- Find out how “important” each of these representations.
+			  collapsed:: true
 				- Definition and concepts
 				  collapsed:: true
 					- Attention Scores
@@ -128,3 +129,4 @@
 				- ((647cba0e-bcd0-4ab3-8502-4fc3aacee521))
 					- ((647cba26-9251-498b-a939-a32e88e97e90))
 				-
+		-
