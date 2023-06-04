@@ -113,4 +113,4 @@
 				  c^{(t)}=\alpha_1^{(t)} h_1+\alpha_2^{(l)} h_2+\ldots+\alpha_N^{(t)} h_N=\sum_{k=1}^N \alpha_k^{(t)} h_k
 				  $$
 					- ((647cb95e-877b-455d-b530-d67e6d98191e))
-			-
+				- Now combine the attention output with the internal representation of the decoder
