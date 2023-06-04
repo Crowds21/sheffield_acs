@@ -102,5 +102,6 @@
 			- $$
 			  \operatorname{score}\left(s_t, h_h\right), k=1 . . N
 			  $$
-			- How relevant is ==source token== k for target step t?
+			- How relevant is ==source token== k for ==target step t==?
 			-
+-
