@@ -118,4 +118,5 @@
 					- For each encoder state, compute its“relevance” for the current decoder state
 				- Attention Weights
 					- Apply softmax to the attention scores to obtain a probability distribution
-				- Attention Output: Compute a weighted sum of the encoder hidden states with attention weights
+				- Attention Output
+					- Compute a weighted sum of the encoder hidden states with attention weights
