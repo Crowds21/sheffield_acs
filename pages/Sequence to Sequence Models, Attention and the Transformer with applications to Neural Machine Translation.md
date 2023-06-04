@@ -132,6 +132,7 @@
 				-
 		- ((647cba59-f317-427e-a7cb-3f4a75c959b6)) [[card]]
 			- Dot-product Attention
+				- “Similarity”
 				- $$
 				  \text { score }_i=s^T h_i \in \mathbb{R}
 				  $$
