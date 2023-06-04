@@ -49,3 +49,4 @@
 	- GPT variants: GPT-2, GPT-3.5, GPT-J, LLaMa
 	- ((647cf0d4-56a1-4404-8dfd-3f63310f3fa0))
 		- The prompt occupies the first N positions of the decoder, and the response is generated using the rest of the decoder positions.
+		- 提示占据了解码器的前 N 个位置，而响应则使用解码器的其余位置生成
