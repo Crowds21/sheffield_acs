@@ -536,5 +536,17 @@
                                    :height 450}),
                           :page 95},
                :content {:text "Computation Pipeline"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cba26-9251-498b-a939-a32e88e97e90",
+               :page 95,
+               :position {:bounding {:x1 28,
+                                     :y1 100,
+                                     :x2 773,
+                                     :y2 424,
+                                     :width 800,
+                                     :height 450},
+                          :rects (),
+                          :page 95},
+               :content {:text "[:span]", :image 1685895717793},
                :properties {:color "yellow"}}],
  :extra {:page 95}}
