@@ -200,5 +200,8 @@
 			- $$
 			  \alpha_k^{(t)}=\frac{\exp \left(\operatorname{score}\left(s_t, h_k\right)\right)}{\sum_{i=1}^N \exp \left(\text { score }\left(s_t, h_1\right)\right)}, k=1 . . N
 			  $$
+			- $$
+			  \mathrm{A}(\mathrm{q}, \mathrm{K}, \mathrm{V})=\sum_i \frac{\exp \left(q \cdot k^i\right)}{\sum_j \exp \left(q \cdot k^j\right)} \cdot v^i
+			  $$
 			-
 -
