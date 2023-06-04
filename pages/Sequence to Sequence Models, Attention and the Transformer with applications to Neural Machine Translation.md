@@ -52,5 +52,5 @@
 			- Get probability distribution for the next token
 			- Find the correct next target token
 			- Evaluate loss and update  $\operatorname{loss}=-\log (p( \operatorname{computadoras} ))$
-				- computadoras
+				- Computadoras" 是西班牙语单词, ppt 中指
 -
