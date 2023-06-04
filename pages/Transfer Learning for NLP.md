@@ -26,7 +26,9 @@
 	- ((647cef44-4348-4556-b613-b461e311e34a))
 - ((647cef53-513d-4c4f-820a-d5ace756f78f)) 适应过程：
 	- 使用在语言模型（LM）中学习到的权重初始化目标任务的编码器
+	  Initialise your encoder on the target task using the weights you learned in LM
 	- 改变网络的输出层以匹配目标任务
+	  Change the output layer of your network to match the target task
 	- 冻结预训练的词嵌入/编码器的权重
 	  Freeze the weights of the pretrained word embeddings/encoder
 	- 在目标任务数据上学习输出层的权重
