@@ -190,5 +190,5 @@
 			- We push the output of this ==through a softmax== and multiply each with the values associated with each word (target word, i.e “at”)
 			  collapsed:: true
 				- ((647ce002-0367-44a6-a15c-998d1320cbee))
-		- Attention vs Self-Attention
+		- ((647ce249-d0e5-48aa-8d67-5df0ec807c5e))
 		-
