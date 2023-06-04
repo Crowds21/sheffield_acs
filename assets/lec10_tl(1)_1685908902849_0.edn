@@ -48,5 +48,22 @@
                                    :height 453.54333333333324}),
                           :page 15},
                :content {:text "Transfer Learning Variants"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647ceefa-4ee3-482b-8ed1-7d4d204d6561",
+               :page 16,
+               :position {:bounding {:x1 18.140625,
+                                     :y1 27.734375,
+                                     :x2 374.82427978515625,
+                                     :y2 69.734375,
+                                     :width 774.048,
+                                     :height 580.5354666666666},
+                          :rects ({:x1 18.140625,
+                                   :y1 27.734375,
+                                   :x2 374.82427978515625,
+                                   :y2 69.734375,
+                                   :width 774.048,
+                                   :height 580.5354666666666}),
+                          :page 16},
+               :content {:text "Transfer Learning Taxonomy"},
                :properties {:color "yellow"}}],
- :extra {:page 17}}
+ :extra {:page 16}}
