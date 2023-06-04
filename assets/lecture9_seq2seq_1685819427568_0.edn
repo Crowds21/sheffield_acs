@@ -145,5 +145,22 @@
                                    :height 450}),
                           :page 33},
                :content {:text "Conditional Language Models"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647cae46-c07c-4c57-93b0-fed62a24408e",
+               :page 34,
+               :position {:bounding {:x1 34.765625,
+                                     :y1 46.375,
+                                     :x2 463.6597595214844,
+                                     :y2 88.375,
+                                     :width 800,
+                                     :height 450},
+                          :rects ({:x1 34.765625,
+                                   :y1 46.375,
+                                   :x2 463.6597595214844,
+                                   :y2 88.375,
+                                   :width 800,
+                                   :height 450}),
+                          :page 34},
+               :content {:text "Encoder-Decoder for Translation"},
                :properties {:color "yellow"}}],
- :extra {:page 33}}
+ :extra {:page 34}}

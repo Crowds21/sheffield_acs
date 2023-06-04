@@ -32,4 +32,5 @@
 		- Decoder uses the source representation to generate the output
 		- representation 表示数据/输入 在模型中通过什么方式来 存储/计算 比如单词转换为 onehot.
 		- ((647cae03-5633-4cf5-ac2d-8e3ca23e62dc))
-	-
+	- ((647cae40-53bd-4b22-a89c-850b386a4ae0))
+	- ((647cae46-c07c-4c57-93b0-fed62a24408e))
