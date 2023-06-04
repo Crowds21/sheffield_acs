@@ -47,4 +47,4 @@
 		- Token input representation: summing token, segmentation and position embeddings (similar to BERT)
 		  将 token，分段和位置嵌入求和（类似于 BERT）
 	- GPT variants: GPT-2, GPT-3.5, GPT-J, LLaMa
--
+	- ((647cf0d4-56a1-4404-8dfd-3f63310f3fa0))
