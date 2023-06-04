@@ -159,4 +159,5 @@
 		- 因此我们需要 an architecture that
 			- provides contextual embeddings
 			- captures semantic and syntactic information like RNNs do
+			- can process a sentence in parallel
 			-
