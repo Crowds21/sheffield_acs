@@ -160,9 +160,11 @@
 			- provides contextual embeddings
 			  提供有上下文信息的嵌入
 			- captures semantic and syntactic information like RNNs do
+			  捕获像RNNs一样的语义和句法信息
 			- can process a sentence in parallel
+			  可以并行处理一个句子
 			- has relatively low computational complexity per layer
 			- - 
-			  - 捕获像RNNs一样的语义和句法信息
-			  - 可以并行处理一个句子
+			  - 
+			  - 
 			  - 每层的计算复杂度相对较低
