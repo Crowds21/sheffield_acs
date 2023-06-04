@@ -174,5 +174,7 @@
 			- vector from which the attention is looking
 		- "键"（Key）：（Query * Key）给出了这个单词在为查询词提供上下文方面的能力的答案
 			- $h_j$ (hidden vector for $j$ th input word)
+			- vector at which the query looks to establish context
 		- "值"（Value）：每个单词的值
 			- $h_j$ (hidden vector for $j$ th input word)
+			- value of word being looked at, weighted based on context
