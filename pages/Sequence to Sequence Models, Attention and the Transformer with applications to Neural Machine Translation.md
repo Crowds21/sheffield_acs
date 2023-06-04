@@ -137,10 +137,12 @@
 				  \text { score }_i=s^T h_i \in \mathbb{R}
 				  $$
 			- Multiplicative Attention
+				- Learn how much importance to give to different parts when calculating“similarity”
 				- $$
 				  \text { score }_i=s^T W h_i \in \mathbb{R}
 				  $$
 			- Additive Attention
+				- Simple single layer neural network to learn the scoring function
 				- $$
 				  \text { score }_i=v^T \tan h\left(W_1 h_i+W_2 s\right) \in \mathbb{R}
 				  $$
