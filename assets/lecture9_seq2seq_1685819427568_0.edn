@@ -889,11 +889,11 @@
                :position {:bounding {:x1 109,
                                      :y1 277,
                                      :x2 706,
-                                     :y2 433,
+                                     :y2 427.0078125,
                                      :width 800,
                                      :height 450},
                           :rects (),
                           :page 142},
-               :content {:text "[:span]", :image 1685908251097},
+               :content {:text "[:span]", :image 1685908259025},
                :properties {:color "yellow"}}],
- :extra {:page 142}}
+ :extra {:page 140}}
