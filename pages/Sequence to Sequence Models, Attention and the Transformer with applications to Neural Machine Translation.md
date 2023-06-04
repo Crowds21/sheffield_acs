@@ -97,7 +97,6 @@
 		- 编码器不必将整个 srouce 压缩成一个单一的向量
 			- 它为所有源令牌提供表示（例如，所有的RNN状态，而不仅仅是最后一个）
 	- ((647cb69c-7d3f-4bc3-86a1-46cfe07b33d2))
-	  collapsed:: true
 		- The Goal
 		  collapsed:: true
 			- 当我们生成输出时,能够直接使用到 Encoder 中的一部分 representations
@@ -193,4 +192,4 @@
 		- ((647ce249-d0e5-48aa-8d67-5df0ec807c5e))
 			- ((647ce259-77ea-49af-b0dc-afa44785f728))
 			- The query is similar to the current decoder step
-	-
+			- (Query * Key) is similar to dot product scoring (where the key is equivalent to the encoder outputs
