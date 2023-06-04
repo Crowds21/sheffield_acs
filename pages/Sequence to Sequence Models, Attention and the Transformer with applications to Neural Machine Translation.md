@@ -231,4 +231,5 @@
 			  利克特量表（离散得分）
 			- Direct Assessment (continuous score)
 			  直接评估（连续得分）
-			- 相对排名
+			- Relative Ranking
+			  相对排名
