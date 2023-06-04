@@ -14,11 +14,8 @@
 		  domains, e.g. documents written in different languages
 		  (cross-lingual adaptation)
 	- $P\left(X_S\right) \neq P\left(X_T\right)$
-		- Different marginal probability distributions
-		  in source and target domains, e.g. restaurant reviews vs
-		  electronic product reviews (domain adaptation)
+		- Different marginal probability distributions in source and target domains, e.g. restaurant reviews vs electronic product reviews (domain adaptation)
 	- $\mathcal{Y}_S \neq \mathcal{Y}_T$
-		- Different tasks (label sets), e.g. LM as source task
-		  and sentiment analysis as target task
+		- Different tasks (label sets), e.g. LM as source task and sentiment analysis as target task
 	- $P\left(Y_S \mid X_S\right) \neq P\left(Y_T \mid X_T\right)$
-		-
+		- Different conditional probability distributions between source and target tasks, e.g. source and target documents are unbalanced regarding to their classes
