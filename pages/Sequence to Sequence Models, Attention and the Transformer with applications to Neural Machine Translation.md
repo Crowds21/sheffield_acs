@@ -207,4 +207,5 @@
 			  \mathrm{A}(\mathrm{q}, \mathrm{K}, \mathrm{V})=\sum_i \frac{\exp \left(q \cdot k^i\right)}{\sum_j \exp \left(q \cdot k^j\right)} \cdot v^i
 			  $$
 			-
-		-
+		- Self-attention 的流程
+			-
