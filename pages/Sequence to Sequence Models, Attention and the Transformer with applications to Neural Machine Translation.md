@@ -209,7 +209,7 @@
 			  \mathrm{A}(\mathrm{q}, \mathrm{K}, \mathrm{V})=\sum_i \frac{\exp \left(q \cdot k^i\right)}{\sum_j \exp \left(q \cdot k^j\right)} \cdot v^i
 			  $$
 			-
-		- Self-attention 的流程
+		- Self-attention 的流程 [[card]]
 		  collapsed:: true
 			- ((647ce66f-a9d8-4e07-89aa-a8ea68bd053c))
 			- 同一个sequence 中,当前单词的前后所有文本都会被考虑其中
