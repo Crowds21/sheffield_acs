@@ -99,6 +99,13 @@
 			- ((647cb7fc-48e9-469c-9aa9-1ae61e12be11))
 		- Weighted sum
 			- Find out how “important” each of these representations.
+				- Definition
+					- Attention Scores
+						- For each encoder state, compute its“relevance” for the current decoder state
+					- Attention Weights
+						- Apply softmax to the attention scores to obtain a probability distribution
+					- Attention Output
+						- Compute a weighted sum of the encoder hidden states with attention weights
 				- $\operatorname{score}\left(s_t, h_h\right), k=1 . . N$
 				- How relevant is ==source token== k for ==target step t==?
 				- collapsed:: true
@@ -114,9 +121,3 @@
 				  $$
 					- ((647cb95e-877b-455d-b530-d67e6d98191e))
 				- ((647cb97a-0e0b-44b1-9a19-ada9bb864712))
-				- Attention Scores
-					- For each encoder state, compute its“relevance” for the current decoder state
-				- Attention Weights
-					- Apply softmax to the attention scores to obtain a probability distribution
-				- Attention Output
-					- Compute a weighted sum of the encoder hidden states with attention weights
