@@ -883,5 +883,17 @@
                                    :height 450}),
                           :page 142},
                :content {:text "BERTScore (Zhang et al., 2020)"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647ceb1b-c235-447a-b6c4-cbdd803dd894",
+               :page 142,
+               :position {:bounding {:x1 109,
+                                     :y1 277,
+                                     :x2 706,
+                                     :y2 433,
+                                     :width 800,
+                                     :height 450},
+                          :rects (),
+                          :page 142},
+               :content {:text "[:span]", :image 1685908251097},
                :properties {:color "yellow"}}],
  :extra {:page 142}}
