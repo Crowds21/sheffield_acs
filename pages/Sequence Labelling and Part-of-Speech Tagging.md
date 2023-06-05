@@ -75,6 +75,7 @@
 	- ((64073e47-8618-4cc8-be69-a3548fff1581))
 		- Maximum likelihood estimation
 		- $P\left(y_n \mid y_{n-1}\right)=\frac{c\left(y_n, y_{n-1}\right)}{c\left(y_{n-1}\right)}$ (transition probabilities)
+		  id:: 6478cdf0-e41e-49ba-b985-a25b528cf194
 		  collapsed:: true
 			- 转移概率表示从一个标签转移到另一个标签的概率
 			- 举个例子，我们希望知道在已知前一个标签的情况下，下一个标签出现的概率是多少。继续以词性标注为例，我们希望知道在已知前一个词的词性为"noun"（名词）的情况下，下一个词的词性为"verb"（动词）的概率有多大。
