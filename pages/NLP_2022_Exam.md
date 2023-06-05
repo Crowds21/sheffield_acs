@@ -78,7 +78,8 @@
 		- ### Maximum likelihood estimates
 		  ((6478cdf0-e41e-49ba-b985-a25b528cf194))
 		  ((6478cdfc-dede-4193-b1ea-95a421a6e148))
-		- draft
+		- Draft
+		  collapsed:: true
 			- We assume that each word is dependent on all previous ones.
 			  $$
 			  \begin{aligned}
