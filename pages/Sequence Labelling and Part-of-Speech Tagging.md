@@ -37,6 +37,7 @@
 	  $$
 - Hidden Markov Model (HMM)
   ref:: ((64073a20-f69f-432b-9eb8-77099c627b10))
+  collapsed:: true
 	- ((64073cfb-8b18-43e0-b4b3-5fcf7435615e)) [[card]]
 		- Bayes rule
 			- $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{y} \mid \mathbf{x})$
@@ -132,9 +133,7 @@
 		  $$
 		- 使用 Stochastic Gradient Descent
 - ((6479fd90-fcb5-4d7a-94b3-fec12291047f)) 使用维特比算法进行解码
-  collapsed:: true
 	- 原理
-	  collapsed:: true
 		- 在隐马尔可夫模型（Hidden Markov Model，HMM）和条件随机场（Conditional Random Field，CRF）中，枚举所有可能的标签序列是不可行的！
 		- 这时可以使用动态规划来存储和重复使用计算结果。
 		- 这种做法是基于模型对独立性假设的结果。
