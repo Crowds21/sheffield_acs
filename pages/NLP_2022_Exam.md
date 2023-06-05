@@ -78,3 +78,4 @@
 	  > Note: If you do not have a calculator, you may leave your answer in the form of an arithmetic expression(s) involving integers.
 		- ### Maximum likelihood estimates
 		  We assume that each word is dependent on all previous ones.
+		  $P(\mathbf{x})=P\left(x_1, \ldots, x_N\right)$
