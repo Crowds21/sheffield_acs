@@ -100,5 +100,5 @@
 		- $$
 		  P\left(y_2 \mid y_1 \right)=\left\{\begin{array}{l}
 		  VB=\frac{1492}{64520} \\ 
-		  NN=\frac{35}{253048} 
+		  NN=\frac{}{64520} 
 		  \end{array}\right.$$
