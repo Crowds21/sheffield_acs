@@ -48,7 +48,7 @@
 	- In HMM tagger's estimate, 
 	  $x=\left\{x_1, \ldots, x_n\right\}$ is the given word sequence.
 	  $y=\left\{y_1, \ldots, y_n\right\}$, and $Y$ is a set of possible tags.
-	  
+	  $\hat{y}=\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}} P(y \mid x)$, $
 	  $\hat{y}=\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}} \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
 	  How this approximation is derived?
 		- Bayes rule
