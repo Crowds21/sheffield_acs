@@ -78,4 +78,12 @@
 	  > Note: If you do not have a calculator, you may leave your answer in the form of an arithmetic expression(s) involving integers.
 		- ### Maximum likelihood estimates
 		  We assume that each word is dependent on all previous ones.
-		  $P(\mathbf{x})=P\left(x_1, \ldots, x_N\right)$
+		  $$
+		  \begin{aligned}
+		  P(\mathbf{x}) & =P\left(x_1, \ldots, x_N\right) \\
+		  & =P\left(x_1\right) P\left(x_2 \ldots x_N \mid x_1\right) \\
+		  & =P\left(x_1\right) P\left(x_2 \mid x_1\right) \ldots P\left(x_N \mid x_1, \ldots, x_{N-1}\right) \\
+		  & =\prod_{n=1}^N P\left(x_n \mid x_1, \ldots x_{n-1}\right) \quad \text { (chain rule) }
+		  \end{aligned}
+		  $$
+		  (chain rule)
