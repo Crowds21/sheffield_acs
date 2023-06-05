@@ -89,4 +89,4 @@
 		  
 		  Problems: As we condition on more words, the counts become **sparser**
 		  >  Sparser: When certain data (words) have not appeared in the training set, resulting in a probability of zero for these 'words'. This can impact the prediction results.
-		-
+		- ###
