@@ -104,6 +104,8 @@
 		  \end{array}\right.$$
 		- So $y2=VN$
 		- $$
-		  P\left(x_2 \mid y_2\right)=\left\{\begin{array}{l}
-		  V B=\frac{26}{148787} \\ NN=\frac{35}{253048} \\ P R P=0 \end{array}\right.
+		  P\left(x_3 \mid y_2\right)=\left\{\begin{array}{l}
+		  V B=\frac{26}{148787} \\ 
+		  NN=\frac{35}{253048} \\ 
+		  P R P=0 \end{array}\right.
 		  $$
