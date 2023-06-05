@@ -86,5 +86,6 @@
 		  & =\prod_{n=1}^N P\left(x_n \mid x_1, \ldots x_{n-1}\right) \quad \text { (chain rule) }
 		  \end{aligned}
 		  $$
+		  
 		  Problems: As we condition on more words, the counts become **sparser**
 	-
