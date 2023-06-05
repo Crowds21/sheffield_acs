@@ -52,7 +52,7 @@
 	  
 	  $\hat{y}=\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}} \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
 	  How this approximation is derived?
-		- Base on Bayes rule, we can get
+		- Based on Bayes rule, we can get
 		  $P(\mathbf{y} \mid \mathbf{x})=\frac{P(\mathbf{x} \mid \mathbf{y}) P(\mathbf{y})}{P(\mathbf{x})}$
 		  $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \frac{P(\mathbf{x} \mid \mathbf{y}) P(\mathbf{y})}{P(\mathbf{x})}$
 		- And word probabilities are constant, so we can ignore $P(x)$
