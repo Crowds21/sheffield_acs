@@ -92,7 +92,7 @@
 			  
 			  Problems: As we condition on more words, the counts become **sparser**
 			  >  Sparser: When certain data (words) have not appeared in the training set, resulting in a probability of zero for these 'words'. This can impact the prediction results.
-		- ### Tag the given word sequence
+		- ### Tag the given word sequence (Greddy)
 		  $P\left(x_n \mid x_{n-1 \ldots x_1}\right)=\frac{c\left(x_1 \ldots x_{n-1}, x_n\right)}{c\left(x_1 \ldots x_{n-1}\right)}$
 		- $$P\left(x_1 \mid y_1\right)=\left\{\begin{array}{l}V B=0 \\ N N=0 \\ P R P=1\end{array}\right.$$
 		  So $y_1 = PRP$
