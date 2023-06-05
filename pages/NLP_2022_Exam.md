@@ -46,6 +46,7 @@
 		- {{embed ((6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5))}}
 - Part2
 	- In HMM tagger's estimate, $x=\left\{x_1, \ldots, x_n\right\}$ is the given word sequence.
+	  
 	  $\hat{y}=\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}} \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
 	  How this approximation is derived?
 		- Bayes rule
