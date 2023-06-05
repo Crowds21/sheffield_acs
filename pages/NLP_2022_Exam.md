@@ -64,7 +64,7 @@
 		- $\hat{\mathbf{y}} \approx \underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
 		- > Joint Probability Distribution: $P(x,y) = P(x)P(y)$
 	- Consider the sentence I play games. The following counts are observed in a corpus:
-	  (i) unigram word/tag counts; 
-	  (ii) bigram tag counts; and
-	   (iii) counts of occurrences of a word with a particular part-of-speech tag (see the corresponding tables below). 
+	  1. unigram word/tag counts; 
+	  2. bigram tag counts; and
+	   counts of occurrences of a word with a particular part-of-speech tag (see the corresponding tables below). 
 	  Here <s> denotes a special start of sentence marker.
