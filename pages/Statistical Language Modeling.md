@@ -55,6 +55,17 @@
 		- $$
 		  P\left(x_n \mid x_{n-1 \ldots x_1}\right)=\frac{c\left(x_1 \ldots x_{n-1}, x_n\right)}{c\left(x_1 \ldots x_{n-1}\right)}
 		  $$
+	- 推导过程
+		- 条件概率公式
+		  $P(A \mid B)=\frac{P(A \cap B)}{P(B)}$
+		  $P(A \cap B)=P(A \mid B) \cdot P(B)$
+		- 将上式代入即可
+		  $$
+		  \begin{aligned}
+		  P(\mathbf{x}) & =P\left(x_1, \ldots, x_N\right) \\
+		  & =P\left(x_1\right) P\left(x_2 \ldots x_N \mid x_1\right) \\
+		  \end{aligned}
+		  $$
 	- Problems of MLE
 		- As we condition on more words, the counts become sparser(稀疏)
 		- 我们假设训练数据是从真实分布中独立采样得到的，但在实际情况下，很多单词序列并不是等概率出现的
