@@ -59,5 +59,5 @@
 		  $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{x} \mid \mathbf{y}) P(\mathbf{y})$
 		- Based on 1st order Markov
 		  $P(\mathbf{y})=\prod_{n=1}^N P\left(y_n \mid y_{n-1}\right)$
-		  The sequence $y$  which can make $P(x|y)P(y)$ has the largest value is the sequence we want.
+		- The sequence $y$  which can make $P(x|y)P(y)$ has the largest value is the sequence we want.
 		- $\hat{\mathbf{y}} \approx \underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
