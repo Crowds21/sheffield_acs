@@ -24,17 +24,6 @@
 - How many different kinds of Statistical Language Modeling [[card]]
 	- N-gram language model
 	- ((64760ab5-4060-42a1-b1bf-cbbeba83054a))
-		- 推导过程
-			- 条件概率公式
-			  $P(A \mid B)=\frac{P(A \cap B)}{P(B)}$
-			  $P(A \cap B)=P(A \mid B) \cdot P(B)$
-			- 将上式代入即可
-			  $$
-			  \begin{aligned}
-			  P(\mathbf{x}) & =P\left(x_1, \ldots, x_N\right) \\
-			  & =P\left(x_1\right) P\left(x_2 \ldots x_N \mid x_1\right) \\
-			  \end{aligned}
-			  $$
 - ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a)) 一元语言模型 
   Introduction and the potential problem 
   [[card]]
