@@ -8,7 +8,6 @@
 		- The data: Train set, test set, validation set. Pre-annotated text.
 		- They are expected to return the probability of an unseen sentence x.
 	- What is the equation for the probability of a sentence?
-	  collapsed:: true
 	  How is this probability approximated in an n-gram language model?
 	  Explain the equation and the approximation terms.
 		- $$
