@@ -72,5 +72,5 @@
 	  ((647e0e63-efa3-4799-8866-0b8c3e7ac618))
 	  
 	  **Questions**
-	  Write down the equations for computing the Maximum Likelihood estimates of $P(x_n|y_n)$ and $P(y_n|y+n−1).
+	  Write down the equations for computing the Maximum Likelihood estimates of $P(x_n|y_n)$ and $P(y_n|y_{n−1})$
 -
