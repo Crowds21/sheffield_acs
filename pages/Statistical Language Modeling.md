@@ -27,6 +27,7 @@
 		- 推导过程
 			- 条件概率公式
 			  $P(A \mid B)=\frac{P(A \cap B)}{P(B)}$
+			  $P(A \cap B)=P(A \mid B) \cdot P(B)$
 - ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a)) 一元语言模型 
   Introduction and the potential problem 
   [[card]]
