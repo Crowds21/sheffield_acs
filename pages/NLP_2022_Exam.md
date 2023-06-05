@@ -78,18 +78,19 @@
 		- ### Maximum likelihood estimates
 		  ((6478cdf0-e41e-49ba-b985-a25b528cf194))
 		  ((6478cdfc-dede-4193-b1ea-95a421a6e148))
-		  We assume that each word is dependent on all previous ones.
-		  $$
-		  \begin{aligned}
-		  P(\mathbf{x}) & =P\left(x_1, \ldots, x_N\right) \\
-		  & =P\left(x_1\right) P\left(x_2 \ldots x_N \mid x_1\right) \\
-		  & =P\left(x_1\right) P\left(x_2 \mid x_1\right) \ldots P\left(x_N \mid x_1, \ldots, x_{N-1}\right) \\
-		  & =\prod_{n=1}^N P\left(x_n \mid x_1, \ldots x_{n-1}\right) \quad \text { (chain rule) }
-		  \end{aligned}
-		  $$
-		  
-		  Problems: As we condition on more words, the counts become **sparser**
-		  >  Sparser: When certain data (words) have not appeared in the training set, resulting in a probability of zero for these 'words'. This can impact the prediction results.
+		- draft
+			- We assume that each word is dependent on all previous ones.
+			  $$
+			  \begin{aligned}
+			  P(\mathbf{x}) & =P\left(x_1, \ldots, x_N\right) \\
+			  & =P\left(x_1\right) P\left(x_2 \ldots x_N \mid x_1\right) \\
+			  & =P\left(x_1\right) P\left(x_2 \mid x_1\right) \ldots P\left(x_N \mid x_1, \ldots, x_{N-1}\right) \\
+			  & =\prod_{n=1}^N P\left(x_n \mid x_1, \ldots x_{n-1}\right) \quad \text { (chain rule) }
+			  \end{aligned}
+			  $$
+			  
+			  Problems: As we condition on more words, the counts become **sparser**
+			  >  Sparser: When certain data (words) have not appeared in the training set, resulting in a probability of zero for these 'words'. This can impact the prediction results.
 		- ### Tag the given word sequence
 		  $P\left(x_n \mid x_{n-1 \ldots x_1}\right)=\frac{c\left(x_1 \ldots x_{n-1}, x_n\right)}{c\left(x_1 \ldots x_{n-1}\right)}$
 		-
