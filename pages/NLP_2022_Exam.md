@@ -89,4 +89,5 @@
 		  
 		  Problems: As we condition on more words, the counts become **sparser**
 		  >  Sparser: When certain data (words) have not appeared in the training set, resulting in a probability of zero for these 'words'. This can impact the prediction results.
-		- ### Tag the given words
+		- ### Tag the given word sequence
+		  $P\left(x_n \mid x_{n-1 \ldots x_1}\right)=\frac{c\left(x_1 \ldots x_{n-1}, x_n\right)}{c\left(x_1 \ldots x_{n-1}\right)}$
