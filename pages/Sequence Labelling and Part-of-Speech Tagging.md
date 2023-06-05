@@ -16,6 +16,7 @@
 		- Most used tag set [Penn Treebank P.O.S. Tags (upenn.edu)](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 		- Also we can use [Universal POS tags (universaldependencies.org)](https://universaldependencies.org/u/pos/)
 - Sequence labelling problem background
+  collapsed:: true
 	- $$
 	  \begin{aligned}
 	  D_{\text {train }} & =\left\{\left(\mathbf{x}^1, \mathbf{y}^1\right) \ldots\left(\mathbf{x}^M, \mathbf{y}^M\right)\right\} \\
@@ -29,12 +30,14 @@
 	  $$
 	- 模型$f()$ 应该使得 $\hat{\mathbf{y}}$结果最大
 - Markov model 存在的问题
+  collapsed:: true
 	- 使用 tags $y$ 而不是单词
 	- $$
 	  P(\mathbf{y})=\prod_{n=1}^N P\left(y_n \mid y_{n-1}\right)
 	  $$
 - Hidden Markov Model (HMM)
   ref:: ((64073a20-f69f-432b-9eb8-77099c627b10))
+  collapsed:: true
 	- ((64073cfb-8b18-43e0-b4b3-5fcf7435615e)) [[card]]
 		- Bayes rule
 			- $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{y} \mid \mathbf{x})$
