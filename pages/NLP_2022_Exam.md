@@ -97,7 +97,7 @@
 		- $$P\left(x_1 \mid y_1\right)=\left\{\begin{array}{l}V B=0 \\ N N=0 \\ P R P=1\end{array}\right.$$
 		- $$P\left(y_1 \mid y_0\right)=\left\{\begin{array}{l}
 		  V B=\frac{789}{50000} \\ 
-		  N N=0 \\ 
+		  N N=\farc{}{50000} \\ 
 		  P R P=1
 		  \end{array}\right.$$
 		- So $y_1 = PRP$
