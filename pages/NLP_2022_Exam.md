@@ -112,7 +112,8 @@
 		- $$
 		  P\left(y_3 \mid y_2\right)=\left\{\begin{array}{l}
 		  V B=\frac{43}{148787} \\ 
-		  NN=\frac{7432}{253048} \\ 
+		  NN=\frac{7432}{14878} \\ 
 		  P R P=0 \end{array}\right.
 		  $$
-		- So $y_3=
+		- So $y_3=NN$
+		-
