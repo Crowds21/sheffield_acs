@@ -68,7 +68,7 @@
 		  $$
 		- $P\left(x_2 \ldots x_N \mid x_1\right)=P\left(x_2 \mid x_1\right) P\left(x_3 \ldots x_N \mid x_1, x_2\right)$
 		  id:: 647e17af-7027-40e4-9b88-bd6df4d241f4
-		- 先无视$x_1$ 直接按照 $x_2 \ddot x_N$
+		- 先无视$x_1$ 直接按照 $x_2 \ldots x_N$ 拆分, 拆分结束后,在
 	- Problems of MLE
 		- As we condition on more words, the counts become sparser(稀疏)
 		- 我们假设训练数据是从真实分布中独立采样得到的，但在实际情况下，很多单词序列并不是等概率出现的
