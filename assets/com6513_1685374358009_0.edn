@@ -14,5 +14,17 @@
                                    :height 1161.6000000000001}),
                           :page 4},
                :content {:text "agger’s estimate"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647e0e63-efa3-4799-8866-0b8c3e7ac618",
+               :page 4,
+               :position {:bounding {:x1 81,
+                                     :y1 292,
+                                     :x2 412,
+                                     :y2 400,
+                                     :width 476,
+                                     :height 616},
+                          :rects (),
+                          :page 4},
+               :content {:text "[:span]", :image 1685982818503},
                :properties {:color "yellow"}}],
  :extra {:page 4}}
