@@ -102,7 +102,7 @@
 		  VB=\frac{1492}{64520} \\ 
 		  NN=\frac{68}{64520} 
 		  \end{array}\right.$$
-		- $\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}}  P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
+		- $\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}}  P\left(x_2 \mid y_2\right) P\left(y_n \mid y_{n-1}\right)$
 		  So $y2=VB$
 		- $$
 		  P\left(x_3 \mid y_3\right)=\left\{\begin{array}{l}
