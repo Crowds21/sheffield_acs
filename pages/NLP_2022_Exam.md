@@ -71,6 +71,6 @@
 	  Here <s> denotes a special start of sentence marker.
 	  ((647e0e63-efa3-4799-8866-0b8c3e7ac618))
 	  
-	  ##### Questions
+	  \Questions
 	  Write down the equations for computing the Maximum Likelihood estimates of P (xn|yn) and P (yn|yn−1).
 -
