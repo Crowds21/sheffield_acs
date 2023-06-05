@@ -6,6 +6,7 @@
 	- Machine Translation (reconstruct word alignments)
 - Classes of PoS Tags
 - Assign a label to each word in a sequence
+  collapsed:: true
 	- Part-of-Speech (POS) Tagging [[card]]
 		- Open class (具有较高的词汇变化和词汇增长能力的词性类别)
 			- nouns, verbs, adjevtives
