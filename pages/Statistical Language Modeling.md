@@ -145,12 +145,14 @@
 - ((6478b791-8fa8-4615-963f-b29f36978aaf))
 	- ((6474c77a-1b93-4040-8061-6f5f2ce83f7b)) [[card]]
 	  id:: 6478b78a-05e0-4e22-9076-ab0f9eb8c33f
+	  collapsed:: true
 		- Add-1 (or Laplace) smoothing adds one to all bigram counts to avoid probabilities being 0. Pretend we have seen all bigrams at least once.
 		- $$
 		  P_{a d d-1}\left(x_n \mid x_{n-1}\right)=\frac{c\left(x_{n-1}, x_n\right)+1}{c\left(x_{n-1}\right)+|V|}
 		  $$
 	- ((6474c766-79af-4101-a653-808ac220a86e)) [[card]]
 	  id:: 6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5
+	  collapsed:: true
 		- Add-1 puts too much probability mass to unseen bigrams, better to add-k, k < 1:
 		- $$
 		  P_{a d d-k}\left(x_n \mid x_{n-1}\right)=\frac{\operatorname{counts}\left(x_{n-1}, x_n\right)+k}{\operatorname{counts}\left(x_{n-1}\right)+k|V|}
@@ -187,6 +189,7 @@
 		  $$
 		- TODO $\beta$ is the left-over probability mass for the (n-k)-gram
 	- ((6478bdce-cb4f-4dad-8b8a-490e60915b1c))
+	  collapsed:: true
 		- > Absolute Discounting（绝对减值）是一种用于平滑统计语言模型的技术之一
 		- held-out set = validation set
 		- average count
@@ -195,6 +198,7 @@
 		  P_{\text {AbsDiscount }}\left(x_n \mid x_{n-1}\right)=\frac{c\left(x_n, x_{n-1}\right)-d}{c\left(x_{n-1}\right)}+\lambda_{x_{n-1}} P\left(x_n\right)
 		  $$
 	- ((6478be02-ad50-44a1-a047-05ed3d247746))
+	  collapsed:: true
 		- $$
 		  \begin{aligned}
 		  & \operatorname{SBO}\left(x_n \mid x_{n-1} \ldots x_{n-k}\right)= \\
