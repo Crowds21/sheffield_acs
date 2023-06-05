@@ -46,6 +46,7 @@
 		- {{embed ((6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5))}}
 - Part2
 	- In HMM tagger's estimate, 
+	  collapsed:: true
 	  $x=\left\{x_1, \ldots, x_n\right\}$ is the given word sequence.
 	  $y=\left\{y_1, \ldots, y_n\right\}$, and $Y$ is a set of possible tags.
 	  $\hat{y}=\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}} P(y \mid x)$, $\hat{y}$ is the best tag sequence.
