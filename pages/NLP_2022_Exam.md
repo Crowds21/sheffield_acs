@@ -115,4 +115,4 @@
 		  NN=\frac{7432}{253048} \\ 
 		  P R P=0 \end{array}\right.
 		  $$
-		-
+		- So $y_3=
