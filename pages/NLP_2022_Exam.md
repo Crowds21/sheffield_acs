@@ -102,4 +102,5 @@
 		  VB=\frac{1492}{64520} \\ 
 		  NN=\frac{68}{64520} 
 		  \end{array}\right.$$
-		- So $y2=$
+		- So $y2=VN$
+		-
