@@ -46,7 +46,7 @@
 		- {{embed ((6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5))}}
 - Part2
 	- $\hat{y}=\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}} \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
-	  $x=\left\{x_1, \ldots, x_n\right\}$
+	  $x=\left\{x_1, \ldots, x_n\right\}$ is the given word sequence.
 	  How this approximation is derived?
 		- Bayes rule
 			- $\hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } P(\mathbf{y} \mid \mathbf{x})$
