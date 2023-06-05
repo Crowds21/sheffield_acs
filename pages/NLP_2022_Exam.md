@@ -121,3 +121,4 @@
 		-
 	- The Viterbi algorithm is the most commonly used algorithm to calculate the most probable path through a HMM efficiently. 
 	  Describe the Viterbi algorithm using pseudocode and any auxiliary data structures it employs.
+	-

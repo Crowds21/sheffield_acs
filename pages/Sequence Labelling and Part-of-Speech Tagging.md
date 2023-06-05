@@ -140,7 +140,6 @@
 		- 动态规划的思想是跟踪每个单词的每个词性标签达到的最高概率以及如何到达这个最高概率的路径。
 	- [维特比算法 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/zh-hans/%E7%BB%B4%E7%89%B9%E6%AF%94%E7%AE%97%E6%B3%95)
 	- ((64074707-ea47-4d02-85e4-eb00b3494ac0))
-	  collapsed:: true
 		- Backpointer matrix (回溯指针矩阵)
 		  $$
 		  \begin{equation}
@@ -155,7 +154,6 @@
 		  \text { backptr }[y, n]=\arg \max _{y^{\prime} \in \mathcal{Y}} V\left[y^{\prime}, n-1\right] \times P\left(y \mid y^{\prime}\right) \times P\left(x_n \mid y\right)
 		  $$
 	- ((64074700-35a9-4304-9f3e-adad07046319))
-	  collapsed:: true
 		- ((647a01a6-a60c-46a0-b4c4-ebb2955d2c13))
 - ((640749d5-1510-4229-b719-eb976e71e2ee)) 束搜索 [[card]]
   collapsed:: true
