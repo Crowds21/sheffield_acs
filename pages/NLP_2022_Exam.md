@@ -76,4 +76,5 @@
 	  2. Use them to tag the given word sequence by computing $\hat{y}$
 	  3. You do not need to calculate all of the transition probabilities or the emission probabilities, but you should show how you would calculate one of each.
 	  > Note: If you do not have a calculator, you may leave your answer in the form of an arithmetic expression(s) involving integers.
-		- ###
+		- ### Maximum likelihood estimates
+		  We assume that each word is dependent on all previous ones.
