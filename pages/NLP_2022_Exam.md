@@ -45,7 +45,6 @@
 		- {{embed ((6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5))}}
 - Part2
 	- In HMM tagger's estimate, 
-	  collapsed:: true
 	  $x=\left\{x_1, \ldots, x_n\right\}$ is the given word sequence.
 	  $y=\left\{y_1, \ldots, y_n\right\}$, and $Y$ is a set of possible tags.
 	  $\hat{y}=\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}} P(y \mid x)$, $\hat{y}$ is the best tag sequence.
@@ -79,7 +78,6 @@
 		  ((6478cdf0-e41e-49ba-b985-a25b528cf194))
 		  ((6478cdfc-dede-4193-b1ea-95a421a6e148))
 		- Draft
-		  collapsed:: true
 			- We assume that each word is dependent on all previous ones.
 			  $$
 			  \begin{aligned}
