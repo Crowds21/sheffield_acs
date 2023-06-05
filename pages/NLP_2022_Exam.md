@@ -75,4 +75,5 @@
 	  1. Write down the equations for computing the Maximum Likelihood estimates of $P(x_n|y_n)$ and $P(y_n|y_{n−1})$
 	  2. Use them to tag the given word sequence by computing $\hat{y}$
 	  3. You do not need to calculate all of the transition probabilities or the emission probabilities, but you should show how you would calculate one of each.
--
+	  > Note: If you do not have a calculator, you may leave your answer in the form of an arithmetic expression(s) involving integers.
+		-
