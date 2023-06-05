@@ -66,6 +66,7 @@
 		  & =P\left(x_1\right) P\left(x_2 \ldots x_N \mid x_1\right) \\
 		  \end{aligned}
 		  $$
+		- id:: 647e17af-7027-40e4-9b88-bd6df4d241f4
 	- Problems of MLE
 		- As we condition on more words, the counts become sparser(稀疏)
 		- 我们假设训练数据是从真实分布中独立采样得到的，但在实际情况下，很多单词序列并不是等概率出现的
