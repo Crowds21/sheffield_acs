@@ -97,8 +97,8 @@
 		- $$P\left(x_1 \mid y_1\right)=\left\{\begin{array}{l}V B=0 \\ N N=0 \\ P R P=1\end{array}\right.$$
 		- $$P\left(y_1 \mid y_0\right)=\left\{\begin{array}{l}
 		  V B=\frac{789}{50000} \\ 
-		  N N=\farc{}{50000} \\ 
-		  P R P=1
+		  N N=\farc{5783}{50000} \\ 
+		  P R P=\frac{}{50}
 		  \end{array}\right.$$
 		- So $y_1 = PRP$
 		- $$P\left(x_2 \mid y_2\right)=\left\{\begin{array}{l}V B=\frac{26}{148787} \\ NN=\frac{35}{253048} \\ P R P=0 \end{array}\right.$$
