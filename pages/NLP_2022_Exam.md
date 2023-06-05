@@ -92,7 +92,7 @@
 			  >  Sparser: When certain data (words) have not appeared in the training set, resulting in a probability of zero for these 'words'. This can impact the prediction results.
 		- ### Tag the given word sequence (Example of greedy)
 		  $P\left(x_n \mid x_{n-1 \ldots x_1}\right)=\frac{c\left(x_1 \ldots x_{n-1}, x_n\right)}{c\left(x_1 \ldots x_{n-1}\right)}$
-		- $$P\left(x_1 \mid y_1\right)=\left\{\begin{array}{l}V B=0 \\ N N=0 \\ P R P= \end{array}\right.$$
+		- $$P\left(x_1 \mid y_1\right)=\left\{\begin{array}{l}V B=0 \\ N N=0 \\ P R P= not 0\end{array}\right.$$
 		- $$P\left(y_1 \mid y_0\right)=\left\{\begin{array}{l}
 		  V B=\frac{789}{50000} \\ 
 		  N N=\frac{5783}{50000} \\ 
