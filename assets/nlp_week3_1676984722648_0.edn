@@ -65,5 +65,22 @@
                                    :height 342.74968511858003}),
                           :page 1},
                :content {:text "Text Classification with Logistic Regression"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647f72c6-b3b3-4f46-896e-b187daf0e47f",
+               :page 32,
+               :position {:bounding {:x1 10.7109375,
+                                     :y1 16.421875,
+                                     :x2 203.8670196533203,
+                                     :y2 41.421875,
+                                     :width 457,
+                                     :height 342.74968511858003},
+                          :rects ({:x1 10.7109375,
+                                   :y1 16.421875,
+                                   :x2 203.8670196533203,
+                                   :y2 41.421875,
+                                   :width 457,
+                                   :height 342.74968511858003}),
+                          :page 32},
+               :content {:text "Binary Logistic Regression"},
                :properties {:color "yellow"}}],
- :extra {:page 29}}
+ :extra {:page 32}}
