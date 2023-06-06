@@ -7,6 +7,7 @@
 - Text types
 - Supervised Learning
 - ((647f72c6-b3b3-4f46-896e-b187daf0e47f))
+	- ((647f7a4d-b549-4b77-a897-52e734db037d))
 - ((647f72d7-e496-4556-abeb-918590977dcf)) [[card]]
 	- Sqaushes the values of a vector between 0 and 1 and the elements add up to 1 resulting into a probability distribution:
 	- ((647f72ed-3823-4231-b0ec-40e2cb64e823))
