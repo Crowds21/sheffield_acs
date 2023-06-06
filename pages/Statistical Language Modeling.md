@@ -203,7 +203,10 @@
 		  $$
 			- α: 退化因子（backoff factor），用于平滑模型并处理未见过的n-grams
 			-
-		- TODO $\beta$ is the left-over probability mass for the (n-k)-gram
+		- DOING $\beta$ is the left-over probability mass for the (n-k)-gram
+		  :LOGBOOK:
+		  CLOCK: [2023-06-06 Tue 20:30:58]
+		  :END:
 	- ((6478bdce-cb4f-4dad-8b8a-490e60915b1c))
 		- > Absolute Discounting（绝对减值）是一种用于平滑统计语言模型的技术之一
 		- held-out set = validation set
