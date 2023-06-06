@@ -7,9 +7,11 @@
 - Text types
 - Supervised Learning
 - ((647f72c6-b3b3-4f46-896e-b187daf0e47f))
+  collapsed:: true
 	- ((647f7a4d-b549-4b77-a897-52e734db037d))
 - ((647fb2bf-30e0-4607-a9a7-a0410eb9b691))
-	-
+  collapsed:: true
+	- ((647fb2c7-7254-452a-9784-513fd1177184))
 - ((647f72d7-e496-4556-abeb-918590977dcf)) [[card]]
   collapsed:: true
 	- Compute the probability for each class c using the softmax function:
