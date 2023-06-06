@@ -123,7 +123,7 @@
 		- So $y_3=NN$
 		-
 	- ((647f5225-b67f-4ad4-a3cb-8908346c7cce)) is the most commonly used algorithm to calculate the most probable path through a HMM efficiently. 
-	  Describe the Viterbi algorithm using pseudocode and any auxiliary data structures it employs.
+	  Describe the Viterbi algorithm using pseudocode and any auxiliary data structures it employs. [[card]]
 		- ### Data structure
 			- **Backpointer matrix** $\text { backptr }^{|\mathcal{Y}| \times N}$
 				- The tag of the previous word when the current word is tagged with a certain tag with the highest probability.
@@ -139,4 +139,4 @@
 		- 矩阵 V 中的每一个节点中存储的是,单词 x_n 对于不同的 y_n 所获得的最大 emission * transion.
 		  矩阵 Back 中存储的是 单词 x_n 对于不同的 y_n 所获得最大 emission * transion后,此时 x_(n-1)对应的 y_(n-1)
 		- 类似一个全连接的神经网络
--
+	- Beam Search
