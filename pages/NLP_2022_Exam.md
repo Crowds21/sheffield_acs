@@ -137,7 +137,7 @@
 			  for i in N:
 			     for j in T:
 			          V[y_n,n] = max(  V[y_n-1, n-1] * Tans(y_n,y_n-1) * Emi(x_n,y_n)  )
-			           backptr
+			           backptr[y,n] = argmax ( )
 			  ```
 			- ((647a01a6-a60c-46a0-b4c4-ebb2955d2c13))
 		- 矩阵 V 中的每一个节点中存储的是,单词 x_n 对于不同的 y_n 所获得的最大 emission * transion.
