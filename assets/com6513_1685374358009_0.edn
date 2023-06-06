@@ -183,4 +183,4 @@
                           :page 5},
                :content {:text "What are distributed word representations? How do they compare to one-hot encoding"},
                :properties {:color "yellow"}}],
- :extra {:page 1}}
+ :extra {:page 3}}
