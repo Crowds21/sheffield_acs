@@ -144,4 +144,4 @@
 		- **Last layer result**  $last$
 		- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
 		- for n in N
-		-
+		- current =
