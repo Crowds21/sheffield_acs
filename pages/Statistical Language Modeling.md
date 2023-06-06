@@ -201,6 +201,8 @@
 		- $$
 		  \alpha^{x_{n-1} \ldots x_{n-k}}=\frac{\beta^{x_{n-1} \ldots x_{n-k}}}{\sum P_{B O}\left(x_n \mid x_{n-1} \ldots x_{n-k+1}\right)}
 		  $$
+			- α: 退化因子（backoff factor），用于平滑模型并处理未见过的n-grams
+			-
 		- TODO $\beta$ is the left-over probability mass for the (n-k)-gram
 	- ((6478bdce-cb4f-4dad-8b8a-490e60915b1c))
 		- > Absolute Discounting（绝对减值）是一种用于平滑统计语言模型的技术之一
