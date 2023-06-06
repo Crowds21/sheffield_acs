@@ -180,4 +180,5 @@
 		- return TOP-1
 		-
 - Part3
-	-
+	- What are distributed word representations? How do they compare to one-hot encoding
+		-
