@@ -1,7 +1,6 @@
 alias:: 递归神经网络和神经语言模型
 
 - Problem setup
-  collapsed:: true
 	- Training data is a (large) set of word sequences:
 	- $$
 	  \begin{aligned}
@@ -15,9 +14,7 @@ alias:: 递归神经网络和神经语言模型
 	  $$
 	- $V$ is the vocabulary and $V^{\max N}$ all possible sentences
 - Recurrent Neural Networks (RNNs)
-  collapsed:: true
 	- RNN introduction [[card]]
-	  collapsed:: true
 		- ((647b7844-7de1-433d-9c4d-5904784abda2))
 		- $$
 		  s_n=\sigma\left(\mathbf{W} s_{n-1}+\mathbf{U} x_n\right)
