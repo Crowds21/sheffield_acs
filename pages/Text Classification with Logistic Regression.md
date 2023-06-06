@@ -12,6 +12,7 @@
 	- Sqaushes the values of a vector between 0 and 1 and the elements add up to 1 resulting into a probability distribution:
 	- ((647f72ed-3823-4231-b0ec-40e2cb64e823))
 	-
+- ((647f7309-91b5-438e-8e76-15e0a147753a))
 -
 - Multiclass Logistic Regression
 - ((63f4d21a-71a7-45d3-8b4c-ea26ed65ff9a))
