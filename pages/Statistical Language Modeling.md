@@ -153,7 +153,6 @@
 		- TODO Doesn’t always correlate with application performance
 		- Can’t evaluate non probabilistic LMs
 - ((6478b40f-99d4-4611-a721-9db924fbe415)) 外部评估 [[card]]
-  collapsed:: true
 	- Sentence completion
 	- Grammatical error correction: detecting “odd” sentences and propose alternatives
 	- Natural lanuage generation: prefer more “natural” sentences
