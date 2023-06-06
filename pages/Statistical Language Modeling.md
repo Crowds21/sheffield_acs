@@ -168,6 +168,7 @@
 		  $$
 	- ((6474c766-79af-4101-a653-808ac220a86e)) [[card]]
 	  id:: 6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5
+	  collapsed:: true
 		- Add-1 puts too much probability mass to unseen bigrams, better to add-k, k < 1:
 		- $$
 		  P_{a d d-k}\left(x_n \mid x_{n-1}\right)=\frac{\operatorname{counts}\left(x_{n-1}, x_n\right)+k}{\operatorname{counts}\left(x_{n-1}\right)+k|V|}
