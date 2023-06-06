@@ -1,5 +1,6 @@
 - ![com6513.pdf](../assets/com6513_1685374358009_0.pdf)
 - Part1
+  collapsed:: true
 	- What is a language model? 
 	  collapsed:: true
 	  Describe the data required to train a language model
@@ -44,6 +45,7 @@
 		- {{embed ((6478b78a-05e0-4e22-9076-ab0f9eb8c33f))}}
 		- {{embed ((6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5))}}
 - Part2
+  collapsed:: true
 	- In HMM tagger's estimate, 
 	  $x=\left\{x_1, \ldots, x_n\right\}$ is the given word sequence.
 	  $y=\left\{y_1, \ldots, y_n\right\}$, and $Y$ is a set of possible tags.
@@ -153,3 +155,4 @@
 				- last = TOP-K (current)
 		- return TOP-1
 		-
+-
