@@ -78,4 +78,4 @@
                           :page 6},
                :content {:text "Explain why neural networks are prone to overfitting and how this problem can be avoided. "},
                :properties {:color "yellow"}}],
- :extra {:page 6}}
+ :extra {:page 4}}
