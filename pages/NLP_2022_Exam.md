@@ -126,6 +126,6 @@
 		- ### Data structure
 			- **Backpointer matrix** $\text { backptr }^{|\mathcal{Y}| \times N}$
 			- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
-			-
+			- **Tag sequence**
 		- ### Pseudocode
 		-
