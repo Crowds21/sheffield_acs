@@ -127,7 +127,7 @@
 			- **Backpointer matrix** $\text { backptr }^{|\mathcal{Y}| \times N}$
 				- Save the la
 			- **Viterbi matrix** $v^{|\mathcal{Y}| \times N}$
-				- The largest probabilities of
+				- The largest probabilities of current word with specific tag
 			- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
 			- **Tag sequence** $y=\left[y_1, \ldots, y_N\right]$
 			- **Tag collection** $s=\left[s_1, \ldots, s_T\right]$
