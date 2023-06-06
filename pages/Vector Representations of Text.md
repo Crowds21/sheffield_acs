@@ -45,13 +45,11 @@
 	- document (text sequence/snippet)
 		- entence, paragraph, section, chapter, entire document, search query, social media post, transcribed utterance, pseudo-documents (e.g. all tweets posted by a user), etc.
 - The steps of Textprocessing
-  collapsed:: true
 	- ((63dfaede-9ef5-44aa-b0ac-d5155ea6a3bd))
 	- lowercasing
 	- punctuation/number/stop/infrequent word removal
 	- stemming
 - What is Tokenisation [[card]]
-  collapsed:: true
 	- Tokenisation to obtain tokens from raw text. Simplest form: split text on whitespaces or use regular expressions
 - What is one-hot encoding, what’s the problem in one-hot encoding? And how to solve this problem?
   ref:: ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
