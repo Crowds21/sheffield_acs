@@ -63,7 +63,7 @@ alias:: 递归神经网络和神经语言模型
 		- 在隐藏层中,额外引入了一个记忆单元. 该记忆单元来控制上一个时步中哪些信息对于预测结果是非常有用的.
 	- LSTM 具体组成 ((647fad61-dfb0-42eb-9abf-6994be9f6c93)) [[card]]
 		- $h_t$ is  time step.
-		- $/sigma$ is a non-liea
+		- $/sigma$ is a non-lieaner
 		- (LSTM) Forget gate  (what info to throw away from previous steps) [[card]]
 			- $$f_t=\sigma\left(W_f\left[h_{t-1}, x_t\right]\right)$$
 		- (LSTM) Input gate (what new info will be stored in the memory cell) [[card]]
