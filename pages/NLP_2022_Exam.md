@@ -58,8 +58,7 @@
 			- 有限的上下文 limited context
 		- 外部评价:
 			- 和任务相关 task relevance,
-			-
-			-
+			- dependency on downstream tasks
 		- Intrinsic evaluation
 			- {{embed ((6478b22a-998d-4e95-8a2d-479cc1b4c52e))}}
 			- {{embed ((6478b22a-a1f5-4bab-8a43-817a2e39ebaf))}}
