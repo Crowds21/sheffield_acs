@@ -177,6 +177,7 @@
 			- canid bites ...better than bites ...?
 		- Combine evidence from unigram, bigram and trigram probabilities
 	- ((6478b92f-613f-4350-8cf6-8f8b40115b86))  简单线性插值  [[card]]
+	  collapsed:: true
 		- For a trigram LM, weighted average of unigram, bigram and trigram probabilities
 		- $$
 		  \begin{aligned}
@@ -187,7 +188,8 @@
 		  $$
 		- How to choose the value of $\lambda$s ->  Parameter tuning on the dev set!
 		- $\lambda$ 表示权重, 不同的 ngram 占据了不同的权重,最后得出一个 $P_{SLI}$
-	- ((6478b966-7915-46dd-b12a-6fcfb726a0a5))
+	- ((6478b966-7915-46dd-b12a-6fcfb726a0a5)) [[card]]
+	  collapsed:: true
 		- > Backoff 是一种策略，用于处理上下文中某个 n-gram（例如，trigram）不存在的情况。当需要计算某个 n-gram 的概率时，如果该 n-gram 在训练数据中没有出现过，就会使用 Backoff 策略
 		- Start with n-gram order of $k$  but if the counts are 0 use $k − 1$:
 		- $$
