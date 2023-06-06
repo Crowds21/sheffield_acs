@@ -138,6 +138,7 @@
 	- Train and evaluate the language models
 - ((6478afdc-8cb5-44c2-ac16-562350498a85)) 内部评估
 	- ((6478b049-bd2f-4c8b-b9e1-b311a70cc230)) of LMs [[card]]
+	  id:: 6478b22a-998d-4e95-8a2d-479cc1b4c52e
 		- How often the LM predicts the correct word, the higher the better
 	- ((6478b043-df43-44f2-be12-dbb396a9dfc1)) of LMs (困惑度)[[card]]
 		- Perplexity is the inverse probability of the test set
