@@ -154,7 +154,6 @@
 - TODO [#A] Truncated Singular Value Decomposition
   ref:: ((63e26500-8c7b-4fe8-baa3-4932bb28b0f5))
 	- 什么是 Truncated Singular Value Decomposition 截断的奇异值分解 [[card]]
-	  collapsed:: true
 		- 一种寻找数据集最重要维度的方法，即通过将矩阵分解为潜在因素，找到数据变化最大的那些维度
 		- Truncated Singular Value Decomposition (truncated-SVD):
 		  $X^{n \times m} \approx U^{n \times k} S^{k \times k} V^{k \times m}$
@@ -165,7 +164,6 @@
 		- You can obtain an embedding $\mathbf{u}_{\text {new }}$ for a new document $\mathbf{x}_{\text {new }}$ by projecting its count vector to the latent space
 		  $\mathbf{u}_{\text {new }}=\mathbf{x}_{\text {new }} v_k^{\top}$
 - TODO Evaluation
-  collapsed:: true
 	- Evaluation: Word Vectors
 	- Limitations: Word Vectors
 	- Evaluation: Document Vectors
