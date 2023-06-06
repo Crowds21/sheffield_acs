@@ -165,6 +165,7 @@
 		  矩阵 Back 中存储的是 单词 x_n 对于不同的 y_n 所获得最大 emission * transion后,此时 x_(n-1)对应的 y_(n-1)
 		- 类似一个全连接的神经网络
 	- Beam Searc Pseudocode and Data structure
+	  collapsed:: true
 		- **Current layer result** $current$
 		- **Last layer result**  $last$
 		- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
