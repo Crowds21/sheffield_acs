@@ -68,6 +68,7 @@
 		- {{embed ((6478b412-ed9b-47a3-8253-94c61d7cfaba))}}
 - Part2
 	- In HMM tagger's estimate, 
+	  collapsed:: true
 	  $x=\left\{x_1, \ldots, x_n\right\}$ is the given word sequence.
 	  $y=\left\{y_1, \ldots, y_n\right\}$, and $Y$ is a set of possible tags.
 	  $\hat{y}=\underset{y \in \mathcal{Y}^{\mathcal{N}}}{\operatorname{argmax}} P(y \mid x)$, $\hat{y}$ is the best tag sequence.
@@ -146,6 +147,7 @@
 		- So $y_3=NN$
 		-
 	- ((647f5225-b67f-4ad4-a3cb-8908346c7cce)) is the most commonly used algorithm to calculate the most probable path through a HMM efficiently. 
+	  collapsed:: true
 	  Describe the Viterbi algorithm using pseudocode and any auxiliary data structures it employs. [[card]]
 		- ### Data structure
 			- **Backpointer matrix** $\text { backptr }^{|\mathcal{Y}| \times N}$
