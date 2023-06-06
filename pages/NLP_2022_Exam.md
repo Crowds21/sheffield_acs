@@ -40,6 +40,7 @@
 		  $$
 		-
 	- What is add-1 smoothing? 
+	  collapsed:: true
 	  Why is it important for language modelling? 
 	  Describe using equations how add-1 smoothing is applied to the bigram language model. [[card]]
 		- {{embed ((6478b78a-05e0-4e22-9076-ab0f9eb8c33f))}}
