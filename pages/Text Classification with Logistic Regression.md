@@ -7,10 +7,12 @@
 - Text types
 - Supervised Learning
 - ((647f72c6-b3b3-4f46-896e-b187daf0e47f))
-- ((647f72d7-e496-4556-abeb-918590977dcf))
+- ((647f72d7-e496-4556-abeb-918590977dcf)) [[card]]
+  collapsed:: true
 	- Sqaushes the values of a vector between 0 and 1 and the elements add up to 1 resulting into a probability distribution:
 	- ((647f72ed-3823-4231-b0ec-40e2cb64e823))
 	-
+-
 - Multiclass Logistic Regression
 - ((63f4d21a-71a7-45d3-8b4c-ea26ed65ff9a))
 - 37 Evaluation
