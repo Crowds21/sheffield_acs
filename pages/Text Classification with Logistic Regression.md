@@ -6,7 +6,7 @@
 	- Real number
 - Text types
 - Supervised Learning
--
+- ((647f72c6-b3b3-4f46-896e-b187daf0e47f))
 - Multiclass Logistic Regression
 - ((63f4d21a-71a7-45d3-8b4c-ea26ed65ff9a))
 - 37 Evaluation
