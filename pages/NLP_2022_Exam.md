@@ -10,7 +10,7 @@
 		- They are expected to return the probability of an unseen sentence x.
 	- What is the equation for the probability of a sentence?
 	  How is this probability approximated in an n-gram language model?
-	  Explain the equation and the approximation terms.
+	  Explain the equation and the approximation terms. [[card]]
 		- $$
 		  P(\mathbf{x})=P\left(x_1, \ldots, x_n\right), \text { for } \forall \mathbf{x} \in V^{\max N}
 		  $$
@@ -141,7 +141,6 @@
 		- So $y_3=NN$
 		-
 	- ((647f5225-b67f-4ad4-a3cb-8908346c7cce)) is the most commonly used algorithm to calculate the most probable path through a HMM efficiently. 
-	  collapsed:: true
 	  Describe the Viterbi algorithm using pseudocode and any auxiliary data structures it employs. [[card]]
 		- ### Data structure
 			- **Backpointer matrix** $\text { backptr }^{|\mathcal{Y}| \times N}$
@@ -159,7 +158,6 @@
 		  矩阵 Back 中存储的是 单词 x_n 对于不同的 y_n 所获得最大 emission * transion后,此时 x_(n-1)对应的 y_(n-1)
 		- 类似一个全连接的神经网络
 	- Beam Searc Pseudocode and Data structure
-	  collapsed:: true
 		- **Current layer result** $current$
 		- **Last layer result**  $last$
 		- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
@@ -177,7 +175,6 @@
 	- What are distributed word representations? How do they compare to one-hot encoding
 	- What is one-hot encoding, what’s the problem in one-hot encoding? And how to solve this problem?
 	  ref:: ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
-	  collapsed:: true
 	  $\mathcal{V}=\{\text { apple, apricot, chocolate, love, pie, pineapple }\}$ [[card]]
 		- $|\mathcal{V}|=6$
 		- $\begin{aligned}\text { apricot } & =\mathbf{x}_2=[0,1,0,0,0,0] \\ \text { pineapple } & =\mathbf{x}_3=[0,0,0,0,0,1]\end{aligned}$
