@@ -185,7 +185,6 @@
 				- value of word being looked at, weighted based on context
 			- ((647cdf60-8476-45a9-8f7c-8866cd995cdf))
 		- Example of Self-Attention
-		  collapsed:: true
 			- The Query aims to establish the context, in this example, of the word “computer” (from)
 			- Done by querying each Key of all words (to)
 			- In our example, this might establish “science” as the word the provides the most informative context.
@@ -195,7 +194,6 @@
 			  collapsed:: true
 				- ((647ce002-0367-44a6-a15c-998d1320cbee))
 		- ((647ce249-d0e5-48aa-8d67-5df0ec807c5e))
-		  collapsed:: true
 			- ((647ce259-77ea-49af-b0dc-afa44785f728))
 			- The query is similar to the current decoder step
 			- (Query * Key) is similar to ((647cba68-1d31-4c4e-bdda-21119d78ab50)) scoring (where the key is equivalent to the encoder outputs
@@ -211,15 +209,12 @@
 			  $$
 			-
 		- Self-attention 的流程 [[card]]
-		  collapsed:: true
 			- ((647ce66f-a9d8-4e07-89aa-a8ea68bd053c))
 			- 同一个sequence 中,当前单词的前后所有文本都会被考虑其中
 		- ((647ce6db-41c3-42a5-8683-620d98e02329)) [[card]]
-		  collapsed:: true
 			- 在 Decoder 中, 在预测阶段(During inference 使用阶段)我们只看当前词之前的token,而不看之后的输入
 			- 在 Decoder 中, 在训练模型的过程中,模型可以读取上下文中的 token
 		- ((647ce6e9-1167-43ec-98e3-584f46a9e373)) [[card]]
-		  collapsed:: true
 			- > 在单头注意力机制中，我们对输入序列中的**每个单词计算一个注意力分数**，然后使用这些分数来生成新的上下文相关的单词表示。然而，这种方法可能会忽略输入序列中的复杂结构，因为它只从一个角度考虑了单词之间的关系。
 			- > 为了解决这个问题，多头注意力机制被提出。在多头注意力中，我们**不止一次地进行这个过程**，而是进行多次，每次都用不同的权重矩阵（也就是"头"）来计算注意力分数。然后，我们将所有头的输出合并成一个，以生成最终的单词表示。
 			- $$
@@ -240,11 +235,9 @@
 		- Is this a good translation?
 		- How does this translation compare to the other one?
 	- ((647ce70b-ed80-4bfb-b6f1-50c362b8c19e))
-	  collapsed:: true
 		- 将系统的输出和 "参考"进行比较,根据相似性评价
 		- ((647cebbc-f14c-4606-ae4f-c836454e32b5))
 	- ((647ce711-a912-4461-8053-59723c384aeb))
-	  collapsed:: true
 		- BLEU (Papineni et al., 2002)
 			- ((647ceb02-ac18-40db-86d2-c183570f96bf))
 			- $$
@@ -256,7 +249,6 @@
 		- BERTScore (Zhang et al., 2020)
 			- ((647ceb1b-c235-447a-b6c4-cbdd803dd894))
 	- ((647ce715-9263-4578-9232-0bc85653ba53)) [[card]]
-	  collapsed:: true
 		- 在开发阶段，自动评估指标因其计算速度快而有用，但可能不精确。
 		- 在测试阶段，也应进行手动评估
 		- 应该评估什么？
