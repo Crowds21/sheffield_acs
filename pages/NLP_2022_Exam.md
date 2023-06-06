@@ -141,6 +141,7 @@
 		- 类似一个全连接的神经网络
 	- Beam Searc Pseudocode and Data structure
 		- **Current layer result** $current$
-		- Last layer result  $last$
+		- **Last layer result**  $last$
 		- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
+		- for n in N
 		-
