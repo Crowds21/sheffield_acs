@@ -14,6 +14,7 @@
 	-
 - ((647f7309-91b5-438e-8e76-15e0a147753a))
 - ((647f7311-e280-4773-befc-fcbe5095d311))
+- ((647f7324-9167-4ea3-a561-4d111f53cc61))
 - Multiclass Logistic Regression
 - ((63f4d21a-71a7-45d3-8b4c-ea26ed65ff9a))
 - 37 Evaluation
