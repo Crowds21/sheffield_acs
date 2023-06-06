@@ -174,16 +174,16 @@
 	- ((6478b83a-7291-473f-a083-d5e0581e1a4e)) (插值)
 		- Longer contexts are more informative, but only if they are frequent enough
 		- Combine evidence from unigram, bigram and trigram probabilities
-		- ((6478b92f-613f-4350-8cf6-8f8b40115b86)) [[card]]
-			- For a trigram LM, weighted average of unigram, bigram and trigram probabilities
-			- $$
-			  \begin{aligned}
-			  P_{S L I}\left(x_n \mid x_{n-1}, x_{n-2}\right) & =\lambda_3 P\left(x_n \mid x_{n-1}, x_{n-2}\right) \\
-			  & +\lambda_2 P\left(x_n \mid x_{n-1}\right) \\
-			  & +\lambda_1 P\left(x_n\right) \quad \lambda_i>0, \sum \lambda_i=1
-			  \end{aligned}
-			  $$
-			- How to choose the value of $\lambda$s ->  Parameter tuning on the dev set!
+	- ((6478b92f-613f-4350-8cf6-8f8b40115b86)) [[card]]
+		- For a trigram LM, weighted average of unigram, bigram and trigram probabilities
+		- $$
+		  \begin{aligned}
+		  P_{S L I}\left(x_n \mid x_{n-1}, x_{n-2}\right) & =\lambda_3 P\left(x_n \mid x_{n-1}, x_{n-2}\right) \\
+		  & +\lambda_2 P\left(x_n \mid x_{n-1}\right) \\
+		  & +\lambda_1 P\left(x_n\right) \quad \lambda_i>0, \sum \lambda_i=1
+		  \end{aligned}
+		  $$
+		- How to choose the value of $\lambda$s ->  Parameter tuning on the dev set!
 	- ((6478b966-7915-46dd-b12a-6fcfb726a0a5))
 		- > Backoff 是一种策略，用于处理上下文中某个 n-gram（例如，trigram）不存在的情况。当需要计算某个 n-gram 的概率时，如果该 n-gram 在训练数据中没有出现过，就会使用 Backoff 策略
 		- Start with n-gram order of $k$  but if the counts are 0 use $k − 1$:
