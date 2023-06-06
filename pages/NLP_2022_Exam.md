@@ -181,4 +181,21 @@
 		-
 - Part3
 	- What are distributed word representations? How do they compare to one-hot encoding
-		-
+	- What is one-hot encoding, what’s the problem in one-hot encoding? And how to solve this problem?
+	  ref:: ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
+	  collapsed:: true
+	  $\mathcal{V}=\{\text { apple, apricot, chocolate, love, pie, pineapple }\}$ [[card]]
+		- $|\mathcal{V}|=6$
+		- $\begin{aligned}\text { apricot } & =\mathbf{x}_2=[0,1,0,0,0,0] \\ \text { pineapple } & =\mathbf{x}_3=[0,0,0,0,0,1]\end{aligned}$
+		- The problem
+			- $$
+			  \begin{aligned}
+			  \operatorname{dot}\left(\mathbf{x}_2, \mathbf{x}_3\right) & =0 \cdot 0+1 \cdot 0+0 \cdot 0+0 \cdot 0+0 \cdot 0+0 \cdot 1 \\
+			  & =0
+			  \end{aligned}
+			  $$
+			- $$
+			  \operatorname{cosine}\left(\mathbf{x}_2, \mathbf{x}_3\right)=\frac{\mathbf{x}_2 \cdot \mathbf{x}_3}{\left|\mathbf{x}_2\right|\left|\mathbf{x}_3\right|}=\frac{0}{1 \cdot 1}=0
+			  $$
+			- Every word is equally different from every other word. But apricot(杏) and pineapple(菠萝) are related
+		- Use contextual information.
