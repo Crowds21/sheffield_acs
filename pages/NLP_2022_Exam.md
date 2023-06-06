@@ -143,5 +143,7 @@
 		- **Current layer result** $current$
 		- **Last layer result**  $last$
 		- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
+		- **Transition probabilities**: $Tans(y_n, y_{n-1})$
+		- **Emission probabilities**: $Emi(x_n,y_n)$
 		- for n in N
-		- current =
+		- current = last *
