@@ -133,6 +133,7 @@
 		  i d f_w=\log _{10} \frac{N}{d f_w}
 		  $$
 		- $N$ is the number of documents in the corpus, $df_w$ is document frequency of word $w$
+			-
 		- $x_{i d}=t f_{i d} \log _{10} \frac{N}{d f_{i d}}$
 		- $tf$的计算方式有多种,可以使用$tf=\log_{10}(count(t,d)+1)$
 - TODO Problems with Dimensionality
