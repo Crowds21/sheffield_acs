@@ -24,8 +24,11 @@
 - ((647f7324-9167-4ea3-a561-4d111f53cc61))
 - Multiclass Logistic Regression
 - ((63f4d21a-71a7-45d3-8b4c-ea26ed65ff9a)) [[card]]
+  collapsed:: true
 	- ((647f733e-3690-4df0-bdf2-4ecb5157d792))
 - ((647f7351-e620-4a0c-9f56-cbc52267ac13)) [[card]]
+  collapsed:: true
 	- ((647f735b-bdf2-4e56-8d99-3453944ee2bb))
 - Evaluation [[card]]
+  collapsed:: true
 	- ((647f736d-8720-4a06-a82e-3cc982128a5e))
