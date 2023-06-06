@@ -113,6 +113,7 @@ alias:: 递归神经网络和神经语言模型
 	- many to many (既接收序列作为输入，也产生序列作为输出 equal): e.g. PoS tagging
 	- many to many (既接收序列作为输入，也产生序列作为输出 unequal): e.g. machine translation (coming next week), language generation, summarisation
 - TODO ((647b86af-6775-4a5a-89f2-16637c311e20))
+  collapsed:: true
 	- > 表示学习（Representation learning）是机器学习中的一个重要任务，旨在通过自动学习数据的特征表示，将输入数据转换为更具表征性和可用性的表示形式
 	- RNNs 学习单词和句子/文档的表示
 	- 由于RNNs的训练速度比Skip-Gram慢，所以单词的学习并不那么有趣：因此使用的数据更少
@@ -123,7 +124,7 @@ alias:: 递归神经网络和神经语言模型
 - Text classification: learn contextualised word representations and use them to predict a given class
 - Improve RNNs with Attention
 	- > 传统的RNN模型会遇到长距离依赖的问题，即模型难以捕捉到序列中相隔较远的元素之间的依赖关系。通过使用注意力机制，模型可以给予这些关键信息更多的重视，从而改善其性能
-	- ((647b88b8-3252-4b3e-8620-d7de2ff0654d))
+	- ((647b88b8-3252-4b3e-8620-d7de2ff0654d)) [[card]]
 		- 在多对一的任务中（例如，文本分类），通常每个时间步的输出会被合并（连接/平均/求和）然后传递给输出层
 		- 这种简单的组合假设所有的表示（来自每个时间步）都有相等的贡献
 		- 但这可能并非事实！
