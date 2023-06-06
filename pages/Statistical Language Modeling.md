@@ -147,11 +147,13 @@
 		  $$
 		- Measures how well a probability distribution predicts a sample. The lower the better.
 	- ((6478b3e7-e688-410c-aa81-ba05a2c5f0de)) [[card]]
+	  collapsed:: true
 		- ((6478b405-2b23-4210-b208-e37b9d39c465))
 		- TODO Doesn’t always correlate with application performance
 		- Can’t evaluate non probabilistic LMs
 - ((6478b40f-99d4-4611-a721-9db924fbe415)) 外部评估 [[card]]
   id:: 6478b412-ed9b-47a3-8253-94c61d7cfaba
+  collapsed:: true
 	- Sentence completion
 	- Grammatical error correction: detecting “odd” sentences and propose alternatives
 	- Natural lanuage generation: prefer more “natural” sentences
@@ -160,18 +162,21 @@
 - ((6478b791-8fa8-4615-963f-b29f36978aaf))
 	- ((6474c77a-1b93-4040-8061-6f5f2ce83f7b)) [[card]]
 	  id:: 6478b78a-05e0-4e22-9076-ab0f9eb8c33f
+	  collapsed:: true
 		- Add-1 (or Laplace) smoothing adds one to all bigram counts to avoid probabilities being 0. Pretend we have seen all bigrams at least once.
 		- $$
 		  P_{a d d-1}\left(x_n \mid x_{n-1}\right)=\frac{c\left(x_{n-1}, x_n\right)+1}{c\left(x_{n-1}\right)+|V|}
 		  $$
 	- ((6474c766-79af-4101-a653-808ac220a86e)) [[card]]
 	  id:: 6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5
+	  collapsed:: true
 		- Add-1 puts too much probability mass to unseen bigrams, better to add-k, k < 1:
 		- $$
 		  P_{a d d-k}\left(x_n \mid x_{n-1}\right)=\frac{\operatorname{counts}\left(x_{n-1}, x_n\right)+k}{\operatorname{counts}\left(x_{n-1}\right)+k|V|}
 		  $$
 		- k is a hyperparameter: choose optimal value on the dev set!
 	- ((6478b83a-7291-473f-a083-d5e0581e1a4e)) (插值)
+	  collapsed:: true
 		- Longer contexts are more informative, but only if they are frequent enough
 			- dog bites ... better than bites ... dog bites 比  bites more informative
 			- canid bites ...better than bites ...?
