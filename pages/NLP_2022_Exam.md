@@ -46,6 +46,7 @@
 		- {{embed ((6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5))}}
 	- Intrinsic evaluation
 		- {{embed ((6478b22a-998d-4e95-8a2d-479cc1b4c52e))}}
+		- {{embed ((6478b22a-a1f5-4bab-8a43-817a2e39ebaf))}}
 		-
 - Part2
 	- In HMM tagger's estimate, 
