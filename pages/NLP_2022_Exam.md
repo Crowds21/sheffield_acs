@@ -136,7 +136,7 @@
 			- ```py
 			  for i in N:
 			     for j in T:
-			  
+			          $V[]
 			  ```
 			- ((647a01a6-a60c-46a0-b4c4-ebb2955d2c13))
 		- 矩阵 V 中的每一个节点中存储的是,单词 x_n 对于不同的 y_n 所获得的最大 emission * transion.
