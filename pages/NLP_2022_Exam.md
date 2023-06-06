@@ -47,7 +47,7 @@
 	- Intrinsic evaluation
 		- {{embed ((6478b22a-998d-4e95-8a2d-479cc1b4c52e))}}
 		- {{embed ((6478b22a-a1f5-4bab-8a43-817a2e39ebaf))}}
-		-
+	-
 - Part2
 	- In HMM tagger's estimate, 
 	  $x=\left\{x_1, \ldots, x_n\right\}$ is the given word sequence.
