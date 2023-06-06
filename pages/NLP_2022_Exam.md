@@ -46,7 +46,9 @@
 		- {{embed ((6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5))}}
 		- {{embed ((6478b22a-97ba-45d9-8280-5faf76a70efe))}}
 		- {{embed ((6478b22a-e2b9-4dfb-bb6e-6a0ecb7e226a))}}
-		-
+		- $$
+		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n \mid x_{n-1}\right)=\prod_{n=1}^N \frac{c\left(x_{n-1}, x_n\right)}{c\left(x_{n-1}\right)}
+		  $$
 	- evaluation
 		- Intrinsic evaluation
 			- {{embed ((6478b22a-998d-4e95-8a2d-479cc1b4c52e))}}
