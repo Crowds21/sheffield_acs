@@ -46,7 +46,6 @@ alias:: 递归神经网络和神经语言模型
 			- unroll the graph for $n$ steps and sum the gradients in updating
 		- Not as restrictive as the nth-order Markov: we still use **all previous words** through the recurrence.
 	- ((647b7fd0-5beb-4ace-b593-4fcb06855814))
-	  collapsed:: true
 		- RNNs can’t capture long-range dependencies:
 		- effectively have one layer per word in the sentence
 		  实际上每个句子中的单词都对应一层
@@ -57,7 +56,6 @@ alias:: 递归神经网络和神经语言模型
 	-
 - Train with SGD and Backpropagation through Time
 - RNN extensions: Long-Short Term Memory (LSTM)
-  collapsed:: true
 	- ((647b81fc-d525-492f-bed2-607fbe619408)) 简介 [[card]]
 	  collapsed:: true
 		- ((647b827b-c649-4981-ae52-9fe39147b225))
@@ -87,7 +85,6 @@ alias:: 递归神经网络和神经语言模型
 			  \end{gathered}
 			  $$
 - RNN extensions: ((647b84b5-bd39-4dcf-8651-2c78c70df65a)) [[card]]
-  collapsed:: true
 	- LSTM(Long-Short Term Memor) variant
 	- (GRU) Update gate (combines input and forget gates):
 	  > 决定了当前时间步的隐藏状态应该在多大程度上保留前一时间步的隐藏状态信息
