@@ -266,5 +266,22 @@
                                    :height 452.2495845218901}),
                           :page 45},
                :content {:text "Attention Mechanism"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647fad61-dfb0-42eb-9abf-6994be9f6c93",
+               :page 28,
+               :position {:bounding {:x1 12.3046875,
+                                     :y1 18.3828125,
+                                     :x2 381.72979736328125,
+                                     :y2 47.3828125,
+                                     :width 525,
+                                     :height 393.74963826532723},
+                          :rects ({:x1 12.3046875,
+                                   :y1 18.3828125,
+                                   :x2 381.72979736328125,
+                                   :y2 47.3828125,
+                                   :width 525,
+                                   :height 393.74963826532723}),
+                          :page 28},
+               :content {:text "Long-Short Term Memory (LSTM) network"},
                :properties {:color "yellow"}}],
- :extra {:page 31}}
+ :extra {:page 28}}
