@@ -145,7 +145,7 @@
 		- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
 		- **Transition probabilities**: $Tans(y_n, y_{n-1})$
 		- **Emission probabilities**: $Emi(x_n,y_n)$
-		- **TOP-K:** function to keep the larg
+		- **TOP-K:** function to keep the
 		- for n in N
 			- current = last * $Tans(y_n, y_{n-1})$ * $Emi(x_n,y_n)$
 			- last = TOP-K (current)
