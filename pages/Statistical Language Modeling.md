@@ -15,6 +15,7 @@
   [[card]]
 	- Training data: sentences $x^m$ with words $x_n$
 - What does the statistical language model return? [[card]]
+  collapsed:: true
 	- Sentence probabilities
 	- ((6475fb63-c2bd-4da8-a17a-584b52efef94))
 	- $$
