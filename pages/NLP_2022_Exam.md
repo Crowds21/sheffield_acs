@@ -121,7 +121,7 @@
 		  $$
 		- So $y_3=NN$
 		-
-	- The Viterbi algorithm is the most commonly used algorithm to calculate the most probable path through a HMM efficiently. 
+	- ((647f5225-b67f-4ad4-a3cb-8908346c7cce)) is the most commonly used algorithm to calculate the most probable path through a HMM efficiently. 
 	  Describe the Viterbi algorithm using pseudocode and any auxiliary data structures it employs.
 		- ### Data structure
 			- **Backpointer matrix** $\text { backptr }^{|\mathcal{Y}| \times N}$
