@@ -57,7 +57,7 @@
 			- 直接评估 direct assessment 受环境控制 Controled environment,
 			- 有限的上下文 limited context
 		- 外部评价:
-			- 和任务相关 task relevance
+			- 和任务相关 task relevance,
 			-
 		- Intrinsic evaluation
 			- {{embed ((6478b22a-998d-4e95-8a2d-479cc1b4c52e))}}
