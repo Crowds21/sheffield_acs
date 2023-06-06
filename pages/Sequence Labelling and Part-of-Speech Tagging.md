@@ -91,6 +91,7 @@
 			- TODO $\begin{aligned} P(\mathbf{y} \mid \mathbf{x})= & P(I \mid P P S S) P(P P S S \mid S T A R T) \\ & P(\text { can } \mid M D) P(M D \mid P P S S) \\ & P(f l y \mid N N) P(N N \mid M D)\end{aligned}$
 			- emission probabilities * transition probabilities
 	- ((64073ead-7e23-445d-9f0c-81604e15b073))
+	  collapsed:: true
 		- $$
 		  \hat{\mathbf{y}}=\underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)
 		  $$
