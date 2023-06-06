@@ -173,7 +173,8 @@
 		- k is a hyperparameter: choose optimal value on the dev set!
 	- ((6478b83a-7291-473f-a083-d5e0581e1a4e)) (插值)
 		- Longer contexts are more informative, but only if they are frequent enough
-			-
+			- dog bites ... better than bites ...
+			- canid bites ...better than bites ...?
 		- Combine evidence from unigram, bigram and trigram probabilities
 	- ((6478b92f-613f-4350-8cf6-8f8b40115b86))  简单线性插值  [[card]]
 		- For a trigram LM, weighted average of unigram, bigram and trigram probabilities
