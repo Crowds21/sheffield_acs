@@ -1,7 +1,6 @@
 - ![com6513.pdf](../assets/com6513_1685374358009_0.pdf)
 - Part1
 	- What is a language model? 
-	  collapsed:: true
 	  Describe the data required to train a language model
 	  and what a trained model is expected to return
 		- Language model is
@@ -10,7 +9,6 @@
 		- The data: Train set, test set, validation set. Pre-annotated text.
 		- They are expected to return the probability of an unseen sentence x.
 	- What is the equation for the probability of a sentence?
-	  collapsed:: true
 	  How is this probability approximated in an n-gram language model?
 	  Explain the equation and the approximation terms.
 		- $$
@@ -85,7 +83,6 @@
 		- $\hat{\mathbf{y}} \approx \underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
 		- > Joint Probability Distribution: $P(x,y) = P(x)P(y)$
 	- Consider the sentence `I play games`. The following counts are observed in a corpus:
-	  collapsed:: true
 	  1. unigram word/tag counts; 
 	  2. bigram tag counts; and
 	  3. counts of occurrences of a word with a particular part-of-speech tag (see the corresponding tables below). 
