@@ -134,7 +134,7 @@ alias:: 递归神经网络和神经语言模型
 			- $$
 			  \mathbf{c}=\sum_i \mathbf{h}_i \alpha_i
 			  $$
-			- $\alpha_i$就是一个权重.
+			- $\alpha_i$就是一个权重. 乘以输入,最后得一个输出,这个就可以理解为注意力机制
 		- Pass $c$ to the output layer for classification
 	- 介绍 ((647b898d-ccee-43a5-9578-ee813b44b7d0)) [[card]]
 		- Attention usually consists of a similarity function $\phi$ followed by softmax:
