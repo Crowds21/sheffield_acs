@@ -133,16 +133,7 @@
 			- **Tag collection** $s=\left[s_1, \ldots, s_T\right]$
 			- **Transition probabilities**: $Tans(y_n, y_{n-1})$
 			- **Emission probabilities**: $Emi(x_n,y_n)$
-			-
 		- ### Pseudocode
-			- ```py
-			  for i in N:
-			     for j in T:
-			          V[y_n,n] = max(  V[y_n-1, n-1] * Tans(y_n,y_n-1) * Emi(x_n,y_n)  )
-			          backptr[y,n] = argmax ( V[y_n-1,n-1] * Tans(y_n,y_n-1) * Emi(x_n,y_n) )
-			  TagSequence = argmax( V[y_N,N] )
-			  ```
-			-
 			- ((647a01a6-a60c-46a0-b4c4-ebb2955d2c13))
 		- 矩阵 V 中的每一个节点中存储的是,单词 x_n 对于不同的 y_n 所获得的最大 emission * transion.
 		  矩阵 Back 中存储的是 单词 x_n 对于不同的 y_n 所获得最大 emission * transion后,此时 x_(n-1)对应的 y_(n-1)
