@@ -107,7 +107,6 @@ alias:: 递归神经网络和神经语言模型
 		  h_t=\left(1-z_t\right) * h_{t-1}+z_t * \tilde{h}_t
 		  $$
 - ((647b8680-f06c-4757-975a-17cdd535678c)) [[card]]
-  collapsed:: true
 	- ((647b8694-30c0-44c1-92ef-1c1770721fba))
 	- many to one (接收一个序列作为输入，但只产生一个输出): e.g. text classification, 情感分析
 	- many to many (既接收序列作为输入，也产生序列作为输出 equal): e.g. PoS tagging
