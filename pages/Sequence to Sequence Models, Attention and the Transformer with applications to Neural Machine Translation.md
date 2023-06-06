@@ -235,6 +235,7 @@
 		- 将系统的输出和 "参考"进行比较,根据相似性评价
 		- ((647cebbc-f14c-4606-ae4f-c836454e32b5))
 	- ((647ce711-a912-4461-8053-59723c384aeb)) [[card]]
+	  collapsed:: true
 		- BLEU (Papineni et al., 2002)
 			- ((647ceb02-ac18-40db-86d2-c183570f96bf))
 			- $$
