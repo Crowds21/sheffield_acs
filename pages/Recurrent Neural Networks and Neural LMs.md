@@ -46,7 +46,7 @@ alias:: 递归神经网络和神经语言模型
 		- Backpropagation Through Time
 			- unroll the graph for $n$ steps and sum the gradients in updating
 		- Not as restrictive as the nth-order Markov: we still use **all previous words** through the recurrence.
-	- ((647b7fd0-5beb-4ace-b593-4fcb06855814))
+	- ((647b7fd0-5beb-4ace-b593-4fcb06855814)) [[]
 		- RNNs can’t capture long-range dependencies:
 		- effectively have one layer per word in the sentence
 		  实际上每个句子中的单词都对应一层
