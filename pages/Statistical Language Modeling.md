@@ -15,7 +15,6 @@
   [[card]]
 	- Training data: sentences $x^m$ with words $x_n$
 - What does the statistical language model return? [[card]]
-  collapsed:: true
 	- Sentence probabilities
 	- ((6475fb63-c2bd-4da8-a17a-584b52efef94))
 	- $$
@@ -27,7 +26,6 @@
 	- N-gram language model
 	- ((64760ab5-4060-42a1-b1bf-cbbeba83054a))
 - ((6476078e-e89b-4ee3-85e9-6f6e3efc9e1a)) 一元语言模型 
-  collapsed:: true
   Introduction and the potential problem 
   [[card]]
 	- Introduction
@@ -43,7 +41,6 @@
 		- ((64760aa9-2bea-44e7-8921-ec223848b18f))
 - ((64760ab2-3fe6-4586-802b-fbf77162f98d)) 最大似然估计
   id:: 64760ab5-4060-42a1-b1bf-cbbeba83054a
-  collapsed:: true
   Introduction and problems [[card]]
 	- Introduction
 		- Assume that each word is dependent on all previous ones:
