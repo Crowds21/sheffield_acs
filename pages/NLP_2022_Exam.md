@@ -125,6 +125,6 @@
 	  Describe the Viterbi algorithm using pseudocode and any auxiliary data structures it employs.
 		- ### Data structure
 			- **Backpointer matrix** $\text { backptr }^{|\mathcal{Y}| \times N}$
-			-
+			- Input sequence
 		- ### Pseudocode
 		-
