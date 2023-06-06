@@ -43,7 +43,6 @@
 - ((647a294e-e5ed-463f-8c69-5dd7aa933314))
 	- 命名实体识别(NET): 通过为文本中的块分配标签来识别实体（如人物（PER）、组织（ORG）、位置（LOC）、国家（COUNTRY）、日期（DATE）和其他杂项（MISC））。
 	- BIOES encoding: [[card]] 
-	  collapsed:: true
 	  “John Fitzgerald Kennedy (May 29, 1917 – November 22, 1963), often referred to by his initials JFK and the nickname Jack, was an American politician who served as the 35th president of the United States from 1961 until his assassination in 1963.”
 	  > person (PER), organisation (ORG), location (LOC), (COUNTRY), (DATE) miscellaneous (MISC)
 		- Annotate word with beginning (B), inside(I), outside(O), end (E), single (S) of class information
@@ -55,7 +54,6 @@
 		- until（O）
 		- 其他简单的方案包括BIO编码。
 	- ((647b612d-cf5d-493d-8726-1fc861ec36f3)) [[card]]
-	  collapsed:: true
 		- BiLSTM-Softmax disregards label dependencies and simply feeds the tag scores into a softmax layer to get the label classification.
 		  BiLSTM-Softmax忽略了标签之间的依赖关系，只是将标签得分输入到一个softmax层中，以获得标签分类结果。
 		- BiLSTM-CRF is more expressive, considers label dependencies, suitable for complex sequence labelling problems such as fine-grained NER (i.e., tags such as{B-ORG,I-ORG} to identify“Royal Court”).
