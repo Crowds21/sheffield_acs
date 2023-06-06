@@ -95,5 +95,22 @@
                                    :height 844.8}),
                           :page 4},
                :content {:text "transition probabilities or the emission probabilities"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647f5225-b67f-4ad4-a3cb-8908346c7cce",
+               :page 4,
+               :position {:bounding {:x1 110.7420654296875,
+                                     :y1 692.21875,
+                                     :x2 229.57032775878906,
+                                     :y2 710.21875,
+                                     :width 657,
+                                     :height 850.2352941176471},
+                          :rects ({:x1 110.7420654296875,
+                                   :y1 692.21875,
+                                   :x2 229.57032775878906,
+                                   :y2 710.21875,
+                                   :width 657,
+                                   :height 850.2352941176471}),
+                          :page 4},
+               :content {:text "The Viterbi algorithm "},
                :properties {:color "yellow"}}],
- :extra {:page 5}}
+ :extra {:page 4}}
