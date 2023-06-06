@@ -208,6 +208,7 @@
 		  CLOCK: [2023-06-06 Tue 20:30:58]--[2023-06-06 Tue 20:31:04] =>  00:00:06
 		  :END:
 	- ((6478bdce-cb4f-4dad-8b8a-490e60915b1c)) [[card]]
+	  collapsed:: true
 		- > Absolute Discounting（绝对减值）是一种用于平滑统计语言模型的技术之一
 		- held-out set = validation set
 		- average count
@@ -217,6 +218,7 @@
 		  $$
 		- 通过组合Bigram 和  Unigram 来得到一个 Absolute Discounting
 	- ((6478be02-ad50-44a1-a047-05ed3d247746)) [[card]]
+	  collapsed:: true
 		- $$
 		  \begin{aligned}
 		  & \operatorname{SBO}\left(x_n \mid x_{n-1} \ldots x_{n-k}\right)= \\
