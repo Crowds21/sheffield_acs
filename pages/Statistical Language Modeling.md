@@ -166,14 +166,12 @@
 		  $$
 	- ((6474c766-79af-4101-a653-808ac220a86e)) [[card]]
 	  id:: 6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5
-	  collapsed:: true
 		- Add-1 puts too much probability mass to unseen bigrams, better to add-k, k < 1:
 		- $$
 		  P_{a d d-k}\left(x_n \mid x_{n-1}\right)=\frac{\operatorname{counts}\left(x_{n-1}, x_n\right)+k}{\operatorname{counts}\left(x_{n-1}\right)+k|V|}
 		  $$
 		- k is a hyperparameter: choose optimal value on the dev set!
 	- ((6478b83a-7291-473f-a083-d5e0581e1a4e)) (插值)
-	  collapsed:: true
 		- Longer contexts are more informative, but only if they are frequent enough
 		- Combine evidence from unigram, bigram and trigram probabilities
 		- ((6478b92f-613f-4350-8cf6-8f8b40115b86)) [[card]]
@@ -187,7 +185,6 @@
 			  $$
 			- How to choose the value of $\lambda$s ->  Parameter tuning on the dev set!
 	- ((6478b966-7915-46dd-b12a-6fcfb726a0a5))
-	  collapsed:: true
 		- > Backoff 是一种策略，用于处理上下文中某个 n-gram（例如，trigram）不存在的情况。当需要计算某个 n-gram 的概率时，如果该 n-gram 在训练数据中没有出现过，就会使用 Backoff 策略
 		- Start with n-gram order of $k$  but if the counts are 0 use $k − 1$:
 		- $$
@@ -203,7 +200,6 @@
 		  $$
 		- TODO $\beta$ is the left-over probability mass for the (n-k)-gram
 	- ((6478bdce-cb4f-4dad-8b8a-490e60915b1c))
-	  collapsed:: true
 		- > Absolute Discounting（绝对减值）是一种用于平滑统计语言模型的技术之一
 		- held-out set = validation set
 		- average count
@@ -212,7 +208,6 @@
 		  P_{\text {AbsDiscount }}\left(x_n \mid x_{n-1}\right)=\frac{c\left(x_n, x_{n-1}\right)-d}{c\left(x_{n-1}\right)}+\lambda_{x_{n-1}} P\left(x_n\right)
 		  $$
 	- ((6478be02-ad50-44a1-a047-05ed3d247746))
-	  collapsed:: true
 		- $$
 		  \begin{aligned}
 		  & \operatorname{SBO}\left(x_n \mid x_{n-1} \ldots x_{n-k}\right)= \\
