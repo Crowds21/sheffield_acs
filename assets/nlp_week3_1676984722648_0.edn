@@ -191,5 +191,17 @@
                                    :height 342.74968511858003}),
                           :page 61},
                :content {:text "Regularisation"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647f735b-bdf2-4e56-8d99-3453944ee2bb",
+               :page 61,
+               :position {:bounding {:x1 37,
+                                     :y1 71,
+                                     :x2 435,
+                                     :y2 327,
+                                     :width 457,
+                                     :height 342.74968511858003},
+                          :rects (),
+                          :page 61},
+               :content {:text "[:span]", :image 1686074202018},
                :properties {:color "yellow"}}],
- :extra {:page 61}}
+ :extra {:page 65}}
