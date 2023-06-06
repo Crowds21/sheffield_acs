@@ -141,4 +141,5 @@
 		- 类似一个全连接的神经网络
 	- Beam Searc Pseudocode and Data structure
 		- Current layer result $current$
-		- Last lay
+		- Last layer result  $last$
+		-
