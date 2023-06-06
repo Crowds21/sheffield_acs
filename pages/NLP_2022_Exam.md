@@ -125,7 +125,7 @@
 	  Describe the Viterbi algorithm using pseudocode and any auxiliary data structures it employs.
 		- ### Data structure
 			- **Backpointer matrix** $\text { backptr }^{|\mathcal{Y}| \times N}$
-				- Save the la
+				- The tag of the previous word when the current word is tagged with a certain tag with the highest probability.
 			- **Viterbi matrix** $v^{|\mathcal{Y}| \times N}$
 				- The largest probabilities of current word with specific tag
 			- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
