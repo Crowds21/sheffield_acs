@@ -25,6 +25,7 @@
 		- automatically extract features from data - replaces manual feature engineering that is prone to human errors.
 		- The use of Supervised and Unsupervised learning techniques for feature learning.
 - ((647a262a-1308-4f05-b93c-49681fc48b2b))
+  collapsed:: true
 	- Rule-based: [[card]]
 		- Human experts (computational linguists) write general linguistic rules and task-specific extraction rules.
 		- Example, trigger keywords, regular expressions and patterns.
@@ -37,6 +38,7 @@
 		- these are used to extract information that statistically correlates with classes of entities,relations, etc.
 		  这些特征用于提取与实体、关系等类别统计相关的信息
 - ((647a2948-85ec-4f60-8954-0127f6fedc26)) [[card]]
+  collapsed:: true
 	- 创建一个带有标注的参考语料库的黄金数据集:
 	- 将黄金数据集分为三个部分:
 		- 开发/训练集: 用于研究数据、训练机器学习过程，可以检查。
@@ -44,6 +46,7 @@
 		- 测试集: 不能被检查；只在项目结束时用于最终评估运行。对于系统和开发人员来说是完全未知的数据。
 	- 黄金数据集分割比例: 例如80%用于训练，10%用于开发测试，10%用于测试。
 - ((647a294e-e5ed-463f-8c69-5dd7aa933314))
+  collapsed:: true
 	- 命名实体识别(NET): 通过为文本中的块分配标签来识别实体（如人物（PER）、组织（ORG）、位置（LOC）、国家（COUNTRY）、日期（DATE）和其他杂项（MISC））。
 	- BIOES encoding: [[card]] 
 	  “John Fitzgerald Kennedy (May 29, 1917 – November 22, 1963), often referred to by his initials JFK and the nickname Jack, was an American politician who served as the 35th president of the United States from 1961 until his assassination in 1963.”
