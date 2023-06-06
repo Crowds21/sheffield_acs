@@ -14,7 +14,7 @@
 		- $$
 		  P(\mathbf{x})=P\left(x_1, \ldots, x_n\right), \text { for } \forall \mathbf{x} \in V^{\max N}
 		  $$
-		- For different models
+		- Different models
 			- Unigram
 			  $$
 			  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n\right)=\prod_{n=1}^N \frac{c\left(x_n\right)}{\sum_{x \in V} c(x)}
