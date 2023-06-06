@@ -1,8 +1,6 @@
 - ![com6513.pdf](../assets/com6513_1685374358009_0.pdf)
 - Part1
-  collapsed:: true
 	- What is a language model? 
-	  collapsed:: true
 	  Describe the data required to train a language model
 	  and what a trained model is expected to return
 		- Language model is
