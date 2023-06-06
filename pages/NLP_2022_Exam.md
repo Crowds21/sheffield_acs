@@ -49,6 +49,7 @@
 		- $$
 		  P(\mathbf{x})=\prod_{n=1}^N P\left(x_n \mid x_{n-1}\right)=\prod_{n=1}^N \frac{c\left(x_{n-1}, x_n\right)+1}{c\left(x_{n-1}\right)+ |V|}
 		  $$
+		-
 	- evaluation
 		- Intrinsic evaluation
 			- {{embed ((6478b22a-998d-4e95-8a2d-479cc1b4c52e))}}
