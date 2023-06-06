@@ -10,6 +10,7 @@
 		- The data: Train set, test set, validation set. Pre-annotated text.
 		- They are expected to return the probability of an unseen sentence x.
 	- What is the equation for the probability of a sentence?
+	  collapsed:: true
 	  How is this probability approximated in an n-gram language model?
 	  Explain the equation and the approximation terms.
 		- $$
@@ -40,6 +41,7 @@
 		  $$
 		-
 	- What is add-1 smoothing? 
+	  collapsed:: true
 	  Why is it important for language modelling? 
 	  Describe using equations how add-1 smoothing is applied to the bigram language model. [[card]]
 		- {{embed ((6478b78a-05e0-4e22-9076-ab0f9eb8c33f))}}
@@ -51,6 +53,7 @@
 		  $$
 		-
 	- Language models can be evaluated intrinsically and extrinsically. 
+	  collapsed:: true
 	  Discuss the advantages and disadvantages for each approach
 	  Describe TWO methods for intrinsic and THREE for extrinsic evaluation.
 		- 内部评价 (通过评估内部质量和预测语言的能力,来直接评估语言模型的性能)
