@@ -51,7 +51,8 @@
 		  $$
 		-
 	- Language models can be evaluated intrinsically and extrinsically. 
-	  Discuss the advantages and disadvantages for each approach and describe TWO methods for intrinsic and THREE for extrinsic evaluation.
+	  Discuss the advantages and disadvantages for each approach
+	  Describe TWO methods for intrinsic and THREE for extrinsic evaluation.
 		- Intrinsic evaluation
 			- {{embed ((6478b22a-998d-4e95-8a2d-479cc1b4c52e))}}
 			- {{embed ((6478b22a-a1f5-4bab-8a43-817a2e39ebaf))}}
