@@ -138,7 +138,7 @@
 			     for j in T:
 			          V[y_n,n] = max(  V[y_n-1, n-1] * Tans(y_n,y_n-1) * Emi(x_n,y_n)  )
 			          backptr[y,n] = argmax ( V[y_n-1,n-1] * Tans(y_n,y_n-1) * Emi(x_n,y_n) )
-			  
+			  TagSequence = argmax( V[y_N,N] )
 			  ```
 			-
 			- ((647a01a6-a60c-46a0-b4c4-ebb2955d2c13))
