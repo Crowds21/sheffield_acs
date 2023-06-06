@@ -125,7 +125,7 @@
 	  Describe the Viterbi algorithm using pseudocode and any auxiliary data structures it employs.
 		- ### Data structure
 			- **Backpointer matrix** $\text { backptr }^{|\mathcal{Y}| \times N}$
-				- Save the
+				- Save the la
 			- **Viterbi matrix** $v^{|\mathcal{Y}| \times N}$
 			- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
 			- **Tag sequence** $y=\left[y_1, \ldots, y_N\right]$
