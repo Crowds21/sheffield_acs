@@ -4,7 +4,7 @@
 	  Describe the data required to train a language model
 	  and what a trained model is expected to return
 		- Language model is
-			- A language model is a type of artificial intelligence model that is designed to predict and generate human-like text based on the patterns and structures learned from a given training dataset. It captures the statistical relationships and dependencies between words or characters in a language.
+			- A language model is a type of artificial intelligence model that is **designed to predict and generate human-like text based on the patterns and structures learned from a given training dataset.** It captures the statistical relationships and dependencies between words or characters in a language.
 			  语言模型是一种人工智能模型，旨在根据从给定训练数据集中学习的模式和结构来预测和生成类似人类的文本。它捕获语言中单词或字符之间的统计关系和依赖关系
 		- The data: Train set, test set, validation set. Pre-annotated text.
 		- They are expected to return the probability of an unseen sentence x.
