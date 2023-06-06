@@ -128,6 +128,6 @@
 			- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
 			- **Tag sequence** $y=\left[y_1, \ldots, y_N\right]$
 			- **Tag collection** $s=\left[s_1, \ldots, s_T\right]$
-			-
+			- V
 		- ### Pseudocode
 			- ((647a01a6-a60c-46a0-b4c4-ebb2955d2c13))
