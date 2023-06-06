@@ -199,3 +199,11 @@
 			  $$
 			- Every word is equally different from every other word. But apricot(杏) and pineapple(菠萝) are related
 		- Use contextual information.
+	- Calculate Vector Similarity [[card]] 
+	  ref:: ((63dfa77e-72b9-4abb-b0bf-2a9711d76136))
+	  collapsed:: true
+		- Dot(inner) product
+			- $\operatorname{dot}\left(\mathbf{x}_1, \mathbf{x}_2\right)=\mathbf{x}_1 \cdot \mathbf{x}_2=\mathbf{x}_1 \mathbf{x}_2^{\top}=\sum_{i=1}^d x_{1, i} x_{2, i}$
+		- Cosine similarity
+			- $\operatorname{cosine}\left(\mathbf{x}_1, \mathbf{x}_2\right)=\frac{\mathbf{x}_1 \cdot \mathbf{x}_2}{\left|\mathbf{x}_1\right|\left|\mathbf{x}_2\right|}=\frac{\sum_{i=1}^d x_{1, i} \cdot x_{2, i}}{\sqrt{\sum_{i=1}^d\left(x_{1, d}\right)^2} \sqrt{\sum_{i=1}^d\left(x_{2, d}\right)^2}}$
+			-
