@@ -56,7 +56,7 @@
 		- 内部评价 (通过评估内部质量和预测语言的能力,来直接评估语言模型的性能)
 			- 直接评估 direct assessment 受环境控制 Controled environment,
 			- 有限的上下文 limited context
-		- 外部评价(根据)
+		- 外部评价(根据模型在特定的应用和)
 			- 和任务相关 task relevance,
 			- dependency on downstream tasks
 		- Intrinsic evaluation
