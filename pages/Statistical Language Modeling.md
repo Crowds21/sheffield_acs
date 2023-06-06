@@ -78,7 +78,6 @@
 		- 我们假设训练数据是从真实分布中独立采样得到的，但在实际情况下，很多单词序列并不是等概率出现的
 		- 最大似然估计在面对数据稀疏的情况下，可能会高估或低估某些事件的概率，从而影响模型的性能和预测准确性。
 - ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型 (Markov assumption:)
-  collapsed:: true
 	- Introduction of ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) [[card]]
 		- ((64760be5-a928-44da-a374-313cc7af7da7))
 		- $$
@@ -91,7 +90,6 @@
 			- 在前几个单词是 xxx 的条件下, 后一个单词是 x_n 的概率
 	- From counts to probabilities
 		- ((64762b81-265e-4037-9f4c-352dee52300e))
-		  collapsed:: true
 		  Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
 		  How to calculate  $P(monkeys)$ [[card]]
 			- ((64762be9-a3ab-4b89-b655-b660780b382f))
@@ -121,7 +119,6 @@
 		- the sparser the counts (zero probabilities)
 	- Normarlly 5-grams and training sets with billions of tokens are common.
 - Handle ((6478ade1-e1ce-403b-afed-7db1d622c5ab)) 
-  collapsed:: true
   How it happens, what is the solution[[card]]
 	- If a word was never encountered in training, any sentence containing it will have probability 0
 	- Unknown words problems happen when
