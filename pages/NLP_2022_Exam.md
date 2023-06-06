@@ -128,7 +128,7 @@
 			- **Input word sequence** $x=\left[x_1, \ldots, x_N\right]$
 			- **Tag sequence** $y=\left[y_1, \ldots, y_N\right]$
 			- **Tag collection** $s=\left[s_1, \ldots, s_T\right]$
-			- V
+			- $e_n
 		- ### Pseudocode
 			- ((647a01a6-a60c-46a0-b4c4-ebb2955d2c13))
 		- 矩阵 V 中的每一个节点中存储的是,单词 x_n 对于不同的 y_n 所获得的最大 emission * transion.
