@@ -236,7 +236,6 @@
 			- For details on the other components, read the paper
 			  background-color:: red
 - Evaluation Human Judgements and Automatic Metrics
-  collapsed:: true
 	- ((647ce706-e857-46d8-a5ca-5d835b536645))
 		- Is this a good translation?
 		- How does this translation compare to the other one?
