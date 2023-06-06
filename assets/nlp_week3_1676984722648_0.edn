@@ -48,5 +48,22 @@
                                    :height 453.54333333333324}),
                           :page 55},
                :content {:text "Stochastic Gradient Descent (SGD)"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647f728b-76e5-410a-8e17-255cfad307c1",
+               :page 1,
+               :position {:bounding {:x1 69.328125,
+                                     :y1 91.765625,
+                                     :x2 387.75213623046875,
+                                     :y2 116.765625,
+                                     :width 457,
+                                     :height 342.74968511858003},
+                          :rects ({:x1 69.328125,
+                                   :y1 91.765625,
+                                   :x2 387.75213623046875,
+                                   :y2 116.765625,
+                                   :width 457,
+                                   :height 342.74968511858003}),
+                          :page 1},
+               :content {:text "Text Classification with Logistic Regression"},
                :properties {:color "yellow"}}],
- :extra {:page 23}}
+ :extra {:page 2}}
