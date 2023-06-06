@@ -62,6 +62,7 @@
 		- $\hat{\mathbf{y}} \approx \underset{\mathbf{y} \in \mathcal{Y}^{\mathcal{N}}}{\arg \max } \prod_{n=1}^N P\left(x_n \mid y_n\right) P\left(y_n \mid y_{n-1}\right)$
 		- > Joint Probability Distribution: $P(x,y) = P(x)P(y)$
 	- Consider the sentence `I play games`. The following counts are observed in a corpus:
+	  collapsed:: true
 	  1. unigram word/tag counts; 
 	  2. bigram tag counts; and
 	  3. counts of occurrences of a word with a particular part-of-speech tag (see the corresponding tables below). 
@@ -138,3 +139,4 @@
 		- 矩阵 V 中的每一个节点中存储的是,单词 x_n 对于不同的 y_n 所获得的最大 emission * transion.
 		  矩阵 Back 中存储的是 单词 x_n 对于不同的 y_n 所获得最大 emission * transion后,此时 x_(n-1)对应的 y_(n-1)
 		- 类似一个全连接的神经网络
+-
