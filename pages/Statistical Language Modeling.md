@@ -42,6 +42,7 @@
 		- ((64760aa9-2bea-44e7-8921-ec223848b18f))
 - ((64760ab2-3fe6-4586-802b-fbf77162f98d)) 最大似然估计
   id:: 64760ab5-4060-42a1-b1bf-cbbeba83054a
+  collapsed:: true
   Introduction and problems [[card]]
 	- Introduction
 		- Assume that each word is dependent on all previous ones:
@@ -77,6 +78,7 @@
 		- 我们假设训练数据是从真实分布中独立采样得到的，但在实际情况下，很多单词序列并不是等概率出现的
 		- 最大似然估计在面对数据稀疏的情况下，可能会高估或低估某些事件的概率，从而影响模型的性能和预测准确性。
 - ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) 二元语言模型 (Markov assumption:)
+  collapsed:: true
 	- Introduction of ((64760bd9-f6da-4a54-8f7e-83f5d4c0c781)) [[card]]
 	  id:: 6478b22a-e2b9-4dfb-bb6e-6a0ecb7e226a
 		- ((64760be5-a928-44da-a374-313cc7af7da7))
