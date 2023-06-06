@@ -145,5 +145,22 @@
                                    :height 342.74968511858003}),
                           :page 46},
                :content {:text "Categorical Cross-Entropy Loss"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647f7324-9167-4ea3-a561-4d111f53cc61",
+               :page 52,
+               :position {:bounding {:x1 10.7109375,
+                                     :y1 16.421875,
+                                     :x2 217.02500915527344,
+                                     :y2 41.421875,
+                                     :width 457,
+                                     :height 342.74968511858003},
+                          :rects ({:x1 10.7109375,
+                                   :y1 16.421875,
+                                   :x2 217.02500915527344,
+                                   :y2 41.421875,
+                                   :width 457,
+                                   :height 342.74968511858003}),
+                          :page 52},
+               :content {:text "Gradient-based optimisation"},
                :properties {:color "yellow"}}],
- :extra {:page 48}}
+ :extra {:page 52}}
