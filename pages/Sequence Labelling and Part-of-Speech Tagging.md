@@ -107,6 +107,7 @@
 	- 使用逻辑回归表示概率
 - ((64073fe6-0f5a-4952-8a4a-4b70f50c1fea)) 条件随机场 CRF
   ref:: [从隐马尔科夫到条件随机场 | MaxMa Blog (anxiang1836.github.io)](https://anxiang1836.github.io/2019/11/05/NLP_From_HMM_to_CRF/)
+  collapsed:: true
 	- > 与传统的隐马尔可夫模型（Hidden Markov Models，HMM）相比，CRF在建模能力和表达能力上更强大。CRF能够建模更复杂的特征依赖关系，不仅考虑当前观测到的特征，还能利用上下文信息进行预测。
 	- Introduction
 		- Formula
@@ -129,6 +130,7 @@
 		  $$
 		- 使用 Stochastic Gradient Descent
 - ((6479fd90-fcb5-4d7a-94b3-fec12291047f)) 使用维特比算法进行解码
+  collapsed:: true
 	- 原理
 		- 在隐马尔可夫模型（Hidden Markov Model，HMM）和条件随机场（Conditional Random Field，CRF）中，枚举所有可能的标签序列是不可行的！
 		- 这时可以使用动态规划来存储和重复使用计算结果。
