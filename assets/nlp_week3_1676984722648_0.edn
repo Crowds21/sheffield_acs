@@ -99,5 +99,17 @@
                                    :height 342.74968511858003}),
                           :page 39},
                :content {:text "Softmax function"},
+               :properties {:color "yellow"}}
+              {:id #uuid "647f72ed-3823-4231-b0ec-40e2cb64e823",
+               :page 39,
+               :position {:bounding {:x1 138,
+                                     :y1 172,
+                                     :x2 317.921875,
+                                     :y2 247.11328125,
+                                     :width 457,
+                                     :height 342.74968511858003},
+                          :rects (),
+                          :page 39},
+               :content {:text "[:span]", :image 1686074096120},
                :properties {:color "yellow"}}],
  :extra {:page 39}}
