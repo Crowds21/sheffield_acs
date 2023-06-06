@@ -44,7 +44,9 @@
 	  Describe using equations how add-1 smoothing is applied to the bigram language model. [[card]]
 		- {{embed ((6478b78a-05e0-4e22-9076-ab0f9eb8c33f))}}
 		- {{embed ((6478b7b7-adbf-4498-99c4-d8a7d8f0cfe5))}}
-	-
+	- Intrinsic evaluation
+		- {{embed ((6478b22a-998d-4e95-8a2d-479cc1b4c52e))}}
+		-
 - Part2
 	- In HMM tagger's estimate, 
 	  $x=\left\{x_1, \ldots, x_n\right\}$ is the given word sequence.

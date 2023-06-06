@@ -141,6 +141,7 @@
 	  id:: 6478b22a-998d-4e95-8a2d-479cc1b4c52e
 		- How often the LM predicts the correct word, the higher the better
 	- ((6478b043-df43-44f2-be12-dbb396a9dfc1)) of LMs (困惑度)[[card]]
+	  id:: 6478b22a-a1f5-4bab-8a43-817a2e39ebaf
 		- Perplexity is the inverse probability of the test set
 		- $\mathbf{x}=\left[x_1, \ldots, x_N\right]$, normalised by the number of words $N$:
 		- $$
