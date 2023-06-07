@@ -25,13 +25,14 @@
 			- p -> model
 			- $\theta$ -> parameters
 - The Model Encoder-Decoder Architecture(with RNNs)
-  collapsed:: true
 	- ((647cad8c-f00e-4d79-a818-c3eb62ccc86a))
 	- ((647cadad-4b6a-440d-a023-f0fc6c1c8890))
+	  collapsed:: true
 		- Text
 		- Images
 		- ((647cadde-91b0-4658-a21d-be7931ca130c))
 	- ((647cade4-01e9-40d5-807a-3f958524d8bd)) [[card]]
+	  collapsed:: true
 		- Encoder reads the source, produces its representation, and gives it to the Decoder
 		- Decoder uses the source representation to generate the output
 		- representation 表示数据/输入 在模型中通过什么方式来 存储/计算 比如单词转换为 onehot.
