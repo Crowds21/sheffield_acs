@@ -189,7 +189,6 @@
 	  card-next-schedule:: 2023-02-03T00:00:00.000Z
 	  card-last-reviewed:: 2023-02-02T15:29:51.945Z
 	  card-last-score:: 1
-	  collapsed:: true
 	  ![image.png](../assets/image_1675274431146_0.png){:height 253, :width 462}
 		- adjoints : $\bar{v}_i=\frac{\partial y_j}{\partial v_i}$. 输出变量的 adjoints就等于最终输出的导数,即
 		- $$
