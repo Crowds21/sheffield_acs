@@ -20,7 +20,6 @@
 	- ((647f72ed-3823-4231-b0ec-40e2cb64e823))
 	-
 - ((647f7309-91b5-438e-8e76-15e0a147753a)) [[card]]
-  collapsed:: true
 	- ((647fb71a-6b2c-4ee6-bfe7-fa8dea452507))
 - ((647f7311-e280-4773-befc-fcbe5095d311)) [[card]]
   collapsed:: true
