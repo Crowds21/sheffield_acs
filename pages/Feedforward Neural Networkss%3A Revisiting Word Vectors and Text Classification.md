@@ -35,7 +35,7 @@
 	- Word vectors
 	- Word2Vec
 - ((647a117a-a516-4fe5-ae82-94638ac7d9dd))
-	- Skip-gram model
+	- **Skip-gram model**
 		- Given a word predict its context words
 		- the **cat** sat → cat, {the, sat}
 	- Continuous BOW (CBOW)
