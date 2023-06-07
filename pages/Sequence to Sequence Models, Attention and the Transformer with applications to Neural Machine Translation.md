@@ -212,9 +212,11 @@
 			- ((647ce66f-a9d8-4e07-89aa-a8ea68bd053c))
 			- 同一个sequence 中,当前单词的前后所有文本都会被考虑其中
 		- ((647ce6db-41c3-42a5-8683-620d98e02329)) [[card]]
+		  collapsed:: true
 			- 在 Decoder 中, 在预测阶段(During inference 使用阶段)我们只看当前词之前的token,而不看之后的输入
 			- 在 Decoder 中, 在训练模型的过程中,模型可以读取上下文中的 token
 		- ((647ce6e9-1167-43ec-98e3-584f46a9e373)) [[card]]
+		  collapsed:: true
 			- > 在单头注意力机制中，我们对输入序列中的**每个单词计算一个注意力分数**，然后使用这些分数来生成新的上下文相关的单词表示。然而，这种方法可能会忽略输入序列中的复杂结构，因为它只从一个角度考虑了单词之间的关系。
 			- > 为了解决这个问题，多头注意力机制被提出。在多头注意力中，我们**不止一次地进行这个过程**，而是进行多次，每次都用不同的权重矩阵（也就是"头"）来计算注意力分数。然后，我们将所有头的输出合并成一个，以生成最终的单词表示。
 			- $$
@@ -225,6 +227,7 @@
 			  $$
 			- ((647cecef-1751-48e0-93fd-4b488c51acaa))
 		- ((647ce6f1-d7ec-4d8f-be22-2c2b398eea2e)) (Vaswani et al., 2017)
+		  collapsed:: true
 			- Positional Encoding
 			- Masked Self-Attention during training.
 			- Byte-Pair Encoding for subwords
