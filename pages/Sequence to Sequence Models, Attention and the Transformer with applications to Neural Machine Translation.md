@@ -25,6 +25,7 @@
 			- p -> model
 			- $\theta$ -> parameters
 - The Model Encoder-Decoder Architecture(with RNNs)
+  collapsed:: true
 	- ((647cad8c-f00e-4d79-a818-c3eb62ccc86a))
 	- ((647cadad-4b6a-440d-a023-f0fc6c1c8890))
 		- Text
@@ -85,7 +86,6 @@
 		- (Notice that the encoder has to“pack” more information into the same vector representation or thought vector)
 		- 随着句子长度的增加，翻译质量会下降。（注意，编码器必须将更多的信息'打包'到相同的向量表示或思维向量中）
 	- Attention: A Biological Motivation
-	  collapsed:: true
 		- Focusing on specific information is the only way to avoid information overload.
 		- Critical to biological systems. (Only way to avoid information overload, remember information processing is expensive)
 	- Usage in NLP
