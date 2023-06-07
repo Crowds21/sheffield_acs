@@ -71,15 +71,15 @@ alias:: 递归神经网络和神经语言模型
 			- $$
 			  i_t=\sigma\left(W_i\left[h_{t-1}, x_t\right]\right)
 			  $$
-		- (LSTM) New memory cell candidate values: [[card]]
+		- (LSTM) New memory cell candidate values:
 			- $$
 			  \tilde{C}_t=\tanh \left(W_C\left[h_{t-1}, x_t\right]\right)
 			  $$
-		- (LSTM) Update memory cell (using input and output gates): [[card]]
+		- (LSTM) Update memory cell (using input and output gates):
 			- $$
 			  C_t=f_t * C_{t-1}+i_t * \tilde{C}_t
 			  $$
-		- (LSTM) Output (decide what’s the output filtered by the memory cell): [[card]]
+		- (LSTM) Output (decide what’s the output filtered by the memory cell):
 			- $$
 			  \begin{gathered}
 			  o_t=\sigma\left(W_o\left[h_{t-1}, x_t\right]\right) \\
