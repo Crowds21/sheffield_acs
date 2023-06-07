@@ -725,5 +725,17 @@
                                    :height 356.99967202722996}),
                           :page 50},
                :content {:text "epends on the previous tag"},
+               :properties {:color "yellow"}}
+              {:id #uuid "6480d90a-07be-4dae-a571-1fc45334d0ca",
+               :page 41,
+               :position {:bounding {:x1 35,
+                                     :y1 111,
+                                     :x2 502,
+                                     :y2 316,
+                                     :width 525,
+                                     :height 393.74963826532723},
+                          :rects (),
+                          :page 41},
+               :content {:text "[:span]", :image 1686165769889},
                :properties {:color "yellow"}}],
  :extra {:page 41}}
