@@ -170,6 +170,7 @@
 	- Differences between Seq2Seq and Transformer [[card]]
 		- ((647cd671-7deb-440c-8c16-da20156f60e6))
 	- ((647cd67d-4144-4936-8327-575a6dc88f1a))
+	  collapsed:: true
 		- 每个单词的自注意力包括哪些部分 [[card]]
 			- ((647ce04d-380f-4b83-9a5c-74109b6ba253))
 			- "[[#blue]]==查询=="（Query）：可以将其视为试图建立这个单词上下文的问题
