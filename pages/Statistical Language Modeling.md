@@ -126,7 +126,8 @@
 		- replacing low-frequency words with a special UNKNOWN token
 		- TODO Use classes of unknown words, e.g. names and numbers
 - ((6478ae8e-e02e-4d7d-97c7-af9e1e956c76)) of LM
-	- How to increase the efficiency of processing a  large dataset. [[card]]
+	- How to increase the efficiency of processing a  large dataset. 
+	  [[card]]
 		- Use log probabilities to avoid underflows (small numbers)
 			- 当发生下溢时，计算机无法准确表示这个非常小的数值，结果可能被截断为零或出现舍入误差。这会导致丢失原始概率的有效信息，并且可能会对进一步的计算产生错误的影响。
 		- Efficient data structures for sparse counts, e.g. lossy data structures Bloom filters)
