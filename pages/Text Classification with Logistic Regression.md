@@ -13,7 +13,6 @@
   collapsed:: true
 	- ((647fb2c7-7254-452a-9784-513fd1177184))
 - ((647f72d7-e496-4556-abeb-918590977dcf)) [[card]]
-  collapsed:: true
 	- Compute the probability for each class c using the softmax function:
 	- $P(y=c \mid x ; W)=\operatorname{softmax}(z)=\frac{\exp \left(z_c\right)}{\sum_{i \in \mathcal{Y}} \exp \left(z_i\right)}$
 	- Sqaushes the values of a vector between 0 and 1 and the elements add up to 1 resulting into a probability distribution:
