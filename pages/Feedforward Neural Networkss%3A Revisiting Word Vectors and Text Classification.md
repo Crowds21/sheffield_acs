@@ -38,7 +38,7 @@
 	- **Skip-gram model**
 		- Given a word predict its context words
 		- the **cat** sat → cat, {the, sat}
-	- Continuous BOW (CBOW)
+	- **Continuous BOW (CBOW)**
 		- Given context words predict the current word
 		- the **cat** sat → {the, sat}, cat
 	- Input
