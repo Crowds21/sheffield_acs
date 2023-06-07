@@ -64,6 +64,7 @@ alias:: 递归神经网络和神经语言模型
 	- LSTM 具体组成 ((647fad61-dfb0-42eb-9abf-6994be9f6c93)) [[card]]
 	  collapsed:: true
 		- $h_t$ is  the output of last time step
+		-
 		- $\sigma$ is a sigmod function
 		- (LSTM) Forget gate  (what info to throw away from previous steps)
 			- $$f_t=\sigma\left(W_f\left[h_{t-1}, x_t\right]\right)$$
