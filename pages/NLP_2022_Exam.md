@@ -204,6 +204,8 @@
 		- 通过 ifidf 来获取词向量时,由于文档-词汇矩阵中,大部分位置为 0,所以被称为稀疏矩阵
 	- how the choices of context window size, context representation and count post-processing affect the representations learned.
 		- ((6478b22a-22b2-4481-92ae-8a9c5819239a))
+		- window size
+		- context representation
 		-
 -
 -
