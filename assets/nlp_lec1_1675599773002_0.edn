@@ -536,5 +536,22 @@
                                    :height 453.54333333333324}),
                           :page 84},
                :content {:text "Truncated Singular Value Decomposition"},
+               :properties {:color "yellow"}}
+              {:id #uuid "64810db0-4b88-461a-9676-73d6c1cb1172",
+               :page 58,
+               :position {:bounding {:x1 198.703125,
+                                     :y1 371.7109375,
+                                     :x2 353.0858459472656,
+                                     :y2 397.2109375,
+                                     :width 604.7249999999999,
+                                     :height 453.54333333333324},
+                          :rects ({:x1 198.703125,
+                                   :y1 371.7109375,
+                                   :x2 353.0858459472656,
+                                   :y2 397.2109375,
+                                   :width 604.7249999999999,
+                                   :height 453.54333333333324}),
+                          :page 58},
+               :content {:text "one-hot encoding. "},
                :properties {:color "yellow"}}],
- :extra {:page 58}}
+ :extra {:page 60}}
