@@ -20,7 +20,7 @@
 	- ((647a0ae1-c00e-494b-b8aa-95ce70c85849))
 - ((647a0aec-6eb0-4c2e-8d2a-59344e9a4670)) [[card]]
 	- ((647a0afc-ac36-45a8-82a4-992b48f2a9b3))
-	- g
+	- 隐藏层的
 - Regularisation
 	- ((647a0d36-9de9-4d75-95f8-0de88b04b18c))
 	- ((647a0dc6-8ae2-463a-bf53-3c20c9242424))
