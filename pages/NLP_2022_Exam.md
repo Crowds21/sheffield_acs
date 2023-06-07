@@ -49,7 +49,6 @@
 		  $$
 		-
 	- Language models can be evaluated intrinsically and extrinsically. 
-	  collapsed:: true
 	  Discuss the advantages and disadvantages for each approach
 	  Describe TWO methods for intrinsic and THREE for extrinsic evaluation. [[card]]
 		- 内部评价 (通过评估内部质量和预测语言的能力,来直接评估语言模型的性能)
