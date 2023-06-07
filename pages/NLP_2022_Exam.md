@@ -213,4 +213,4 @@
 		- count post-processing
 			- Subsampling Frequent Word
 			- Negative Sampling
-	- One example of intrinsic word representation evaluation and
+	- One example of intrinsic word representation evaluation and One example of ext
