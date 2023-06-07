@@ -205,6 +205,7 @@
 	- how the choices of context window size, context representation and count post-processing affect the representations learned.
 		- ((6478b22a-22b2-4481-92ae-8a9c5819239a))
 		- window size
+			- 窗口大获取的信息更多
 		- context representation
 			- Continuous Bag-of-Words (CBOW)
 			- Skip-gram
