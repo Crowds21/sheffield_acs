@@ -45,10 +45,8 @@
 		- 测试集: 不能被检查；只在项目结束时用于最终评估运行。对于系统和开发人员来说是完全未知的数据。
 	- 黄金数据集分割比例: 例如80%用于训练，10%用于开发测试，10%用于测试。
 - ((647a294e-e5ed-463f-8c69-5dd7aa933314))
-  collapsed:: true
 	- 命名实体识别(NET): 通过为文本中的块分配标签来识别实体（如人物（PER）、组织（ORG）、位置（LOC）、国家（COUNTRY）、日期（DATE）和其他杂项（MISC））。
 	- BIOES encoding: [[card]] 
-	  collapsed:: true
 	  “John Fitzgerald Kennedy (May 29, 1917 – November 22, 1963), often referred to by his initials JFK and the nickname Jack, was an American politician who served as the 35th president of the United States from 1961 until his assassination in 1963.”
 	  > person (PER), organisation (ORG), location (LOC), (COUNTRY), (DATE) miscellaneous (MISC)
 		- Annotate word with beginning (B), inside(I), outside(O), end (E), single (S) of class information
