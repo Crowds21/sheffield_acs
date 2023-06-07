@@ -1050,4 +1050,4 @@
                           :page 97},
                :content {:text " Dot-product Attention:○ “Similarity”● Multiplicative Attention:○ Learn how much importance to give to different parts when calculating“similarity”● Additive Attention:"},
                :properties {:color "yellow"}}],
- :extra {:page 45}}
+ :extra {:page 60}}
