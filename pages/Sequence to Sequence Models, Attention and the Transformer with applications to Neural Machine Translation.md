@@ -237,6 +237,7 @@
 		- Is this a good translation?
 		- How does this translation compare to the other one?
 	- ((647ce70b-ed80-4bfb-b6f1-50c362b8c19e)) [[card]]
+	  collapsed:: true
 		- 将系统的输出和 "参考"进行比较,根据相似性评价
 		- ((647cebbc-f14c-4606-ae4f-c836454e32b5))
 	- ((647ce711-a912-4461-8053-59723c384aeb)) [[card]]
