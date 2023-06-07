@@ -40,6 +40,7 @@
 	- Word vectors
 	- Word2Vec
 - ((647a117a-a516-4fe5-ae82-94638ac7d9dd)) [[card]]
+	- ((64811055-5f93-4cd3-b051-1f2e9a6d2582))
 	- **Skip-gram model**
 		- Given a word predict its context words
 		- the **cat** sat → cat, {the, sat}
