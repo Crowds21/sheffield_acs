@@ -157,5 +157,22 @@
                                    :height 864.8031178605025}),
                           :page 4},
                :content {:text " relation extraction model."},
+               :properties {:color "yellow"}}
+              {:id #uuid "6480fb60-fe3d-442e-b308-5001c2181921",
+               :page 4,
+               :position {:bounding {:x1 258.6988830566406,
+                                     :y1 599.5390625,
+                                     :x2 553.84326171875,
+                                     :y2 616.0390625,
+                                     :width 668.2569547103883,
+                                     :height 864.8031178605025},
+                          :rects ({:x1 258.6988830566406,
+                                   :y1 599.5390625,
+                                   :x2 553.84326171875,
+                                   :y2 616.0390625,
+                                   :width 668.2569547103883,
+                                   :height 864.8031178605025}),
+                          :page 4},
+               :content {:text " extract training data to train a binary classifier to distingui"},
                :properties {:color "yellow"}}],
- :extra {:page 4}}
+ :extra {:page 5}}
