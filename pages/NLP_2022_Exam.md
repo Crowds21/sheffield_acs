@@ -173,7 +173,7 @@
 - Part3
 	- What are distributed word representations? How do they compare to one-hot encoding [[card]]
 		- distributed word representations 可以表示词与词之间的相似度.
-		- onehot 只能表示该句子在词库中是否存在
+		- onehot 只能表示该句子在词库中是否存在. 并且可能存在系数问题
 	- What is one-hot encoding, what’s the problem in one-hot encoding? And how to solve this problem?
 	  ref:: ((63dfaf3c-7e1d-4c93-9465-580cd48af74b))
 	  $\mathcal{V}=\{\text { apple, apricot, chocolate, love, pie, pineapple }\}$ [[card]]
