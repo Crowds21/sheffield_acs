@@ -140,7 +140,6 @@
 		- How often the LM predicts the correct word, the higher the better
 	- ((6478b043-df43-44f2-be12-dbb396a9dfc1)) of LMs (困惑度)[[card]]
 	  id:: 6478b22a-a1f5-4bab-8a43-817a2e39ebaf
-	  collapsed:: true
 		- Perplexity is the inverse probability of the test set
 		- $\mathbf{x}=\left[x_1, \ldots, x_N\right]$, normalised by the number of words $N$:
 		- $$
@@ -158,7 +157,6 @@
 		- Can’t evaluate non probabilistic LMs
 - ((6478b40f-99d4-4611-a721-9db924fbe415)) 外部评估 [[card]]
   id:: 6478b412-ed9b-47a3-8253-94c61d7cfaba
-  collapsed:: true
 	- Sentence completion
 	- Grammatical error correction: detecting “odd” sentences and propose alternatives
 	- Natural lanuage generation: prefer more “natural” sentences
