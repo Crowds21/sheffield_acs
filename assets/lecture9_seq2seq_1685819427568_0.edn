@@ -919,5 +919,22 @@
                           :rects (),
                           :page 134},
                :content {:text "[:span]", :image 1685908718608},
+               :properties {:color "yellow"}}
+              {:id #uuid "6480f15f-4a07-442f-b734-ec16126f6001",
+               :page 97,
+               :position {:bounding {:x1 28.25,
+                                     :y1 37.0546875,
+                                     :x2 305.6529846191406,
+                                     :y2 71.5546875,
+                                     :width 649.9999999999999,
+                                     :height 365.62499999999994},
+                          :rects ({:x1 28.25,
+                                   :y1 37.0546875,
+                                   :x2 305.6529846191406,
+                                   :y2 71.5546875,
+                                   :width 649.9999999999999,
+                                   :height 365.62499999999994}),
+                          :page 97},
+               :content {:text "Attention Score Functions"},
                :properties {:color "yellow"}}],
- :extra {:page 96}}
+ :extra {:page 97}}
