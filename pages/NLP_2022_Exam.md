@@ -209,5 +209,5 @@
 			- Continuous Bag-of-Words (CBOW)
 			- Skip-gram
 		- count post-processing
--
+			- Subsampling Frequent Word
 -
