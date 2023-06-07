@@ -42,17 +42,21 @@
 	- ((647cae91-2ced-4de5-b9d6-00cf069699b0))
 	- ((647caec8-a82f-4485-aef6-ff268753c291))
 	- ((647caf01-b1f0-42b9-8092-04e99b23c106))
+	  collapsed:: true
 		- Thought vector
 			- 在深度学习和自然语言处理中，"思维向量"是一个高维向量，它代表了输入序列（如一段文本或一句话）的抽象表示。这个向量被用作解码器的初始状态，解码器然后根据这个"思维向量"生成输出序列
 	- ((647caf4d-b6b6-4cac-8930-18344b86ad78))
+	  collapsed:: true
 		- ((647caf70-9f2b-49d7-a8b4-7874d3659e8a))
 		- ((647caf83-f635-4079-9ea6-0ace05511b5e))
 		- Models where information from previous time-steps is used to predict the output at the current time step are called [[Autoregressive]]
 	- Alternatives of ((647cb00c-6bc7-4a55-88ef-fcb4ed627e92))
+	  collapsed:: true
 		- ((647cb040-33a9-4f6f-9dac-6c208fae6b21))
 		- 指通过保留了初始权重,增加了远距离记忆
 		- Take multinomial distribution instead of making a hard choice(在多个可能结果中,选择可能性最高的一个) and taking a single word
 	- Find the parameters $\theta$
+	  collapsed:: true
 		- ((647cb0b0-3350-4150-b87b-93d3de6768ea))
 			- Get probability distribution for the next token
 			- Find the correct next target token
