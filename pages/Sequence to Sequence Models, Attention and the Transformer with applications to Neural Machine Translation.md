@@ -234,6 +234,7 @@
 			  background-color:: red
 - Evaluation Human Judgements and Automatic Metrics
 	- ((647ce706-e857-46d8-a5ca-5d835b536645))
+	  collapsed:: true
 		- Is this a good translation?
 		- How does this translation compare to the other one?
 	- ((647ce70b-ed80-4bfb-b6f1-50c362b8c19e)) [[card]]
