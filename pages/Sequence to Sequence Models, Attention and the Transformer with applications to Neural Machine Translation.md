@@ -11,7 +11,6 @@
 		- Typically we use sequence-to-sequence models (seq2seq).
 		- These models are end-to-end differentiable
 	- Task Formulation 理解过程不用背 [[card]]
-	  collapsed:: true
 		- Example: We want to translate from English to Spanish
 			- We want to find best Spanish sentence $y$, given English sentence  $x$
 		- ((647cac80-2ad0-4fd2-ab21-eed164b5d387))
