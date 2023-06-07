@@ -95,7 +95,7 @@
 		- The result of the Bigram language model in this example
 		  ((64762b81-265e-4037-9f4c-352dee52300e))
 		  Row is the $x_{i-1}$th wrod. Col is the $x_i$th word
-		  $\mathbf{x}=[$ arctic, monkeys, are, my, favourite, band $]$
+		  $\mathbf{x}=[arctic, monkeys, are, my, favourite, band]$
 		  [[card]]
 			- $\mathbf{x}=[ arctic, monkeys, are, my, favourite, band ]$
 			- $$
