@@ -167,8 +167,7 @@
 			  可以并行处理一个句子
 			- has relatively low computational complexity per layer
 			  每层的计算复杂度相对较低
-	- Differences between Seq2Seq and Transformer
-	  collapsed:: true
+	- Differences between Seq2Seq and Transformer [[card]]
 		- ((647cd671-7deb-440c-8c16-da20156f60e6))
 	- ((647cd67d-4144-4936-8327-575a6dc88f1a))
 		- 每个单词的自注意力包括哪些部分 [[card]]
