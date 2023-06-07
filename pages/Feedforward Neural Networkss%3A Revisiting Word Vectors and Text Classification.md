@@ -1,5 +1,5 @@
 - Feedforward neural networks
-- ((647a0766-f61b-4090-8682-450c120927ba))
+- ((647a0766-f61b-4090-8682-450c120927ba)) [[card]]
 	- Sigmoid
 		- $g(z)=\sigma(z)$
 	- Hyperbolic Tangent
@@ -18,7 +18,7 @@
 	-
 - ((647a0ab9-5d5d-46b3-ad78-05d21ad93e84)) algorithm
 	- ((647a0ae1-c00e-494b-b8aa-95ce70c85849))
-- ((647a0aec-6eb0-4c2e-8d2a-59344e9a4670))
+- ((647a0aec-6eb0-4c2e-8d2a-59344e9a4670)) [[card]]
 	- ((647a0afc-ac36-45a8-82a4-992b48f2a9b3))
 - Regularisation
 	- ((647a0d36-9de9-4d75-95f8-0de88b04b18c))
