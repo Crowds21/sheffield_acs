@@ -33,5 +33,4 @@
   collapsed:: true
 	- ((647f735b-bdf2-4e56-8d99-3453944ee2bb))
 - Evaluation [[card]]
-  collapsed:: true
 	- ((647f736d-8720-4a06-a82e-3cc982128a5e))
