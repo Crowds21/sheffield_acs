@@ -128,7 +128,7 @@
 - ((6478ae8e-e02e-4d7d-97c7-af9e1e956c76)) of LM
 	- How to increase the efficiency of processing a  large dataset. [[card]]
 		- Use log probabilities to avoid underflows (small numbers)
-		-
+			- 当发生下溢时，计算机无法准确表示这个非常小的数值，结果可能被截断为零或出现舍入误差。这会导致丢失原始概率的有效信息，并且可能会对进一步的计算产生错误的影响。
 		- Efficient data structures for sparse counts, e.g. lossy data structures Bloom filters)
 	- Train and evaluate the language models
 - ((6478afdc-8cb5-44c2-ac16-562350498a85)) 内部评估
