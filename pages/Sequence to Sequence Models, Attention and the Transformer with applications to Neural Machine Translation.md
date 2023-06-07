@@ -3,12 +3,14 @@
 	- 输出也是一个序列（同样是任意序列，但对于我们的目标来说，这是文本）
 - Demonstrating Task Neural Machine Translation (任务型神经机器翻译)
 	- What is Machine Translation? [[card]]
+	  collapsed:: true
 		- Machine Translation (MT) consists of translating a sentence $x$ from one language (the source) to a sentence $y$ in another language (the target)
 	- What is Neural Machine Translation Model? [[card]]
+	  collapsed:: true
 		- Neural Machine Translation (NMT) is Machine Translation using neural networks (as opposed to alignment and phrase based translation).
 		- Typically we use sequence-to-sequence models (seq2seq).
 		- These models are end-to-end differentiable
-	- Task Formulation
+	- Task Formulation [[card]]
 		- Example: We want to translate from English to Spanish
 			- We want to find best Spanish sentence $y$, given English sentence  $x$
 		- ((647cac80-2ad0-4fd2-ab21-eed164b5d387))
