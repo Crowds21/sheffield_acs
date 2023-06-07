@@ -153,7 +153,6 @@
 				  $$
 - Innovation The Transformer
 	- ((647cbad2-1e20-4e69-b5b1-09f0fa32b805))
-	  collapsed:: true
 		- 标准神经网络需要固定长度的输入（因此我们需要对不同长度的句子进行填充）
 			- 而且，input embeddings 不具有上下文信息
 		- RNNs 允许我们解决这个问题：我们一次输入一个单词
