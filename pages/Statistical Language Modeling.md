@@ -127,8 +127,8 @@
 		- TODO Use classes of unknown words, e.g. names and numbers
 - ((6478ae8e-e02e-4d7d-97c7-af9e1e956c76)) of LM
 	- How to increase the efficiency of processing a  large dataset. [[card]]
-	  collapsed:: true
 		- Use log probabilities to avoid underflows (small numbers)
+		-
 		- Efficient data structures for sparse counts, e.g. lossy data structures Bloom filters)
 	- Train and evaluate the language models
 - ((6478afdc-8cb5-44c2-ac16-562350498a85)) 内部评估
