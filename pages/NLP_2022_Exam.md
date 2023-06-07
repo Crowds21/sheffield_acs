@@ -206,7 +206,8 @@
 		- ((6478b22a-22b2-4481-92ae-8a9c5819239a))
 		- window size
 		- context representation
-		-
+			- Continuous Bag-of-Words (CBOW)
+			- Skip-gram
 		- count post-processing
 -
 -
