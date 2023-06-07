@@ -213,4 +213,4 @@
 		- count post-processing
 			- Subsampling Frequent Word
 			- Negative Sampling
-	-
+	- One example of intr
