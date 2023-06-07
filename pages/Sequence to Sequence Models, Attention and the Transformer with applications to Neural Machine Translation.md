@@ -85,11 +85,11 @@
 		- Translation quality drops with increase in the length of sentences.
 		- (Notice that the encoder has to“pack” more information into the same vector representation or thought vector)
 		- 随着句子长度的增加，翻译质量会下降。（注意，编码器必须将更多的信息'打包'到相同的向量表示或思维向量中）
-	- Attention: A Biological Motivation
+	- Attention: A Biological Motivation [[card]]
+	  collapsed:: true
 		- Focusing on specific information is the only way to avoid information overload.
 		- Critical to biological systems. (Only way to avoid information overload, remember information processing is expensive)
 	- Usage in NLP
-	  collapsed:: true
 		- We need a way to allow models to attend to (focus on) different parts of the input at different timesteps.
 		- 在解码器的每一步，使用与编码器的直接连接关注源序列的特定部分。
 			- 这一方法首次在 "神经机器翻译通过共同学习对齐和翻译" (Bahdanau等人，2015年) 中被提出
@@ -97,14 +97,11 @@
 			- 它为所有源令牌提供表示（例如，所有的RNN状态，而不仅仅是最后一个）
 	- ((647cb69c-7d3f-4bc3-86a1-46cfe07b33d2))
 		- The Goal
-		  collapsed:: true
 			- 当我们生成输出时,能够直接使用到 Encoder 中的一部分 representations
 			- ((647cb7fc-48e9-469c-9aa9-1ae61e12be11))
 		- Weighted sum
-		  collapsed:: true
 			- Find out how “important” each of these representations.
 				- Definition and concepts
-				  collapsed:: true
 					- Attention Scores
 						- For each encoder state, compute its“relevance” for the current decoder state
 					- Attention Weights
@@ -113,18 +110,15 @@
 						- Compute a weighted sum of the encoder hidden states with attention weights
 					- Concatenate attention output with decoder hidden state, then use to compute $\widehat{y}_1$
 				- Steps
-				  collapsed:: true
 					- $\operatorname{score}\left(s_t, h_h\right), k=1 . . N$
 					- How relevant is ==source token== k for ==target step t==?
-					- collapsed:: true
-					  $$
+					- $$
 					  \alpha_k^{(t)}=\frac{\exp \left(\text { score }\left(s_t, h_k\right)\right)}{\sum_{i=1}^N \exp \left(\text { score }\left(s_t, h_i\right)\right)}, k=1 . . N
 					  $$
 						- ((647cb8f8-c9dc-4a95-9eb0-398ddbfbb6fa))
 					- WARNING: Do not confuse attention weights with learnable weights.
 					  background-color:: red
-					- collapsed:: true
-					  $$
+					- $$
 					  c^{(t)}=\alpha_1^{(t)} h_1+\alpha_2^{(l)} h_2+\ldots+\alpha_N^{(t)} h_N=\sum_{k=1}^N \alpha_k^{(t)} h_k
 					  $$
 						- ((647cb95e-877b-455d-b530-d67e6d98191e))
@@ -133,7 +127,6 @@
 					- ((647cba26-9251-498b-a939-a32e88e97e90))
 				-
 		- ((647cba59-f317-427e-a7cb-3f4a75c959b6)) [[card]]
-		  collapsed:: true
 			- Dot-product Attention
 			  id:: 647cba68-1d31-4c4e-bdda-21119d78ab50
 				- “Similarity”
