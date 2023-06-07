@@ -214,5 +214,5 @@
 			- Subsampling Frequent Word
 			- Negative Sampling
 	- One example of intrinsic word representation evaluation and One example of extrinsic word representation
-		- ((6478b412-ed9b-47a3-8253-94c61d7cfaba))
+		- {{embed ((6478b412-ed9b-47a3-8253-94c61d7cfaba))}}
 		- {{embed ((6478b22a-97fb-4cad-b22f-3ec4efacd4b2))}}
