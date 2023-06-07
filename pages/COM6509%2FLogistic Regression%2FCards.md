@@ -177,7 +177,6 @@
 			- Backwards mode is similar but in that case we choose which output we are trying to find the derivative for instead of the input.
 - AD reverse mode
 	- AD reverse mode简介
-	  collapsed:: true
 		- 根据输出反向传播求导, 通过计算中间变量的 adjoints 来完成的
 		- adjoints : $\bar{v}_i=\frac{\partial y_j}{\partial v_i}$ 代表输出$y_i$对变量$v_i$的敏感度
 		- AD在 reverse 模式有两个阶段
