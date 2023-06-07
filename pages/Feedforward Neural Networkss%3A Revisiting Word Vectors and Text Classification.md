@@ -25,7 +25,7 @@
 	  初始化参数梯度为零
 	- for each layer l in reversed order from L to 1:
 		- 计算当前层的梯度
-		  dA = dA_prev # 传递到前一层的梯度
+		- 传递到前一层的梯度
 - Regularisation
 	- ((647a0d36-9de9-4d75-95f8-0de88b04b18c))
 	- ((647a0dc6-8ae2-463a-bf53-3c20c9242424))
