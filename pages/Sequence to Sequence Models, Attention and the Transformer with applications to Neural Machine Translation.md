@@ -86,10 +86,9 @@
 		- (Notice that the encoder has to“pack” more information into the same vector representation or thought vector)
 		- 随着句子长度的增加，翻译质量会下降。（注意，编码器必须将更多的信息'打包'到相同的向量表示或思维向量中）
 	- Attention: A Biological Motivation [[card]]
-	  collapsed:: true
 		- Focusing on specific information is the only way to avoid information overload.
 		- Critical to biological systems. (Only way to avoid information overload, remember information processing is expensive)
-	- Usage in NLP
+	- Attention: Usage in NLP [[card]]
 		- We need a way to allow models to attend to (focus on) different parts of the input at different timesteps.
 		- 在解码器的每一步，使用与编码器的直接连接关注源序列的特定部分。
 			- 这一方法首次在 "神经机器翻译通过共同学习对齐和翻译" (Bahdanau等人，2015年) 中被提出
