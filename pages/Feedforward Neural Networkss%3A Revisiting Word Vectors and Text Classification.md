@@ -21,7 +21,11 @@
 - ((647a0aec-6eb0-4c2e-8d2a-59344e9a4670)) [[card]]
 	- ((647a0afc-ac36-45a8-82a4-992b48f2a9b3))
 	- z= wx+b
-	-
+	- dA = compute_loss_gradient(Y, A) # 计算输出层的梯度
+	  dθ = initialize_empty_gradients() # 初始化参数梯度为零
+	- for each layer l in reversed order from L to 1:
+	  dA_prev, dθ[l] = compute_gradients(dA, A[l], θ[l]) # 计算当前层的梯度
+	  dA = dA_prev # 传递到前一层的梯度
 - Regularisation
 	- ((647a0d36-9de9-4d75-95f8-0de88b04b18c))
 	- ((647a0dc6-8ae2-463a-bf53-3c20c9242424))
