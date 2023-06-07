@@ -209,6 +209,7 @@
 		- context representation
 			- Continuous Bag-of-Words (CBOW)
 			- Skip-gram
+			- ((64811055-5f93-4cd3-b051-1f2e9a6d2582))
 		- count post-processing
 			- Subsampling Frequent Word
 			- Negative Sampling
