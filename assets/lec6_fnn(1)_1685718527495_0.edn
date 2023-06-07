@@ -376,5 +376,17 @@
                                    :height 452.2495845218901}),
                           :page 78},
                :content {:text "Applications: Text Classification"},
+               :properties {:color "yellow"}}
+              {:id #uuid "64811055-5f93-4cd3-b051-1f2e9a6d2582",
+               :page 66,
+               :position {:bounding {:x1 15,
+                                     :y1 102,
+                                     :x2 582,
+                                     :y2 436,
+                                     :width 604.7249999999999,
+                                     :height 453.54333333333324},
+                          :rects (),
+                          :page 66},
+               :content {:text "[:span]", :image 1686179924388},
                :properties {:color "yellow"}}],
  :extra {:page 66}}
