@@ -170,8 +170,8 @@
 	- Differences between Seq2Seq and Transformer [[card]]
 		- ((647cd671-7deb-440c-8c16-da20156f60e6))
 	- ((647cd67d-4144-4936-8327-575a6dc88f1a))
-	  collapsed:: true
 		- 每个单词的自注意力包括哪些部分 [[card]]
+		  collapsed:: true
 			- ((647ce04d-380f-4b83-9a5c-74109b6ba253))
 			- "[[#blue]]==查询=="（Query）：可以将其视为试图建立这个单词上下文的问题
 				- $s_i$ (hidden vector for $i$ th output word)
@@ -184,6 +184,7 @@
 				- value of word being looked at, weighted based on context
 			- ((647cdf60-8476-45a9-8f7c-8866cd995cdf))
 		- Example of Self-Attention
+		  collapsed:: true
 			- The Query aims to establish the context, in this example, of the word “computer” (from)
 			- Done by querying each Key of all words (to)
 			- In our example, this might establish “science” as the word the provides the most informative context.
